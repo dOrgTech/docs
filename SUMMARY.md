@@ -1,0 +1,21 @@
+# Table of contents
+
+* [Quick Start](README.md)
+* [Our Organization](our-organization/README.md)
+  * [Values & Operating Principles](our-organization/values-and-operating-principles.md)
+  * [Ownership & Governance](our-organization/formation-and-governance.md)
+  * [Understanding Rep](our-organization/understanding-rep.md)
+  * [Business Model](our-organization/understanding-compensation.md)
+* [Getting Started](contribute/README.md)
+  * [Bounties](contribute/onboarding.md)
+  * [Workstreams](contribute/workflow.md)
+* [Working Together](working-together/README.md)
+  * [Agreements](working-together/agreements-1.md)
+  * [Rhythms](working-together/rhythms-and-rituals.md)
+  * [Tool Stack](working-together/tool-stack.md)
+* [Guides](how-to/README.md)
+  * [Making Proposals](how-to/making-proposals.md)
+  * [Facilitating](how-to/payments-and-invoicing.md)
+  * [Growing](how-to/onboard.md)
+  * [Bookkeeping & Taxes](how-to/docs.md)
+
