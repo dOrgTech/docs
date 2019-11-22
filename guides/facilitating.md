@@ -23,7 +23,7 @@ The recommended compensation project facilitation is 5% of dOrg's [`FTE-rate`](.
 
 ### Maintaining the Roadmap
 
-At the start of a new workstream, the facilitator should prepare the [Workstream Spec](../contribute/workflow.md). The facilitator is then responsible for making sure that the spec is updated at every checkpoint with work done by each freelancer and amounts paid out. Payment amounts should be made in-line with the budget and in relation to timely execution of roadmap deliverables.
+At the start of a new workstream, the facilitator should prepare the [Workstream Spec](../contribute/workstreams.md). The facilitator is then responsible for making sure that the spec is updated at every checkpoint with work done by each freelancer and amounts paid out. Payment amounts should be made in-line with the budget and in relation to timely execution of roadmap deliverables.
 
 ### Paying Freelancers
 

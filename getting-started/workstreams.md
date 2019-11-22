@@ -7,7 +7,7 @@ Anyone with [Rep](../our-organization/understanding-rep.md) is eligible to work 
 3. **Roadmap** - deliverable deadlines and KPIs
 4. **Client** - who the team is accountable to
 5. **Payment Checkpoints** - predefined dates for reporting progress and distributing payments
-6. \*\*\*\*[**Facilitator**](../how-to/payments-and-invoicing.md) - special role that handle payment proposals, client invoicing and other administrative tasks
+6. [**Facilitator**](../guides/facilitating.md) - special role that handle payment proposals, client invoicing and other administrative tasks
 
 For coordination, each workstream also can choose to set up a dedicated:
 

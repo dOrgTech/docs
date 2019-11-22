@@ -10,10 +10,10 @@ Financial proposals compensate freelancers for work done or expenses incurred.
 
 | Name | Compensation for |
 | :--- | :--- |
-| **Checkpoint** | Contributing to any dOrg [workstream](../contribute/workflow.md) \(bimonthly\) |
+| **Checkpoint** | Contributing to any dOrg [workstream](../getting-started/workstreams.md) \(bimonthly\) |
 | **Bounty** | Completing a funded [bounty](../contribute/onboarding.md) |
-| **Bonus** | [On-boarding](onboard.md) a new freelancer or funded project \(commission\) |
-| **Reimbursement** | Incurring a [personal expense](docs.md) |
+| **Bonus** | [On-boarding](growing.md) a new freelancer or funded project \(commission\) |
+| **Reimbursement** | Incurring a [personal expense](bookkeeping-and-taxes.md) |
 
 These proposals automatically transfer the requisite payment and Rep upon execution in the [Contribution Reward Scheme](https://alchemy.daostack.io/dao/0xbe1a98d3452f6da6e0984589e545d4fc25af7526/scheme/0x82523f624c8b894c2726ffec1064794b77e35a44c89f554d54e3bc4b595da81b).
 
@@ -47,7 +47,7 @@ These proposals are made through the [Scheme Registrar](https://alchemy.daostack
 Signaling proposals are used to ratify edits to official dOrg info, such as:
 
 * Internal docs like the [budget](https://github.com/dOrgTech/operations/blob/master/info/budget.md)
-* Global variables like [`FTE-rate`](../our-organization/understanding-compensation.md) or [`rep-rate`](../our-organization/understanding-rep.md)\`\`
+* Global variables like [`FTE-rate`](../our-organization/business-model.md) or [`rep-rate`](../our-organization/understanding-rep.md)\`\`
 {% endtab %}
 {% endtabs %}
 

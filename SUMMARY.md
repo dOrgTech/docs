@@ -17,5 +17,5 @@
   * [Making Proposals](guides/making-proposals.md)
   * [Facilitating](guides/facilitating.md)
   * [Growing](guides/growing.md)
-  * [Bookkeeping & Taxes](how-to/bookkeeping-and-taxes.md)
+  * [Bookkeeping & Taxes](guides/bookkeeping-and-taxes.md)
 

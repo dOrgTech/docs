@@ -20,7 +20,7 @@ The rate is socially-enforced and can be modified by the DAO in the future. For 
 
 The DAO could even decide to give Rep to stakeholder groups other than freelancers, such as investors \(e.g. 1 Rep per $1500 contributed\), strategic partners, or users of our products. Such mechanisms would need to be carefully designed to ensure plutocracy resistance and regulatory compliance.
 
-The DAO can also vote to slash someone's Rep for violating any dOrg [Agreement](../working-together/agreements-1.md).
+The DAO can also vote to slash someone's Rep for violating any dOrg [Agreement](../working-together/agreements.md).
 
 ## Using Rep
 
@@ -48,11 +48,11 @@ As the world's first on-chain legal entity, we feel well positioned to pioneer b
 
 ## Legal & Tax Implications
 
-All Rep holders are legal owners of dOrg, LLC. By controlling an address that holds Rep in dOrg, you agree to be bound by our [Operating Agreement](../working-together/agreements-1.md). As an owner, you are also protected from personal liability for dOrg's actions. 
+All Rep holders are legal owners of dOrg, LLC. By controlling an address that holds Rep in dOrg, you agree to be bound by our [Operating Agreement](../working-together/agreements.md). As an owner, you are also protected from personal liability for dOrg's actions. 
 
 Because dOrg primarily serves as a means of allocating work and compensation to freelancers, we do not anticipate profit distributions to owners \(Rep holders\) at this time– so holding Rep does not have any tax implications in itself.
 
-However, you are responsible for paying self-employment tax to your local authorities on compensation earned in your capacity as an independent contractor of dOrg \(see [Bookkeeping & Taxes](../how-to/docs.md) for further guidance\).
+However, you are responsible for paying self-employment tax to your local authorities on compensation earned in your capacity as an independent contractor of dOrg \(see [Bookkeeping & Taxes](../guides/bookkeeping-and-taxes.md) for further guidance\).
 
-To summarize, all **dOrg freelancers are both owners and independent contractors** of dOrg, LLC **and have limited liability** as a result. See [Agreements](../working-together/agreements-1.md) for more details.
+To summarize, all **dOrg freelancers are both owners and independent contractors** of dOrg, LLC **and have limited liability** as a result. See [Agreements](../working-together/agreements.md) for more details.
 
