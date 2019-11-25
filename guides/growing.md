@@ -50,7 +50,7 @@ TODO
 
 ## Pricing
 
-_Calculating the price range for new client projects._ 
+_Calculating the price range for new client projects._
 
 TODO
 

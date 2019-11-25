@@ -17,13 +17,13 @@ In order to facilitate on a project, the following must be true:
 * You are NOT an active contributor to this project
 * You ARE an active contributor to at least one other dOrg project
 
-The recommended compensation project facilitation is 5% of dOrg's [`FTE-rate`](../our-organization/understanding-compensation.md#full-time-equivalent-rate) This assumes a time commitment of ~8-12 hrs per month.
+The recommended compensation project facilitation is 5% of dOrg's [`FTE-rate`](https://github.com/dOrgTech/handbook/tree/0a72d59d518b1df0c2a1f7e2d2cab35dee4f2048/our-organization/understanding-compensation.md#full-time-equivalent-rate) This assumes a time commitment of ~8-12 hrs per month.
 
 ## Responsibilities
 
 ### Maintaining the Roadmap
 
-At the start of a new workstream, the facilitator should prepare the [Workstream Spec](../contribute/workstreams.md). The facilitator is then responsible for making sure that the spec is updated at every checkpoint with work done by each freelancer and amounts paid out. Payment amounts should be made in-line with the budget and in relation to timely execution of roadmap deliverables.
+At the start of a new workstream, the facilitator should prepare the [Workstream Spec](https://github.com/dOrgTech/handbook/tree/0a72d59d518b1df0c2a1f7e2d2cab35dee4f2048/contribute/workstreams.md). The facilitator is then responsible for making sure that the spec is updated at every checkpoint with work done by each freelancer and amounts paid out. Payment amounts should be made in-line with the budget and in relation to timely execution of roadmap deliverables.
 
 ### Paying Freelancers
 

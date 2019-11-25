@@ -6,12 +6,12 @@ description: How to make different types of proposals.
 
 {% tabs %}
 {% tab title="Financial" %}
-Financial proposals compensate freelancers for work done or expenses incurred. 
+Financial proposals compensate freelancers for work done or expenses incurred.
 
 | Name | Compensation for |
 | :--- | :--- |
 | **Checkpoint** | Contributing to any dOrg [workstream](../getting-started/workstreams.md) \(bimonthly\) |
-| **Bounty** | Completing a funded [bounty](../contribute/onboarding.md) |
+| **Bounty** | Completing a funded [bounty](https://github.com/dOrgTech/handbook/tree/0a72d59d518b1df0c2a1f7e2d2cab35dee4f2048/contribute/onboarding.md) |
 | **Bonus** | [On-boarding](growing.md) a new freelancer or funded project \(commission\) |
 | **Reimbursement** | Incurring a [personal expense](bookkeeping-and-taxes.md) |
 
@@ -40,7 +40,7 @@ Upgrade Proposals modify the DAO's own code. Currently we can:
 * Unregister a scheme
 * Edit a scheme
 
-These proposals are made through the [Scheme Registrar](https://alchemy.daostack.io/dao/0xbe1a98d3452f6da6e0984589e545d4fc25af7526/scheme/0xc39042c0d9b05e9f1cd0a60626cc89271a08891c7081ad2c47d866df82200ad4). 
+These proposals are made through the [Scheme Registrar](https://alchemy.daostack.io/dao/0xbe1a98d3452f6da6e0984589e545d4fc25af7526/scheme/0xc39042c0d9b05e9f1cd0a60626cc89271a08891c7081ad2c47d866df82200ad4).
 {% endtab %}
 
 {% tab title="Signaling" %}
@@ -51,7 +51,7 @@ Signaling proposals are used to ratify edits to official dOrg info, such as:
 {% endtab %}
 {% endtabs %}
 
-### Documentation
+## Documentation
 
 All proposal-related documentation lives in [this private dOrg repo](https://github.com/dOrgTech/operations). The documentation protocol is as follows:
 

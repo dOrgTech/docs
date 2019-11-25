@@ -9,7 +9,7 @@ dOrg generates revenue by providing high value web3 development services to its 
 
 ## Full-Time Equivalent Rate
 
-Freelancer compensation is scaled to dOrg's current `FTE-Rate`. The `FTE-Rate` is defined as the dollar equivalent compensation an individual freelancer should expect in a month's timeframe when working full-time on dOrg projects. 
+Freelancer compensation is scaled to dOrg's current `FTE-Rate`. The `FTE-Rate` is defined as the dollar equivalent compensation an individual freelancer should expect in a month's timeframe when working full-time on dOrg projects.
 
 For example, a freelancer committing a quarter of their working hours in a given month to dOrg should expect to receive `FTE-Rate/4` dollar equivalent in compensation– summed across all of their payment proposals during that period.
 

@@ -10,5 +10,5 @@ For help getting started or to learn more about dOrg, fill out our [Contact Form
 Before submitting your first bounty, please send a signed copy of the [Contractor Term Sheet](../working-together/agreements.md) to contact@dorg.tech
 {% endhint %}
 
-Anyone is welcome to suggest new bounties by adding an issue to dOrg's [Ecosystem repo](https://github.com/dOrgTech/bounties/issues). Bounties will then be discussed and priced according to their priority, complexity and required time. 
+Anyone is welcome to suggest new bounties by adding an issue to dOrg's [Ecosystem repo](https://github.com/dOrgTech/bounties/issues). Bounties will then be discussed and priced according to their priority, complexity and required time.
 
