@@ -19,6 +19,6 @@ description: How we stay in sync
 ## Communication Hygiene – Discord
 
 * @Mention someone in the relevant chat when you need them; DM when it's urgent
-* Answer @mentions within 48hrs; DM's w/in 24hrs \(unless you've posted as Offline in the calendar!\)
-* Fully catch up with chats of teams your on at least once a week; Optional to keep up with any other chats
+* Answer @mentions within 48hrs; DM's w/in 24hrs \(unless you've posted as Offline in the calendar\)
+* Fully catch up with chats of teams your on + the internal-announcements chat at least once a week \(keeping up with any other chats is optional\)
 
