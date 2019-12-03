@@ -17,10 +17,6 @@ As independent contractors of dOrg, freelancer are responsible for properly docu
 * Capital gains tax
   * delta b/w proposal & execution
 
-### How to Request Reimbursement
-
-TODO
-
 ## For dOrg
 
 As a registered legal entity, dOrg must pay taxes to the state \(Vermont\) and federal government. We're also responsible for properly documenting all financial transactions.
