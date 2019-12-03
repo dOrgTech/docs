@@ -9,7 +9,7 @@ description: How to on-board new freelancers and clients
 ### Anyone can on-board new freelancers.
 
 1. Check if the candidate is a good fit \(interview, research\)
-2. Check if dOrg has the [project flow](growing.md#managing-capacity) to take on the candidate
+2. Check if dOrg has the project flow to take on the candidate
 3. Help the candidate choose a [bounty](../getting-started/bounties.md) & provide support
 4. Execute the legal agreement \([term sheet](../working-together/agreements.md)\)
 5. Match the candidate with an existing [workstream](../getting-started/workstreams.md)
@@ -21,7 +21,7 @@ description: How to on-board new freelancers and clients
 ### Anyone can on-board new client projects.
 
 1. Check if the client project is a good fit \(interview, research\)
-2. Check if dOrg has the [capacity](growing.md#managing-capacity) to take on the project
+2. Check if dOrg has the capacity to take on the project
 3. [Price and finalize the project rate](growing.md#pricing)
 4. Execute the legal agreement \([service agreement](../working-together/agreements.md)\)
 5. Spin up a new [workstream](../getting-started/workstreams.md)
@@ -30,27 +30,9 @@ description: How to on-board new freelancers and clients
 {% endtab %}
 
 {% tab title="Other" %}
-dOrg also engages partners and 3rd party service providers.
-
-### Partners
-
-Other crypto projects...TODO
-
-### Service Providers
-
-Accountants, lawyers...TODO
+dOrg also engages partners and 3rd party service providers, such as accountants, lawyers and other crypto projects.
 {% endtab %}
 {% endtabs %}
 
-## Managing Capacity
 
-_Balancing freelancer capacity with project flow._
-
-TODO
-
-## Pricing
-
-_Calculating the price range for new client projects._
-
-TODO
 
