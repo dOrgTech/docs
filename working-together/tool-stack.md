@@ -11,6 +11,7 @@ description: How we execute
 | [Keybase](https://keybase.io/team/dorg) | Chat |
 | [Jitsi](https://meet.jit.si/) | Calls |
 | [Zoho](https://www.zoho.com/mail/) | Mail, Calendar |
+| [Veriledger](https://veriledger.io/) | Bookkeeping |
 | [Netlify](https://www.netlify.com/) | Hosting, DNS |
 | [Vermont BBLLC](https://www.coindesk.com/dorg-founders-have-created-the-first-limited-liability-dao) | Legal |
 
