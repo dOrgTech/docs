@@ -12,4 +12,6 @@ Anyone who holds Reputation in the DAO is an owner of the company. It's that sim
 * [Cointelegraph](https://cointelegraph.com/news/dorg-llc-purports-to-be-first-legally-valid-dao-under-us-law)
 * [MIT Law](http://law.mit.edu/bbllc)
 * [Gravel & Shea](https://www.gravelshea.com/2019/06/dorg-launches-first-limited-liability-dao/)
+* [Gnosis Community Spotlight](https://blog.gnosis.pm/geco-community-spotlight-fd7ee4b8c8a4)
+* [Binance Research](https://research.binance.com/analysis/dao-theory)
 

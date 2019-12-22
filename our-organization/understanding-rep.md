@@ -52,7 +52,7 @@ All Rep holders are legal owners of dOrg, LLC. By controlling an address that ho
 
 Because dOrg primarily serves as a means of allocating work and compensation to freelancers, we do not anticipate profit distributions to owners \(Rep holders\) at this time– so holding Rep does not have any tax implications in itself.
 
-However, you are responsible for paying self-employment tax to your local authorities on compensation earned in your capacity as an independent contractor of dOrg \(see [Bookkeeping & Taxes](../guides/bookkeeping-and-taxes.md) for further guidance\).
+However, you are responsible for paying self-employment tax to your local authorities on compensation earned in your capacity as an independent contractor of dOrg.
 
 To summarize, all **dOrg freelancers are both owners and independent contractors** of dOrg, LLC **and have limited liability** as a result. See [Agreements](../working-together/agreements.md) for more details.
 
