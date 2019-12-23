@@ -1,6 +1,6 @@
 # Quick Start
 
-This is a **guide to how dOrg operates.** It explains our structure, how we work together and more.
+This is a **guide to how dOrg operates.** It explains our structure, how we make decisions and work together, and more.
 
 To learn more about our services, see our [website. ](https://dorg.tech)
 

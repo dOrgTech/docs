@@ -25,20 +25,20 @@ The DAO can also slash anyone's Rep for violating one of the [Agreements](../wor
 So what is Rep actually used for? Mostly to vote on financial and legal decisions.
 
 * _Financial Proposals_ to compensate agents for work done or reimburse expenses.
-* _Legal Proposals_ to enter dOrg, LLC into legal agreements with counterparties– including new freelancers, clients, partners and service providers.
+* _Legal Proposals_ to enter dOrg, LLC into legal agreements with counter-parties
 
-### Future Uses
+The DAO also has a Rep threshold for administration of operational tooling like our chat or email clients– defined [here](https://github.com/dOrgTech/operations/blob/master/org.json) \(private\).
 
-As our tooling evolves, the DAO could be used to govern other shared resources, such as our landing page or code repositories. We also intend to expand the utility of Rep beyond voting– offering holders a variety of benefits, such as:
+{% hint style="success" %}
+### Looking Ahead
 
-* Co-working reimbursements
-* Travel to conferences
-* Education & up-skilling
-* Health Insurance
-* Paid vacation
-* Dividends
+As our tooling evolves, the DAO can be used to govern other shared resources, including:
 
-As the world's first on-chain legal entity, we feel well positioned to pioneer benefits for freelancer DAOs.
+* _Off-chain Data_: software libraries, databases, web apps
+* _Physical Assets_: real-estate, hardware
+
+We can also expand the utility of Rep beyond voting and admin privileges– offering benefits, dividends or insurance to different tiers of Rep holders.
+{% endhint %}
 
 ## Legal & Tax Implications
 
