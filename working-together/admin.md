@@ -13,7 +13,7 @@ Ensure in the following order:
 * [x] Agent skills & capacity match the DAO's current needs
 * [x] [Bounty proposal](../getting-started/bounties.md) passed
 * [x] `Terms Sheet` ratified
-* [x] `Form W9` submitted to Veriledger
+* [x] `Form W9` or `Form W-8BEN` submitted
 * [x] Agent added to Github, Keybase and Zoho Mail
 * [x] Agent info added to internal docs \(agent log, agent directory, budget block\)
 {% endtab %}
@@ -40,7 +40,7 @@ Legal agreements with the DAO are executed as follows:
 
 ### Taxes & Bookkeeping
 
-The DAO contracts third parties to handle its taxes and bookkeeping in accordance with U.S. and Vermont law. These third parties also send 1099s to all independent contractors of dOrg after the end of the tax year.
+The DAO engages tax professionals to handle its taxes and bookkeeping in accordance with U.S. and Vermont law. These professionals also prepare 1099s for each independent contractor of the DAO. 
 
-Each independent contractor of dOrg is responsible for handling their own taxes and bookkeeping according to the requirements of their domicile.
+Each independent contractor of dOrg is responsible for bookkeeping and tax filing in accordance with the laws of their domicile.
 

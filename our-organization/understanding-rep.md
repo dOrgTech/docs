@@ -44,9 +44,5 @@ We can also expand the utility of Rep beyond voting and admin privileges– offe
 
 All Rep holders are legal owners of dOrg, LLC. By controlling an address that holds Rep in dOrg, you agree to be bound by our [Operating Agreement](../working-together/agreements.md). As an owner, you are also protected from personal liability for dOrg's actions.
 
-Because dOrg primarily serves as a means of allocating work and compensation to freelancers, we do not anticipate profit distributions to owners \(Rep holders\) at this time– so holding Rep does not have any tax implications in itself.
-
-However, you are responsible for paying self-employment tax to your local authorities on compensation earned in your capacity as an independent contractor of dOrg.
-
-To summarize, all **dOrg freelancers are both owners and independent contractors** of dOrg, LLC **and have limited liability** as a result. See [Agreements](../working-together/agreements.md) for more details.
+dOrg is taxed as a corporation \(rather than a pass-through partnership\), meaning that the individual owners do not pay taxes for its retained earnings. See [Admin](../working-together/admin.md) for more details.
 

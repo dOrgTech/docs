@@ -4,19 +4,21 @@ description: How we stay in sync
 
 # Rhythms
 
-| What | When | Why |
-| :--- | :--- | :--- |
-| Budget Block | Monthly | Allocate payments and share cross-project updates, issues, ideas |
-| Retro | Quarterly | Evaluate the past quarter and plan for the next one |
-| Jamathon | Yearly | Hack and hang in-person |
+| What | How Often | When | Why |
+| :--- | :--- | :--- | :--- |
+| Payment Checkpoints | Bimonthly | Varies by project | Get paid |
+| Townhall | Monthly | 1st Monday of the month | Share cross-project updates, issues and ideas |
+| Retro | Quarterly | 2nd to last Monday of the quarter | Evaluate the past quarter and plan for the next one |
+| Jamathon | Yearly | TBD | Hack and hang in-person |
 
-### **Etiquette around going offline & availabilities**
+## **Etiquette around going offline & availabilities**
 
-* If you cannot join a meeting, decline the calendar invite
-* Add "\[name\] Offline" in the dOrg Vacation calendar at least one week before you are going to be offline for an extended period
+* If you cannot join a meeting, decline the calendar invite!
+* Add "\[name\] Offline" in the dOrg Vacation calendar when you are going to be offline for an extended period
 
-### Communication Hygiene – Keybase
+## Communication Hygiene – Discord
 
+* @Mention someone in the relevant chat when you need them; DM when it's urgent
+* Answer @mentions within 48hrs; DM's w/in 24hrs \(unless you've posted as Offline in the calendar\)
 * Fully catch up with chats of teams your on + the internal-announcements chat at least once a week \(keeping up with any other chats is optional\)
-* Unless you've posted as offline \(see above\), answer @mentions within 48hrs; DMs and emails w/in 24hrs
 
