@@ -2,7 +2,7 @@
 
 * [Quick Start](README.md)
 * [Our Organization](our-organization/README.md)
-  * [Values & Operating Principles](our-organization/values-and-operating-principles.md)
+  * [Values](our-organization/values-and-operating-principles.md)
   * [Ownership & Governance](our-organization/ownership-and-governance.md)
   * [Understanding Rep](our-organization/understanding-rep.md)
   * [Business Model](our-organization/business-model.md)

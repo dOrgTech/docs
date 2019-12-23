@@ -8,7 +8,7 @@ But in dOrg, Reputation is much more than voting weight– it's our fundamental 
 
 Rep is continuously minted to freelancers in proportion to dollar equivalent earned. **The more dOrg pays you, the more Rep you accumulate**. This means that your power grows or shrinks in proportion to the cumulative value you add relative to others.
 
-The current `rep-rate` is defined [here](https://github.com/dOrgTech/operations/blob/master/org.json) \(private\).
+The current `rep-rate` is defined in our [`org.json`](https://github.com/dOrgTech/operations/blob/master/org.json) \(protected\).
 
 {% hint style="danger" %}
 `rep-rate`is socially-enforced and can be amended by the DAO at any time. 
@@ -27,7 +27,7 @@ So what is Rep actually used for? Mostly to vote on financial and legal decision
 * _Financial Proposals_ to compensate agents for work done or reimburse expenses.
 * _Legal Proposals_ to enter dOrg, LLC into legal agreements with counter-parties
 
-The DAO also has a Rep threshold for administration of operational tooling like our chat or email clients– defined [here](https://github.com/dOrgTech/operations/blob/master/org.json) \(private\).
+The DAO also has a Rep threshold for administration of operational tooling like our chat or email clients– defined in our [`org.json`](https://github.com/dOrgTech/operations/blob/master/org.json) \(protected\).
 
 {% hint style="success" %}
 ### Looking Ahead
