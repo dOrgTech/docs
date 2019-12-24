@@ -10,8 +10,8 @@
   * [Bounties](getting-started/bounties.md)
   * [Budget Blocks](getting-started/budget-blocks.md)
 * [Working Together](working-together/README.md)
-  * [Agreements](working-together/agreements.md)
-  * [Rhythms](working-together/rhythms.md)
   * [Tool Stack](working-together/tool-stack.md)
+  * [Rhythms](working-together/rhythms.md)
+  * [Agreements](working-together/agreements.md)
   * [Admin](working-together/admin.md)
 

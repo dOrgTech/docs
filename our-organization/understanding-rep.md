@@ -13,7 +13,7 @@ The current `rep-rate` is defined in our [`org.json`](https://github.com/dOrgTec
 {% hint style="danger" %}
 `rep-rate`is socially-enforced and can be amended by the DAO at any time. 
 
-For example, the DAO might decide to raise the "difficulty" by lowering the rate \(say, from 0.005 Rep per $ earned to 0.004\). The DAO could also mint Rep for stakeholder groups other than freelancers– such as investors \(e.g. 0.001 Rep per $ contributed\), strategic partners, or users of our products.
+For example, the DAO might decide to raise the "difficulty" by lowering the rate \(say, from 0.005 to 0.004 Rep per dollar earned\). The DAO could also mint Rep for stakeholder groups other than freelancers– such as investors, strategic partners, or users of our products.
 {% endhint %}
 
 {% hint style="info" %}
@@ -27,17 +27,17 @@ So what is Rep actually used for? Mostly to vote on financial and legal decision
 * _Financial Proposals_ to compensate agents for work done or reimburse expenses.
 * _Legal Proposals_ to enter dOrg, LLC into legal agreements with counter-parties
 
-The DAO also has a Rep threshold for administration of operational tooling like our chat or email clients– defined in our [`org.json`](https://github.com/dOrgTech/operations/blob/master/org.json) \(protected\).
+The DAO also has a Rep threshold for administration of operational tooling like our chat or email clients. `admin-thresh` is defined in our [`org.json`](https://github.com/dOrgTech/operations/blob/master/org.json) \(protected\).
 
 {% hint style="success" %}
 ### Looking Ahead
 
 As our tooling evolves, the DAO can be used to govern other shared resources, including:
 
-* _Off-chain Data_: software libraries, databases, web apps
+* _Off-Chain Data_: software libraries, databases, web apps
 * _Physical Assets_: real-estate, hardware
 
-We can also expand the utility of Rep beyond voting and admin privileges– offering benefits, dividends or insurance to different tiers of Rep holders.
+We can also expand the utility of Rep beyond voting and admin privileges– offering benefits, dividends or insurance at Reputation tiers.
 {% endhint %}
 
 ## Legal & Tax Implications
