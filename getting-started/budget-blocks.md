@@ -1,6 +1,6 @@
 # Budget Blocks
 
-dOrg contributors are compensated on a block reward model. The block reward is calculated as the sum total of all revenues minus fixed expenses since the previous block. Block time is specified in dOrg's \[config\]\(todo\).
+dOrg contributors are compensated on a block reward model. The block reward is calculated as the sum total of all revenues minus fixed expenses since the previous block. `block-freq` is defined in our [`org.json`](https://github.com/dOrgTech/operations/blob/master/org.json) \(protected\).
 
 The DAO has a 5 day window at the end of each block to:
 
@@ -11,12 +11,12 @@ The DAO has a 5 day window at the end of each block to:
 
 **B. Payout the current block**
 
-1. Readjust values for each agent
+1. Re-adjust values for each agent
 2. Ratify and distribute payments through proposal
 
 
 
-\*Use \[Google Sheets template\]\(TODO\)
+_\*See budget block overview_ [_here_](https://github.com/dOrgTech/operations/blob/master/blocks.md) _\(protected\)._
 
-\*\*Link proposal to PR that adds CSV export to the \[docs\]\(TODO\). If the proposal fails, start over.
+_\*\*Link proposal to PR that adds CSV export to our_ [`/docs`](https://github.com/dOrgTech/operations/blob/master/docs) _\(protected\). If the proposal fails, start over._
 
