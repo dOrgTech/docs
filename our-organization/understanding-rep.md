@@ -37,7 +37,7 @@ As our tooling evolves, the DAO can be used to govern other shared resources, in
 * _Off-Chain Data_: software libraries, databases, web apps
 * _Physical Assets_: real-estate, hardware
 
-We can also expand the utility of Rep beyond voting and admin privileges– offering benefits, dividends or insurance at Reputation tiers.
+We can also expand the utility of Rep beyond voting and admin privileges– offering different tiers of benefits, dividends or insurance.
 {% endhint %}
 
 ## Legal & Tax Implications
