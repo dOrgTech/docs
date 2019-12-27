@@ -39,7 +39,7 @@ _Make decisions democratically while executing efficiently._
 {% tab title="Openness & Privacy" %}
 _Keep everything open– except the private stuff._
 
-**Share** our
+**Openly** share our
 
 * Code
 * Agreements, rules, processes
