@@ -32,13 +32,18 @@ description: How we stay in sync
       <td style="text-align:left">Hack and hang in-person</td>
     </tr>
   </tbody>
-</table>### **Etiquette around going offline & availabilities**
+</table>### Communication Etiquette
 
-* If you cannot join a meeting, decline the calendar invite
-* Add "\[name\] Offline" in the dOrg Vacation calendar at least one week before you are going to be offline for an extended period
+* 'Accept' or 'Decline' event invites rather than ignoring them
+* If you will be offline for an extended period, add "\[Name\] Offline" in the dOrg Vacation calendar at least one week before
+* Answer mentions, DMs and emails within a reasonable timeframe \(1-3 days\)
+* Stay up-to-date on your project channels & \#general:
 
-### Communication Hygiene – Keybase
+![](../.gitbook/assets/rec1%20%281%29.png)
 
-* Fully catch up with chats of teams your on + the internal-announcements chat at least once a week \(keeping up with any other chats is optional\)
-* Unless you've posted as offline \(see above\), answer @mentions within 48hrs; DMs and emails w/in 24hrs
+* Keeping up with any other chats is optional
+
+![](../.gitbook/assets/rec2%20%281%29.png)
+
+
 

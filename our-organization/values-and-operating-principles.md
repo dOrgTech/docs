@@ -4,6 +4,10 @@ dOrg is a web3 experiment that seeks to challenge big tech and the gig economy w
 
 We optimize for three seemingly opposed values of web3:
 
+* Optimize for freedom AND support
+* Empower others with our core technologies
+* Challenge big tech and the gig economy with freelancer-led models
+
 {% tabs %}
 {% tab title="Freedom & Support" %}
 _Leverage peer support structures without sacrificing individual freedoms._
