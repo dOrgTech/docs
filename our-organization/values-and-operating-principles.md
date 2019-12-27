@@ -1,36 +1,57 @@
-# Values & Operating Principles
+# Values
 
-## Values
+We optimize for three seemingly opposed values of web3:
 
-For us, success means a better livelihood through meaningful work for more people. Our organization is designed to be a source of long-term value creation for freelancers.
+{% tabs %}
+{% tab title="Freedom & Support" %}
+_Leverage peer support structures without sacrificing individual freedoms._
 
-We strive to:
+**Freedom** to choose
 
-* Optimize for freedom AND support
-* Empower others with our core technologies
-* Challenge big tech and the gig economy with freelancer-led models
+* Where you work
+* When you work
+* What you work on
 
-## Operating Principles
+**Support** structures
 
-Principles help us enact our values.
+* Reliable project funnel
+* Peers with complementary skills
+* Admin support
+* Benefits
+{% endtab %}
 
-### [**Power to the Freelancer**](https://www.techworker.coop/sites/default/files/TechCoopHOWTO.pdf)
+{% tab title="Democracy & Efficiency" %}
+_Make decisions democratically while executing efficiently._
 
-Distribute ownership and governance rights in proportion to contributions.
+**Democratically** decide
 
-### [**Manage without Managers**](https://hbr.org/1989/09/managing-without-managers)
+* How we budget
+* Who we let in
+* What projects we take on
 
-Achieve effectiveness and accountability without resorting to hierarchy.
+**Efficient** execution
 
-### [**Modular is Beautiful**](https://en.wikipedia.org/wiki/Modular_design)
+* React to needs rapidly
+* Build reusable components
+* Minimize meetings
+{% endtab %}
 
-Small, reusable, extensible components everywhere.
+{% tab title="Openness & Privacy" %}
+_Keep everything open– except the private stuff._
 
-### [**Radical Transparency**](https://en.wikipedia.org/wiki/Radical_transparency)
+**Share** our
 
-Keep all legal and financial information accessible to all agents.
+* Code
+* Agreements, rules, processes
 
-### \*\*\*\*[**Seemless Async**](https://twist.com/remote-work-guides/remote-team-communication)
+**Protect** each
 
-Communicate effectively while minimizing meetings.
+* Agent's personal info
+* Client's confidential data
+{% endtab %}
+{% endtabs %}
+
+### 
+
+
 

@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Quick Start](README.md)
+* [Introduction](README.md)
 * [Our Organization](our-organization/README.md)
   * [Values](our-organization/values-and-operating-principles.md)
   * [Ownership & Governance](our-organization/ownership-and-governance.md)
