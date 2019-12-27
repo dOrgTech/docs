@@ -1,8 +1,8 @@
 # Values
 
-dOrg is a web3 experiment that seeks to challenge "big tech" and the "gig economy" with worker-owned models. 
+dOrg is a web3 experiment that seeks to challenge "big tech" and the "gig economy" with worker-owned models. We're inspired by cryptoeconomics and cypherpunk values, but also platform co-ops and the digital commons.
 
-We try to optimize for the following:
+Our organization optimizes for the following:
 
 {% tabs %}
 {% tab title="Freedom & Support" %}

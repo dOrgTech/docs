@@ -1,6 +1,6 @@
 # Our Organization
 
-## dOrg is a web3 freelancers cooperative.
+## dOrg is a web3 freelancer cooperative.
 
 Every aspect of our organization is driven by [web3 values](values-and-operating-principles.md)– from [legal structure](ownership-and-governance.md) and [governance](understanding-rep.md), to [on-boarding](../getting-started/bounties.md) and [budgeting](../getting-started/budget-blocks.md) practices, to the [tools we use](../working-together/tool-stack.md) and the [software we build](https://github.com/dOrgTech).
 
@@ -14,4 +14,6 @@ Every aspect of our organization is driven by [web3 values](values-and-operating
 * [Gnosis Community Spotlight](https://blog.gnosis.pm/geco-community-spotlight-fd7ee4b8c8a4)
 * [Binance Research](https://research.binance.com/analysis/dao-theory)
 {% endhint %}
+
+
 
