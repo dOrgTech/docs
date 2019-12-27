@@ -4,13 +4,35 @@ description: How we stay in sync
 
 # Rhythms
 
-| What | When | Why |
-| :--- | :--- | :--- |
-| Budget Block | Monthly | Allocate payments and share cross-project updates, issues, ideas |
-| Retro | Quarterly | Evaluate the past quarter and plan for the next one |
-| Jamathon | Yearly | Hack and hang in-person |
-
-### **Etiquette around going offline & availabilities**
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left">What</th>
+      <th style="text-align:left">When</th>
+      <th style="text-align:left">Why</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left">Budget Block</td>
+      <td style="text-align:left">Monthly</td>
+      <td style="text-align:left">
+        <p>Allocate payments;</p>
+        <p>Share cross-project updates, issues, ideas</p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Retro</td>
+      <td style="text-align:left">Quarterly</td>
+      <td style="text-align:left">Evaluate the past quarter and plan for the next one</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Jamathon</td>
+      <td style="text-align:left">Yearly</td>
+      <td style="text-align:left">Hack and hang in-person</td>
+    </tr>
+  </tbody>
+</table>### **Etiquette around going offline & availabilities**
 
 * If you cannot join a meeting, decline the calendar invite
 * Add "\[name\] Offline" in the dOrg Vacation calendar at least one week before you are going to be offline for an extended period

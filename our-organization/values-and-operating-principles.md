@@ -1,5 +1,7 @@
 # Values
 
+dOrg is a web3 experiment that seeks to challenge big tech and the gig economy with worker-owned models. 
+
 We optimize for three seemingly opposed values of web3:
 
 {% tabs %}
@@ -31,7 +33,7 @@ _Make decisions democratically while executing efficiently._
 
 **Efficient** execution
 
-* React to needs rapidly
+* Respond rapidly to needs
 * Build reusable components
 * Minimize meetings
 {% endtab %}
