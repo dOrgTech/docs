@@ -2,7 +2,7 @@
 
 At the most basic level, **your Reputation score represents your decision-making power**. Each person's voting weight is equivalent to their Rep. Rep is non-transferable and can only be minted and burned by the dOrg DAO.
 
-But in dOrg, Reputation is much more than voting weight– it's our fundamental unit of account. Rep is continuously distributed to freelancers and confers legal protections as well as ownership rights over dOrg, LLC. In fact, the LLC is entirely owned by the Rep holders.
+But in dOrg, Reputation is much more than voting weight– it's our fundamental unit of account. Rep is continuously distributed to freelancers and confers legal protections as well as ownership rights over dOrg, LLC. **In fact, the LLC is entirely owned by the Rep holders**.
 
 ## Earning Rep
 
