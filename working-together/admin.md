@@ -33,10 +33,10 @@ Ensure in the following order:
 
 Legal agreements with the DAO are executed as follows:
 
-1. DAO agent creates new agreement from template, fills out fields and emails to counter-party
-2. Counter-party fills out fields, e-signs, and emails back to agent
-3. Agent e-signs and submits to DAO for ratification
-4. If proposal passes, agent sends passed proposal and signed agreement to counter-party
+1. Counter-party fills out agreement template, e-signs and submits
+2. Proposal to ratify the agreement is voted upon by the DAO
+3. Counter-party is notified of the outcome.
+4. If proposal fails, start over
 
 ### Taxes & Bookkeeping
 
