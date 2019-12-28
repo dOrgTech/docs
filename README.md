@@ -2,7 +2,13 @@
 
 This is a **guide to how dOrg operates.** It explains our structure, how we work together and more.
 
-To learn more about our services, see our [website. ](https://dorg.tech)
+{% hint style="info" %}
+To learn more about our services, visit our [website. ](https://dorg.tech)
+{% endhint %}
+
+{% hint style="success" %}
+For help getting started or to get in touch, fill out our [contact form](https://dorgtech.typeform.com/to/a1rMob)
+{% endhint %}
 
 ## License & Attribution
 

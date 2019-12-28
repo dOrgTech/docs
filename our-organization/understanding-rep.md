@@ -16,8 +16,8 @@ The current `rep-rate` is defined in our [`org.json`](https://github.com/dOrgTec
 For example, the DAO might decide to raise the "difficulty" by lowering the rate \(say, from 0.005 to 0.004 Rep per dollar earned\). The DAO could also mint Rep for stakeholder groups other than freelancers– such as investors, strategic partners, or users of our products.
 {% endhint %}
 
-{% hint style="info" %}
-The DAO can also slash anyone's Rep for violating one of the [Agreements](../working-together/agreements.md).
+{% hint style="warning" %}
+The DAO can slash anyone's Rep at any time for violating any [Agreements](../working-together/agreements.md).
 {% endhint %}
 
 ## Using Rep
