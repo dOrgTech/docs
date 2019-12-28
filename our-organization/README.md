@@ -2,18 +2,18 @@
 
 ## dOrg is a web3 freelancer cooperative.
 
-Every aspect of our organization is driven by [web3 values](values-and-operating-principles.md)– from [legal structure](ownership-and-governance.md) and [governance](understanding-rep.md), to [on-boarding](../getting-started/bounties.md) and [budgeting](../getting-started/budget-blocks.md) practices, to the [tools we use](../working-together/tool-stack.md) and the [software we build](https://github.com/dOrgTech).
+We govern ourselves through blockchain code and build software that enables others to do the same.
 
-{% hint style="info" %}
+Every aspect of our organization is driven by web3– from [legal structure](ownership-and-governance.md) and [membership](../getting-started/bounties.md), to [budgeting and compensation dynamics](../getting-started/budget-blocks.md), to the [tools we use](../working-together/tool-stack.md) and the [software we build](https://github.com/dOrgTech).
+
+
+
 ### Media Mentions
 
 * [Coindesk](https://www.coindesk.com/dorg-founders-have-created-the-first-limited-liability-dao)
 * [Cointelegraph](https://cointelegraph.com/news/dorg-llc-purports-to-be-first-legally-valid-dao-under-us-law)
 * [MIT Law](http://law.mit.edu/bbllc)
 * [Stanford Law](https://law.stanford.edu/2019/06/12/money/)
-* [Gnosis Community Spotlight](https://blog.gnosis.pm/geco-community-spotlight-fd7ee4b8c8a4)
+* [Gnosis Spotlight](https://blog.gnosis.pm/geco-community-spotlight-fd7ee4b8c8a4)
 * [Binance Research](https://research.binance.com/analysis/dao-theory)
-{% endhint %}
-
-
 
