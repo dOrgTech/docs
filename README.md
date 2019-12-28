@@ -7,7 +7,7 @@ To learn more about our services, visit our [website. ](https://dorg.tech)
 {% endhint %}
 
 {% hint style="success" %}
-For help getting started or to get in touch, fill out our [contact form](https://dorgtech.typeform.com/to/a1rMob)
+Get in touch through our [interest form](https://dorgtech.typeform.com/to/a1rMob) or reach out at`contact@dorg.tech`
 {% endhint %}
 
 ## License & Attribution

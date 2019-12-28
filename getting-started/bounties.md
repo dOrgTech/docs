@@ -6,5 +6,9 @@ The easiest way for a new freelancer to start earning [Rep](../our-organization/
 See the [Agent On-boarding Checklist](../working-together/admin.md#on-boarding) for all administrative requirements
 {% endhint %}
 
+{% hint style="warning" %}
+For help getting started or to get in touch, fill out our [contact form](https://dorgtech.typeform.com/to/a1rMob)
+{% endhint %}
+
 Anyone is welcome to suggest new bounties by adding an issue to dOrg's [Ecosystem repo](https://github.com/dOrgTech/bounties/issues). Bounties will then be discussed and priced according to their priority, complexity and required time.
 
