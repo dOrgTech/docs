@@ -10,7 +10,7 @@ Rep is continuously minted to freelancers in proportion to dollar equivalent ear
 
 The current `rep-rate` is defined in our [`org.json`](https://github.com/dOrgTech/operations/blob/master/org.json) \(protected\).
 
-{% hint style="danger" %}
+{% hint style="warning" %}
 `rep-rate`is socially-enforced and can be amended by the DAO at any time. 
 
 For example, the DAO might decide to raise the "difficulty" by lowering the rate \(say, from 0.005 to 0.004 Rep per dollar earned\). The DAO could also mint Rep for stakeholder groups other than freelancers– such as investors, strategic partners, or users of our products.
@@ -22,27 +22,31 @@ The DAO can also slash anyone's Rep for violating one of the [Agreements](../wor
 
 ## Using Rep
 
-So what is Rep actually used for? Mostly to vote on financial and legal decisions.
+So how is Rep actually used? Mostly by voting on financial and legal decisions.
 
 * _Financial Proposals_ to compensate agents for work done or reimburse expenses.
-* _Legal Proposals_ to enter dOrg, LLC into legal agreements with counter-parties
+* _Legal Proposals_ to enter dOrg, LLC into binding agreements with counter-parties
 
 The DAO also has a Rep threshold for administration of operational tooling like our chat or email clients. `admin-thresh` is defined in our [`org.json`](https://github.com/dOrgTech/operations/blob/master/org.json) \(protected\).
 
 {% hint style="success" %}
 ### Looking Ahead
 
-As our tooling evolves, the DAO can be used to govern other shared resources, including:
+As our tooling evolves, the DAO can be used to govern other shared resources, such as:
 
 * _Off-Chain Data_: software libraries, databases, web apps
 * _Physical Assets_: real-estate, hardware
 
-We can also expand the utility of Rep beyond voting and admin privileges– offering different tiers of benefits, dividends or insurance.
+We can also expand the utility of Rep beyond voting and admin privileges– offering different tiers of benefits, dividend rights or insurance policies.
 {% endhint %}
 
 ## Legal & Tax Implications
 
-All Rep holders are legal owners of dOrg, LLC. By controlling an address that holds Rep in the dOrg DAO, you agree to be bound by our [Operating Agreement](../working-together/agreements.md). As an owner, you are protected from personal liability for dOrg's actions.
+All Rep holders are legal owners of dOrg, LLC. By controlling an address that holds Rep in the dOrg DAO, you agree to be bound by our [Operating Agreement](../working-together/agreements.md). As an owner, you are shielded from personal liability for dOrg's actions.
 
 dOrg is taxed as a corporation \(rather than a pass-through partnership\), meaning that the individual owners do not pay taxes for its retained earnings. See [Admin](../working-together/admin.md) for more details.
+
+{% hint style="danger" %}
+**Disclaimer**. This is not intended to be tax or legal advice. Before you make any decisions, read the [Agreement](../working-together/agreements.md) and check with your attorney. 
+{% endhint %}
 
