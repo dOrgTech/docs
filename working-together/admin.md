@@ -31,7 +31,7 @@ Ensure in the following order:
 
 ### **Legal**
 
-Legal agreements with the DAO are executed as follows:
+Legal agreements with dOrg, LLC are executed as follows:
 
 1. Counter-party fills out agreement template, e-signs and submits
 2. Proposal to ratify the agreement is voted upon by the DAO
@@ -40,7 +40,7 @@ Legal agreements with the DAO are executed as follows:
 
 ### Taxes & Bookkeeping
 
-The DAO engages tax professionals to handle its taxes and bookkeeping in accordance with U.S. and Vermont law. These professionals also prepare 1099s for each independent contractor of the DAO. 
+dOrg engages tax professionals to handle its taxes and bookkeeping in accordance with U.S. and Vermont law. These professionals also prepare 1099s for all of dOrg's independent contractors.
 
-Each independent contractor of dOrg is responsible for bookkeeping and tax filing in accordance with the laws of their domicile.
+Each contractor is responsible for bookkeeping and tax filing in accordance with the laws of their domicile.
 

@@ -42,7 +42,7 @@ We can also expand the utility of Rep beyond voting and admin privileges– offe
 
 ## Legal & Tax Implications
 
-All Rep holders are legal owners of dOrg, LLC. By controlling an address that holds Rep in dOrg, you agree to be bound by our [Operating Agreement](../working-together/agreements.md). As an owner, you are protected from personal liability for dOrg's actions.
+All Rep holders are legal owners of dOrg, LLC. By controlling an address that holds Rep in the dOrg DAO, you agree to be bound by our [Operating Agreement](../working-together/agreements.md). As an owner, you are protected from personal liability for dOrg's actions.
 
 dOrg is taxed as a corporation \(rather than a pass-through partnership\), meaning that the individual owners do not pay taxes for its retained earnings. See [Admin](../working-together/admin.md) for more details.
 
