@@ -27,7 +27,7 @@ description: How we stay in sync
       <td style="text-align:left">Evaluate the past quarter and plan for the next one</td>
     </tr>
     <tr>
-      <td style="text-align:left">Jamathon</td>
+      <td style="text-align:left">Get Together</td>
       <td style="text-align:left">Yearly</td>
       <td style="text-align:left">Hack and hang in-person</td>
     </tr>
