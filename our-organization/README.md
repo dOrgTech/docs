@@ -12,6 +12,7 @@ Every aspect of our organization is driven by web3– from [legal structure](own
 
 * [Coindesk](https://www.coindesk.com/dorg-founders-have-created-the-first-limited-liability-dao)
 * [Cointelegraph](https://cointelegraph.com/news/dorg-llc-purports-to-be-first-legally-valid-dao-under-us-law)
+* [MIT Law](http://legal-engineering.mit.edu/bbllc)
 * [Stanford Law](https://law.stanford.edu/2019/06/12/money/)
 * [Gnosis Spotlight](https://blog.gnosis.pm/geco-community-spotlight-fd7ee4b8c8a4)
 * [Binance Research](https://research.binance.com/analysis/dao-theory)
