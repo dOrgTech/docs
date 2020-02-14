@@ -1,8 +1,8 @@
 # Our Organization
 
-## dOrg is a web3 freelancer cooperative.
+## dOrg is a self-organizing Ethereum development agency.
 
-We govern ourselves through blockchain code and build software that enables others to do the same.
+We govern ourselves through smart contracts and build tools that help others to do the same.
 
 Every aspect of our organization is driven by web3– from [legal structure](ownership-and-governance.md) and [membership](../getting-started/bounties.md), to [budgeting](../getting-started/budget-blocks.md) and [governance dynamics](understanding-rep.md), to the [tools we use](../working-together/tool-stack.md) and the [software we build](https://github.com/dOrgTech).
 
