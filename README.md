@@ -1,16 +1,16 @@
-# Introduction
+# About this Handbook
 
-This is a **guide to how dOrg operates.** It explains our structure, how we work together and more.
+Welcome. This is a guide to how dOrg operates.
 
 {% hint style="info" %}
-To learn more about our services, visit our [website. ](https://dorg.tech)
+Go to the[ website](https://dorg.tech) to learn more about dOrg services
 {% endhint %}
 
 {% hint style="success" %}
-Get in touch through our [interest form](https://dorgtech.typeform.com/to/a1rMob) or reach out at`contact@dorg.tech`
+Get in touch on [Keybase](https://keybase.io/team/dorg.membrane) or`contact@dorg.tech`
 {% endhint %}
 
 ## License & Attribution
 
-This work is forked from the [Greaterthan Handbook](https://handbook.greaterthan.works/) and licensed under [Creative Commons Attribution-ShareAlike.](https://creativecommons.org/licenses/by-sa/4.0/)​
+This work is heavily inspired by the [Greaterthan Handbook](https://handbook.greaterthan.works/) and [Crisp DNA](https://dna.crisp.se/docs/index.html) and is licensed under [Creative Commons Attribution-ShareAlike.](https://creativecommons.org/licenses/by-sa/4.0/)​
 

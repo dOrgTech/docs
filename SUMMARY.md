@@ -1,17 +1,11 @@
 # Table of contents
 
-* [Introduction](README.md)
-* [Our Organization](our-organization/README.md)
-  * [Values](our-organization/values-and-operating-principles.md)
-  * [Ownership & Governance](our-organization/ownership-and-governance.md)
-  * [Understanding Rep](our-organization/understanding-rep.md)
-  * [Business Model](our-organization/business-model.md)
-* [Getting Started](getting-started/README.md)
-  * [Bounties](getting-started/bounties.md)
-  * [Budget Blocks](getting-started/budget-blocks.md)
-* [Working Together](working-together/README.md)
-  * [Coordination Tools](working-together/tool-stack.md)
-  * [Rhythms](working-together/rhythms.md)
-  * [Agreements](working-together/agreements.md)
-  * [Admin](working-together/admin.md)
+* [About this Handbook](README.md)
+
+## dOrg <a id="getting-started-1"></a>
+
+* [Purpose](getting-started-1/purpose.md)
+* [Form & Function](getting-started-1/form-and-function.md)
+* [Principles](getting-started-1/principles.md)
+* [Synchronization](getting-started-1/synchronization.md)
 
