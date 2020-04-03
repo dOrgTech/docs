@@ -14,7 +14,7 @@ Synchronized communication flows allow dOrg's constituent parts to operate in un
 * **Quarterly Gathering.** Open call to evaluate the state of web3 and plan for the future.
 * **Biweekly Sync.** Member call for sharing cross-project updates, problems, and ideas.
 
-### Resources
+### Tools
 
 * **GitHub**. Code, tasks, static files.
 * **Zoho**. Email, calendar, working docs.
