@@ -3,7 +3,7 @@
 Welcome. This is a guide to how dOrg operates.
 
 {% hint style="info" %}
-Go to the[ website](https://dorg.tech) to learn more about dOrg services
+Visit the[ Website](https://dorg.tech) to learn more about dOrg services
 {% endhint %}
 
 {% hint style="success" %}

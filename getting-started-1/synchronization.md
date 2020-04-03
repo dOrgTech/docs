@@ -6,13 +6,13 @@ Synchronized communication flows allow dOrg's constituent parts to operate in un
 
 ### Chats
 
-* [Open channel](https://keybase.io/team/dorg.membrane) focused on web3 engineering, design and law.
-* Members and pollinators coordinate work in closed channels.
+* [Open channel](https://keybase.io/team/dorg.membrane) to discuss any aspects of dOrg or web3.
+* Closed channels for coordinating work among Members.
 
 ### Meetings
 
 * **Quarterly Gathering.** Open call to evaluate the state of web3 and plan for the future.
-* **Biweekly Sync.** Members share cross-project updates, problems, and ideas.
+* **Biweekly Sync.** Member call for sharing cross-project updates, problems, and ideas.
 
 ### Resources
 
