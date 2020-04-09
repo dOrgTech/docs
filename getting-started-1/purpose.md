@@ -20,7 +20,7 @@ Its genetic code is simple:
 
 
 
-   Work with others to build the missing pieces: digital identity, accountable fundraising, decentralized liquidity, friendly interfaces, developer toolchains.
+   Work with others to build the missing pieces: digital identity, accountable fundraising, decentralized liquidity, developer tools, friendly UIs.
 
 3. **Iterate and propagate.**
 
