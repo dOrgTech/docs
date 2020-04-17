@@ -14,10 +14,10 @@ If you want to start or change something, go ahead! Very few mistakes are fatal 
 
 ### Meritocracy
 
-No titles, managers, or reporting structures. Your power to influence stuff is based on competence and engagement.
+No titles, managers, or reporting structures. Influence is based on competence and engagement.
 
 ### Simple Models
 
-Err on the side of simplicity rather than coming up with detailed mechanisms for every problem. Better to have too few rules than too many, and better to follow high-level principles than low-level procedures.  
+Strive for simplicity rather than creating with detailed mechanisms for every problem. Better to follow high-level principles than low-level procedures.  
 
 
