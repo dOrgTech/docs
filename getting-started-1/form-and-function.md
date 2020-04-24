@@ -1,6 +1,6 @@
 # Form & Function
 
-After gestating as a multisig, dOrg mutated into a reputation-weighted DAO with legal personality.
+After gestating as a multisig, dOrg mutated into a reputation-weighted DAO with legal personality \[[1](https://www.gravelshea.com/2019/06/dorg-launches-first-limited-liability-dao/), [2](https://www.coindesk.com/dorg-founders-have-created-the-first-limited-liability-dao), [3](https://cointelegraph.com/news/dorg-llc-purports-to-be-first-legally-valid-dao-under-us-law)\].
 
 ![](../.gitbook/assets/artboard.png)
 
