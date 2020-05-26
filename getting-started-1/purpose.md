@@ -1,6 +1,6 @@
 # Purpose
 
-### dOrg is a full-stack freelancer agency building and running itself on web3.
+### dOrg is a full-stack freelancer agency building and running on web3.
 
 ![](../.gitbook/assets/lush_forest_scenery_in_killarney_park-_ireland.jpg)
 
@@ -16,11 +16,11 @@ Its genetic code is simple:
 
    Cultivate a technical agency that utilizes web3 to operate. Develop solutions to challenges along the way.
 
-2. **Execute on projects that advance web3.** 
+2. **Build on web3.**
 
 
 
-   Work with others to build the missing pieces: digital identity, accountable fundraising, decentralized liquidity, developer tools, friendly UIs.
+   Execute on projects that advance the stack: digital identity, accountable fundraising, decentralized liquidity, developer tools, friendly UIs.
 
 3. **Iterate and propagate.**
 
