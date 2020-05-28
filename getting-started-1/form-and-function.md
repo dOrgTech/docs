@@ -8,7 +8,7 @@ Since then some basic metabolic processes have emerged.
 
 ### Membership Membrane 
 
-The curious and talented [fill out this form](https://dorgtech.typeform.com/to/a1rMob). Whenever anticipated workload &gt; capacity, the membrane emits pheromones and absorbs [membership proposals](https://tinyurl.com/rc856me).
+The curious and talented [fill out this form](https://dorg.tech/join/). Whenever anticipated workload &gt; capacity, the membrane emits pheromones and absorbs [membership proposals](https://tinyurl.com/rc856me).
 
 ### Growth Pollination
 
