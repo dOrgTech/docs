@@ -2,12 +2,12 @@
 
 * [About this Handbook](README.md)
 
-## dOrg <a id="getting-started-1"></a>
+## dOrg
 
-* [Purpose](getting-started-1/purpose.md)
-* [Form & Function](getting-started-1/form-and-function.md)
-* [Principles](getting-started-1/principles.md)
-* [Synchronization](getting-started-1/synchronization.md)
+* [Purpose](dorg/purpose.md)
+* [Form & Function](dorg/form-and-function.md)
+* [Principles](dorg/principles.md)
+* [Synchronization](dorg/synchronization.md)
 
 ## Getting Started
 
