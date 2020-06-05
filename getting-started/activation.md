@@ -4,7 +4,7 @@
 
 Create something that “enables decentralized organizations."
 
-* Any domain
+* Mini-hack: Any domain
 * Finish within 1 day
 * Submit directly to the DAO with [this template](https://tinyurl.com/ybdcw6ly)
 
@@ -26,6 +26,8 @@ Reach out on [keybase](https://keybase.io/team/dorg.membrane) to brainstorm or a
 * Short **research** report on a new DAO or web3 tool
 * **Business development** roadmap for DAO adoption in a particular sector/use-case
 * Article, video, artwork or any type of **content** that explains DAOs or dOrg to a general audience.
+
+Check out [this sample submission](https://github.com/dOrgTech/mini-hack-challenge).
 
 ### 
 
