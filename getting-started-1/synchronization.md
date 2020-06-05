@@ -17,6 +17,8 @@ Synchronized communication flows allow dOrg's constituent parts to operate in un
 ### Tools
 
 * **GitHub**. Code, tasks, static files.
-* **Zoho**. Email, calendar, working docs.
+* **Keybase**. Chat.
+* **Airtable**. Forms, notes, bookkeeping.
+* **Zoho**. Email, calendar.
 * **DAOstack**. Wallet, governance.
 

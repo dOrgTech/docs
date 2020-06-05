@@ -6,17 +6,23 @@ After gestating as a multisig, dOrg mutated into a reputation-weighted DAO with 
 
 Since then some basic metabolic processes have emerged.
 
-### Membership Membrane 
+### Membership Membrane
 
-The curious and talented [fill out this form](https://dorg.tech/join/). Whenever anticipated workload &gt; capacity, the membrane emits pheromones and absorbs [membership proposals](https://tinyurl.com/rc856me).
+Agents join by completing an activation challenge. Agents deactivate after 3 months of inactivity but can always reactivate.
 
-### Growth Pollination
+### Project Pollination
 
-Pollinators seed new engagements and collect commissions upon fertilization.
+Agents seed new client projects and collect commissions upon fertilization.
 
 ### Sustenance & Governance
 
-Members working on **external projects** divide up the income minus a tax that sustains **internal projects**. Internal projects are also taxed to fund expenses and savings.
+Agents working on **external projects** divide up the income minus a tax that sustains **internal projects**.
 
-Members accumulate **voting power** in proportion to dollars earned and **tokens** in proportion to dollars deferred. Tokens represent redeemable claims on net assets.
+Agents accumulate **voting power** in proportion to dollars earned and **tokens** in proportion to dollars deferred. Tokens represent redeemable claims on net assets.
+
+
+
+
+
+
 

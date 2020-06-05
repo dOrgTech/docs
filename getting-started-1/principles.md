@@ -18,6 +18,6 @@ No titles, managers, or reporting structures. Influence is based on competence a
 
 ### Simple Models
 
-Strive for simplicity rather than creating detailed mechanisms for every problem. Better to follow high-level principles than low-level procedures.  
+Strive for simplicity over detailed mechanisms. Better to follow high-level principles than low-level procedures.  
 
 

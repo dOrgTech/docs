@@ -9,3 +9,7 @@
 * [Principles](getting-started-1/principles.md)
 * [Synchronization](getting-started-1/synchronization.md)
 
+## Getting Started
+
+* [Activation](getting-started/activation.md)
+
