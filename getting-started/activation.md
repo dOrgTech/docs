@@ -6,7 +6,7 @@ Create something that “enables decentralized organizations."
 
 * Mini-hack: Any domain
 * Finish within 1 day
-* Submit directly to the DAO with [this template](https://tinyurl.com/ybdcw6ly)
+* Submit directly to the DAO with [this template](https://tinyurl.com/y7umcfse)
 
 If the DAO accepts your submission, you will be ACTIVATED.
 

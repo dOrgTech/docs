@@ -8,7 +8,7 @@ Since then some basic metabolic processes have emerged.
 
 ### Membership Membrane
 
-Agents join by completing an activation challenge. Agents deactivate after 3 months of inactivity but can always reactivate.
+Agents join by completing an [activation challenge](../getting-started/activation.md). Agents deactivate after 3 months of inactivity but can always reactivate.
 
 ### Project Pollination
 
