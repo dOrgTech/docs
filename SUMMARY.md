@@ -12,4 +12,5 @@
 ## Getting Started
 
 * [Activation](getting-started/activation.md)
+* [Deactivation](getting-started/deactivation.md)
 
