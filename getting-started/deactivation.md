@@ -15,7 +15,7 @@ In exceptionally rare circumstances, the DAO may pass a proposal to remove an ag
 * Requests to be removed
 * Abuses their voting power
 * Abuses access to internal spaces
-* Violates any member agreements or community standards
+* Violates any agent agreements or community standards
 
 
 
