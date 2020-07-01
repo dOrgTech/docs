@@ -38,7 +38,7 @@ This file may only be altered through DAO proposals.
     "@daostack/arc" : "0.0.1-rc.33",
   },
   "config" : {
-    "rep-rate" : 1, // Rep received per USD earned
+    "rep-rate" : 1.00, // Rep received per USD earned
     "interest-rate" : .00, // Annual compounding rate for DORG Tokens
     "admin-thresh" : 30000, // Rep needed for administrator permissions to spaces
     "deactivation-thresh" : 90, // Days of inactivity to trigger deactivation

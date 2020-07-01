@@ -24,8 +24,8 @@
 * [Rep & Tokens](governance/voting-power.md)
 * [org.json](governance/global-variables.md)
 
-## Resources
+## Glossary
 
-* [Web3 Glossary](resources/glossary.md)
-* [dOrg Glossary](resources/dorg-glossary.md)
+* [Web3](glossary/web3.md)
+* [dOrg](glossary/dorg.md)
 

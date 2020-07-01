@@ -53,7 +53,7 @@ Submit your proposal directly to the DAO with [this template](https://tinyurl.co
 * [x] **Ethereum address** as the _Beneficiary_
 
 {% hint style="warning" %}
-You'll need an Ethereum [wallet](../resources/glossary.md#wallet) with some [gas](../resources/glossary.md#gas) installed in your browser in order to submit the proposal transaction.
+You'll need an Ethereum [wallet](../glossary/web3.md#wallet) with some [gas](../glossary/web3.md#gas) installed in your browser in order to submit the proposal transaction.
 {% endhint %}
 
 ## 4. Wait for the Votes!
