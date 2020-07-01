@@ -10,7 +10,7 @@ A dOrg agent will reach out to schedule an onboarding call, where we will:
 
 * Get to know each other
 * Answer any questions you have
-* Find out how your skills and interests can contribute to our workflows, ongoing projects, and upcoming opportunities
+* Find out how you can contribute to ongoing projects and upcoming opportunities
 
 {% hint style="info" %}
 #### Tips for your session
@@ -30,7 +30,7 @@ You will also be added to the tools and events that keep dOrg agents in sync.
 {% tab title="Keybase" %}
 ![Keybase is an encrypted messaging system, similar to Slack, Discord, or IRC.](../.gitbook/assets/image%20%2837%29.png)
 
-In addition to the [public chat](https://keybase.io/team/dorg.membrane), dOrg has a [private chat](https://keybase.io/team/dorg) to asynchronously coordinate work.
+In addition to the [public chat](https://keybase.io/team/dorg.membrane), dOrg has a [private chat](https://keybase.io/team/dorg) to coordinate asynchronously.
 {% endtab %}
 
 {% tab title="Alchemy" %}
@@ -42,7 +42,7 @@ In addition to the [public chat](https://keybase.io/team/dorg.membrane), dOrg ha
 {% tab title="GitHub" %}
 ![Github is a platform for streamlined version control of projects.](../.gitbook/assets/image%20%2833%29.png)
 
-[Here](https://github.com/dOrgTech/) is where we code and manage project-related tasks.
+[Here](https://github.com/dOrgTech/) is where we code and manage tasks.
 {% endtab %}
 
 {% tab title="Airtable" %}

@@ -41,7 +41,7 @@ In the same proposal, the DAO approves the previous month's budget distribution,
 {% hint style="info" %}
 Auto-generate your internal ops
 
-* \*\*\*\*[Rewards proposal](https://airtable.com/shrvU4AJLC9gCYhEf)
+* Rewards proposal \(coming soon!\)
 * [Expense reimbursement proposal](https://airtable.com/shrHRl0KK72Sl6cWr)
 {% endhint %}
 

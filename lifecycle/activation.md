@@ -41,7 +41,7 @@ Make sure to do the following before moving on:
 * [x] Email your [W-8BEN](https://www.irs.gov/pub/irs-pdf/fw8ben.pdf) \(non-US\) or [W-9](https://www.irs.gov/pub/irs-pdf/fw9.pdf) \(US\) to [notices@dorg.tech](mailto:notices@dorg.tech)
 
 {% hint style="warning" %}
-**W8-BEN** / **W9** forms are needed for tax reporting purposes. This information is forwarded to dOrg's professional accounting provider and will never be seen by other DAO members.
+**W8-BEN** / **W9** forms are needed for tax reporting purposes. This information is forwarded to dOrg's professional accounting provider and will never be seen by other DAO agents.
 {% endhint %}
 
 ## 3. Submit
@@ -64,5 +64,5 @@ If your proposal passes, you will receive **100 USDC** + **100 Rep** and move on
 
 ![Don&apos;t forget to Redeem your proposal after it passes!](../.gitbook/assets/screen-shot-2020-06-26-at-4.30.04-pm%20%281%29.png)
 
-If the DAO rejects your proposal, don't worry – there will be other chances to join dOrg! Currently we expect a steady growth of one or two agents a month. [Reach out](https://keybase.io/team/dorg.membrane) to find out how to improve your chances.
+If the DAO rejects your proposal, don't worry – you can always try again! Currently we expect a steady growth of one or two agents a month. [Reach out](https://keybase.io/team/dorg.membrane) to find out how to improve your chances.
 

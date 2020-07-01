@@ -9,7 +9,7 @@ description: >-
 ![](../.gitbook/assets/image%20%2815%29.png)
 
 {% hint style="danger" %}
-This glossary was made for illustrative and educational purposes only, and _is not meant to be financial or legal advice_. Please do your own research before taking any decisions.
+This glossary was made for informational purposes only, and _is not meant to be financial or legal advice_. Please do your own research before taking any decisions.
 {% endhint %}
 
 ### Open Source
@@ -33,7 +33,7 @@ This glossary was made for illustrative and educational purposes only, and _is n
 > **Web3** is the vision of the serverless internet, a decentralized web. An internet where users are in control of their own data, identity, and destiny.
 
 * [What is Web3?](https://www.youtube.com/watch?v=l44z35vabvA) \(30 Minutes \| Youtube\) 
-* [From Web 1.0 to Web3: How the Internet Grew Over The Years](https://hackernoon.com/from-web-10-to-web3-how-the-internet-grew-over-the-years-zac032g1) \(Article\)
+* [From Web 1.0 to Web3: How the Internet Grew Over The Years](https://hackernoon.com/from-web-10-to-web3-how-the-internet-grew-over-the-years-zac032g1) \(Hackernoon\)
 
 ### Ethereum
 
@@ -42,7 +42,7 @@ This glossary was made for illustrative and educational purposes only, and _is n
 > **Ethereum** is a decentralized platform that runs **smart contracts**: applications that run exactly as programmed without any possibility of downtime, censorship, fraud or third party interference.
 
 * [Wikipedia](https://en.wikipedia.org/wiki/Ethereum)
-* [Ethereum for dummies](https://hackernoon.com/ethereum-for-dummies-af5aeacb13d4) \(Article\)
+* [Ethereum for dummies](https://hackernoon.com/ethereum-for-dummies-af5aeacb13d4) \(Hackernoon\)
 
 ### Smart Contract
 
@@ -74,7 +74,7 @@ contract SimpleStorage {
 
 > **Gas** is the pricing value required to **conduct a transaction** or **execute a contract** on the Ethereum blockchain platform. It can be seen as a **fee** that any user pays when **writing** information into the Ethereum network; this could be a transaction, a deployment of a smart contract, sending a proposal to an organization, just to mention a few. The price of Gas is set by the market \(supply and demand\), and varies over time.
 
-* [What is Ethereum Gas?](https://www.ethos.io/what-is-ethereum-gas/) \(Video and Article\)
+* [What is Ethereum Gas?](https://www.ethos.io/what-is-ethereum-gas/) \(Ethos\)
 
 ### Wallet
 

@@ -21,6 +21,7 @@ This file may only be altered through DAO proposals.
     "Keybase" : "https://keybase.io/team/dorg",
     "Github" : "https://github.com/dOrgTech",
     "Airtable" : "" ,
+    "Zoho" : "",
   },
   "legal" : {
     "name" : "dOrg, LLC",
