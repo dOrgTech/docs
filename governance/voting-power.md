@@ -1,0 +1,24 @@
+# Rep & Tokens
+
+## Reputation \(Rep\)
+
+![](../.gitbook/assets/image%20%2823%29.png)
+
+Reputation translates to **voting power**. Agents currently receive Rep with every dollar earned from the DAO according to the `rep-rate`.
+
+Reputation is **non**-**transferable**, and will always be associated to a **specific wallet address.** Anyone with Rep can **vote** on **proposals** sent to the DAO from their address.
+
+{% hint style="info" %}
+[View dOrg's current reputation distribution on Alchemy](https://alchemy.daostack.io/dao/0x15344ecdc2c4edfcb092e284d93c20f0529fd8a6/members/)
+{% endhint %}
+
+## DORG Tokens
+
+![](../.gitbook/assets/image%20%2816%29.png)
+
+The DORG Token is an [ERC20](../resources/glossary.md#erc20-token) issued by the DAO to track **unpaid obligations**. These unpaid obligations compound overtime according to the `interest-rate`.
+
+{% hint style="info" %}
+[View dOrg's current token distribution on Etherscan](https://etherscan.io/token/0x3b2d0c1b652d5fad3a43f4ada7265371eac050d4)
+{% endhint %}
+

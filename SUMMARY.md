@@ -2,15 +2,30 @@
 
 * [About this Handbook](README.md)
 
-## dOrg
+## Overview
 
-* [Purpose](dorg/purpose.md)
-* [Form & Function](dorg/form-and-function.md)
-* [Principles](dorg/principles.md)
-* [Synchronization](dorg/synchronization.md)
+* [Purpose](overview/purpose.md)
+* [Form & Function](overview/form-and-function.md)
+* [Principles](overview/principles.md)
 
-## Getting Started
+## Lifecycle
 
-* [Activation](getting-started/activation.md)
-* [Deactivation](getting-started/deactivation.md)
+* [Activation](lifecycle/activation.md)
+* [Onboarding](lifecycle/onboarding.md)
+* [Deactivation](lifecycle/deactivation.md)
+
+## Workflows
+
+* [Client Projects](workflows/client-work.md)
+* [Internal Ops](workflows/internal-ops.md)
+
+## Governance
+
+* [Rep & Tokens](governance/voting-power.md)
+* [org.json](governance/global-variables.md)
+
+## Resources
+
+* [Web3 Glossary](resources/glossary.md)
+* [dOrg Glossary](resources/dorg-glossary.md)
 
