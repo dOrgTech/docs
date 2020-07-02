@@ -21,9 +21,9 @@ Create ****something that **enables decentralized organizations**.
 Reach out on [Keybase](https://keybase.io/team/dorg.membrane) to brainstorm or ask questions. Here are some ideas:
 
 * **Visualization** of dOrg's reputation distribution, proposals or cash flow
-* Simple **front end** for interacting with the dOrg DAO
-* Minimum viable DAO **smart contract** or other novel mechanism applicable to DAOs
-* Wire frame **design** for a new DAO dashboard
+* Simple **front-end** for interacting with the dOrg DAO
+* Minimum viable DAO **smart contract**
+* Wireframe **design** for a new DAO dashboard
 * **Product** spec for a new web3 tool
 * Short **research** report on DAO frameworks
 * **Business development** roadmap for DAO adoption in a particular sector/use-case
@@ -64,5 +64,5 @@ If your proposal passes, you will receive **100 USDC** + **100 Rep** and move on
 
 ![Don&apos;t forget to Redeem your proposal after it passes!](../.gitbook/assets/screen-shot-2020-06-26-at-4.30.04-pm%20%281%29.png)
 
-If the DAO rejects your proposal, don't worry – you can always try again! Currently we expect a steady growth of one or two agents a month. [Reach out](https://keybase.io/team/dorg.membrane) to find out how to improve your chances.
+If the DAO rejects your proposal, don't worry – you can always try again! Currently we expect a steady growth of 1-2 agents per month. [Reach out](https://keybase.io/team/dorg.membrane) to find out how to improve your chances.
 
