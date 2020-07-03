@@ -4,7 +4,7 @@ description: Core concepts defined
 
 # dOrg
 
-![](../.gitbook/assets/dorgs2.gif)
+![At dOrg we are creating &quot;digital organisms&quot;](../.gitbook/assets/dorgs2.gif)
 
 **dOrg** - a self-service web3 development agency; structured as a reputation-weighted DAO with legal personality
 
