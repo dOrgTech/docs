@@ -20,13 +20,13 @@ Create ****something that **enables decentralized organizations**.
 
 Reach out on [Keybase](https://keybase.io/team/dorg.membrane) to brainstorm or ask questions. Here are some ideas:
 
-* **Visualization** of dOrg's reputation distribution, proposals or cash flow
+* **Visualization** of dOrg proposal, token or Rep flows
 * Simple **front-end** for interacting with the dOrg DAO
 * Minimum viable DAO **smart contract**
 * Wireframe **design** for a new DAO dashboard
 * **Product** spec for a new web3 tool
 * Short **research** report on DAO frameworks
-* **Business development** roadmap for DAO adoption in a particular sector/use-case
+* **Business** plan for DAO adoption in a particular sector/use-case
 * Article, video, artwork or any type of **content** that explains DAOs or dOrg to a general audience.
 
 Check out [these sample submissions](https://github.com/dOrgTech/activation-challenge-examples) for more.
@@ -49,7 +49,7 @@ Make sure to do the following before moving on:
 Submit your proposal directly to the DAO with [this template](https://tinyurl.com/ydy2pojc). Make sure to include your:
 
 * [x] **Name** in the _Title_
-* [x] **Proof of Work** in the _Description_
+* [x] **Link to your creation** in the _Description_
 * [x] **Ethereum address** as the _Beneficiary_
 
 {% hint style="warning" %}
