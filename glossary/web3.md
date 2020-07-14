@@ -62,11 +62,11 @@ contract SimpleStorage {
 }
 ```
 
-> A **smart contract** is a computer program or a transaction protocol respectively, which is intended to automatically execute, control or document respectively legally relevant events and actions according to the terms of a **contract**, of an agreement or of a negotiation.
+> A **smart contract** is a self-executing agreement where the terms are directly written into a computer program that is deployed to a blockchain.
 
 * [Blockchain and smart contracts](https://www.youtube.com/watch?v=B3cSoWoAkI4) \(7 Minutes \| Youtube\)
+* [What are smart contracts?](https://cointelegraph.com/ethereum-for-beginners/what-are-smart-contracts-guide-for-beginners) \(Cointelegraph\)
 * [What is Solidity?](https://www.youtube.com/watch?v=3i203iTmcFc) \(2 Minutes \| Youtube\)
-* [Example of a Smart Contract created by dOrg](https://github.com/dOrgTech/OpenRaise/blob/d664a45e72673d4108fa3fb40a03691fe1dbd08c/contracts/BondingCurve/token/BondedToken.sol) \(GitHub\)
 
 ### Gas
 
@@ -83,8 +83,7 @@ contract SimpleStorage {
 > A **cryptocurrency wallet** is a device, physical medium, program or a service which stores **public and private keys** and can be used to track ownership, receive or spend **cryptocurrencies**.
 
 * [Intro to Ethereum Wallets](https://docs.ethhub.io/using-ethereum/wallets/intro-to-ethereum-wallets/) \(EthHub\)
-* [What is Metamask?](https://www.youtube.com/watch?v=YVgfHZMFFFQ&feature=youtu.be) \(2 Minutes \| Youtube\)
-* [Metamask](https://metamask.io/index.html), Browser extension that works as a personal “wallet” to hold digital “tokens”
+* [Metamask](https://metamask.io/index.html)
 
 {% hint style="info" %}
 There are many wallet providers other than Metamask. We encourage you to do your research to find the one that best suits your needs.
@@ -94,7 +93,7 @@ There are many wallet providers other than Metamask. We encourage you to do your
 
 ![Tokens are commonly used to represent value, like currency or assets.](../.gitbook/assets/image%20%283%29.png)
 
-> **Ethereum tokens** are simply digital assets built on top of the **Ethereum** blockchain. They can be **created by anyone** with access to the Ethereum network. The **ERC20** is the most popular standards for creating tokens on Ethereum.
+> Ethereum **tokens** are digital assets built on top of the **Ethereum** blockchain. They can be **created by anyone** with access to the Ethereum network. The **ERC20** is the most popular standards for creating tokens on Ethereum.
 
 {% hint style="danger" %}
 Keep in mind that not all tokens hold value, nor are backed by any type of collateral. Be cautious when accepting payments in tokens, as anyone can create their own. As of June 2020 there are nearly 200,000 different tokens registered on the Ethereum Blockchain, the vast majority of which hold no "market value."
