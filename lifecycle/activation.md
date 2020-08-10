@@ -38,10 +38,12 @@ Make sure to do the following before moving on:
 
 * [x] Fill out the [Join Form](https://dorg.tech/join/)
 * [x] Read the [Operating Agreement](https://github.com/dOrgTech/Ecosystem/blob/master/legal/Operating_Agreement.pdf) and [Contractor Agreement](https://github.com/dOrgTech/Ecosystem/blob/master/legal/Contractor_Term_Sheet.pdf)
-* [x] Email your [W-8BEN](https://www.irs.gov/pub/irs-pdf/fw8ben.pdf) \(non-US\) or [W-9](https://www.irs.gov/pub/irs-pdf/fw9.pdf) \(US\) to [notices@dorg.tech](mailto:notices@dorg.tech)
+* [x] Email your [W-8BEN](https://www.irs.gov/pub/irs-pdf/fw8ben.pdf) \(non-US\) or [W-9](https://www.irs.gov/pub/irs-pdf/fw9.pdf) \(US\) to [megan@veriledger.io](mailto:notices@dorg.tech)
 
 {% hint style="warning" %}
-**W8-BEN** / **W9** forms are needed for tax reporting purposes. This information is forwarded to dOrg's professional accounting provider and will never be seen by other DAO agents.
+dOrg has a US-based legal entity that is required to collect **W8-BEN** / **W9s** for any contractors that it pays. These forms are sent directly to dOrg's private accounting provider and will never be seen by any other DAO agents.
+
+The accounting provider uses this information to generate 1099s for all US-based contractors at the end of the fiscal year.
 {% endhint %}
 
 ## 3. Submit
