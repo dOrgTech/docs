@@ -2,9 +2,9 @@
 description: Core concepts defined
 ---
 
-# dOrg
+# dOrg Glossary
 
-![At dOrg we are creating &quot;digital organisms&quot;](../.gitbook/assets/dorgs2.gif)
+![](../.gitbook/assets/dorgs2.gif)
 
 **dOrg** - a self-service web3 development agency; structured as a reputation-weighted DAO with legal personality
 
@@ -15,9 +15,9 @@ description: Core concepts defined
 **Proposal** - basic unit of decision-making for any DAO action \(payments, adding/removing Rep, issuing Tokens, ratifying agreements, modifying the DAO, and more\)
 
 {% hint style="info" %}
-Anyone can **submit** a proposal to the DAO. Anyone with reputation in the DAO can **vote** to approve or reject a proposal. All votes are be **publicly visible** in the [Ethereum](web3.md#ethereum) Blockchain. If the proposal **passes**, anyone can **execute** the action specified.
+Anyone can **submit** a proposal to the DAO. Anyone with reputation in the DAO can **vote** to approve or reject a proposal. All votes are be **publicly visible** in the [Ethereum](glossary.md#ethereum) Blockchain. If the proposal **passes**, anyone can **execute** the action specified.
 
-Submitting, voting and executing proposals costs [Gas](web3.md#gas).
+Submitting, voting and executing proposals costs [Gas](glossary.md#gas).
 {% endhint %}
 
 **DAOstack** - Ethereum-based DAO framework that dOrg is built on; [view the dOrg DAO here](https://alchemy.daostack.io/dao/0x15344ecdc2c4edfcb092e284d93c20f0529fd8a6)

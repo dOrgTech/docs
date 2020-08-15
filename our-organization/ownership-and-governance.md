@@ -4,7 +4,7 @@ dOrg, LLC is a Vermont registered Blockchain-Based Limited Liability Company \(B
 
 ![](../.gitbook/assets/legal.dorg.1.png)
 
-We utilize the DAOstack governance framework to operate our entity as a Decentralized Autonomous Organization \(DAO\). See our DAO on DAOstack's web app ([mainnet](https://alchemy.daostack.io/dao/0x15344ecdc2c4edfcb092e284d93c20f0529fd8a6/members/), [xDAI](https://alchemy-xdai.herokuapp.com/dao/0x94a587478c83491b13291265581cb983e7feb540)).
+We utilize the DAOstack governance framework to operate our entity as a Decentralized Autonomous Organization \(DAO\). [See our DAO on DAOstack's web app.](https://alchemy.daostack.io/dao/0xd358d4f159e6fae32d1b6096bdace829a5fe33fb)
 
 ![](../.gitbook/assets/screen-shot-2019-12-27-at-7.12.00-pm.png)
 
