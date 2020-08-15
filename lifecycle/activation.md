@@ -48,21 +48,21 @@ The accounting provider uses this information to generate 1099s for all US-based
 
 ## 3. Submit
 
-Submit your proposal directly to the xDAI DAO with [this template](https://tinyurl.com/yynwukrb). Make sure to include your:
+Submit your proposal directly to the DAO with [this template](https://tinyurl.com/ydy2pojc). Make sure to include your:
 
 * [x] **Name** in the _Title_
 * [x] **Link to your creation** in the _Description_
 * [x] **Ethereum address** as the _Beneficiary_
 
 {% hint style="warning" %}
-You'll need an Ethereum [wallet](../glossary/web3.md#wallet) with some [gas](../glossary/web3.md#gas) installed in your browser in order to submit the proposal transaction. In addition, you'll need to [become familiar with how to use xDAI](../glossary/web3.md#xdai-network). Please email contact@dorg.tech or send a message in the [#activation Keybase channel](https://keybase.io/team/dorg.membrane) for help getting setup.
+You'll need an Ethereum [wallet](../glossary/web3.md#wallet) with some [gas](../glossary/web3.md#gas) installed in your browser in order to submit the proposal transaction.
 {% endhint %}
 
 ## 4. Wait for the Votes!
 
 Now that your proposal is submitted, dOrg agents will review and vote. Proposals are typically processed in 2 - 7 days. 
 
-If your proposal passes, you will receive **100 xDAI** + **100 Rep** and move on to [Onboarding](onboarding.md).
+If your proposal passes, you will receive **100 USDC** + **100 Rep** and move on to [Onboarding](onboarding.md).
 
 ![Don&apos;t forget to Redeem your proposal after it passes!](../.gitbook/assets/screen-shot-2020-06-26-at-4.30.04-pm%20%281%29.png)
 
