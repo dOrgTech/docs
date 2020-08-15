@@ -36,7 +36,9 @@ In addition to the [public chat](https://keybase.io/team/dorg.membrane), dOrg ha
 {% tab title="Alchemy" %}
 ![Alchemy is a web portal for interacting with the DAOstack protocol.](../.gitbook/assets/imagen%20%281%29.png)
 
-[This](https://alchemy.daostack.io/dao/0x15344ecdc2c4edfcb092e284d93c20f0529fd8a6) is where you submit and vote on **proposals**, view **reputation** scores, and monitor the DAO's **treasury**.
+This is where you submit and vote on **proposals**, view **reputation** scores, and monitor the DAO's **treasury**.  
+
+⚠️ Due to mainnet gas costs, we have both a [mainnet](https://alchemy.daostack.io/dao/0x15344ecdc2c4edfcb092e284d93c20f0529fd8a6/members/) and [xDAI](https://alchemy-xdai.herokuapp.com/dao/0x94a587478c83491b13291265581cb983e7feb540) DAO.
 {% endtab %}
 
 {% tab title="GitHub" %}
