@@ -20,7 +20,7 @@ Anyone can **submit** a proposal to the DAO. Anyone with reputation in the DAO c
 Submitting, voting and executing proposals costs [Gas](web3.md#gas).
 {% endhint %}
 
-**DAOstack** - Ethereum-based DAO framework that dOrg is built on; [view the dOrg DAO here](https://alchemy.daostack.io/dao/0x15344ecdc2c4edfcb092e284d93c20f0529fd8a6)
+**DAOstack** - Ethereum-based DAO framework that dOrg is built on; view the dOrg DAO here ([mainnet](https://alchemy.daostack.io/dao/0x15344ecdc2c4edfcb092e284d93c20f0529fd8a6/members/), [xDAI](https://alchemy-xdai.herokuapp.com/dao/0x94a587478c83491b13291265581cb983e7feb540))
 
 **Agent** - anyone who holds reputation in the DAO; can be active or inactive; [view all active agents here](https://dorg.tech/membrane/)
 
