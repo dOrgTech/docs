@@ -4,7 +4,7 @@ Once your activation proposal passes, you will be onboarded.
 
 ![](../.gitbook/assets/imagen%20%282%29.png)
 
-### Onboarding Session
+## Onboarding Session
 
 A dOrg agent will reach out to schedule an onboarding call, where we will:
 
@@ -13,7 +13,7 @@ A dOrg agent will reach out to schedule an onboarding call, where we will:
 * Find out how you can contribute to ongoing projects and upcoming opportunities
 
 {% hint style="info" %}
-#### Tips for your session
+### Tips for your session
 
 * [x] Tell us more about your background, what you do and what inspires you
 * [x] Propose new ideas
@@ -22,7 +22,7 @@ A dOrg agent will reach out to schedule an onboarding call, where we will:
 * [x] Share any feedback about your experience thus far
 {% endhint %}
 
-### Internal Spaces
+## Internal Spaces
 
 You will also be added to the tools and events that keep dOrg agents in sync.
 
@@ -36,7 +36,9 @@ In addition to the [public chat](https://keybase.io/team/dorg.membrane), dOrg ha
 {% tab title="Alchemy" %}
 ![Alchemy is a web portal for interacting with the DAOstack protocol.](../.gitbook/assets/imagen%20%281%29.png)
 
-[This](https://alchemy.daostack.io/dao/0x15344ecdc2c4edfcb092e284d93c20f0529fd8a6) is where you submit and vote on **proposals**, view **reputation** scores, and monitor the DAO's **treasury**.
+This is where you submit and vote on **proposals**, view **reputation** scores, and monitor the DAO's **treasury**.
+
+Due to Ethereum gas costs, we have both a [mainnet](https://alchemy.daostack.io/dao/0x15344ecdc2c4edfcb092e284d93c20f0529fd8a6/members/) and [xDAI](https://alchemy-xdai.herokuapp.com/dao/0x94a587478c83491b13291265581cb983e7feb540) DAO.
 {% endtab %}
 
 {% tab title="GitHub" %}
@@ -48,7 +50,7 @@ In addition to the [public chat](https://keybase.io/team/dorg.membrane), dOrg ha
 {% tab title="Airtable" %}
 ![AirTable works like a spreadsheet but gives you the power of a database to organize anything.](../.gitbook/assets/imagen%20%289%29.png)
 
-This versatile tool is used to track projects, payments, notes, brand assets, feedback, and much more. 
+This versatile tool is used to track projects, payments, notes, brand assets, feedback, and much more.
 {% endtab %}
 
 {% tab title="Jitsi" %}
@@ -64,7 +66,7 @@ After receiving your @dorg.tech email address, make sure to set it up with your 
 {% endtab %}
 {% endtabs %}
 
-### Feedback
+## Feedback
 
 Once your onboarding experience is complete, please [let us know how it went](https://airtable.com/shrF4OlL4KDIEJ4cw)!
 

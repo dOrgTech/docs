@@ -10,13 +10,13 @@ Follow the instructions below to begin your activation journey.
 
 ## 1. Create
 
-Create ****something that **enables decentralized organizations**.
+Create **\*\*something that** enables decentralized organizations\*\*.
 
 * **Mini-hackathon**: Explore ideas in any domain 
 * Finish within **1 day.**
 
 {% hint style="info" %}
-#### Ideas & Support
+### Ideas & Support
 
 Reach out on [Keybase](https://keybase.io/team/dorg.membrane) to brainstorm or ask questions. Here are some ideas:
 
@@ -34,7 +34,7 @@ Check out [these sample submissions](https://github.com/dOrgTech/activation-chal
 
 ## 2. Check the Boxes
 
-Make sure to do the following before moving on: 
+Make sure to do the following before moving on:
 
 * [x] Fill out the [Join Form](https://dorg.tech/join/)
 * [x] Read the [Operating Agreement](https://github.com/dOrgTech/Ecosystem/blob/master/legal/Operating_Agreement.pdf) and [Contractor Agreement](https://github.com/dOrgTech/Ecosystem/blob/master/legal/Contractor_Term_Sheet.pdf)
@@ -48,21 +48,23 @@ The accounting provider uses this information to generate 1099s for all US-based
 
 ## 3. Submit
 
-Submit your proposal directly to the DAO with [this template](https://tinyurl.com/ydy2pojc). Make sure to include your:
+Submit your proposal directly to the xDAI DAO with [this template](https://tinyurl.com/yynwukrb). Make sure to include your:
 
 * [x] **Name** in the _Title_
 * [x] **Link to your creation** in the _Description_
 * [x] **Ethereum address** as the _Beneficiary_
 
 {% hint style="warning" %}
-You'll need an Ethereum [wallet](../glossary/web3.md#wallet) with some [gas](../glossary/web3.md#gas) installed in your browser in order to submit the proposal transaction.
+You'll need an Ethereum [wallet](../glossary/web3.md#wallet) with some [xDAI](https://github.com/dOrgTech/Handbook/blob/ad57e0b6e99013e3d6a88ba5f379666cfb7715f6/glossary/web3.md#xdai-network) installed in your browser in order to submit the proposal transaction. 
+
+Please email [contact@dorg.tech](mailto:contact@dorg.tech) or send a message in the [\#activation Keybase channel](https://keybase.io/team/dorg.membrane) for help getting setup.
 {% endhint %}
 
 ## 4. Wait for the Votes!
 
-Now that your proposal is submitted, dOrg agents will review and vote. Proposals are typically processed in 2 - 7 days. 
+Now that your proposal is submitted, dOrg agents will review and vote. Proposals are typically processed in 2 - 7 days.
 
-If your proposal passes, you will receive **100 USDC** + **100 Rep** and move on to [Onboarding](onboarding.md).
+If your proposal passes, you will receive **100 xDAI** + **100 Rep** and move on to [Onboarding](onboarding.md).
 
 ![Don&apos;t forget to Redeem your proposal after it passes!](../.gitbook/assets/screen-shot-2020-06-26-at-4.30.04-pm%20%281%29.png)
 

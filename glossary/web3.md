@@ -12,7 +12,7 @@ description: >-
 This glossary was made for informational purposes only, and _is not meant to be financial or legal advice_. Please do your own research before taking any decisions.
 {% endhint %}
 
-### Open Source
+## Open Source
 
 > Software for which the original source code is made **freely available** and **may be redistributed and modified.**
 >
@@ -26,7 +26,7 @@ This glossary was made for informational purposes only, and _is not meant to be 
   * Word Press \(Content management system for web\)
   * Drupal \(Content management system\)
 
-### Web3
+## Web3
 
 ![](https://lh6.googleusercontent.com/WOaT5LWvKxh9eUP6RJ5Ts3js_wgvezRhoErRTouMz_8i9YS8yPiP88NbcvfWXPSy0Rgw0E30z3NhANRdZdFq0k2E2k27ThWaxP4tRfrsCI0cl0TZba2kqpPWtbLJdquuuCKgLU27)
 
@@ -35,7 +35,7 @@ This glossary was made for informational purposes only, and _is not meant to be 
 * [What is Web3?](https://www.youtube.com/watch?v=l44z35vabvA) \(30 Minutes \| Youtube\) 
 * [From Web 1.0 to Web3: How the Internet Grew Over The Years](https://hackernoon.com/from-web-10-to-web3-how-the-internet-grew-over-the-years-zac032g1) \(Hackernoon\)
 
-### Ethereum
+## Ethereum
 
 ![](../.gitbook/assets/image%20%2836%29.png)
 
@@ -44,7 +44,7 @@ This glossary was made for informational purposes only, and _is not meant to be 
 * [Wikipedia](https://en.wikipedia.org/wiki/Ethereum)
 * [Ethereum for dummies](https://hackernoon.com/ethereum-for-dummies-af5aeacb13d4) \(Hackernoon\)
 
-### Smart Contract
+## Smart Contract
 
 ```javascript
 pragma solidity ^0.4.0;
@@ -68,7 +68,7 @@ contract SimpleStorage {
 * [What are smart contracts?](https://cointelegraph.com/ethereum-for-beginners/what-are-smart-contracts-guide-for-beginners) \(Cointelegraph\)
 * [What is Solidity?](https://www.youtube.com/watch?v=3i203iTmcFc) \(2 Minutes \| Youtube\)
 
-### Gas
+## Gas
 
 ![In the Ethereum blockchain, &quot;Gas&quot; is an abstraction of the resources needed to &quot;write&quot; data.](../.gitbook/assets/image%20%2831%29.png)
 
@@ -76,7 +76,7 @@ contract SimpleStorage {
 
 * [What is Ethereum Gas?](https://www.ethos.io/what-is-ethereum-gas/) \(Ethos\)
 
-### Wallet
+## Wallet
 
 ![Different wallets can hold different crypto assets, such as Ether or ERC20 Tokens](../.gitbook/assets/image%20%2813%29.png)
 
@@ -89,7 +89,13 @@ contract SimpleStorage {
 There are many wallet providers other than Metamask. We encourage you to do your research to find the one that best suits your needs.
 {% endhint %}
 
-### ERC20 Token
+## xDAI Network
+
+The Ethereum mainnet has seen tremendous activity in recent months. Because of this, we have created a new instances of our DAO on the [xDAI network](https://www.xdaichain.com/). xDAI is a network that bridges to Ethereum's mainnet, and allows us to create new transactions for a few cents \(in xDAI\).
+
+You can learn about how to setup your Metamask to use xDAI [here](https://www.xdaichain.com/for-users/wallets/metamask/metamask-setup). If you need some xDAI to get started, please either swap ETH for DAI and then use the xDAI bridge, or message a dOrg member and they can send you an xDAI or two to help you get started.
+
+## ERC20 Token
 
 ![Tokens are commonly used to represent value, like currency or assets.](../.gitbook/assets/image%20%283%29.png)
 
@@ -102,7 +108,7 @@ Keep in mind that not all tokens hold value, nor are backed by any type of colla
 * [ERC20 Tokens, Simply Explained](https://www.youtube.com/watch?v=cqZhNzZoMh8) \(6 Minutes \| YouTube\)
 * [The ERC20 standard](https://eips.ethereum.org/EIPS/eip-20) \(Ethereum Improvement Proposal\)
 
-### DAO
+## DAO
 
 ![DAOs are normally organized by members who work together to achieve a common goal.](../.gitbook/assets/image%20%285%29.png)
 

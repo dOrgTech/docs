@@ -8,7 +8,7 @@ description: Core concepts defined
 
 **dOrg** - a self-service web3 development agency; structured as a reputation-weighted DAO with legal personality
 
-**Reputation** - voting weight on proposals to the DAO; non-transferrable 
+**Reputation** - voting weight on proposals to the DAO; non-transferrable
 
 **DORG Token** - token issued by the DAO to track unpaid obligations
 
@@ -20,13 +20,13 @@ Anyone can **submit** a proposal to the DAO. Anyone with reputation in the DAO c
 Submitting, voting and executing proposals costs [Gas](web3.md#gas).
 {% endhint %}
 
-**DAOstack** - Ethereum-based DAO framework that dOrg is built on; [view the dOrg DAO here](https://alchemy.daostack.io/dao/0x15344ecdc2c4edfcb092e284d93c20f0529fd8a6)
+**DAOstack** - Ethereum-based DAO framework that dOrg is built on \([mainnet](https://alchemy.daostack.io/dao/0x15344ecdc2c4edfcb092e284d93c20f0529fd8a6), [xDAI](https://alchemy-xdai.herokuapp.com/dao/0x94a587478c83491b13291265581cb983e7feb540)\)
 
 **Agent** - anyone who holds reputation in the DAO; can be active or inactive; [view all active agents here](https://dorg.tech/membrane/)
 
-**Client**  - entities who contract dOrg for web3 development services
+**Client** - entities who contract dOrg for web3 development services
 
-**3rd Party**  - external entities that dOrg interacts with for services \(SaaS, accountants, lawyers, governments\)
+**3rd Party** - external entities that dOrg interacts with for services \(SaaS, accountants, lawyers, governments\)
 
 **Spaces** - tools utilized by active agents to synchronize workflows
 

@@ -9,7 +9,7 @@ Reputation translates to **voting power**. Agents currently receive Rep with eve
 Reputation is **non**-**transferable**, and will always be associated with a **specific wallet address.** Anyone with Rep can **vote** on **proposals** sent to the DAO from their address.
 
 {% hint style="info" %}
-[View dOrg's current reputation distribution on Alchemy](https://alchemy.daostack.io/dao/0x15344ecdc2c4edfcb092e284d93c20f0529fd8a6/members/)
+View dOrg's current reputation distribution on Alchemy \([mainnet](https://alchemy.daostack.io/dao/0x15344ecdc2c4edfcb092e284d93c20f0529fd8a6/members/), [xDAI](https://alchemy-xdai.herokuapp.com/dao/0x94a587478c83491b13291265581cb983e7feb540)\)
 {% endhint %}
 
 ## DORG Tokens
