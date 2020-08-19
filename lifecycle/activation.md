@@ -19,20 +19,25 @@ Create something that **enables decentralized organizations**.
 Check some [past submissions and additional ideas](https://github.com/dOrgTech/activation-challenge-examples) for inspiration.
 {% endhint %}
 
-### 2. Fill out the Form
+### 2. Install Dependencies
 
-Fill out this [Join Form](https://dorg.tech/join/).  
+Before submitting your proposal, you will need to:
 
-### 3. Submit Proposal
+1. Install a [wallet](../glossary/web3.md#wallet) like Metamask
+2. [Add xDAI Network support](https://www.xdaichain.com/for-users/wallets/metamask/metamask-setup) to your wallet
+3. Sign into [Alchemy](https://alchemy-xdai.herokuapp.com/) \(hit Connect in the top right corner\)
+4. Acquire xDAI by requesting some in the [\#activation channel on Keybase](https://keybase.io/team/dorg.membrane) or buy it yourself from the [xDAI bridge](https://dai-bridge.poa.network/). 
 
-Submitting the join form will redirect you to an auto-generated proposal to the DAO. Make sure to update the proposal with your
+### 3. Submit your Proposal
+
+[Submit this join form](https://airtable.com/shrax93Om9NgA54yK) and then you'll be redirected to an auto-generated proposal in Alchemy.  make sure 
+
+{% hint style="danger" %}
+Before submitting the proposal, make sure to add your
 
 * [x] **Name** in the _Title_
 * [x] **Link to your creation** in the _Description_
 * [x] **Ethereum address** as the _Recipient_
-
-{% hint style="info" %}
-You'll need an Ethereum [wallet](../glossary/web3.md#wallet) like Metamask installed in your browser with some [xDAI](https://github.com/dOrgTech/Handbook/blob/ad57e0b6e99013e3d6a88ba5f379666cfb7715f6/glossary/web3.md#xdai-network) in order to submit the proposal transaction. 
 {% endhint %}
 
 ### 4. Wait for the Votes!
@@ -46,6 +51,6 @@ If your proposal passes, you will receive **100 xDAI** + **100 Rep** and move on
 If the DAO rejects your proposal, don't worry – you can always try again! Currently we expect a steady growth of 1-2 agents per month.
 
 {% hint style="warning" %}
-Reach out at [contact@dorg.tech](mailto:contact@dorg.tech) or send a message in the [\#activation Keybase channel](https://keybase.io/team/dorg.membrane) to brainstorm activation ideas, request some xDAI, or any additional help!
+Reach out at [contact@dorg.tech](mailto:contact@dorg.tech) or send a message in the [\#activation channel on Keybase](https://keybase.io/team/dorg.membrane) to discuss activation ideas, request some xDAI, or any additional help!
 {% endhint %}
 

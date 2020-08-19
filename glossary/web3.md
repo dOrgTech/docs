@@ -93,7 +93,7 @@ There are many wallet providers other than Metamask. We encourage you to do your
 
 The Ethereum mainnet has seen tremendous activity in recent months. Because of this, we have created a new instances of our DAO on the [xDAI network](https://www.xdaichain.com/). xDAI is a network that bridges to Ethereum's mainnet, and allows us to create new transactions for a few cents \(in xDAI\).
 
-You can learn about how to setup your Metamask to use xDAI [here](https://www.xdaichain.com/for-users/wallets/metamask/metamask-setup). If you need some xDAI to get started, please either swap ETH for DAI and then use the xDAI bridge, or message a dOrg member and they can send you an xDAI or two to help you get started.
+You can learn about how to setup your Metamask to use xDAI [here](https://www.xdaichain.com/for-users/wallets/metamask/metamask-setup). If you need some xDAI to get started, please either swap ETH for DAI and then use the [xDAI bridge](https://dai-bridge.poa.network/), or message a dOrg member and they can send you an xDAI or two to help you get started.
 
 ## ERC20 Token
 
