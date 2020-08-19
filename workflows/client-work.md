@@ -6,7 +6,7 @@ dOrg generates revenue through client projects.
 
 Agents can earn both by working on project deliverables and sourcing new projects.
 
-The default distribution of project revenue is 10% for sourcing, 75% for working, and 15% as dOrg's margin. The distribution can vary based on the **Project Specification** approved by the DAO.
+The default distribution of project revenue is 10% for sourcing, 80% for working, and 10% as dOrg's margin. The distribution can vary based on the **Project Specification** approved by the DAO.
 
 {% hint style="info" %}
 The **Project Specification** specifies details like the scope of services, milestone and payment schedule, agent revenue distribution, and legal terms.
