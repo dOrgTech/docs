@@ -30,7 +30,7 @@ Before submitting your proposal, you will need to:
 
 ### 3. Submit your Proposal
 
-[Submit this join form](https://airtable.com/shrax93Om9NgA54yK) and then you'll be redirected to an auto-generated proposal in Alchemy.  make sure 
+[Submit this join form](https://airtable.com/shrax93Om9NgA54yK) and then you'll be redirected to an auto-generated proposal in Alchemy.
 
 {% hint style="danger" %}
 Before submitting the proposal, make sure to add your
