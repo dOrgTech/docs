@@ -23,10 +23,11 @@ Check some [past submissions and additional ideas](https://github.com/dOrgTech/a
 
 Before submitting your proposal, you will need to:
 
-1. Install a [wallet](../glossary/web3.md#wallet) like Metamask
+1. Install a [wallet](../glossary/web3.md#wallet) like [Metamask](https://metamask.io/download.html)
 2. [Add xDAI Network support](https://www.xdaichain.com/for-users/wallets/metamask/metamask-setup) to your wallet
-3. Sign into [Alchemy](https://alchemy-xdai.herokuapp.com/) \(hit Connect in the top right corner\)
-4. Acquire xDAI by requesting some in the [\#activation channel on Keybase](https://keybase.io/team/dorg.membrane) or buy it yourself from the [xDAI bridge](https://dai-bridge.poa.network/). 
+3. Optionally buy some GEN and DAI via your exchange of choice such as [Coinbase](https://www.coinbase.com/)
+4. Sign into [Alchemy](https://alchemy-xdai.herokuapp.com/) \(hit Connect in the top right corner\)
+5. Acquire xDAI and xGEN by requesting some in the [\#activation channel on Keybase](https://keybase.io/team/dorg.membrane) or exchange it yourself via the [xDAI](https://dai-bridge.poa.network/) and [xGEN](https://xgen.daostack.io/) bridges
 
 ### 3. Submit your Proposal
 
@@ -39,6 +40,8 @@ Before submitting the proposal, make sure to add your
 * [x] **Link to your creation** in the _Description_
 * [x] **Ethereum address** as the _Recipient_
 {% endhint %}
+
+Then boost your proposal by clicking the boost button and spending some xGEN (which will be refunded to you if the proposal passes).
 
 ### 4. Wait for the Votes!
 
