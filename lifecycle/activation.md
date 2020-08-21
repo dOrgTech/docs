@@ -25,9 +25,9 @@ Before submitting your proposal, you will need to:
 
 1. Install a [wallet](../glossary/web3.md#wallet) like [Metamask](https://metamask.io/download.html)
 2. [Add xDAI Network support](https://www.xdaichain.com/for-users/wallets/metamask/metamask-setup) to your wallet
-3. Optionally buy some GEN and DAI via your exchange of choice such as [Coinbase](https://www.coinbase.com/)
+3. Optionally buy some GEN, ETH, and DAI via your exchange of choice such as [Coinbase](https://www.coinbase.com/)
 4. Sign into [Alchemy](https://alchemy-xdai.herokuapp.com/) \(hit Connect in the top right corner\)
-5. Acquire xDAI and xGEN by requesting some in the [\#activation channel on Keybase](https://keybase.io/team/dorg.membrane) or exchange it yourself via the [xDAI](https://dai-bridge.poa.network/) and [xGEN](https://xgen.daostack.io/) bridges
+5. Acquire xDAI and xGEN by requesting some in the [\#activation channel on Keybase](https://keybase.io/team/dorg.membrane) or exchange it yourself via the [xDAI](https://dai-bridge.poa.network/) and [xGEN](https://xgen.daostack.io/) [bridges](https://www.xdaichain.com/about-xdai/news-and-information/how-xdai-bridges-create-compatibility-and-interoperability)
 
 ### 3. Submit your Proposal
 
@@ -41,7 +41,9 @@ Before submitting the proposal, make sure to add your
 * [x] **Ethereum address** as the _Recipient_
 {% endhint %}
 
-Then boost your proposal by clicking the boost button and spending some xGEN (which will be refunded to you if the proposal passes).
+Then, follow the prompts on your wallet to submit.
+Optionally, boost your proposal by spending some xGEN to ensure it passes if no one votes against it.
+Your xGEN will be refunded to you upon redemption of the proposal.
 
 ### 4. Wait for the Votes!
 
@@ -49,9 +51,15 @@ Now that your proposal is submitted, dOrg agents will review and vote. Proposals
 
 If your proposal passes, you will receive **100 xDAI** + **100 Rep** and move on to [Onboarding](onboarding.md).
 
+### 5. Redeem your proposal
 ![Don&apos;t forget to Redeem your proposal after it passes!](../.gitbook/assets/screen-shot-2020-06-26-at-4.30.04-pm%20%281%29.png)
 
 If the DAO rejects your proposal, don't worry – you can always try again! Currently we expect a steady growth of 1-2 agents per month.
+
+To redeem your proposal, you will need to:
+1. Click the Redeem for beneficiary button and follow the prompts on your wallet
+2. Use a [DAI bridge](https://dai-bridge.poa.network/) to transfer your DAI back to Ethereum Mainnet
+3. Optionally cash out by transfering it to your exchange of choice and following their process, such as [Coinbase](https://help.coinbase.com/en/coinbase/trading-and-funding/buying-selling-or-converting-crypto/how-do-i-sell-or-cash-out-my-digital-currency)  
 
 {% hint style="warning" %}
 Reach out at [contact@dorg.tech](mailto:contact@dorg.tech) or send a message in the [\#activation channel on Keybase](https://keybase.io/team/dorg.membrane) to discuss activation ideas, request some xDAI, or any additional help!
