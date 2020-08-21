@@ -27,7 +27,7 @@ Before submitting your proposal, you will need to:
 2. [Add xDAI Network support](https://www.xdaichain.com/for-users/wallets/metamask/metamask-setup) to your wallet
 3. Optionally buy some [GEN](https://etherscan.io/token/0x543ff227f64aa17ea132bf9886cab5db55dcaddf), ETH, and [DAI](https://etherscan.io/token/0x6b175474e89094c44da98b954eedeac495271d0f) via your [exchange](https://en.wikipedia.org/wiki/Cryptocurrency_exchange) of choice\*\* such as [Coinbase](https://www.coinbase.com/)
 4. Sign into [Alchemy](https://alchemy-xdai.herokuapp.com/) \(hit Connect in the top right corner\)
-5. Acquire xDAI and xGEN by requesting some in the [\#activation channel on Keybase](https://keybase.io/team/dorg.membrane) or exchange for it yourself via the [xDAI](https://dai-bridge.poa.network/) and [xGEN](https://xgen.daostack.io/) [bridges](https://www.xdaichain.com/about-xdai/news-and-information/how-xdai-bridges-create-compatibility-and-interoperability)
+5. Acquire xDAI and xGEN by requesting some in the [\#activation channel on Keybase](https://keybase.io/team/dorg.membrane) or optionally exchange for it yourself via the [xDAI](https://dai-bridge.poa.network/) and [xGEN](https://xgen.daostack.io/) [bridges](https://www.xdaichain.com/about-xdai/news-and-information/how-xdai-bridges-create-compatibility-and-interoperability)
 
 ### 3. Submit your Proposal
 
@@ -59,7 +59,7 @@ If the DAO rejects your proposal, don't worry – you can always try again! Curr
 To redeem your proposal, you will need to:
 1. Click the Redeem for beneficiary button and follow the prompts on your wallet
 2. Use a [DAI bridge](https://dai-bridge.poa.network/) to transfer your DAI back to Ethereum Mainnet
-3. Optionally cash out by transfering it to your exchange of choice\*\* and following their process, such as [Coinbase's](https://help.coinbase.com/en/coinbase/trading-and-funding/buying-selling-or-converting-crypto/how-do-i-sell-or-cash-out-my-digital-currency) or [Uphold](http://uphold.com/)
+3. Optionally cash out by transfering it to your exchange of choice\*\*, such as [Coinbase](https://help.coinbase.com/en/coinbase/trading-and-funding/buying-selling-or-converting-crypto/how-do-i-sell-or-cash-out-my-digital-currency) or [Uphold](http://uphold.com/), and following their process
 
 {% hint style="danger" %}
 If you have any trouble with redemption, reach out or follow the steps below to troubleshoot:
