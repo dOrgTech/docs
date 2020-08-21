@@ -59,7 +59,7 @@ If the DAO rejects your proposal, don't worry – you can always try again! Curr
 To redeem your proposal, you will need to:
 1. Click the Redeem for beneficiary button and follow the prompts on your wallet
 2. Use a [DAI bridge](https://dai-bridge.poa.network/) to transfer your DAI back to Ethereum Mainnet
-3. Optionally cash out by transfering it to your exchange of choice and following their process, such as [Coinbase's](https://help.coinbase.com/en/coinbase/trading-and-funding/buying-selling-or-converting-crypto/how-do-i-sell-or-cash-out-my-digital-currency)
+3. Optionally cash out by transfering it to your exchange of choice and following their process, such as [Coinbase's](https://help.coinbase.com/en/coinbase/trading-and-funding/buying-selling-or-converting-crypto/how-do-i-sell-or-cash-out-my-digital-currency) or [Uphold](http://uphold.com/)
 
 If you have any trouble with redemption, reach out or follow the steps below to troubleshoot:
 1. Confirm your xDAI by following the transaction [here](https://explorer.anyblock.tools/ethereum/poa/xdai/)
