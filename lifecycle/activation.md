@@ -25,9 +25,8 @@ Before submitting your proposal, you will need to:
 
 1. Install a [wallet](../glossary/web3.md#wallet) like [Metamask](https://metamask.io/download.html)
 2. [Add xDAI Network support](https://www.xdaichain.com/for-users/wallets/metamask/metamask-setup) to your wallet
-3. Optionally buy some [GEN](https://etherscan.io/token/0x543ff227f64aa17ea132bf9886cab5db55dcaddf), ETH, and [DAI](https://etherscan.io/token/0x6b175474e89094c44da98b954eedeac495271d0f) via your [exchange](https://en.wikipedia.org/wiki/Cryptocurrency_exchange) of choice\*\* such as [Coinbase](https://www.coinbase.com/)
-4. Sign into [Alchemy](https://alchemy-xdai.herokuapp.com/) \(hit Connect in the top right corner\)
-5. Acquire xDAI and xGEN by requesting some in the [\#activation channel on Keybase](https://keybase.io/team/dorg.membrane) or optionally exchange for it yourself via the [xDAI](https://dai-bridge.poa.network/) and [xGEN](https://xgen.daostack.io/) [bridges](https://www.xdaichain.com/about-xdai/news-and-information/how-xdai-bridges-create-compatibility-and-interoperability)
+3. Sign into [Alchemy](https://alchemy-xdai.herokuapp.com/) \(hit Connect in the top right corner\)
+4. Acquire xDAI and xGEN by requesting some in the [\#activation channel on Keybase](https://keybase.io/team/dorg.membrane) or optionally exchange for it yourself via the [xDAI](https://dai-bridge.poa.network/) and [xGEN](https://xgen.daostack.io/) [bridges](https://www.xdaichain.com/about-xdai/news-and-information/how-xdai-bridges-create-compatibility-and-interoperability)
 
 ### 3. Submit your Proposal
 
