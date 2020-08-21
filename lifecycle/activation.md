@@ -31,7 +31,7 @@ Before submitting your proposal, you will need to:
 
 ### 3. Submit your Proposal
 
-[Submit this join form](https://airtable.com/shrax93Om9NgA54yK) and then you'll be redirected to an auto-generated proposal in [Alchemy](https://alchemy.daostack.io/).
+[Submit this join form](https://airtable.com/shrax93Om9NgA54yK) and then you'll be redirected to an auto-generated proposal in the [xDAI Alchemy DAO](https://alchemy-xdai.herokuapp.com/).
 
 {% hint style="danger" %}
 Before submitting the proposal, make sure to add your
@@ -69,4 +69,3 @@ If you have any trouble with redemption, reach out or follow the steps below to 
 {% hint style="warning" %}
 Reach out at [contact@dorg.tech](mailto:contact@dorg.tech) or send a message in the [\#activation channel on Keybase](https://keybase.io/team/dorg.membrane) to discuss activation ideas, request some xDAI, or any additional help!
 {% endhint %}
-
