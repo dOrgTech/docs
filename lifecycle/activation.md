@@ -62,7 +62,7 @@ To redeem your proposal, you will need to:
 3. Optionally cash out by transfering it to your exchange of choice and following their process, such as [Coinbase's](https://help.coinbase.com/en/coinbase/trading-and-funding/buying-selling-or-converting-crypto/how-do-i-sell-or-cash-out-my-digital-currency) or [Uphold](http://uphold.com/)
 
 If you have any trouble with redemption, reach out or follow the steps below to troubleshoot:
-1. Confirm your xDAI by following the transaction [here](https://explorer.anyblock.tools/ethereum/poa/xdai/)
+1. Confirm your xDAI has been burned by following the transaction [here](https://explorer.anyblock.tools/ethereum/poa/xdai/)
 2. If it's taking too long to complete (more than 12 hours) check the - balanceDiff value in the [xDAI bridge monitoring API](https://bridge-monitoring.poa.net/xdai)
 3. Check [the Mainnet bridge contract's address in etherscan](https://etherscan.io/address/0x4aa42145aa6ebf72e164c9bbc74fbd3788045016#tokentxns) and verify the status of the recent ERC20 transactions. There should be no reverted or pending transactions.
 
