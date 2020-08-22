@@ -50,7 +50,7 @@ Now that your proposal is submitted, dOrg agents will review and vote. Proposals
 
 If your proposal passes, you will receive **100 xDAI** + **100 Rep** and move on to [Onboarding](onboarding.md).
 
-### 5. Redeem your proposal
+### 5. Redeem your Proposal
 ![Don&apos;t forget to Redeem your proposal after it passes!](../.gitbook/assets/screen-shot-2020-06-26-at-4.30.04-pm%20%281%29.png)
 
 If the DAO rejects your proposal, don't worry – you can always try again! Currently we expect a steady growth of 1-2 agents per month.
@@ -62,16 +62,23 @@ To redeem your proposal, you will need to:
 
 {% hint style="danger" %}
 If you have any trouble with redemption, reach out or follow the steps below to troubleshoot:
+
 1. Confirm your xDAI has been burned by following the transaction [here](https://explorer.anyblock.tools/ethereum/poa/xdai/)
+
 2. If it's taking too long to complete (more than 12 hours) check the - `balanceDiff`` value in the [xDAI bridge monitoring API](https://bridge-monitoring.poa.net/xdai). 
+
 The value of this variable indicates how much money has not been yet transferred between the mainnet and the xDAI chains.
+
 3. Check [the Mainnet bridge contract's address in etherscan](https://etherscan.io/address/0x4aa42145aa6ebf72e164c9bbc74fbd3788045016#tokentxns) and verify the status of the recent ERC20 transactions. 
+
 There should be no reverted or pending transactions.
+
 4. If there are pending transactions and you xDAI was burned over 12 hours ago, ask for help in the internal keybase [\#help channel on Keybase](https://keybase.io/team/dorg), remember to link to the transactions, and we'll give you a hand.
 {% endhint %}
 
 {% hint style="info" %}
-*\*\Choosing a [cryptocurrency exchange](https://en.wikipedia.org/wiki/Cryptocurrency_exchange) is a very personal choice.
+Choosing a [cryptocurrency exchange](https://en.wikipedia.org/wiki/Cryptocurrency_exchange) is a very personal choice.
+
 Choose one that works best with your preferred bank, fiat currency, and country of origin.
 {% endhint %}
 
