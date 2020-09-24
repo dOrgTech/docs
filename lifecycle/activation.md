@@ -16,7 +16,7 @@ Create something that **enables decentralized organizations**.
 * Finish within **1 day.**
 
 {% hint style="info" %}
-Check some [past submissions and additional ideas](https://github.com/dOrgTech/activation-challenge-examples) for inspiration.
+Check some [past submissions](https://github.com/dOrgTech/activation-challenge-examples) for inspiration.
 {% endhint %}
 
 ## 2. Install Dependencies
@@ -25,12 +25,12 @@ Before submitting your proposal, you will need to:
 
 1. Install a [wallet](../glossary/web3.md#wallet) like [Metamask](https://metamask.io/download.html)
 2. [Add xDAI Network support](https://www.xdaichain.com/for-users/wallets/metamask/metamask-setup) to your wallet
-3. Sign into [Alchemy](https://alchemy-xdai.herokuapp.com/) \(hit Connect in the top right corner\)
-4. Acquire xDAI by requesting some in the [\#activation channel on Keybase](https://keybase.io/team/dorg.membrane) or exchange some yourself via the [xDAI bridge](https://dai-bridge.poa.network/). 
+3. Log into [Alchemy](https://alchemy-xdai.herokuapp.com/) with your wallet \(top right corner\)
+4. Request some xDAI in the [\#activation channel on Keybase](https://keybase.io/team/dorg.membrane) or acquire some yourself via the [xDAI bridge](https://dai-bridge.poa.network/). 
 
 ## 3. Submit your Proposal
 
-[Submit this join form](https://airtable.com/shrax93Om9NgA54yK) and then you'll be redirected to an auto-generated proposal in the [xDAI Alchemy DAO](https://alchemy-xdai.herokuapp.com/).
+[Submit this join form](https://airtable.com/shrax93Om9NgA54yK) and then you'll be redirected to an auto-generated proposal on Alchemy.
 
 {% hint style="danger" %}
 Before submitting the proposal, make sure to add your
@@ -40,11 +40,9 @@ Before submitting the proposal, make sure to add your
 * [x] **Ethereum address** as the _Recipient_
 {% endhint %}
 
-Then, follow the prompts on your wallet to submit. Optionally, boost your proposal by staking [xGEN](https://xgen.daostack.io/) to ensure it passes if no one votes against it. Your xGEN will be returned to you upon redemption if the proposal passes.
-
 ## 4. Wait for the Votes!
 
-Now that your proposal is submitted, dOrg agents will review and vote. Proposals are typically processed in 2 - 7 days.
+Now that your proposal is submitted, dOrg builders will review and vote. Proposals are typically processed in 2 - 7 days.
 
 If your proposal passes, you will receive **100 xDAI** + **100 Rep** and move on to [Onboarding](onboarding.md).
 
@@ -52,12 +50,12 @@ If your proposal passes, you will receive **100 xDAI** + **100 Rep** and move on
 
 ![Don&apos;t forget to Redeem your proposal after it passes!](../.gitbook/assets/screen-shot-2020-06-26-at-4.30.04-pm%20%281%29.png)
 
-If the DAO rejects your proposal, don't worry – you can always try again! Currently we expect a steady growth of 1-2 agents per month.
+If the DAO rejects your proposal, don't worry – you can always try again! Currently we expect a steady growth of 1-2 builders per month.
 
 To redeem your proposal, you will need to:
 
 1. Click the "Redeem for beneficiary" and follow the prompts on your wallet
-2. Use the [DAI bridge](https://dai-bridge.poa.network/) to transfer your xDAI to Ethereum Mainnet
+2. Use the [xDAI bridge](https://dai-bridge.poa.network/) to transfer your xDAI to Ethereum Mainnet
 3. Optionally cash out through your cryptocurrency exchange of choice
 
 {% hint style="info" %}
@@ -65,7 +63,7 @@ Choose a [cryptocurrency exchange](https://en.wikipedia.org/wiki/Cryptocurrency_
 {% endhint %}
 
 {% hint style="danger" %}
-If you have any trouble with redemption, reach out or follow the steps below to troubleshoot:
+If you have any trouble with the xDAI bridge, reach out or follow the steps below to troubleshoot:
 
 1. Confirm your xDAI has been burned by following the transaction [here](https://explorer.anyblock.tools/ethereum/poa/xdai/)
 2. If it's taking too long to complete \(more than 12 hours\) check the - \`balanceDiff\`\` value in the [xDAI bridge monitoring API](https://bridge-monitoring.poa.net/xdai). The value of this variable indicates how much money has not been yet transferred between the mainnet and the xDAI chains.

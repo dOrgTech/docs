@@ -8,13 +8,13 @@ As dOrg continues to evolve, guiding principles are taking root.
 
 Maintain the freedoms of freelancing without sacrificing the support structures of employment.
 
-### Act first, Ask later
+### Bias towards Action
 
-If you want to start or change something, go ahead! Very few mistakes are fatal or irreversible, so just try things rather than seeking permission.
+If you want to start or change something, go ahead! Mistakes are usually reversible, so just try things rather than seeking permission.
 
 ### Meritocracy
 
-No titles, managers, or reporting structures. Influence is based on competence and engagement.
+No titles, special privileges, or hierarchical structures. Influence is based on competence and engagement.
 
 ### Simple Models
 

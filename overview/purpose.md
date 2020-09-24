@@ -1,6 +1,6 @@
 # Purpose
 
-### dOrg is a self-service web3 development agency.
+### dOrg is a full stack Web3 development collective.
 
 ![](../.gitbook/assets/imagen%20%288%29.png)
 
@@ -12,7 +12,7 @@ Its genetic code is simple:
 
 1. **Run on web3.**
 
-   Cultivate a technical agency that utilizes web3 to operate. Develop solutions to challenges along the way.
+   Cultivate a builder collective that utilizes web3 to operate. Develop solutions to challenges along the way.
 
 2. **Build on web3.**
 
@@ -20,5 +20,5 @@ Its genetic code is simple:
 
 3. **Iterate and propagate.**
 
-   As web3 matures and gains traction, widen the fold: journalists, filmmakers, plumbers, nurses, construction workers, educators.
+   As web3 matures and gains traction, widen the fold: teachers, journalists, filmmakers, plumbers, nurses, construction workers.
 

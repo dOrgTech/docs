@@ -16,13 +16,17 @@
 
 ## Workflows
 
-* [Client Projects](workflows/client-work.md)
-* [Internal Ops](workflows/internal-ops.md)
+---
 
-## Governance
+* [Finding a Project](finding-projects.md)
+* [Executing](working-on-projects.md)
+* [Getting Paid](getting-paid.md)
 
-* [Rep & Tokens](governance/voting-power.md)
-* [org.json](governance/global-variables.md)
+## Governance <a id="how-dorg-works"></a>
+
+* [Savings](how-dorg-works/value-flow.md)
+* [Rep & Tokens](how-dorg-works/voting-power.md)
+* [org.json](how-dorg-works/global-variables.md)
 
 ## Glossary
 

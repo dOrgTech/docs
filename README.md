@@ -4,7 +4,7 @@ Welcome. This is a guide to how dOrg operates.
 
 ![](.gitbook/assets/cell.jpeg)
 
-* [x] Visit the[ Website](https://dorg.tech) to learn more about dOrg services
+* [x] Visit the[ Website](https://dorg.tech) to learn about dOrg services
 * [x] Get in touch on [Keybase](https://keybase.io/team/dorg.membrane) or`contact@dorg.tech`
 * [x] Attend the next [Open House](https://www.eventbrite.com/e/dorg-open-house-tickets-111892770288)
 

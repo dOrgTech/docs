@@ -6,7 +6,7 @@ Once your activation proposal passes, you will be onboarded.
 
 ## Onboarding Session
 
-A dOrg agent will reach out to schedule an onboarding call, where we will:
+A dOrg builder will reach out to schedule an onboarding call, where we will:
 
 * Get to know each other
 * Answer any questions you have
@@ -24,7 +24,7 @@ A dOrg agent will reach out to schedule an onboarding call, where we will:
 
 ## Internal Spaces
 
-You will also be added to the tools and events that keep dOrg agents in sync.
+You will also be added to the tools and events that keep dOrg builders in sync.
 
 {% tabs %}
 {% tab title="Keybase" %}

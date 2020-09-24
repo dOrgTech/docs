@@ -6,19 +6,17 @@ After gestating as a multisig, dOrg mutated into a reputation-weighted [DAO](../
 
 Since then some basic metabolic processes have emerged.
 
-### Agent Lifecycle
+### Builder Lifecycle
 
-Anyone can join by completing an [activation challenge](../lifecycle/activation.md). Agents [deactivate](../lifecycle/deactivation.md) after 90 days of inactivity but can always reactivate.
+Anyone can join by submitting an [activation challenge](../lifecycle/activation.md). Builders [deactivate](../lifecycle/deactivation.md) after 90 days of inactivity but can always reactivate.
 
 ### Core Workflows
 
-Agents earn by sourcing or working on [client projects](../workflows/client-work.md). The margin on client projects funds [internal operations](../workflows/internal-ops.md).
+Builders collaboratively [find projects](../finding-projects.md), [execute on deliverables](../working-on-projects.md), and [get paid through the DAO](../getting-paid.md).
 
 ### Governance
 
-Agents accumulate [voting power](../governance/voting-power.md#reputation-rep) in proportion to dollars earned and [tokens](../governance/voting-power.md#dorg-tokens) ****in proportion to dollars deferred.
-
-
+The margin on paid projects grow the DAO's [savings](../how-dorg-works/value-flow.md), which builders control through [voting and redemption rights](../how-dorg-works/voting-power.md) accumulated over time. Builders also govern all legal decisions and [organization-wide parameters](../how-dorg-works/global-variables.md).
 
 
 
