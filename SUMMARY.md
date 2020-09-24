@@ -26,7 +26,7 @@
 
 * [Savings](how-dorg-works/value-flow.md)
 * [Rep & Tokens](how-dorg-works/voting-power.md)
-* [org.json](how-dorg-works/global-variables.md)
+* [Global Variables](how-dorg-works/global-variables.md)
 
 ## Glossary
 

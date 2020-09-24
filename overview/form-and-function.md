@@ -16,7 +16,7 @@ Builders collaboratively [find projects](../finding-projects.md), [execute on de
 
 ### Governance
 
-The margin on paid projects grow the DAO's [savings](../how-dorg-works/value-flow.md), which builders control through [voting and redemption rights](../how-dorg-works/voting-power.md) accumulated over time. Builders also govern all legal decisions and [organization-wide parameters](../how-dorg-works/global-variables.md).
+The margin on paid projects grow the DAO's [savings](../how-dorg-works/value-flow.md), which builders control through [voting and redemption rights](../how-dorg-works/voting-power.md) accumulated over time. Builders also govern all legal decisions and [organization-wide variables](../how-dorg-works/global-variables.md).
 
 
 

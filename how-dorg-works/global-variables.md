@@ -1,4 +1,4 @@
-# org.json
+# Global Variables
 
 dOrg's global state variables are defined in its `org.json`.
 
