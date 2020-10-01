@@ -56,7 +56,7 @@ This versatile tool is used to track projects, payments, notes, brand assets, fe
 {% tab title="Jitsi" %}
 ![Jitsi is an open-source, secure, and completely free video conferencing platform.](../.gitbook/assets/jitsi-logo-blue-grey-text.png)
 
-dOrg hosts a biweekly video call for active agents to share updates, ideas, and concerns.
+dOrg uses [Jitsi](https://meet.jit.si/) for most of our synchronous communications.
 {% endtab %}
 
 {% tab title="Zoho" %}
@@ -65,6 +65,16 @@ dOrg hosts a biweekly video call for active agents to share updates, ideas, and 
 After receiving your @dorg.tech email address, make sure to set it up with your preferred [mail](https://www.zoho.com/mail/help/imap-access.html) and [calendar](https://www.zoho.com/calendar/help/caldav-sync-zoho-calendar.html) client.
 {% endtab %}
 {% endtabs %}
+
+## Recurring Events
+
+Once you set up your Zoho, the following events on your calendar. Attendance is totally optional!
+
+| Name | Frequency | Purpose |
+| :--- | :--- | :--- |
+| Sales Funnel | Weekly | Matching builders with projects and evaluating new leads |
+| dOrg Chat | Biweekly | Discussing org-wide updates, ideas, or concerns |
+| Tech Talks | Monthly | Tech Talks hosted by a different dOrg builder each time. |
 
 ## Feedback
 
