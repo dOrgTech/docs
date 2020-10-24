@@ -12,7 +12,7 @@ The execution lead ensures that builders enter and adjust claims on time. The le
 
 ## Dealing with Conflict
 
-Paying yourself in a decentralized organization is not always straightforward! 
+Paying yourself in a decentralized organization is not always straightforward!
 
 * **If you expect your claim to deviate significantly** from what was originally agreed upon, let the rest of the squad know as soon as possible. Avoid quietly over or under working! By communicating openly and transparently, work allocations and payment expectations can be adjusted without conflict.
 * **If conflict arises**, try to understand where each person is coming from and reach a negotiated agreement. Discuss the source of conflict with the builder squad and how to avoid it in the future. 

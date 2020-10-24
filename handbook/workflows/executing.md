@@ -39,6 +39,6 @@ Start strong by arranging a kickoff call with the builder squad to:
 {% endhint %}
 
 {% hint style="warning" %}
-As execution lead, you are the client's **primary point of contact**. Make sure to regularly check-in with the squad and update the client! 
+As execution lead, you are the client's **primary point of contact**. Make sure to regularly check-in with the squad and update the client!
 {% endhint %}
 

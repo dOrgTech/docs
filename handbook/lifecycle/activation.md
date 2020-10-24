@@ -16,7 +16,7 @@ Create something that **enables decentralized organizations**.
 * Finish within **1 day.**
 
 {% hint style="info" %}
-Check some [past submissions](https://github.com/dOrgTech/activation-challenge-examples) for inspiration.
+Check out these [past submissions](https://github.com/dOrgTech/Ops/blob/master/activation.md) for inspiration!
 {% endhint %}
 
 ## 2. Install Dependencies
