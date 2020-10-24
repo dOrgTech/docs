@@ -16,8 +16,6 @@
 
 ## Workflows
 
----
-
 * [Finding a Project](finding-a-project.md)
 * [Executing](executing.md)
 * [Getting Paid](getting-paid.md)
