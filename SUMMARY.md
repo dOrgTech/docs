@@ -22,11 +22,11 @@
 * [Executing](executing.md)
 * [Getting Paid](getting-paid.md)
 
-## Governance <a id="how-dorg-works"></a>
+## Governance
 
-* [Savings](how-dorg-works/savings.md)
-* [Rep & Tokens](how-dorg-works/rep-and-tokens.md)
-* [Global Variables](how-dorg-works/global-variables.md)
+* [Savings](governance/savings.md)
+* [Rep & Tokens](governance/rep-and-tokens.md)
+* [Global Variables](governance/global-variables.md)
 
 ## Glossary
 
