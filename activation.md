@@ -4,7 +4,7 @@
 [More Information Here](https://docs.dorg.tech/lifecycle/activation)
 
 ## Examples
-1. [Micro DAO](TODO) by @dOrgJelli
+1. [Micro DAO](https://github.com/dOrgTech/mini-hack-example) by @dOrgJelli
 2. [Agent Availability Bot](https://github.com/dOrgTech/AgentAvailability/) by @benefacto
 3. [Proposal Listening Bot](https://github.com/linus-stark/dOrg_activation) by @linus-stark
 4. [Decentralized Product Management Spec](https://docs.google.com/document/d/1r3SYoIONQ3pWmyFLaUE68XIvpwC1tcOv9ABPxguHFzk/edit) by @jessebmiller
