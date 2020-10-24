@@ -18,14 +18,14 @@
 
 ---
 
-* [Finding a Project](finding-projects.md)
-* [Executing](working-on-projects.md)
+* [Finding a Project](finding-a-project.md)
+* [Executing](executing.md)
 * [Getting Paid](getting-paid.md)
 
 ## Governance <a id="how-dorg-works"></a>
 
-* [Savings](how-dorg-works/value-flow.md)
-* [Rep & Tokens](how-dorg-works/voting-power.md)
+* [Savings](how-dorg-works/savings.md)
+* [Rep & Tokens](how-dorg-works/rep-and-tokens.md)
 * [Global Variables](how-dorg-works/global-variables.md)
 
 ## Glossary

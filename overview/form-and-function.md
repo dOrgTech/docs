@@ -12,11 +12,11 @@ Anyone can join by submitting an [activation challenge](../lifecycle/activation.
 
 ### Core Workflows
 
-Builders collaboratively [find projects](../finding-projects.md), [execute on deliverables](../working-on-projects.md), and [get paid through the DAO](../getting-paid.md).
+Builders collaboratively [find projects](../finding-a-project.md), [execute on deliverables](../executing.md), and [get paid through the DAO](../getting-paid.md).
 
 ### Governance
 
-The margin on paid projects grow the DAO's [savings](../how-dorg-works/value-flow.md), which builders control through [voting and redemption rights](../how-dorg-works/voting-power.md) accumulated over time. Builders also govern all legal decisions and [organization-wide variables](../how-dorg-works/global-variables.md).
+The margin on paid projects grow the DAO's [savings](../how-dorg-works/savings.md), which builders control through [voting and redemption rights](../how-dorg-works/rep-and-tokens.md) accumulated over time. Builders also govern all legal decisions and [organization-wide variables](../how-dorg-works/global-variables.md).
 
 
 

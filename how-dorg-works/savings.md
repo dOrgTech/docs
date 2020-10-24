@@ -15,7 +15,7 @@ dOrg keeps 10% of every client payment to build a reserve that funds internal op
 
 * Shared services like paid newsletters
 * Apparel and other gifts
-* [DORG token](voting-power.md#dorg-tokens) redemptions
+* [DORG token](rep-and-tokens.md#dorg-tokens) redemptions
 
 ### New Ventures
 
