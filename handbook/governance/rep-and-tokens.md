@@ -19,6 +19,6 @@ View dOrg's current reputation distribution on Alchemy \([mainnet](https://alche
 The DORG Token is an [ERC20](../glossary/web3.md#erc20-token) issued by the DAO to track **unpaid obligations**. These tokens compound overtime according to the `interest-rate` \(coming soon!\).
 
 {% hint style="info" %}
-[View dOrg's current token distribution on Etherscan](https://etherscan.io/token/0x3b2d0c1b652d5fad3a43f4ada7265371eac050d4)
+View dOrg's current token distribution \([mainnet](https://etherscan.io/token/0x3b2d0c1b652d5fad3a43f4ada7265371eac050d4), [xDAI](https://blockscout.com/poa/xdai/tokens/0x76D37cbB1fD75912bfB0cE885c506C77955F5C05/token-transfers)\)
 {% endhint %}
 
