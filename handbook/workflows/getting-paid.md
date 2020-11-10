@@ -12,11 +12,11 @@ Projects have preset checkpoints for distributing compensation to builders.
 We plan to streamline this!
 
 1. Ensure that builders adjust claims until consensus is reached
-2. Individually enter each builder's [**compensation request**](https://airtable.com/shrSsOJJUoM6N6IKL) into Airtable, which will redirecti
+2. Individually enter each builder's [**compensation request**](https://airtable.com/shrSsOJJUoM6N6IKL) into the Airtable form, which will redirect to Alchemy
 3. Post each payment proposal in Alchemy, with
    * Title: "Project Name - Milestone \# - Builder Name"
    * Description: link to the  budget spreadsheet
-   * URL: auto-filled with link to the compensation request record in Airtable \(if there is an error, find the record in the [Transactions table](https://airtable.com/tblMrDMxVayppGF9m/viwhqSpGsDo4i9pkA?blocks=hide) and right click to copy\) 
+   * URL: auto-filled with link to the compensation request record in Airtable \(if there is an issue with the redirect, find the record in the [Transactions table](https://airtable.com/tblMrDMxVayppGF9m/viwhqSpGsDo4i9pkA?blocks=hide) and right click to copy\) 
    * Recipient: find the builder’s ETH address in the [Entities](https://airtable.com/tblZc3HquQ9JWZ5BI/viwDDK5AkfDtTSC45?blocks=hide) table 
    * Enter the amount of xDAI, DXRG \(if builder is claiming payment partially in dOrg's token\), and Reputation \(xDAI + DXRG\) 
 {% endhint %}
