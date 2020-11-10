@@ -1,26 +1,24 @@
 # Getting Paid
 
-Each project has preset payment checkpoints for distributing compensation to builders.
+Projects have preset checkpoints for distributing compensation to builders.
 
-1. At project kickoff, builders **enter claims in the** [**budget spreadsheet**](https://sheet.zoho.com/sheet/open/a4p9k334be0a1097242a3b83d72f227695a48) based on time commitments and task allocations.
-2. As each payment checkpoint approaches, builders **adjust claims** based on actual work done.
-3. Within 5 days of the checkpoint, **post payment proposals** to the DAO.
-
-{% hint style="info" %}
-The execution lead ensures that builders enter and adjust claims on time. The lead can also submit payment proposals on behalf of builders if they prefer.
-{% endhint %}
+1. At project kickoff, the execution lead **sets up the** [**budget spreadsheet**](https://sheet.zoho.com/sheet/open/a4p9k334be0a1097242a3b83d72f227695a48) outlining all checkpoints
+2. As each checkpoint approaches, builders **enter compensation claims** based on time worked and tasks completed.
+3. Within 5 days of each checkpoint, the execution lead **posts compensation proposals** to the DAO.
 
 {% hint style="success" %}
 ### How to post payment
+
 We plan to streamline this!
 
-1. **Post** [**payment request**](https://airtable.com/shrSsOJJUoM6N6IKL) via the Airtable form. (Make sure claims are adjusted - double check with people before putting the proposal in.)
-2. **Post payment proposal** in Alchemy
-* Title field: Project Name - Milestone # - Builder Name
-* Description: link to the budget spreadsheet
-* URL: link to the payment request record in airtable. To find this, go to Transactions in Airtable, the Compensation view, and right click on the invoice ID. 
-* Recipient: To find the builder’s ETH address, go to the Entities tab in Airtable and click on the Builder view.
-* Enter the amount of xDAI to be paid, and DXRG if the builder is claiming payment partially in dOrg’s token.
+1. Ensure that builders adjust claims until consensus is reached
+2. Individually enter each builder's [**compensation request**](https://airtable.com/shrSsOJJUoM6N6IKL) into Airtable, which will redirecti
+3. Post each payment proposal in Alchemy, with
+   * Title: "Project Name - Milestone \# - Builder Name"
+   * Description: link to the  budget spreadsheet
+   * URL: auto-filled with link to the compensation request record in Airtable \(if there is an error, find the record in the [Transactions table](https://airtable.com/tblMrDMxVayppGF9m/viwhqSpGsDo4i9pkA?blocks=hide) and right click to copy\) 
+   * Recipient: find the builder’s ETH address in the [Entities](https://airtable.com/tblZc3HquQ9JWZ5BI/viwDDK5AkfDtTSC45?blocks=hide) table 
+   * Enter the amount of xDAI, DXRG \(if builder is claiming payment partially in dOrg's token\), and Reputation \(xDAI + DXRG\) 
 {% endhint %}
 
 ## Dealing with Conflict
