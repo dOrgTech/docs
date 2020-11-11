@@ -27,6 +27,8 @@ The execution lead is responsible for keeping the project on track. This include
 * **Chats**. Internal builder chat \(Keybase\) and client chat \(Telegram\).
 * **Tasks & Deadlines.** Project board \(Github\) to track the status of each deliverable.
 * **Invoices & Payments**. Send client invoices and and facilitate builder payments at preset checkpoints.
+  * Additionally, at the start of the month, in Airtable set up the transaction rows for all expected payments and builder payouts - in view [Transactions by Project](https://airtable.com/tblMrDMxVayppGF9m/viwlKi5pJJXnrifAC?blocks=hide). This will help make sure payments aren't missed.
+  * When payments come in, and when builder payout proposals have passed and been redeemed, copy the transaction hash into the row.
 
 {% hint style="success" %}
 ### Kickoff
