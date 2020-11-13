@@ -8,7 +8,7 @@ This file may only be altered through DAO proposals.
 ```javascript
 {
   "name" : "dOrg",
-  "description" : "A self-service web3 development agency",
+  "description" : "A full stack Web3 development collective",
   "address" : {
     "mainnet": "0x15344ecdc2c4edfcb092e284d93c20f0529fd8a6",
     "xdai": "0x94a587478c83491b13291265581cb983e7feb540"

@@ -22,6 +22,6 @@ dOrg keeps 10% of every client payment to build a reserve that funds internal op
 * Anything!
 
 {% hint style="info" %}
-The DAO allocates savings on a monthly cadence through organization-wide discussions and consensus.
+The DAO allocates savings through [dOrg Spending Proposals \(DSPs\)](https://github.com/dOrgTech/Ops/tree/master/proposals)
 {% endhint %}
 
