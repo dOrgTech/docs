@@ -8,7 +8,7 @@ As dOrg continues to evolve, guiding principles are taking root.
 
 Maintain the freedoms of freelancing without sacrificing the support structures of employment.
 
-### Bias towards Action
+### Act First, Ask Later
 
 If you want to start or change something, go ahead! Mistakes are usually reversible, so just try things rather than seeking permission.
 
