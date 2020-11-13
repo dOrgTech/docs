@@ -22,6 +22,6 @@ dOrg keeps 10% of every client payment to build a reserve that funds internal op
 * Anything!
 
 {% hint style="info" %}
-The DAO allocates savings through [dOrg Spending Proposals \(DSPs\)](https://github.com/dOrgTech/Ops/tree/master/proposals)
+The DAO allocates savings through [dOrg Spending Proposals \(DSPs\)](https://github.com/dOrgTech/Ops/tree/master/proposals). When creating and voting on DSP’s, check the [DORG RESERVE](https://sheet.zoho.com/sheet/open/a4p9k334be0a1097242a3b83d72f227695a48/sheets/DORG%20RESERVE/ranges/C1) sheet to see a snapshot of current finances.
 {% endhint %}
 
