@@ -12,7 +12,7 @@ Anyone can join by submitting an [activation challenge](../lifecycle/activation.
 
 ### Core Workflows
 
-Builders collaboratively [find projects](), [execute on deliverables](), and [get paid through the DAO]().
+Builders collaboratively [find projects](../workflows/finding-a-project.md), [execute on deliverables](../workflows/executing.md), and [get paid through the DAO](../workflows/getting-paid.md).
 
 ### Governance
 
