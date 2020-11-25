@@ -2,7 +2,7 @@
 
 Projects have preset checkpoints for distributing compensation to builders.
 
-1. At project kickoff, the execution lead **sets up the** [**budget spreadsheet**](https://sheet.zoho.com/sheet/open/a4p9k334be0a1097242a3b83d72f227695a48) outlining all checkpoints
+1. At project kickoff, the execution lead **sets up the** [**budget spreadsheet**](https://docs.google.com/spreadsheets/d/1mwYhzTNXSytzVtACZLu1V_EVTfjPKhGfHu-KhnBFESk) outlining all checkpoints
 2. As each checkpoint approaches, builders **enter compensation claims** based on time worked and tasks completed.
 3. Within 5 days of each checkpoint, the execution lead **posts compensation proposals** to the DAO.
 

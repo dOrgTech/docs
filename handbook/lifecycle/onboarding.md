@@ -39,10 +39,10 @@ In addition to the [public chat](https://keybase.io/team/dorg.membrane), dOrg ha
 [Here](https://github.com/dOrgTech/) is where we code and manage tasks.
 {% endtab %}
 
-{% tab title="Zoho" %}
-![A secure email service with calendar and other productivity tools. ](../.gitbook/assets/image%20%2810%29.png)
+{% tab title="Gmail" %}
+![](../.gitbook/assets/google-workspace-logo.png)
 
-After receiving your @dorg.tech email address, make sure to set it up with your preferred [mail](https://www.zoho.com/mail/help/imap-access.html) and [calendar](https://www.zoho.com/calendar/help/caldav-sync-zoho-calendar.html) client.
+Activate your @dorg.tech email address for mail, calendar, docs, and more.
 {% endtab %}
 
 {% tab title="Airtable" %}
@@ -58,22 +58,17 @@ This is where you submit and vote on **proposals**, view **reputation** scores, 
 
 Due to Ethereum gas costs, we have both a [mainnet](https://alchemy.daostack.io/dao/0x15344ecdc2c4edfcb092e284d93c20f0529fd8a6/members/) and [xDAI](https://alchemy-xdai.herokuapp.com/dao/0x94a587478c83491b13291265581cb983e7feb540) DAO.
 {% endtab %}
-
-{% tab title="Jitsi" %}
-![Jitsi is an open-source, secure, and completely free video conferencing platform.](../.gitbook/assets/jitsi-logo-blue-grey-text.png)
-
-dOrg uses [Jitsi](https://meet.jit.si/) for most of our synchronous communications.
-{% endtab %}
 {% endtabs %}
 
 ## Recurring Events
 
-Once you set up your Zoho, the following events on your calendar. Attendance is totally optional!
+Once you set up your email account, you will have access to the All-Team calendar with the following \(optional\) recurring events:
 
 | Name | Frequency | Purpose |
 | :--- | :--- | :--- |
-| Sales Funnel | Weekly | Match builders with projects and evaluating new leads |
-| Global Sync | Biweekly | Discuss org-wide updates, ideas, or concerns |
+| Project Funnel | Weekly | Match builders with projects and evaluate new leads |
+| Ops Sync | Weekly | Coordinate operational tasks |
+| All Hands Chat | Biweekly | Discuss org-wide updates, ideas, or concerns |
 | Tech Talk | Monthly | A different dOrg builder presents on a topic of interest |
 | Open House | Quarterly | Present updates to the other communities and the general public |
 
