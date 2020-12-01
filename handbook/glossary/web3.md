@@ -37,7 +37,7 @@ This glossary was made for informational purposes only, and _is not meant to be 
 
 ## Ethereum
 
-![](../.gitbook/assets/image%20%2836%29.png)
+![](../.gitbook/assets/image%20%2827%29%20%281%29.png)
 
 > **Ethereum** is a decentralized platform that runs **smart contracts**: applications that run exactly as programmed without any possibility of downtime, censorship, fraud or third party interference.
 

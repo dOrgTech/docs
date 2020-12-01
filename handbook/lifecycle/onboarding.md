@@ -28,7 +28,7 @@ You will also be added to the tools and events that keep dOrg builders in sync.
 
 {% tabs %}
 {% tab title="Keybase" %}
-![Keybase is an encrypted messaging system, similar to Slack, Discord, or IRC.](../.gitbook/assets/image%20%2837%29.png)
+![Keybase is an encrypted messaging system, similar to Slack, Discord, or IRC.](../.gitbook/assets/image%20%2819%29%20%281%29.png)
 
 In addition to the [public chat](https://keybase.io/team/dorg.membrane), dOrg has a [private chat](https://keybase.io/team/dorg) to coordinate asynchronously.
 {% endtab %}
