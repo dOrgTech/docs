@@ -12,7 +12,7 @@ Breakdown why you think dOrg should spend resources on this proposal. Does it cr
 
 ## Anything else you'd like to add?
 
-Add additional details such as timelines, cost breakdowns, or skills needed. 
+Add additional details such as timelines, cost breakdowns, accountability structures, or skills needed. 
 
 ## Cost
 

@@ -1,4 +1,4 @@
-# Website Redesign
+# Landing Page Redesign
 
 **Author(s)**: @orishim
 

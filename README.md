@@ -3,9 +3,9 @@
 
 Resources:
 
-- [Handbook](handbook) - Gitbook source docs for [docs.dorg.tech](https://docs.dorg.tech)
+- [DSPs](DSPs) - dOrg spending proposals
 - [Activation](activation.md) - Past activation challenge submissions
 - [Legal](legal) - Legal agreements for builders
-- [Proposals](proposals) - dOrg spending proposals (DSPs)
+- [Handbook](handbook) - Gitbook source docs for [docs.dorg.tech](https://docs.dorg.tech)
 
 See the `Issues` tab for all open tasks.
