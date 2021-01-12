@@ -26,10 +26,10 @@ This workstream covers the quality of engagement with and within the DAO at any 
 Sample work bins will likely include these and more...
 - Mapping the [Member Journey](https://docs.google.com/document/d/1z47NnQ91T0OvlHFYXhwEY9SSEmz1Tj0MpNeT695XKJE/edit) (Steff)
 - Improve systems for organizing contact lists and running comms (Steff)
-- Keeping our Twitter active (Ingamar? Rob?)
+- Keeping our Twitter active (Bernie)
 - Advising on procedures that improve quality of work (Ori)
 - Getting client feedback and measuring customer happiness (Rob)
- - Builder outreach campaign (Rob)
+- Builder outreach campaign (Rob)
 
 This workstream will lead to new initiatives as well as build off of old / existing ones, such as,
 - [DSP 2: Q4 2020 Ops Roles](https://github.com/dOrgTech/Ops/blob/master/DSPs/002-Ops-Roles.md)
@@ -40,15 +40,20 @@ This workstream will lead to new initiatives as well as build off of old / exist
 
 Accountability:
 - Lead: Steff
+- Hour Commitments:
+  - Steff: 12 hrs/week
+  - Ori: 5-6 hrs/week
+  - Rob: 3-6 hrs/week
+  - Bernie: 1-2 hrs/week
 - Weekly Syncs: Tuesdays @ 10am EDT
 - [Task Board](https://github.com/orgs/dOrgTech/projects/9)
 - [Budget spreadsheet](TODO)
 
 ## Cost x Timeframe
 
-$1,625/week ($19,500 total)
+$1,875/week ($22,500 total)
 - 25 hrs/week
-- $65/hr
+- $75/hr
 - 12 weeks (Jan 4 - Mar 29, 2021)
 
 Payment proposals will be broken down into four 3-week periods.
