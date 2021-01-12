@@ -24,12 +24,20 @@ This workstream covers the quality of engagement with and within the DAO at any 
 - Referrals
 
 Sample work bins will likely include these and more...
-- Mapping the [Member Journey](https://docs.google.com/document/d/1z47NnQ91T0OvlHFYXhwEY9SSEmz1Tj0MpNeT695XKJE/edit) (Steff)
-- Improve systems for organizing contact lists and running comms (Steff)
-- Keeping our Twitter active (Bernie)
-- Advising on procedures that improve quality of work (Ori)
-- Getting client feedback and measuring customer happiness (Rob)
-- Builder outreach campaign (Rob)
+
+IMPROVE THE BUILDER EXPERIENCE (Facilitated by Steff; informed & built by ##various collaborators##)
+- Map the [Member Journey](https://docs.google.com/document/d/1z47NnQ91T0OvlHFYXhwEY9SSEmz1Tj0MpNeT695XKJE/edit) (Steff)
+- Continuously get feedback about builder experiences through focus groups & surveys
+
+BUILD COMMUNICATIONS, SALES & MARKETING STRUCTURES TO HELP US SCALE (Steff/Roberto/Ori)
+- Builder engagement
+- New DAO member recruitment & onboarding
+- New project sourcing
+- Customer success practices
+
+ACTIVATE TWITTER (Bernie)
+
+ADVISING ON OTHER PROPOSALS TO DEVELOP INITIATIVES MORE IN DEPTH
 
 This workstream will lead to new initiatives as well as build off of old / existing ones, such as,
 - [DSP 2: Q4 2020 Ops Roles](https://github.com/dOrgTech/Ops/blob/master/DSPs/002-Ops-Roles.md)
