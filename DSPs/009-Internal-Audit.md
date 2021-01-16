@@ -21,7 +21,7 @@ Other Points to keep in mind:
 - Keep everything OpenSource. This gives credebility to dOrg and creates the possibility to fund the project through Gitcoin Grants in future.  
 - There is a possibility to create an auditing DAO in future
 
-Lead: Shresth, Ori, Steff
+Lead: Shresth
 
 ## Cost
 * 10 hrs/week * 10 weeks * ~50 $/hr = $5k
