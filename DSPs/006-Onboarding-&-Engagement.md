@@ -1,6 +1,6 @@
 # Onboarding & Engagement Q1 2021
 
-**Author(s)**: @steffbrowne
+**Author(s)**: @steffbrowne, @orishim
 
 ## Summary
 
