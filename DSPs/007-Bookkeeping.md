@@ -26,23 +26,26 @@ The dOrg builders will:
 - Synthesize builder agreements
 - Setup [automated bookkeeping](https://cointracking.info) and [invoicing](https://request.network)
 
-Accountability:
+## Cost x Timeframe
+
+Time: 3 Months (Jan 1 - Mar 31, 2021)
+
+| Item | Description | Hours/mo | $/hr |Cost |
+|-|-|-|-|-|
+| *CPA* | Professional tax prep, advisory, and reporting services  | 8 | $240.63 | $5,775 |
+| *dOrg* | Interfacing with CPA and handling other bookkeeping related tasks | 16 | $65 | $3,120 |
+| | Total | 336 | | $8,895 |
+
+The CPA will be paid upfront and dOrg builders will be paid in three 1-month periods.
+
+| Date | Amount |
+|-|-|
+| Dec 31 | $5,775 |
+| Feb 15 | $1,040 |
+| Mar 8 | $1,040 |
+| Mar 29 | $1,040 |
+
+## Accountability
 - Lead: Magenta
 - Biweekly CPA Check-in: TBD
 - [Budget spreadsheet](TODO)
-
-## Cost
-
-TOTAL: $8,895
-
-### CPA
-$1,925/month ($5,775 total)
-- $240/hr
-- 8 hrs/mo
-- 3 months (Jan 1 - Mar 31)
-
-### dOrg
-$1,040/month ($3,120 total)
-- $65/hr
-- 16 hrs/mo
-- 3 months  (Jan 1 - Mar 31)
