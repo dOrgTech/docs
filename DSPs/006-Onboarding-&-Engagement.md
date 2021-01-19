@@ -21,32 +21,42 @@ This workstream covers the quality of engagement with and within the DAO at any 
 - Onboarding
 - Project enrollment
 - Ongoing empowerment
-- Referrals
+- Builder referrals & client sourcing
 
-Sample work bins will likely include these and more...
+Sample tasks will likely include these and more...
+- Map the [Member Journey](https://docs.google.com/document/d/1z47NnQ91T0OvlHFYXhwEY9SSEmz1Tj0MpNeT695XKJE/edit)
+- Gather feedback about builder experiences through focus group surveys
+- Iterate on the website redesign
+- Redesign client proposal template
+- Migrate CRM from Airtable to HubSpot
 
-IMPROVE THE BUILDER EXPERIENCE (Facilitated by Steff; informed & built by ##various collaborators##)
-- Map the [Member Journey](https://docs.google.com/document/d/1z47NnQ91T0OvlHFYXhwEY9SSEmz1Tj0MpNeT695XKJE/edit) (Steff)
-- Continuously get feedback about builder experiences through focus groups & surveys
-
-BUILD COMMUNICATIONS, SALES & MARKETING STRUCTURES TO HELP US SCALE (Steff/Roberto/Ori)
-- Builder engagement
-- New DAO member recruitment & onboarding
-- New project sourcing
-- Customer success practices
-
-ACTIVATE TWITTER (Bernie)
-
-ADVISING ON OTHER PROPOSALS TO DEVELOP INITIATIVES MORE IN DEPTH
-
-This workstream will lead to new initiatives as well as build off of old / existing ones, such as,
+This workstream will lead to new initiatives as well as build off of existing ones, such as:
 - [DSP 2: Q4 2020 Ops Roles](https://github.com/dOrgTech/Ops/blob/master/DSPs/002-Ops-Roles.md)
 - [DSP 4: Landing Page Redesign](https://github.com/dOrgTech/Ops/blob/master/DSPs/004-Landing-Page.md)
 - [DSP 5: Builder Referrals](https://github.com/dOrgTech/Ops/blob/master/DSPs/005-Builder-Referrals.md)
 - [Issue 70 Gamifying QA](https://github.com/dOrgTech/Ops/issues/72)
 - [Issue 72 Improve activation/onboarding funnel](https://github.com/dOrgTech/Ops/issues/70)
 
-Accountability:
+## Cost x Timeframe
+
+Time: 12 Weeks (Jan 4 - Mar 29, 2021)
+
+| Item | Description | Hours/wk | $/hr |Cost |
+|-|-|-|-|-|
+| *Systems Building* | Research, design, and build processes for engagement and onboarding  | 20 | $75 | $18,000 |
+| *Engagement* | Ongoing meetings, emails, chats, and follow-ups | 8 | $60 | $4,800 |
+| | Total | 336 | | $22,800 |
+
+Payment proposals will be broken down into four 3-week periods.
+
+| Date | Amount |
+|-|-|
+| Jan 25 | $5,700 |
+| Feb 15 | $5,700 |
+| Mar 8 | $5,700 |
+| Mar 29 | $5,700 |
+
+## Accountability
 - Lead: Steff
 - Hour Commitments:
   - Steff: 12 hrs/week
@@ -55,13 +65,4 @@ Accountability:
   - Bernie: 1-2 hrs/week
 - Weekly Syncs: Tuesdays @ 10am EDT
 - [Task Board](https://github.com/orgs/dOrgTech/projects/9)
-- [Budget spreadsheet](TODO)
-
-## Cost x Timeframe
-
-$1,875/week ($22,500 total)
-- 25 hrs/week
-- $75/hr
-- 12 weeks (Jan 4 - Mar 29, 2021)
-
-Payment proposals will be broken down into four 3-week periods.
+- [Budget spreadsheet](https://docs.google.com/spreadsheets/d/1mwYhzTNXSytzVtACZLu1V_EVTfjPKhGfHu-KhnBFESk/edit#gid=32799193)
