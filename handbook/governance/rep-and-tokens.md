@@ -9,7 +9,7 @@ Reputation translates to **voting power**. Builders currently receive Rep with e
 Reputation is **non**-**transferable**, and will always be associated with a **specific wallet address.** Anyone with Rep can **vote** on **proposals** sent to the DAO from their address.
 
 {% hint style="info" %}
-View dOrg's current reputation distribution on Alchemy \([mainnet](https://alchemy.daostack.io/dao/0x15344ecdc2c4edfcb092e284d93c20f0529fd8a6/members/), [xDAI](https://alchemy-xdai.herokuapp.com/dao/0x94a587478c83491b13291265581cb983e7feb540)\)
+View dOrg's current reputation distribution on Alchemy \([mainnet](https://alchemy.daostack.io/dao/0x15344ecdc2c4edfcb092e284d93c20f0529fd8a6/members/), [xDAI](https://v1.alchemy.do/dao/0x94a587478c83491b13291265581cb983e7feb540/scheme/0xca275b54cf9e9afc2317778e3e294e01a5b25ce9e082043b64a5cc7f4c4ec2f9)\)
 {% endhint %}
 
 ## DORG Tokens

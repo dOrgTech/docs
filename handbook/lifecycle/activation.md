@@ -25,7 +25,7 @@ Before submitting your proposal, you will need to:
 
 1. Install a [wallet](../glossary/web3.md#wallet) like [Metamask](https://metamask.io/download.html)
 2. [Add xDAI Network support](https://www.xdaichain.com/for-users/wallets/metamask/metamask-setup) to your wallet
-3. Log into [Alchemy](https://alchemy-xdai.herokuapp.com/) with your wallet \(top right corner\)
+3. Log into [Alchemy](https://v1.alchemy.do/dao/0x94a587478c83491b13291265581cb983e7feb540/scheme/0xca275b54cf9e9afc2317778e3e294e01a5b25ce9e082043b64a5cc7f4c4ec2f9) with your wallet \(top right corner\)
 4. Request some xDAI in the [\#activation channel on Keybase](https://keybase.io/team/dorg.membrane) or acquire some yourself via the [xDAI bridge](https://dai-bridge.poa.network/). 
 
 ## 3. Submit your Proposal

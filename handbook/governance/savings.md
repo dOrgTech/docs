@@ -2,7 +2,7 @@
 
 dOrg keeps 10% of every client payment to build a reserve that funds internal operations, builder benefits, and new ventures.
 
-![](../.gitbook/assets/value-flow%20%281%29%20%281%29.png)
+![](../.gitbook/assets/value-flow%20%281%29%20%281%29%20%281%29.png)
 
 ## Internal Operations
 
