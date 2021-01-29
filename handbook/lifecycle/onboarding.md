@@ -1,6 +1,6 @@
 # Onboarding
 
-Once your activation proposal passes, you will be onboarded.
+Once your activation proposal passes, it's time to onboard.
 
 ![](../.gitbook/assets/imagen%20%282%29.png)
 
@@ -30,7 +30,7 @@ You will also be added to the tools and events that keep dOrg builders in sync.
 {% tab title="Discord" %}
 ![](../.gitbook/assets/blog-discord-logo.jpg)
 
-Chat server for asynchronous coordination
+[Chat server](https://discord.com/invite/6Kujmad) for asynchronous coordination
 {% endtab %}
 
 {% tab title="GitHub" %}
@@ -42,7 +42,7 @@ Chat server for asynchronous coordination
 {% tab title="Gmail" %}
 ![](../.gitbook/assets/google-workspace-logo.png)
 
-Activate your @dorg.tech email address for mail, calendar, docs, and more.
+Once you receive your @dorg.tech email address, make sure to [activate the All Team calendar here](https://www.google.com/calendar/render?cid=c_5oo3evrtn2mn00v00oaqb044bc@group.calendar.google.com).
 {% endtab %}
 
 {% tab title="Airtable" %}
