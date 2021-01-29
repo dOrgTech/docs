@@ -6,7 +6,6 @@ Welcome. This is a guide to how dOrg operates.
 
 * [x] Visit the[ Website](https://dorg.tech) to learn about dOrg services
 * [x] Get in touch on [Discord](https://discord.gg/6Kujmad) or`contact@dorg.tech`
-* [x] Attend the next [Open House](https://www.eventbrite.com/e/dorg-open-house-tickets-111892770288)
 
 ## License & Attribution
 
