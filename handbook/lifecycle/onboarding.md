@@ -42,7 +42,7 @@ You will also be added to the tools and events that keep dOrg builders in sync.
 {% tab title="Gmail" %}
 ![](../.gitbook/assets/google-workspace-logo.png)
 
-Once you receive your @dorg.tech email address, make sure to [activate the All Team calendar here](https://www.google.com/calendar/render?cid=c_5oo3evrtn2mn00v00oaqb044bc@group.calendar.google.com).
+We Google workspaceOnce you receive your @dorg.tech email address, make sure to [activate the All Team calendar here](https://www.google.com/calendar/render?cid=c_5oo3evrtn2mn00v00oaqb044bc@group.calendar.google.com).
 {% endtab %}
 
 {% tab title="Airtable" %}
@@ -62,7 +62,7 @@ Due to Ethereum gas costs, we have both a [mainnet](https://alchemy.daostack.io/
 
 ## Recurring Events
 
-Once you set up your email account, you will have access to the All-Team calendar with the following \(optional\) recurring events:
+The following optional events can be found on the [All Team](https://www.google.com/calendar/render?cid=c_5oo3evrtn2mn00v00oaqb044bc@group.calendar.google.com) calendar.
 
 | Name | Frequency | Purpose |
 | :--- | :--- | :--- |
