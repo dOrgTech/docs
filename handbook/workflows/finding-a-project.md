@@ -8,8 +8,8 @@ description: Getting started with your first project.
 
 Builders can monitor the following channels for new opportunities:
 
-* \#biz-dev channel in Keybase,
-* Weekly Sales Funnel call, and
+* \#project-funnel channel in [Discord](https://discord.com/invite/6Kujmad),
+* Weekly Project Funnel call, and
 * [Airtable Project Tracker](https://airtable.com/tblufTXr6zuUl1Aml/viwQrOGh6SblWz1KJ?blocks=hide)
 
 If a project interests you, get in touch with its source or execution lead.

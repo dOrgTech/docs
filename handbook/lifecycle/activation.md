@@ -8,7 +8,16 @@ Follow the instructions below to begin your activation journey.
 
 ![](../.gitbook/assets/plant2.gif)
 
-## 1. Activation Challenge
+## 1. Install Dependencies
+
+Before starting the activation challenge, make sure you
+
+1. Install the[ Metamask](https://metamask.io/download.html) wallet
+2. [Add xDAI support](https://www.xdaichain.com/for-users/wallets/metamask/metamask-setup) to Metamask
+3. Log into [Alchemy](https://v1.alchemy.do/dao/0x94a587478c83491b13291265581cb983e7feb540/scheme/0xca275b54cf9e9afc2317778e3e294e01a5b25ce9e082043b64a5cc7f4c4ec2f9) with your wallet \(top right corner\)
+4. Request some xDAI in the \#activation channel on [Discord](https://discord.gg/6Kujmad) or acquire some yourself via the [xDAI bridge](https://dai-bridge.poa.network/). 
+
+## 2. Activation Challenge
 
 Create something that **enables decentralized organizations**.
 
@@ -18,15 +27,6 @@ Create something that **enables decentralized organizations**.
 {% hint style="info" %}
 Check out these [past submissions](https://github.com/dOrgTech/Ops/blob/master/activation.md) for inspiration!
 {% endhint %}
-
-## 2. Install Dependencies
-
-Before submitting your proposal, you will need to:
-
-1. Install a [wallet](../glossary/web3.md#wallet) like [Metamask](https://metamask.io/download.html)
-2. [Add xDAI Network support](https://www.xdaichain.com/for-users/wallets/metamask/metamask-setup) to your wallet
-3. Log into [Alchemy](https://v1.alchemy.do/dao/0x94a587478c83491b13291265581cb983e7feb540/scheme/0xca275b54cf9e9afc2317778e3e294e01a5b25ce9e082043b64a5cc7f4c4ec2f9) with your wallet \(top right corner\)
-4. Request some xDAI in the [\#activation channel on Keybase](https://keybase.io/team/dorg.membrane) or acquire some yourself via the [xDAI bridge](https://dai-bridge.poa.network/). 
 
 ## 3. Submit your Proposal
 
@@ -68,10 +68,10 @@ If you have any trouble with the xDAI bridge, reach out or follow the steps belo
 1. Confirm your xDAI has been burned by following the transaction [here](https://explorer.anyblock.tools/ethereum/poa/xdai/)
 2. If it's taking too long to complete \(more than 12 hours\) check the - \`balanceDiff\`\` value in the [xDAI bridge monitoring API](https://bridge-monitoring.poa.net/xdai). The value of this variable indicates how much money has not been yet transferred between the mainnet and the xDAI chains.
 3. Check [the Mainnet bridge contract's address in etherscan](https://etherscan.io/address/0x4aa42145aa6ebf72e164c9bbc74fbd3788045016#tokentxns) and verify the status of the recent ERC20 transactions. There should be no reverted or pending transactions.
-4. If there are pending transactions and you xDAI was burned over 12 hours ago, ask for help in the internal keybase [\#help channel on Keybase](https://keybase.io/team/dorg), remember to link to the transactions, and we'll give you a hand.
+4. If there are pending transactions and you xDAI was burned over 12 hours ago, ask for help in [Discord](https://discord.gg/6Kujmad). Remember to link to the transactions, and we'll give you a hand.
 {% endhint %}
 
 {% hint style="warning" %}
-Reach out at [contact@dorg.tech](mailto:contact@dorg.tech) or send a message in the [\#activation channel on Keybase](https://keybase.io/team/dorg.membrane) to discuss activation ideas, request some xDAI, or any additional help!
+Reach out at [contact@dorg.tech](mailto:contact@dorg.tech) or send a message in the \#activation channel on [Discord](https://discord.gg/6Kujmad) to discuss activation ideas, request some xDAI, or any additional help!
 {% endhint %}
 

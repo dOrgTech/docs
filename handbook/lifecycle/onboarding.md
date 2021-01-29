@@ -27,10 +27,10 @@ A dOrg builder will reach out to schedule an onboarding call, where we will:
 You will also be added to the tools and events that keep dOrg builders in sync.
 
 {% tabs %}
-{% tab title="Keybase" %}
-![Keybase is an encrypted messaging system, similar to Slack, Discord, or IRC.](../.gitbook/assets/image%20%2819%29%20%281%29.png)
+{% tab title="Discord" %}
+![](../.gitbook/assets/blog-discord-logo.jpg)
 
-In addition to the [public chat](https://keybase.io/team/dorg.membrane), dOrg has a [private chat](https://keybase.io/team/dorg) to coordinate asynchronously.
+Chat server for asynchronous coordination
 {% endtab %}
 
 {% tab title="GitHub" %}

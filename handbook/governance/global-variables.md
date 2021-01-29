@@ -21,7 +21,7 @@ This file may only be altered through DAO proposals.
     "Medium" : "https://medium.com/dorg-tech",
   },
   "spaces" : {
-    "Keybase" : "https://keybase.io/team/dorg",
+    "Discord" : "https://discord.com/invite/6Kujmad",
     "Github" : "https://github.com/dOrgTech",
     "Airtable" : "" ,
     "Google" : "",
