@@ -2,10 +2,10 @@
 
 Welcome. This is a guide to how dOrg operates.
 
-![](.gitbook/assets/cell.jpeg)
-
-* [x] Visit the[ Website](https://dorg.tech) to learn about dOrg services
 * [x] Get in touch on [Discord](https://discord.gg/6Kujmad) or`contact@dorg.tech`
+* [x] Visit the[ Website](https://dorg.tech) to learn about our services
+
+![](.gitbook/assets/cell.jpeg)
 
 ## License & Attribution
 
