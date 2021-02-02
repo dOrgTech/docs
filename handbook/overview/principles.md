@@ -6,7 +6,7 @@ As dOrg continues to evolve, guiding principles are taking root.
 
 ### Freedom & Support
 
-Maintain the freedoms of freelancing without sacrificing the support structures of employment.
+Enjoy the freedoms of freelancing without sacrificing the support structures of employment.
 
 ### Act First, Ask Later
 
