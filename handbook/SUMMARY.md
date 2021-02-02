@@ -17,7 +17,7 @@
 ## Workflows
 
 * [Finding a Project](workflows/finding-a-project.md)
-* [Executing](workflows/executing.md)
+* [Building](workflows/building.md)
 * [Getting Paid](workflows/getting-paid.md)
 
 ## Governance

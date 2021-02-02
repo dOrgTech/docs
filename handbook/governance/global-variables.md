@@ -42,10 +42,11 @@ This file may only be altered through DAO proposals.
     "@daostack/arc" : "0.0.1-rc.33",
   },
   "config" : {
-    "rep-rate" : 1.00, // Rep received per USD earned
-    "interest-rate" : .00, // Annual compounding rate for DORG Tokens
-    "admin-thresh" : 30000, // Rep needed for administrator permissions to spaces
+    "interest-rate" : .025, // Annual compounding rate for DORG Tokens
     "deactivation-thresh" : 90, // Days of inactivity to trigger deactivation
+    "sourcing-rate" : 0.10, // % distributed to sourcing leads
+    "savings-rate" : 0.10, // % retained by the DAO
+    "referral-rate" : 0.05 // Rewarded on first $100k earned by referred builder
   },
 }
 ```
