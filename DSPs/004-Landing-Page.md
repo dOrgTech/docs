@@ -30,11 +30,12 @@ Our website needs to be up to date with our portfolio and how we work in order t
 
 ### Builders
 - Roberto: design contest lead
-- Ben: implementation lead
+- Ben: coordination lead
+- Kris: implementation
 - Open to help from all other builders on design contest and implementation
 
 ## Cost
 
-Up to $4,000
+Up to $9,000
 - $2,000 - Design ($1780 design contest + $220 internal work)
-- $2,000 - Implementation (internal)
+- $7,000 + 1,000 DXRG - Implementation (internal)
