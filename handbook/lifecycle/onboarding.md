@@ -66,10 +66,7 @@ The following optional events can be found on the [All Team](https://www.google.
 
 | Name | Frequency | Purpose |
 | :--- | :--- | :--- |
-| Project Funnel | Weekly | Match builders with projects and evaluate new leads |
-| Ops Sync | Weekly | Coordinate operational tasks |
 | All Hands Chat | Biweekly | Discuss org-wide updates, ideas, or concerns |
-| Tech Talk | Monthly | A different dOrg builder presents on a topic of interest |
 | Open House | Quarterly | Present updates to the other communities and the general public |
 
 ## Feedback

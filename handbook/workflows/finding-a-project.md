@@ -4,14 +4,11 @@ description: Getting started with your first project.
 
 # Finding a Project
 
-## Join an upcoming project
+## Join a project
 
-Builders can monitor the following channels for new opportunities:
+Builders can monitor the \#project-funnel channel in Discord for upcoming opportunities.
 
-* \#project-funnel channel in [Discord](https://discord.com/invite/6Kujmad),
-* Weekly project funnel call
-
-If a project interests you, get in touch with its coordination or sourcing lead.
+To join an ongoing project, get in touch with the coordinator listed in the project's pinned message on Discord. 
 
 ## Source a new project
 
