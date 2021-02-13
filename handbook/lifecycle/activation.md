@@ -30,7 +30,7 @@ Check out [past submissions](https://github.com/dOrgTech/Ops/blob/master/activat
 
 ## 3. Submit your Proposal
 
-Now it's time to submit your work to the DAO for acceptance. Simply [fill out this form](https://share.hsforms.com/1qdN5EBi_SJW7U1c5cJigUw5gqvx) and then [submit this pre-filled proposal](https://tinyurl.com/4r8s9ar4)!
+Now it's time to submit your work to the DAO for acceptance. Simply [fill out this form](https://share.hsforms.com/1qdN5EBi_SJW7U1c5cJigUw5gqvx) and then [submit this pre-filled proposal](https://tinyurl.com/1mneo4c6)!
 
 {% hint style="danger" %}
 Make sure to read the legal documents that you are agreeing to by submitting the proposal:
