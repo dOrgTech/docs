@@ -45,12 +45,6 @@ You will also be added to the tools and events that keep dOrg builders in sync.
 We Google workspaceOnce you receive your @dorg.tech email address, make sure to [activate the All Team calendar here](https://www.google.com/calendar/render?cid=c_5oo3evrtn2mn00v00oaqb044bc@group.calendar.google.com).
 {% endtab %}
 
-{% tab title="Airtable" %}
-![Airtable bases are like spreadsheets with database superpowers](../.gitbook/assets/imagen%20%289%29.png)
-
-Sign-in to Airtable with your @dorg.tech email address and request access to the [Nucleus base](https://airtable.com/tblufTXr6zuUl1Aml), where we track projects, transactions and more. Then check out the [Signals base](https://airtable.com/tbl5wOpNW0pcgwiQW) to discover meeting notes, brand assets, and feedback forms.
-{% endtab %}
-
 {% tab title="Alchemy" %}
 ![Alchemy is a web portal for interacting with the DAOstack protocol.](../.gitbook/assets/imagen%20%281%29.png)
 
@@ -71,7 +65,7 @@ The following optional events can be found on the [All Team](https://www.google.
 
 ## Feedback
 
-Once your onboarding experience is complete, please [let us know how it went](https://airtable.com/shrF4OlL4KDIEJ4cw)!
+Once your onboarding experience is complete, please let us know how it went!
 
 {% hint style="success" %}
 If you have reached this point, you should be ready to start exploring projects you can contribute to. Move on to learn about our workflows for creating value together.
