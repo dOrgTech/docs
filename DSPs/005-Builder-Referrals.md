@@ -12,13 +12,13 @@ For dOrg to continue to provide high quality service and take on exciting projec
 
 ## Anything else you'd like to add?
 
-The incentive will be equivalent to 5% of the referred builder's first $100k earned from client work. dOrg currently makes 12.5 cents on every dollar earned by a builder on client work. In the case of a referred builder, dOrg would effectively be earning 7.5 cents instead, with the remaining 5 cents going to the referrer.
+The incentive will be equivalent to 10% of the referred builder's first $50k earned from client work. dOrg currently makes 12.5 cents on every dollar earned by a builder on client work. In the case of a referred builder, dOrg would effectively earn 2.5 cents instead, with the remaining 10 cents going to the referrer.
 
 In order to simplify the tracking overhead, referral incentives will be payable to referrers at 4 milestones:
-1. $10k (-> $500)
-2. $25k (-> $750)
-3. $50k (-> $1250)
-4. $100k (-> $2500)
+1. $5k (-> $500)
+2. $15k (-> $1000)
+3. $25k (-> $1000)
+4. $50k (-> $2500)
 
 (Max Commission: $5,000 total)
 
