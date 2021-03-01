@@ -15,11 +15,15 @@ Projects have preset checkpoints for distributing compensation to builders.
 | xDAI | Same as Reputation, unless you elect to receive a portion of your payout in DXRG |
 | DXRG | Portion of your payout that you want to receive in DXRG \(1 DXRG = 1 xDAI\) |
 
+{% hint style="info" %}
+For every compensation proposal, `Reputation = xDAI + DXRG`
+{% endhint %}
+
 ## Dealing with Conflict
 
 Paying yourself in a decentralized organization is not always straightforward!
 
-* **If you expect your claim to deviate significantly** from what was originally agreed upon, let the rest of the squad know as soon as possible. Avoid quietly over or under working! By communicating openly and transparently, work allocations and payment expectations can be adjusted without conflict.
-* **If conflict arises**, try to understand where each person is coming from and reach a negotiated agreement. Discuss the source of conflict with the builder squad and how to avoid it in the future. 
+* **If you expect your claim to deviate significantly** from what was originally agreed upon, let the project coordinator know know as soon as possible. Avoid quietly over or under working! By communicating openly and transparently, expectations can be adjusted without conflict.
+* **If conflict arises**, try to understand where each person is coming from and reach a mutually agreeable outcome. Leverage the project's coordinator and the rest of the builder squad to help. 
 * **If local consensus cannot be reached**, the wider DAO can ultimately decide on the final payment allocation. 
 
