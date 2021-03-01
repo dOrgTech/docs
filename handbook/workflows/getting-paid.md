@@ -4,7 +4,7 @@ Projects have preset checkpoints for distributing compensation to builders.
 
 1. At project kickoff, the coordinator **sets up the** [**budget sheet**](https://docs.google.com/spreadsheets/d/1mwYhzTNXSytzVtACZLu1V_EVTfjPKhGfHu-KhnBFESk) outlining all checkpoints
 2. As each checkpoint approaches, builders **enter compensation claims** based on time worked and tasks completed.
-3. Once builders have reached consensus on claims, or each builder **posts compensation proposals to** [**Alchemy**](https://alchemy.daostack.io/dao/0x94a587478c83491b13291265581cb983e7feb540/scheme/0xca275b54cf9e9afc2317778e3e294e01a5b25ce9e082043b64a5cc7f4c4ec2f9)**:**
+3. Once builders have reached consensus, each builder **posts a compensation proposal to** [**Alchemy**](https://alchemy.daostack.io/dao/0x94a587478c83491b13291265581cb983e7feb540/scheme/0xca275b54cf9e9afc2317778e3e294e01a5b25ce9e082043b64a5cc7f4c4ec2f9)**:**
 
 | Field | Value |
 | :--- | :--- |
