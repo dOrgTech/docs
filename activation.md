@@ -25,6 +25,12 @@
 19. [Builder referral reward model](https://www.notion.so/dOrg-writeup-d8c190e23cc34f989e9023dfd2a31029) by Ron
 20. [Web3 Payroll App](https://github.com/nestorbe/payrollTS) by Nestor B.
 20. [Mobile design for Balancer Exchange dApp](https://www.figma.com/file/i6MokLTORQKexECogLMUCw/Balancer-Mobile) by Alana
+21. [EtherealIce](https://github.com/MQDuck/EtherealIce-Contract) by Jeff
+22. [Flash Loan Swap](https://github.com/reddyismav/flash-loan-swap/tree/master) by Vamsi
+23. [Popcorn DAO](https://docs.google.com/document/d/1bNM4oYOqyJ9C28PcnUJBhdDDoHogaOwtSLoY-dBkPxg/edit) by Anthony
+24. [DAO Browser](https://github.com/MountVase/DAObrowser) by Markus
+25. [dOrg Rebrand](https://drive.google.com/file/d/1WkMceH9x7pGPj9E-AwIkvz0ItSgUWBcP/view) by Lauren
+26. [Comms Campaign](https://docs.google.com/document/d/1BRpqB8oKOuHBPssn5U9JhqdkHm3bUnUvMa3311ZIkK8/edit) by Ernesto
 
 ## Additional Ideas
 - **Visualization** of dOrg proposal, token or Rep flows
