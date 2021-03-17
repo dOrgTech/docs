@@ -36,6 +36,7 @@ On top of this, the end product is something that can be forked, and will also f
     - Basic style and components
     - Mock-ups - not for every page, but enough to flesh out some of the more complex UI
     - Static site without web3 integrations
+    - I can handle most of the frontend development myself, but will probably need somewhere around 2-3hrs of development mentorship/support per week during this phase.
 
 - **Feedback & Advisory** Ongoing (~1 hr/wk)
     - Internal feedback and advice
