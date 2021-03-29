@@ -25,6 +25,7 @@
 * [Savings](governance/savings.md)
 * [Rep & Tokens](governance/rep-and-tokens.md)
 * [Global Variables](governance/global-variables.md)
+* [Code of Ethics](governance/code-of-ethics.md)
 
 ## Glossary
 
