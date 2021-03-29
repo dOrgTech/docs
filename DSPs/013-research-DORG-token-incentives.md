@@ -22,6 +22,42 @@ Builders at dOrg are choosing to invest their hard earned money back into the in
 
 Since there is no utility, way to redeem, or way to earn additional returns on `DORG` tokens, currently, the builders who receive `DORG` tokens are for all intents and purposes giving their money to dOrg.
 
+### Further Explanation
+
+dOrg currently has two ways of raising cash:
+
+- Through the 10% cut it takes from client projects (revenue)
+- Builders choosing to receive `DORG` tokens instead of `DAI` (debt)
+
+As the number of client projects increase, so will dOrg's revenue through that method.
+However there may be cases where dOrg needs more cash than it gets through revenue.
+Exploring how dOrg can raise cash by taking on debt, so that if it needed to do so, helps us be better prepared to make decisions in the future.
+
+If dOrg found itself in a situation where it needed cash, having plans on how to incentivize builders into investing into dOrg will be helpful.
+
+### Examples
+
+Some examples to illustrate how this might play out:
+
+None of these examples, or the numbers mentioned in the examples, should be considered final, and are merely ideas which need to be more carefully analyzed.
+
+#### Extra Rep during time window
+
+dOrg wants to raise $10,000 through issuing `DORG` tokens.  
+dOrg declares that any builders choosing to take `DORG` tokens instead of `DAI` as payment, for the next 2 weeks, will be granted an extra 50% `REP` tokens.  
+After 2 weeks, dOrg can either continue or discontinue the additional `REP` token grants.
+
+#### Limited extra rep per month
+
+dOrg declares that builders can receive 20% more `REP` tokens on the first 1000 `DORG` tokens they receive in place of `DAI`.  
+This limit can reset every month.
+
+#### Rep Pool
+
+dOrg declares that 5000 bonus `REP` will be proportionally given to all builders who choose to take `DORG` tokens as payment in place of `DAI`.
+
+This pool is given at the end a month.
+
 ## Outcomes
 
 There are a few outcomes of this DSP.
@@ -30,9 +66,7 @@ There are a few outcomes of this DSP.
 
 Research and explore this statement:
 
-> Whenever a builder chooses to receive payment in `DORG` tokens, they should receive an additional amount of `REP` tokens. How much should they receive and in what ways can dOrg leverage this additional reward to raise funds while still maintaining it's organizational values.
-
-The exact amount of additional rep a builder should receive needs to be carefully thought out and could change over time.
+> How can dOrg incentivize builders into receiving `DORG` tokens instead of `DAI` as payment by giving additional `REP` tokens, so that dOrg can raise funds?
 
 ### Interview
 
