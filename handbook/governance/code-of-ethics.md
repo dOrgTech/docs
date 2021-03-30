@@ -6,7 +6,7 @@ To ensure that dOrg remains an exceptional place to work and a valuable service 
 The following behaviors should be avoided:
 
 * Accepting work from dOrg clients/partners independently without paying a referral fee (20%) to dOrg for sourcing said work
-* Deletion or malicious alteration of communications/comments/messages on dOrg channels except, in cases, where ethical violations have occurred and such action has been approved by dOrg moderators
+* Deletion or signifcant alteration of communications/comments/messages on dOrg channels except, in cases, where ethical violations have occurred and such an enforcement action has been approved by dOrg moderators
 * Engagement in abuse, discrimination, disrespect, harassment, or promotion of said or otherwise offensive content against/to any prospective/past/current dOrg client/partner/builder
 * Exertion of personal copyright over any work prepared for, paid for by, or otherwise commissioned by dOrg, or any past/current dOrg client/partner
 * Obstruction of dOrg operations through 'down staking' of DAO proposals except, in cases, where the proposer has admitted that a wish to rescind their proposal and/or a significant enough margin of voters have expressed a wish to change their votes such that the outcome (passing or failing) of the proposal would be otherwise changed
