@@ -9,9 +9,8 @@ Builders can continuously flow in and out of dOrg.
 Any builder that becomes inactive (does not pass a proposal for 90 days) is deactivated.
 
 * Removed from all internal spaces
-* Retains all accumulated Tokens
-* Loses all accumulated Rep while deactivated
-* Can reactivate and regain former Rep at any time by passing a proposal
+* Retains all accumulated Rep and Tokens
+* Can reactivate at any time by passing a proposal
 
 ### Exceptional Circumstances
 
