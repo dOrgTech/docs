@@ -18,28 +18,28 @@ The following behaviors should be avoided:
 
 ## Enforcement
 dOrg follows the principle of restorative justice when avoided behaviors occur but builds in certain safeguards to protect the collective as a whole.
+All enforcement proposals should be evaluated by the DAO based on whether the enforcement processes outlined here were followed and whether the enforcement option selected is proportionate.
+If an enforcement proposal fails, the member is considered to be then in good standing with dOrg, regains any access to internal spaces they may have lost, and no further action is neccesary.
 
 1. When an avoided behavior seems to have occured, the offender(s) should first be contacted directly in order to reach an accord. Perhaps, the offender(s) made (a) mistake(s) and are/is prepared to immediately rectify it themselves. 
 2. If this is not possible, those affected should contact dOrg moderators to mitigate any immediate damage that may have occured and schedule a mediation between the victim(s) & the offender(s). A mutually agreeable mediator could be selected, with consensus of the victim(s) and the offender(s), and can be any builder within dOrg. If there is no consensus, a dOrg moderator should act as a stopgap. A mediation should include sharing experiences of what happened, discusssion of who was harmed by the behavior and how, the creation of a consensus for what the offender(s) can do to repair the harm from the offense(s), and the enaction of said consensus.
 3. If a mediation is successful, then the DAO keep a record (private to dOrg members) of the mediation to be reviewed if/when future offense(s) occur.
-4. If a mediation is unsuccessful, then the DAO should weigh the severity of the offense(s) and decide whether deactivation or partial Rep slashing of the offender(s) is warranted.
+4. If a mediation is unsuccessful, then the DAO should weigh the severity of the offense(s) and decide whether deactivation or censure of the offender(s) is warranted.
 
-### Partial Rep Slashing
-Partial rep slashing is a reasonable consequence for minor offenses where mediation has failed but the offender is believed to have a sincere desire to abide by dOrg's Code of Ethics.
-To slash a builder's rep, a proposal must be passed which also includes an amount of Rep to be slashed and an explanation of why this amount is appropriate.
+### Censure
+Censuring a builder via partial rep slashing is a reasonable consequence for minor offenses where mediation has failed but the offender is believed to have a sincere desire to abide by dOrg's Code of Ethics.
+To slash a builder's rep, a 'censure' proposal must be passed which also includes an amount of Rep to be slashed and a record (private to dOrg members) of the offenses that occured, why censure is warranted, and why the amount of Rep to be slashed is appropriate.
 
 ### Deactivation
 
 To deactivate a builder, a 'deactivation' proposal may be made by any builder and must be passed which includes a record (private to dOrg members) of the offenses that occured and why deactivation is warranted.
-This proposal should be evaluated by the DAO based on whether the enforcement processes outlined in the Code of Ethics were followed and whether the enforcement option selected is proportionate.
 dOrg moderators may decide whether to remove the offender(s) from internal spaces before, during, or after such a proposal passes, depending on the risk they anticipate to dOrg.
-If a deactivation proposal fails, the member is considered to be then in good standing with dOrg, regains any access to internal spaces they may have lost, and no further action is neccesary.
 
 #### Suspension
 Suspension is reserved for offenders who are, at least, partially remorseful of their offense(s) but not yet ready for successful mediation and/or to abide by dOrg's Code of Ethics.
 Suspension proposals should include a minimum suspension period proportionate to the offense (a default of ten days), after which the offender may attempt another [activation project](../../activation.md) with dOrg.
 This activation project should also include acknowledgement by the offender of their wrongdoing, a formal apology, and a proposal on how to repair the harm from the offense(s).
-Suspended members forfeit a portion of their Rep (a default of ten percent) at the time of suspension but are eligible to regain it upon reactivation.
+Suspended members forfeit a portion of their Rep (a default of ten percent) at the time of suspension but are eligible to regain it upon successful reactivation.
 
 #### Expulsion
 Expulsion is for offenders that dOrg believes to be incorrigible violators of its Code of Ethics.
