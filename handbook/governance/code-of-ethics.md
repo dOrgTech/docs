@@ -37,9 +37,9 @@ If a deactivation proposal fails, the member is considered to be then in good st
 
 #### Suspension
 Suspension is reserved for offenders who are, at least, partially remorseful of their offense(s) but not yet ready for successful mediation and/or to abide by dOrg's Code of Ethics.
-Suspension proposals should include a minimum suspension period proportionate to the offense, after which the offender may attempt another [activation project](../../activation.md) with dOrg.
+Suspension proposals should include a minimum suspension period proportionate to the offense (a default of ten days), after which the offender may attempt another [activation project](../../activation.md) with dOrg.
 This activation project should also include acknowledgement by the offender of their wrongdoing, a formal apology, and a proposal on how to repair the harm from the offense(s).
-Suspended members forfeit all Rep at the time of suspension but are eligible to regain it upon reactivation.
+Suspended members forfeit a portion of their Rep (a default of ten percent) at the time of suspension but are eligible to regain it upon reactivation.
 
 #### Expulsion
 Expulsion is for offenders that dOrg believes to be incorrigible violators of its Code of Ethics.
