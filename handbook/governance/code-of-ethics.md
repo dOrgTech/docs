@@ -12,6 +12,9 @@ The following behaviors should be avoided:
 * Obstruction of dOrg operations through 'down staking' of DAO proposals except, in cases, where the proposer has admitted that a wish to rescind their proposal and/or a significant enough margin of voters have expressed a wish to change their votes such that the outcome (passing or failing) of the proposal would be otherwise changed
 * Participation in any strike, slowdown, sabotage, or work stoppage in retaliation for the action(s) or inaction of any prospective/past/current dOrg client/partner/builder
 * Public defamation of any prospective/past/current dOrg client/partner/builder without prior authorization and/or through unofficial channels
+* Sharing documents, code, media, or other dOrg materials explicitly marked as internal, confidential, or private
+* Sharing any client/partner materials without prior authorization of the client/partner
+
 
 ## Enforcement
 dOrg follows the principle of restorative justice when avoided behaviors occur but builds in certain safeguards to protect the collective as a whole.
