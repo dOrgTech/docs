@@ -38,13 +38,6 @@ Time: 3 Months (Apr 1 - June 30, 2021)
 
 The CPA will be paid upfront and dOrg builders will be paid in three 1-month periods.
 
-| Date | Amount |
-|-|-|
-| Dec 31 | $5,775 |
-| Feb 15 | $1,040 |
-| Mar 8 | $1,040 |
-| Mar 29 | $1,040 |
-
 ## Accountability
 - Lead: Magenta
 - Biweekly CPA Check-in: Thursdays
