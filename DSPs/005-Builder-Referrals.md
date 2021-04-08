@@ -30,4 +30,4 @@ Advantages of the model:
 
 ## Cost
 
-50% of dOrg's 10% Margin on the first $100K of client work compensation earned by each newly referred builder (max $5K per new builder)
+80% of dOrg's 10% Margin on the first $50k of client work compensation earned by each newly referred builder (max $5K per new builder)
