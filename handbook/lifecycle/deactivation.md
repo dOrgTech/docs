@@ -14,7 +14,7 @@ Any builder that becomes inactive (does not pass a proposal for 90 days) is deac
 
 ### Exceptional Circumstances
 
-In certain cases, the DAO may pass a proposal to [deactivate](../governance/code-of-ethics.md#Deactivation) a builder if they...
+In certain cases, the DAO may pass a proposal to deactivate a builder if they...
 
 * Request to be removed
-* Violate any legal agreements or [dOrg's Code of Ethics](../governance/code-of-ethics.md)
+* Violate any legal agreements or the [Builder Covenant](../governance/covenant.md)
