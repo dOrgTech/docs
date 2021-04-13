@@ -30,10 +30,10 @@ Roles
 
 ## Cost x Timeframe
 
-$3500 
-Nov 3 to Dec 9
+$3850 
+Nov - Apr
 
-- ~$750 Animation, with remainder of budget distribution as follows:
+- ~$1100 Animation, with remainder of budget distribution as follows:
 - 30% Script Writing and Review
 - 35% Production
 - 15% Research
