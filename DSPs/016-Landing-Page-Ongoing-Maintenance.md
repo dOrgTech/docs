@@ -30,6 +30,6 @@ Time: About two days (To be completed the week of May 2 - May 8)
 #181|enhancement|< 5 minutes|-|-
 #173|enhancement|0.25 hours|-|-
 #166|enhancement; assumed out of scope|-|-|-
- | Total | 15.15 | $50/hr | $757.5 
+- | Total | 15.15 | $50/hr | $757.5 
 
 Items are GitHub issues. Estimate based on backlog present at 7am CST on 4/19/2021. The most significant items (#200, #195, #188) are given range estimates and the top of the range is assumed to be required--the items might be completed faster, reducing the required budget.
