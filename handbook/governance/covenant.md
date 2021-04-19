@@ -45,6 +45,7 @@ DAO members are generally encouraged to follow this escalation protocol for infr
     |-|-|-|
     | Temporary Ban | Removal from dOrg spaces, no interaction with the people involved, and partial slashing of reputation. After a specified period of time, the infringer can reclaim their slashed reputation and rejoin dOrg spaces by submitting a reactivation request that demonstrates a willingness to admit fault, apologize, rectify actions and avoid similar behavior in the future. | A serious infringement of community standards, including sustained inappropriate behavior. |
     | Permanent Ban | Removal from dOrg spaces and slashing of all accumulated reputation. | Demonstrating a pattern of infringement of community standards, including sustained inappropriate behavior, harassment of an individual, or aggression toward or disparagement of classes of individuals. |
+    
     If enforcement actions do not achieve DAO consensus, then the member is considered to be in good standing, regains any access to spaces they may have lost, and no further action is necessary.
 
 ## Attribution
