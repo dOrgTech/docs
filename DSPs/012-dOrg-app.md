@@ -31,14 +31,12 @@ On top of this, the end product is something that can be forked, and will also f
     - Discovery (1 week)
     - Ideation and Refinement (1 week)
     - Info architecture map (0.5 week)
-    - Fat marker sketches/wireframes (1.5 weeks)
-- **Product Development:** Est. 8 weeks (~12 hr/wk)
-    - Basic style and components
-    - Mock-ups - not for every page, but enough to flesh out some of the more complex UI
-    - Static site without web3 integrations
-    - I can handle most of the frontend development myself, but will probably need somewhere around 2-3hrs of development mentorship/support per week during this phase.
-
-- **Feedback & Advisory** Ongoing (~1 hr/wk)
+    - Basic style/figma components (0.5 week)
+    - Mock-ups (1 week)
+- **Product Development:** Est. 8 weeks (~25 hr/wk)
+    - Design refinement
+    - Product Development
+- **Feedback & Advisory** Ongoing (12 hrs in Phase 1 and ~1 hr/wk afterwards)
     - Internal feedback and advice
 
 ## Cost
@@ -46,23 +44,29 @@ On top of this, the end product is something that can be forked, and will also f
 | Item | Description | Hours | $/hr |Cost |
 |-|-|-|-|-|
 | Product strategy | Research, design, and strategy for the MVP version of the app. | 40 | $65 | $2600 |
-| Product development | Styled and navigatable static site | 96 | $75 | $7200 |
-| Feedback & advisory | User interviews, feedback, support (internal) | 12 | $50 | $600 |
-| | TOTAL | 148 | | ~$10,400 |
+| Product development | MVP fully functional site | 200 | $75 | $15,000 |
+| Feedback & advisory | User interviews, feedback, support (internal) | 20 | $50 | $1000 |
+| | TOTAL | 148 | | ~$18,600 |
 
 ### Payment Structure
 
-Up to $9,200 + 1,200 DXRG
+Up to $15,600 + 3,000 DXRG
 
 Payment proposals will be broken down into 3 4-week periods and will be distributed based on contribution.
 
 | Date | Amount |
 |-|-|
 | Apr 19 | $2,800 / 400 DXRG |
-| May 17 | $3,800 / 400 DXRG |
-| Jun 14 | $3,800 / 400 DXRG |
+| May 17 | $6,400 / 1300 DXRG |
+| Jun 14 | $6,400 / 1300 DXRG |
 
 ## Accountability
 - Lead: Colin
+- Team:
+  - Colin: Design/Frontend Development
+  - Leif: Product Manager
+  - Elio: Frontend Development
+  - Carlos: Fullstack Development
+  - TBD: Backend Development
 - Project: (will link to a Github Kanban board once work begins)
 - Updates: @ dOrg-wide biweekly syncs
