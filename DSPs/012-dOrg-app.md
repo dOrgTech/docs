@@ -46,7 +46,7 @@ On top of this, the end product is something that can be forked, and will also f
 | Product strategy | Research, design, and strategy for the MVP version of the app. | 40 | $65 | $2600 |
 | Product development | MVP fully functional site | 200 | $75 | $15,000 |
 | Feedback & advisory | User interviews, feedback, support (internal) | 20 | $50 | $1000 |
-| | TOTAL | 148 | | ~$18,600 |
+| | TOTAL | 260 | | ~$18,600 |
 
 ### Payment Structure
 
@@ -67,6 +67,6 @@ Payment proposals will be broken down into 3 4-week periods and will be distribu
   - Leif: Product Manager
   - Elio: Frontend Development
   - Carlos: Fullstack Development
-  - TBD: Backend Development
-- Project: (will link to a Github Kanban board once work begins)
+  - Zachary: Backend Development
+- Project: https://github.com/dOrgTech/app-dorg/projects
 - Updates: @ dOrg-wide biweekly syncs
