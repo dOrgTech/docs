@@ -25,6 +25,7 @@
 * [Savings](governance/savings.md)
 * [Rep & Tokens](governance/rep-and-tokens.md)
 * [Global Variables](governance/global-variables.md)
+* [Builder Covenant](governance/covenant.md)
 
 ## Glossary
 
