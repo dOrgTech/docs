@@ -25,18 +25,22 @@ On top of this, the end product is something that can be forked, and will also f
 
 ## Timeline
 
-12 Weeks (Mar 22 - Jun 14)
+14 Weeks (Mar 22 - Jun 28)
 
-- **Design Strategy:** Est. 4 weeks (~10 hr/wk)
+- **Phase 1: Design Strategy:** Est. 4 weeks (~10 hr/wk)
     - Discovery (1 week)
     - Ideation and Refinement (1 week)
     - Info architecture map (0.5 week)
     - Basic style/figma components (0.5 week)
     - Mock-ups (1 week)
-- **Product Development:** Est. 8 weeks (~25 hr/wk)
+- **Phase 2: Development Coordination:** Est. 2 weeks (~4 hr/wk)
+    - Determine scope for development phase
+    - Product Development
+- **Phase 3: Product Development:** Est. 8 weeks (~25 hr/wk)
     - Design refinement
     - Product Development
-- **Feedback & Advisory** Ongoing (12 hrs in Phase 1 and ~1 hr/wk afterwards)
+
+- **Feedback & Advisory** Ongoing (12 hrs in Phase 1 and ~1 hr/wk for Phase 3)
     - Internal feedback and advice
 
 ## Cost
@@ -44,21 +48,23 @@ On top of this, the end product is something that can be forked, and will also f
 | Item | Description | Hours | $/hr |Cost |
 |-|-|-|-|-|
 | Product strategy | Research, design, and strategy for the MVP version of the app. | 40 | $65 | $2600 |
+| Development Coordination | Organize, coordinate with dev team and set general scope + mockup scope rollover from phase 1 (4.5 hrs) | 12 | $65 | $780 |
 | Product development | MVP fully functional site | 200 | $75 | $15,000 |
 | Feedback & advisory | User interviews, feedback, support (internal) | 20 | $50 | $1000 |
-| | TOTAL | 260 | | ~$18,600 |
+| | TOTAL | 268 | | ~$19,380 |
 
 ### Payment Structure
 
-Up to $15,600 + 3,000 DXRG
+Up to $16,380 + 3,000 DXRG
 
-Payment proposals will be broken down into 3 4-week periods and will be distributed based on contribution.
+Payment proposals will be broken down into 3 4-week periods (and 1 2-week coordination period) and will be distributed based on contribution.
 
 | Date | Amount |
 |-|-|
 | Apr 19 | $2,800 / 400 DXRG |
-| May 17 | $6,400 / 1300 DXRG |
-| Jun 14 | $6,400 / 1300 DXRG |
+| May 3 | $780 |
+| May 31 | $6,400 / 1300 DXRG |
+| Jun 28 | $6,400 / 1300 DXRG |
 
 ## Accountability
 - Lead: Colin
