@@ -18,4 +18,8 @@ The builder will also be responsible for reminder dOrg members once per month to
 
 Time: Three months - April, May, and June of 2021
 
-Budget: 10 hours/month at $50/hr = $500/month
+Budget: 10 hours/month at $50/hr = $500/month = $1500
+
+Hours can roll over into oher months to meet scheduling needs.
+
+Builder: Muath
