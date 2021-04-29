@@ -12,6 +12,7 @@ An ongoing maintanence budget will provide funding to fix bugs and implement imp
 
 ## Anything else you'd like to add?
 
+The builder will also be responsible for reminder dOrg members once per month to provide feedback on the landing page by making issues or providing feedback in the landing page discord channel.
 
 ## Cost x Timeframe
 
