@@ -48,21 +48,21 @@ On top of this, the end product is something that can be forked, and will also f
 | Item | Description | Hours | $/hr |Cost |
 |-|-|-|-|-|
 | Product strategy | Research, design, and strategy for the MVP version of the app. | 40 | $65 | $2600 |
-| Development Coordination | Organize, coordinate with dev team and set general scope + mockup scope rollover from phase 1 (4.5 hrs) | 12 | $65 | $780 |
+| Development Coordination | Organize, coordinate with dev team and set general scope + mockup scope rollover from phase 1 (4.5 hrs) | 15 | $65 | $975 |
 | Product development | MVP fully functional site | 200 | $75 | $15,000 |
 | Feedback & advisory | User interviews, feedback, support (internal) | 20 | $50 | $1000 |
-| | TOTAL | 268 | | ~$19,380 |
+| | TOTAL | 268 | | ~$19,575 |
 
 ### Payment Structure
 
-Up to $16,380 + 3,000 DXRG
+Up to $16,575 + 3,000 DXRG
 
 Payment proposals will be broken down into 3 4-week periods (and 1 2-week coordination period) and will be distributed based on contribution.
 
 | Date | Amount |
 |-|-|
 | Apr 19 | $2,800 / 400 DXRG |
-| May 3 | $780 |
+| May 3 | $975 |
 | May 31 | $6,400 / 1300 DXRG |
 | Jun 28 | $6,400 / 1300 DXRG |
 
