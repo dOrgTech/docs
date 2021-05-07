@@ -30,10 +30,10 @@ Roles
 
 ## Cost x Timeframe
 
-$3850 
-Nov - Apr
-
-- ~$1100 Animation, with remainder of budget distribution as follows:
+$4100 x Nov - Apr
+- $1100 Animation
+- $250 Brand Design
+With remainder of budget distribution as follows:
 - 30% Script Writing and Review
 - 35% Production
 - 15% Research
