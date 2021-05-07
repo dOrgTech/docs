@@ -15,9 +15,9 @@ This will reduce business and legal risk to dOrg, ensuring that its builder life
 
 Time: 2 Weeks (3/24/2021-4/5/2021)
 
-| Item | Description | Hours/wk | $/hr |Cost |
+| Item | Description | Hours | $/hr |Cost |
 |-|-|-|-|-|
-| Assessment | Assess ethical challenges and research options | 5 | $50 | $500 |
-| Draft/Revision | Draft code and revise to feedback | 5 | $50 | $500 |
-| Implementation | Implement code and agreed upon enforcement tactics | 5 | $50 | $500 |
-| | Total | 30 | $1500 |
+| Assessment | Assess ethical challenges and research options | 20 | $50 | $1000 |
+| Draft/Revision | Draft code and revise to feedback | 15 | $50 | $750 |
+| Implementation | Implement code and agreed upon enforcement tactics | 15 | $50 | $750 |
+| | Total | 50 | $2500 |
