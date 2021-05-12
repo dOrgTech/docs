@@ -51,7 +51,7 @@ On top of this, the end product is something that can be forked, and will also f
 | Development Coordination | Organize, coordinate with dev team and set general scope + mockup scope rollover from phase 1 (4.5 hrs) | 24.5 | $65 | ~$1,600 |
 | Product development | MVP fully functional site | 200 | $75 | $15,000 |
 | Feedback & advisory | User interviews, feedback, support (internal) | 20 | $50 | $1000 |
-| | TOTAL | 268 | | ~$20,200 |
+| | TOTAL | ~285 | | ~$20,200 |
 
 ### Payment Structure
 
@@ -75,4 +75,5 @@ Payment proposals will be broken down into 3 4-week periods (and 1 2-week coordi
   - Jason: Backend Development
   - Zachary: Backend Development
 - Project: https://github.com/dOrgTech/app-dorg/projects
+- Project Brief: https://docs.google.com/document/d/1koJt7MxpLMKQCQKAn6a-zZhA2ey5GLckC5jvcpkVMEY
 - Updates: @ dOrg-wide biweekly syncs
