@@ -92,9 +92,9 @@ Total: $14,040
 
 | Item | Description | Hours/wk | $/hr |Cost |
 |-|-|-|-|-|
-| *Core Work* | Marketing and communication activities including social media management, content creation, communication materials, event management, search engine optimization, talent recruitment, onboarding of new members, community building, and any other MarComm related task.  | 15 | $65 | $975 (825 DAI, 150 DORG) |
-| *Builder Incentive* | Compensate builders for their time getting interviewed, making themselves available for content production | 3 | $65 | $195 (165 DAI, 30 DORG) |
-| | Total | 18 | $65 | $1,170
+| *Core Work* | Marketing and communication activities including social media management, content creation, communication materials, event management, search engine optimization, talent recruitment, onboarding of new members, community building, and any other MarComm related task.  | 15 | $65 | $11,700 |
+| *Builder Incentive* | Compensate builders for their time getting interviewed, making themselves available for content production | 3 | $65 | $2,340 |
+| | Total | 216 | | $14,040|
 
 Payment proposal will be done at the end of each month
 - May 31, 2021 (Work performed May 3 - May 30) @ $1,170 x week = $4,680 (3960 DAI, 720 DORG)
