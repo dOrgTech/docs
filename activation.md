@@ -33,6 +33,7 @@
 26. [Comms Campaign](https://docs.google.com/document/d/1BRpqB8oKOuHBPssn5U9JhqdkHm3bUnUvMa3311ZIkK8/edit) by Ernesto
 27. [Simplifying DAO Creation](https://app.pitch.com/app/public/presentation/05805f01-a1ce-4c19-a98c-b417c47f42a3) by Colin
 28. [Timekeeper dApp](https://youtu.be/X6DaodcpBoU) by Bhanu
+29. [Proposal Creator](https://github.com/MatthiasBakken/proposal-creator) by Matthias
 
 ## Additional Ideas
 - **Visualization** of dOrg proposal, token or Rep flows
