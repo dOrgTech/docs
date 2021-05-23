@@ -35,6 +35,7 @@
 28. [Timekeeper dApp](https://youtu.be/X6DaodcpBoU) by Bhanu
 29. [Proposal Creator](https://github.com/MatthiasBakken/proposal-creator) by Matthias
 30. [Voting History on DAOStack Profile](https://docs.google.com/document/d/1LZCCElaFSaG69v8AJPlMvEv6CAmeUrsHa-qiszlBbbQ/edit?usp=sharing) by Robert
+31. [NFT Lootbox](https://github.com/beyond7/nft-lootbox) by James
 
 ## Additional Ideas
 - **Visualization** of dOrg proposal, token or Rep flows
