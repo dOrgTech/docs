@@ -1,6 +1,8 @@
 # Proposal Title
 
-**Author(s)**: Your handle(s)
+| Author | Budget | Term |
+|-|-|-|
+| your name(s) | X DAI + Y DORG | # of Weeks (Date Range) |
 
 ## Summary
 
@@ -14,12 +16,10 @@ Breakdown why you think dOrg should spend resources on this proposal. Does it cr
 
 Add additional details such as workbins, roadmap, and accountability structures.
 
-## Cost x Timeframe
+## Cost Breakdown
 
-Time: # of Weeks (Date Range)
-
-| Item | Description | Hours/wk | $/hr |Cost |
+| Item | Description | $/Hr | Hrs | Cost |
 |-|-|-|-|-|
-| .. | .. | .. | $.. | .. |
-| .. | .. | .. | $.. | .. |
-| | Total | X | $X |
+| .. | .. | $.. | .. | $.. |
+| .. | .. | $.. | .. | $.. |
+| | | TOTAL | .. | $.. |
