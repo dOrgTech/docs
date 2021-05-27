@@ -1,6 +1,8 @@
 # Q2 SaaS & Tax Expenses
 
-**Author(s)**: @orishim
+| Budget | Term | Lead (hr/wk ) | 
+|-|-|-|
+| [2,468 DAI]() | 3 months (Apr 1 - Jun 30) | Ori |
 
 ## Summary
 
@@ -14,9 +16,7 @@ Essential software tools for running a remote team and tax payments for running 
 
 The breakdown below is a conservative estimate that will be updated as real expenses are incurred.
 
-## Cost x Timeframe
-
-Timeframe: 3 months (Apr 1 - Jun 30)
+## Cost Breakdown
 
 | Item | Purpose | $ breakdown | Total $ |
 |-|-|-|-|

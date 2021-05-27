@@ -1,6 +1,8 @@
 # Bookkeeping Q1 2021
 
-**Author(s)**: @magentaceiba @orishim
+| Budget | Term | Lead (hr/wk ) |
+|-|-|-|
+| [8,895 DAI](https://docs.google.com/spreadsheets/d/1mwYhzTNXSytzVtACZLu1V_EVTfjPKhGfHu-KhnBFESk/edit#gid=414785260) | 3 Months (Jan 1 - Mar 31, '21) | Magenta, Ori |
 
 ## Summary
 
@@ -28,24 +30,10 @@ The dOrg builders will:
 
 ## Cost x Timeframe
 
-Time: 3 Months (Jan 1 - Mar 31, 2021)
-
-| Item | Description | Hours/mo | $/hr |Cost |
+| Item | Description | $/Hr | Hrs | Cost |
 |-|-|-|-|-|
-| *CPA* | Professional tax prep, advisory, and reporting services  | 8 | $240.63 | $5,775 |
-| *dOrg* | Interfacing with CPA and handling other bookkeeping related tasks | 16 | $65 | $3,120 |
-| | Total | 336 | | $8,895 |
+| *CPA* | Professional tax prep, advisory, and reporting services  | $240.63 | 8*3 | $5,775 |
+| *dOrg* | Interfacing with CPA and handling other bookkeeping related tasks | $65 | 16*3 | $3,120 |
+| | Total | | 336 | $8,895 |
 
 The CPA will be paid upfront and dOrg builders will be paid in three 1-month periods.
-
-| Date | Amount |
-|-|-|
-| Dec 31 | $5,775 |
-| Feb 15 | $1,040 |
-| Mar 8 | $1,040 |
-| Mar 29 | $1,040 |
-
-## Accountability
-- Lead: Magenta
-- Biweekly CPA Check-in: TBD
-- [Budget spreadsheet](TODO)

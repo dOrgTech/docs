@@ -1,8 +1,8 @@
 # Proposal Title
 
-| Author | Budget | Term |
-|-|-|-|
-| your name(s) | X DAI + Y DORG | # of Weeks (Date Range) |
+| Budget | Term | Lead (hr/wk ) | Builders (hr/wk) |
+|-|-|-|-|
+| [X DAI + Y DORG](link to budget spreadsheet) | # of Weeks (Date Range) | Name (Z) | Names (Z) |
 
 ## Summary
 

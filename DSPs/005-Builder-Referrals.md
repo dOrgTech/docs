@@ -1,6 +1,8 @@
 # Builder Referral Incentives 
 
-**Author(s)**: @ronboger, @orishim
+| Budget | Term | Lead (hr/wk ) |
+|-|-|-|
+| [Up to $5k per new builder](https://docs.google.com/spreadsheets/d/1mwYhzTNXSytzVtACZLu1V_EVTfjPKhGfHu-KhnBFESk/edit#gid=1833782755) | Perpetual | Ron, Ori |
 
 ## Summary
 
@@ -28,6 +30,6 @@ Advantages of the model:
 - Pays out gradually, has caps so the costs are controlled
 - Doesn't take money out of the referred builder's pocket
 
-## Cost
+## Cost Breakdown
 
 80% of dOrg's 10% Margin on the first $50k of client work compensation earned by each newly referred builder (max $5K per new builder)

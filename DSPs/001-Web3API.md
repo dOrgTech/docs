@@ -1,19 +1,15 @@
 # Web3API Seed Funding
 
-**Author(s)**: TODO
+| Author | Budget | Term |
 
-## Summary
+| Budget | Term | Lead (hr/wk ) | Builders (hr/wk) |
+|-|-|-|-|
+| [15,000 DAI](https://docs.google.com/spreadsheets/d/1mwYhzTNXSytzVtACZLu1V_EVTfjPKhGfHu-KhnBFESk/edit#gid=1425922851) | 3 Months (Jun 1 - Sep 30 '20) | Jordan | Ori, Roberto, Cesar | 
 
-TODO
+This proposal will provide initial funding for the development of the Web3API and seeding of the Web3API DAO.
 
-## Why should we fund this?
+## Cost Breakdown
 
-TODO
-
-## Anything else you'd like to add?
-
-TODO
-
-## Cost
-
-$15,000
+- June - $5k
+- August - $5k 
+- September - $5k

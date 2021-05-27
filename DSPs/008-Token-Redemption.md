@@ -1,6 +1,8 @@
 # DORG Token Redemption
 
-**Author(s)**: @nestorbe
+| Budget | Term | Lead (hr/wk ) |
+|-|-|-|
+| [2,000 DAI + 2,000 DORG]() | 1 month (Dec 15 - Jan 15 '21) | Nestor B (15) |
 
 ## Summary
 
@@ -24,7 +26,7 @@ This feature let's the user connect to the StakingReward contract that will be d
 
 The user is able to stake/unstake/claim rewards/unstake and claim rewards/claim partial rewards based on the amount of DORG tokens on his wallet (to stake) or the amount of rewards he has gained by staking (staking rewards).
 
-**Timeline:**
+## Cost Breakdown
 
 Estimated delivery day: Waiting for https://github.com/dOrgTech/token-redemption/issues/10 to be resolved in order to deploy the contracts and ui client.
 
@@ -36,6 +38,4 @@ This is my first project for dOrg and was completed between mid December and mid
 
 Delivery: https://github.com/dOrgTech/token-redemption
 
-## Cost
 
-$2,000 USD + 2,000 DORG Tokens

@@ -1,6 +1,8 @@
 # Landing Page Redesign
 
-**Author(s)**: @orishim
+| Budget | Term | Lead (hr/wk ) | Builders (hr/wk) |
+|-|-|-|-|
+| [9,000 DAI + 1,000 DORG](https://docs.google.com/spreadsheets/d/1mwYhzTNXSytzVtACZLu1V_EVTfjPKhGfHu-KhnBFESk/edit#gid=1401977836) | 6 Weeks (Nov 11 - Dec 23 '21) | Kris | Ben, Roberto |
 
 ## Summary
 
@@ -34,7 +36,7 @@ Our website needs to be up to date with our portfolio and how we work in order t
 - Kris: implementation
 - Open to help from all other builders on design contest and implementation
 
-## Cost
+## Cost Breakdown
 
 Up to $9,000
 - $2,000 - Design ($1780 design contest + $220 internal work)

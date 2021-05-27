@@ -1,6 +1,8 @@
 # Onboarding & Engagement Q1 2021
 
-**Author(s)**: @steffbrowne, @orishim
+| Budget | Term | Lead (hr/wk ) | Builders (hr/wk) |
+|-|-|-|-|
+| [22,800 DAI](https://docs.google.com/spreadsheets/d/1mwYhzTNXSytzVtACZLu1V_EVTfjPKhGfHu-KhnBFESk/edit#gid=32799193) | 12 Weeks (Jan 4 - Mar 29, '21) | Steff (12) | Ori (5-6) Rob (3-6) Bernie (1-2) |
 
 ## Summary
 
@@ -37,32 +39,10 @@ This workstream will lead to new initiatives as well as build off of existing on
 - [Issue 70 Gamifying QA](https://github.com/dOrgTech/Ops/issues/72)
 - [Issue 72 Improve activation/onboarding funnel](https://github.com/dOrgTech/Ops/issues/70)
 
-## Cost x Timeframe
+## Cost Breakdown
 
-Time: 12 Weeks (Jan 4 - Mar 29, 2021)
-
-| Item | Description | Hours/wk | $/hr |Cost |
+| Item | Description | $/Hr | Hrs | Cost |
 |-|-|-|-|-|
-| *Systems Building* | Research, design, and build processes for engagement and onboarding  | 20 | $75 | $18,000 |
-| *Engagement* | Ongoing meetings, emails, chats, and follow-ups | 8 | $60 | $4,800 |
-| | Total | 336 | | $22,800 |
-
-Payment proposals will be broken down into four 3-week periods.
-
-| Date | Amount |
-|-|-|
-| Jan 25 | $5,700 |
-| Feb 15 | $5,700 |
-| Mar 8 | $5,700 |
-| Mar 29 | $5,700 |
-
-## Accountability
-- Lead: Steff
-- Hour Commitments:
-  - Steff: 12 hrs/week
-  - Ori: 5-6 hrs/week
-  - Rob: 3-6 hrs/week
-  - Bernie: 1-2 hrs/week
-- Weekly Syncs: Tuesdays @ 10am EDT
-- [Task Board](https://github.com/orgs/dOrgTech/projects/9)
-- [Budget spreadsheet](https://docs.google.com/spreadsheets/d/1mwYhzTNXSytzVtACZLu1V_EVTfjPKhGfHu-KhnBFESk/edit#gid=32799193)
+| *Systems Building* | Research, design, and build processes for engagement and onboarding  | $75 | 20*12 | $18,000 |
+| *Engagement* | Ongoing meetings, emails, chats, and follow-ups | $60 | 8*12 | $4,800 |
+| | TOTAL | | 336 | $22,800 |

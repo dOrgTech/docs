@@ -1,6 +1,8 @@
-# Content/Comms 
+# MarkComms
 
-**Author(s)**: Ernesto Lugo
+| Budget | Term | Lead (hr/wk ) |
+|-|-|-|
+| [1,540 DAI + 280 DORG](https://docs.google.com/spreadsheets/d/1mwYhzTNXSytzVtACZLu1V_EVTfjPKhGfHu-KhnBFESk/edit#gid=318900412) | 4 Weeks (April 5 - May 2) | Ernesto |
 
 ## Summary
 Develop an integrated content strategy that positions dORG as a leader in the blockchain development space, highlighting our experience, talent, and community.
@@ -28,23 +30,19 @@ Create high-value content in multiple formats including text, video, images, and
 ### Other Responsibilities
 - Create content from events
 - Manage socials (Content calendar)
-- Setting up a brand tracker
-- Ecosystem mapping
+- Setting up a brand 320
+ + 240 DORG- Ecosystem mapping
 - Media/Press (magazines, youtubers, podcasts, etc.)
 
 ### Accountability
 - Updates at Biweekly Syncs
 
-## Cost
+## Cost Breakdown
 
-Time: 4 Weeks (April 5 - May 2)
-
-| Item | Description | Hours/wk | $/hr |Cost |
+| Item | Description | $/Hr | Hrs | Cost |
 |-|-|-|-|-|
-| *Core Work* | Content production and editing, social media management, content optimization.  | 6 | $65 | $390 (330 DAI, 60 DORG) |
-| *Incentive* | Compensate builders for their time getting interviewed, making themselves available for content production | 1 | $65 | $65 (55 DAI, 10 DORG) |
-| | Total | 7 | $65 | $455
+| *Core Work* | Content production and editing, social media management, content optimization.  | $65 | 6*4 | $1,560 |
+| *Incentive* | Compensate builders for their time getting interviewed, making themselves available for content production | $65 | 1*4 | $260 |
+| | | TOTAL | 28 | $1,820 |
 
 Payment proposals will be broken down into two 2-week periods.
-- April 19, 2021 (Work performed April 5 - April 18 @ $455 x week = $910 (660 DAI, 120 DORG)
-- May 03, 2021 (Work performed April 20 - May 2 @ $455 x week = $910 (660 DAI, 120 DORG)

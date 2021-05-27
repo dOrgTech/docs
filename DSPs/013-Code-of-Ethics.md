@@ -1,6 +1,8 @@
 # Proposal Title
 
-**Author(s)**: [@benefacto](https://github.com/benefacto)
+| Budget | Term | Lead (hr/wk ) |
+|-|-|-|
+| [2500 DAI](https://docs.google.com/spreadsheets/d/1mwYhzTNXSytzVtACZLu1V_EVTfjPKhGfHu-KhnBFESk/edit#gid=1121144772) | 2 Weeks (Mar 24 - Apr 5 '21) | Ben |
 
 ## Summary
 
@@ -9,15 +11,13 @@ A code of ethics is a long standing need for dOrg (see [#9](https://github.com/d
 ## Why should we fund this?
 
 A code of ethics for dOrg will explicitly define the expected/avoided behavior of dOrg's builders as well as enforcement mechanisms, matching the interests of dOrg as a whole.
-This will reduce business and legal risk to dOrg, ensuring that its builder lifecycle can continue to scale with its growing capacity. 
+This will reduce business and legal risk to dOrg, ensuring that its builder lifecycle can continue to scale with its growing capacity.
 
-## Cost x Timeframe
+## Cost Breakdown
 
-Time: 2 Weeks (3/24/2021-4/5/2021)
-
-| Item | Description | Hours | $/hr |Cost |
+| Item | Description | $/Hr | Hrs | Cost |
 |-|-|-|-|-|
-| Assessment | Assess ethical challenges and research options | 20 | $50 | $1000 |
-| Draft/Revision | Draft code and revise to feedback | 15 | $50 | $750 |
-| Implementation | Implement code and agreed upon enforcement tactics | 15 | $50 | $750 |
+| Assessment | Assess ethical challenges and research options | $50 | 20 | $1000 |
+| Draft/Revision | Draft code and revise to feedback | $50 | 15 | $750 |
+| Implementation | Implement code and agreed upon enforcement tactics | $50 | 15 | $750 |
 | | Total | 50 | $2500 |

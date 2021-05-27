@@ -1,6 +1,8 @@
 # Clade Prototype Video
 
-**Authors**: @orishim @magentaceiba @benefactor @DavidWolff218
+| Budget | Term | Lead (hr/wk ) | Builders (hr/wk) |
+|-|-|-|-|
+| [4,100 DAI](https://docs.google.com/spreadsheets/d/1mwYhzTNXSytzVtACZLu1V_EVTfjPKhGfHu-KhnBFESk/edit#gid=1668320325) | 6 Months (Nov - Apr '21) | Magenta | Ben, David, Ori |
 
 ## Summary
 
@@ -28,7 +30,7 @@ Roles
 * Research lead: Bernie
 * Execution lead: Magenta
 
-## Cost x Timeframe
+## Cost Breakdown
 
 $4100 x Nov - Apr
 - $1100 Animation

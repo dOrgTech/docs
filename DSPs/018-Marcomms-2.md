@@ -1,6 +1,8 @@
 # MarComms DSP: May, June, July
 
-**Author(s)**: Ernesto Lugo, Diego Barboza
+| Budget | Term | Lead (hr/wk ) |
+|-|-|-|
+| [11,880 DAI + 2,160 DORG](https://docs.google.com/spreadsheets/d/1mwYhzTNXSytzVtACZLu1V_EVTfjPKhGfHu-KhnBFESk/edit#gid=318900412) | 12 Weeks (May 3 - July 30) | Ernesto, Diego |
 
 ## Summary
 This DSP funds all marketing & communications efforts including social media management, content creation, communication materials such as decks or slides, event management, search engine optimization, and talent recruitment. At the end of each MarComms DSP, we'll deliver a report with the relevant metrics and highlights from the month.
@@ -85,19 +87,15 @@ Create high-value content in multiple formats including text, video, images, and
 - Updates at Biweekly Syncs
 - End of month recaps
 
-## Cost
+## Cost Breakdown
 
-Time: 12 Weeks (May 3 - July 30)
-Total: $14,040
-
-| Item | Description | Hours/wk | $/hr |Cost |
+| Item | Description | $/Hr | Hrs | Cost |
 |-|-|-|-|-|
-| *Core Work* | Marketing and communication activities including social media management, content creation, communication materials, event management, search engine optimization, talent recruitment, onboarding of new members, community building, and any other MarComm related task.  | 15 | $65 | $11,700 |
-| *Builder Incentive* | Compensate builders for their time getting interviewed, making themselves available for content production | 3 | $65 | $2,340 |
-| | Total | 216 | | $14,040|
+| *Core Work* | Marketing and communication activities including social media management, content creation, communication materials, event management, search engine optimization, talent recruitment, onboarding of new members, community building, and any other MarComm related task.  | $65 | 15*12 | $11,700 |
+| *Builder Incentive* | Compensate builders for their time getting interviewed, making themselves available for content production | $65 | 3*12 | $2,340 |
+| | | TOTAL | 216 | $14,040 |
 
 Payment proposal will be done at the end of each month
 - May 31, 2021 (Work performed May 3 - May 30) @ $1,170 x week = $4,680 (3960 DAI, 720 DORG)
 - June 30, 2021 (Work performed May 31 - June 29) @ $1,170 x week = $4,680 (3960 DAI, 720 DORG)
 - July 30, 2021 (Work performed June 30 - July 29) @ $1,170 x week = $4,680 (3960 DAI, 720 DORG)
-
