@@ -1,14 +1,13 @@
-# Proposal Title
+# 2021 dOrg Retreat
 
-**Author(s)**: [@benefacto](https://github.com/benefacto)
+| Budget | Term | Leads (hr/wk ) | Builders (hr/wk) |
+|-|-|-|-|
+| 1,000 DAI + 250 DORG | 1 Weeks (September 26 - October 2, 2021) | Ben (TBD), Hector (TBD) | TBD |
 
 ## Summary
 
-This proposal is to partially subsidize the total cost of shared lodging born out-of-pocket by builders who would need the subsidy in order to attend a 2021 dOrg retreat in Spain.
-For example, a single venue (such as a large AirBnb, [example](https://www.airbnb.com/rooms/28388357?adults=16&check_in=2021-09-12&check_out=2021-09-18&federated_search_id=68aec4c4-69a2-4a1b-bb22-b739cfea7a73&source_impression_id=p3_1621874498_Ai1S%2B80nufubXIPx&guests=1)) could be selected that could lodge as many dOrg builders as possible and dOrg would provide a a fixed subsidy for this venue.
-Selecting a single venue for those who need the subsidy would be the most cost effective and ensure that builders' out-of-pocket lodging expenses are minimized. 
-This venue could also serve as a central gathering and/or meeting place for all dOrg builders that are attending the retreat.
-All remaining costs would be born out-of-pocket by the builders who chose to lodge themselves at that venue.
+This proposal is to provide, at least partial, reimbursement for the expense of group teambuilding activities born out-of-pocket by builders for 2021 dOrg retreat in Barcelona, Spain as well as coordination of those activites.
+All remaining costs (travel, lodging, etc.) would be born out-of-pocket by the builders themselves.
 
 ## Why should we fund this?
 
@@ -21,10 +20,12 @@ While fully covering the costs of such a retreat does not seem realistic at this
 
 ## Anything else you'd like to add?
 
-The subsidy will provide partial reimbursement for (the) builder(s) who bear the off-chain costs of this shared lodging.
+The subsidy will provide partial reimbursement for (the) builder(s) who bear the off-chain costs of group teambuilding activities as well as coordination of those activities.
 
-## Cost x Timeframe
+## Cost Breakdown
 
-Cost: $1000
-Location: Spain (Location TBD)
-Time: 1 Week (Tentatively 09/12/21-09/18/21)
+| Item | Description | $/Hr | Hrs | Cost |
+| --------------------- | ----------------------------------------------------------- | -------- | ---- | ------- |
+| *Reimbursement* | For the expense of group teambuilding activitiese | N/A | N/A| $750 |
+| *Coordination*| Research, plan, and organize group teambuilding activities | $50 (25 DAI + 25 DORG) | 10 | $500  |
+| | Total | TOTAL| | $1250 (1,000 DAI + 250 DORG) |
