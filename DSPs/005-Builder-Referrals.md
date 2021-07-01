@@ -1,3 +1,5 @@
+BUILDER REFERRALS FOR NEWLY ACTIVATED BUILDERS HAS BEEN PAUSED AS OF JULY 1, 2021
+
 # Builder Referral Incentives 
 
 | Budget | Term | Lead (hr/wk ) |
