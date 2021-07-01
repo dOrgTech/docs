@@ -1,3 +1,5 @@
+BUILDER REFERRAL INCENTIVES HAVE BEEN TURNED OFF FOR ACTIVATION PROPOSALS MADE AFTER JULY 1, 2021
+
 # Builder Referral Incentives 
 
 | Budget | Term | Lead (hr/wk ) |
