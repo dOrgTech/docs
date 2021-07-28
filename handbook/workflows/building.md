@@ -66,7 +66,9 @@ If the interested builders agree that the project looks promising, does not have
    * Password: 3k@PJwzyRpyi2G
    * Go to Templates, hover over ‘dOrg SoW Template’, and click ‘Create Document’
 2. Share the draft SoW in the Discourse thread with the interested builders, confirming that the term, pricing, and scope look reasonable.
-   * See comment here for token allocation norms
+   * Notes re: token allocation norms - 
+   * For pre-launch tokens, this can be specified as a % of token supply or absolute number of tokens with vesting/lock-up terms.
+   * If the client's token is already launched and liquid, structure a regular bonus denominated in the client's native token.
 3. Send to client through PandaDoc. Revise if reasonable and necessary based on the client’s feedback.
 4. Once the client has signed, to submit a proposal to the DAO through Snapshot
 5. Once the proposal passes, create a Gnosis Safe for the project with all team members as signers
