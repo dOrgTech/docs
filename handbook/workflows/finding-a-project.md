@@ -4,33 +4,31 @@ description: Getting started with your first project.
 
 # Building on client projects
 
+Once onboarded, you are qualified to start contributing to our ongoing projects.
+
 ## Finding a project to join
 
-Check out the [https://forum.dorg.tech/](https://forum.dorg.tech/) to learn details about our ongoing projects and express interest in any with open spots by commenting on the thread.
+1. Express interest in any of our ongoing [Client Projects](https://forum.dorg.tech/c/clientproject/8) by commenting on the thread.
+2. If the PM and Tech Lead of that project determine that your skills and availability match the project's needs, they will reach out to schedule a walkthrough.
+3. If it's a match, the PM will update the project's post with your start date, time commitment, and role.
 
-Get briefed by the PM and Tech Lead on the state of the project and how you can contribute. In the project's forum post, you can see all the key details needed to contribute effectively.
+## Contributing to a project
 
-## Building on a project
+1. Familiarize yourself with the project details noted in its forum post \(code repos, project boards, SoW, QA Worksheet, etc.\).
+2. Attend weekly syncs. Make sure you are prepared and join a few minutes early with a stable internet connection and good audio.
+3. Self-assign issues in the project board while communicating with other builders to avoid overlap and ensuring you are working on the highest priority tasks.
+4. Log your work and time in the project's budget spreadsheet before each payment checkpoint.
+5. At each payment checkpoint, review your teammates' logs and sign-off on the transaction initiated by the PM.
+6. Participate in periodic retro sessions and feedback surveys initiated by the PM
 
-Here's what it takes to build with dOrg:
+{% hint style="success" %}
+### **Tips & Tricks**
 
-1. Attend weekly syncs prepared and on-time
-2. Send updates and questions to the rest of the team and client as you build
-3. Self-assign issues, include clear code comments and commit messages and comments your code, commit early and often, avoid massive PRs, write tests,  and follow the rest of dOrg's &lt;coding standards&gt;
-4. Log your work and time in the project's budget spreadsheet before each payment checkpoint
-5. At each payment checkpoint, review your teammates' logs and sign-off on the transaction initiated by the PM
-
-## Communication
-
-
-
-* **Calls**. The team has weekly internal syncs followed by client-facing calls to report progress and discuss issues.
-* **Chats**. The team uses a corresponding Discord channel for internal communications and usually has an external channel open with the client on their platform of choice \(Slack/Telegram/Discord\)
-* **Project Boards.** The team tracks its progress on project boards in Github or similar
-
-## Coding Standard Practice
-
-&lt;see coding handbook&gt;
+* Share updates and questions with the rest of the team as you build.
+* Include clear commit messages and code comments, commit early and often, avoid massive PRs, write tests, and leverage &lt;dOrg's coding best practices&gt;.
+* If you run into any issues, technical or otherwise, ask other builders for help. If the problem persists, tap into the dOrg hive mind by posting in the \#help channel on Discord.
+* If you feel that a project is going over scope or needs more time, discuss this with the Tech Lead or PM as soon as possible so that adjustments can be made.
+{% endhint %}
 
 
 

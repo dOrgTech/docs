@@ -13,6 +13,10 @@ _Thanks so much for your interest in hiring our builder collective. Your submiss
 
 _🤙**Please schedule a call with me at your earliest. \[Your calendar link\]**_
 
+{% hint style="success" %}
+### \*\*\*\*
+{% endhint %}
+
 _In the meantime, please prepare an outline of your project’s requirements that we can review on the call._
 
 _Looking forward to meeting with you!_
