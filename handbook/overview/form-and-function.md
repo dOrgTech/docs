@@ -6,9 +6,9 @@ After gestating as a multisig, dOrg mutated into a reputation-weighted [DAO](../
 
 Since then some basic metabolic processes have emerged.
 
-### Builder Lifecycle
+### Activation & Onboarding
 
-Anyone can join by submitting an [activation challenge](../lifecycle/activation.md). Builders [deactivate](../lifecycle/deactivation.md) after 90 days of inactivity but can always reactivate.
+New builders are continually [activated](../lifecycle/activation.md) and [onboarded](../lifecycle/onboarding.md) into the DAO. Builders [deactivate](../lifecycle/deactivation.md) after 90 days of inactivity but can always reactivate.
 
 ### Core Workflows
 

@@ -8,7 +8,7 @@
 * [Form & Function](overview/form-and-function.md)
 * [Principles](overview/principles.md)
 
-## Lifecycle
+## Builder Lifecycle <a id="lifecycle"></a>
 
 * [Activation](lifecycle/activation.md)
 * [Onboarding](lifecycle/onboarding.md)
@@ -16,8 +16,9 @@
 
 ## Workflows
 
-* [Finding a Project](workflows/finding-a-project.md)
-* [Building](workflows/building.md)
+* [Building on client projects](workflows/finding-a-project.md)
+* [Sourcing](workflows/building.md)
+* [PM](workflows/pm.md)
 * [Getting Paid](workflows/getting-paid.md)
 
 ## Governance

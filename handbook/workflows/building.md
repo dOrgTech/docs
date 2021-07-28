@@ -1,10 +1,12 @@
-# Building
+# Sourcing
 
-Each project has one or more builders executing on deliverables and coordinating delivery.
 
-## As an executor
 
-Execution ultimately determines project outcomes. That's why a bias towards action is essential, including:
+
+
+
+
+
 
 * **Communication.** Proactively update other builders in the internal chat \(Discord\), speak-up when needed in the client chat \(Telegram\), and attend weekly calls.
 * **Organization.** Keep issues and project boards \(Github\) up-to-date with your progress.
@@ -16,7 +18,7 @@ Execution ultimately determines project outcomes. That's why a bias towards acti
 * Keep a log of hours worked and contributions made as you go. This will reduce time and avoid conflict at payment checkpoints.
 * Regularly check-in with your squad to ensure that everyone is fulfilling their work allocations. Builder self-organization is how dOrg delivers quality work on time.
 * If you run into any issues, technical or otherwise, ask your squad for help. If the problem persists, tap into the dOrg hive mind by posting in the \#help channel on Discord.
-* If you feel that a project is going over scope or needs more time, discuss this with your coordinator as soon as possible so that adjustments can be made.
+* If you feel that a project is going over scope or needs more time, discuss this with the Tech Lead or PM as soon as possible so that adjustments can be made.
 {% endhint %}
 
 ## As a coordinator
