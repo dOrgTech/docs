@@ -1,6 +1,8 @@
 # Sourcing new client projects
 
-## **Response Email**
+Any active dOrg builder is qualified to source new projects for the collective. Sourcing leads receive 10% of the revenue from projects they source \(see [Savings](../governance/savings.md)\) and this reward can be shared amongst multiple individuals.
+
+## **Initial Contact**
 
 Here is an email template for responding to inbound inquiries from potential clients:
 
@@ -17,7 +19,7 @@ Here is an email template for responding to inbound inquiries from potential cli
 > _Cheers,  
 > \[Your Name\]_
 
-## Client Screening Call
+## Screening Call
 
 The goal of the screening call is to assess the client’s fit for dOrg and help them understand what it’s like to work with dOrg. 
 
@@ -43,7 +45,7 @@ The next step is to gather interested builders and schedule a technical Q&A with
 In addition to a well-balanced set of builders that match the project’s needs, each team must have a [Project Manager](pm.md) and [Tech Lead](being-tech-lead.md)
 {% endhint %}
 
-## SoW & Invoicing
+## Proposal & Invoicing
 
 If the interested builders agree that the project looks promising, does not have major technical issues or execution risks, and that they have the availability and skills to take on the engagement, then proceed with the following.
 
