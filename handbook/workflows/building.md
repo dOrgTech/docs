@@ -48,16 +48,13 @@ In addition to a well-balanced set of builders that match the project’s needs,
 If the interested builders agree that the project looks promising, does not have major technical issues or execution risks, and that they have the availability and skills to take on the engagement, then proceed with the following.
 
 1. Create SoW on [Pandadoc](https://app.pandadoc.com/a/#/templates-next?sortBy=name&direction=asc&displayMode=folders_first&mainFilter=all). Go to Templates, hover over ‘dOrg SoW Template’, and click ‘Create Document’ \([see login credentials here](https://docs.google.com/spreadsheets/d/18QXB9Ski8OxHRiELfxq8DcahYFhNnEKPEM20kRjeuYA/edit?usp=sharing)\)
-2. Share the draft SoW in the Discourse thread with the interested builders, confirming that the term, pricing, and scope look reasonable.
-   * Notes re: token allocation norms - 
-   * For pre-launch tokens, this can be specified as a % of token supply or absolute number of tokens with vesting/lock-up terms.
-   * If the client's token is already launched and liquid, structure a regular bonus denominated in the client's native token.
-3. Send to client through PandaDoc. Revise if reasonable and necessary based on the client’s feedback.
-4. Once the client has signed, to submit a proposal to the DAO through Snapshot
-5. Once the proposal passes, create a Gnosis Safe for the project with all team members as signers
+2. Update the forum post you made earlier with the draft SoW to get feedback from the interested builders on the timeframe, pricing, and scope
+3. Send the SoW to the client through PandaDoc. Revise if reasonable and necessary based on the client’s feedback.
+4. Once the client has signed, to submit a proposal to the DAO through [Snapshot](https://snapshot.org/#/dorg.eth) that links to the forum post **but does not name the client publicly**
+5. Once the proposal passes, create a [Gnosis Safe](https://gnosis-safe.io/app/#/welcome) for the project with all team members as signers
 6. Invoice the client via [Gilded](https://app.gilded.finance/auth/login), making the invoice recurring unless not appropriate for this project’s cycle \([see login credentials here](https://docs.google.com/spreadsheets/d/18QXB9Ski8OxHRiELfxq8DcahYFhNnEKPEM20kRjeuYA/edit?usp=sharing)\)
    * Login &gt; Contacts &gt; Add Contact &gt; 
-   * Accounts &gt; Add Account &gt; Input address &gt; Account Name is the Project Name &gt; Wallet Address is the dOrg multi-sig for this specific project
-   * Payments &gt; Invoices &gt; Recurring &gt; New Recurring Invoice &gt; Set the details \([view example here](https://app.gilded.finance/invoice/view/mDNglRQ0kMtaLDxwjvms)\), and check the box to automatically email invoice to customer.  \*\*In the notes field, make sure to enter the payment instructions: Payable in DAI.
-7. Continue to invoice on the agreed upon schedule and monitor the project through the PM, making sure to step in and help resolve any issues that arise.
+   * Accounts &gt; Add Account &gt; Input address &gt; Account Name is the Project Name &gt; Wallet Address is the project's Gnosis Safe's address
+   * Payments &gt; Invoices &gt; Recurring &gt; New Recurring Invoice &gt; Set the details \([view example here](https://app.gilded.finance/invoice/view/mDNglRQ0kMtaLDxwjvms)\), and check the box to automatically email invoice to customer.
+7. Continue to invoice on the agreed upon schedule and regularly check in with the project's `Project Manager` and `Tech Lead`, making sure to step in and help resolve any issues that arise.
 
