@@ -1,8 +1,12 @@
 # Sourcing new client projects
 
-Any active dOrg builder is qualified to source new projects for the collective. Sourcing leads receive 10% of the revenue from projects they source \(see [Savings](../governance/savings.md)\) and this reward can be shared amongst multiple individuals.
+Any active dOrg builder is qualified to source new projects. Sourcing leads receive 10% of project revenues \(see [Savings](../governance/savings.md)\). 
 
-## **Initial Contact**
+{% hint style="success" %}
+Sourcing is a team sport! Remember that you can co-lead the sourcing process with others.
+{% endhint %}
+
+## **1. Initial Contact**
 
 Here is an email template for responding to inbound inquiries from potential clients:
 
@@ -19,7 +23,7 @@ Here is an email template for responding to inbound inquiries from potential cli
 > _Cheers,  
 > \[Your Name\]_
 
-## Screening Call
+## 2. Screening Call
 
 The goal of the screening call is to assess the client’s fit for dOrg and help them understand what it’s like to work with dOrg. 
 
@@ -34,7 +38,7 @@ Here are some questions to guide your call:
 * _Do you have a project requirements doc that you could send?_
 * _Do you have any other questions about what it’s like to work with dOrg?_
 
-## Team Formation
+## 3. Team Formation
 
 The next step is to gather interested builders and schedule a technical Q&A with the client.
 
@@ -42,10 +46,10 @@ The next step is to gather interested builders and schedule a technical Q&A with
 2. Schedule a call with the client and all interested builders. Make sure that the builders review available materials so that they can be prepared to ask questions during the call.
 
 {% hint style="info" %}
-In addition to a well-balanced set of builders that match the project’s needs, each team must have a [Project Manager](pm.md) and [Tech Lead](being-tech-lead.md)
+In addition to a well-balanced set of builders that match the project’s needs, each team must have a [_Project Manager_](pm.md) and [_Tech Lead_](being-tech-lead.md)\_\_
 {% endhint %}
 
-## Proposal & Invoicing
+## 4. SoW
 
 If the interested builders agree that the project looks promising, does not have major technical issues or execution risks, and that they have the availability and skills to take on the engagement, then proceed with the following.
 
@@ -53,10 +57,14 @@ If the interested builders agree that the project looks promising, does not have
 2. Update the forum post you made earlier with the draft SoW to get feedback from the interested builders on the timeframe, pricing, and scope
 3. Send the SoW to the client through PandaDoc. Revise if reasonable and necessary based on the client’s feedback.
 4. Once the client has signed, to submit a proposal to the DAO through [Snapshot](https://snapshot.org/#/dorg.eth) that links to the forum post **but does not name the client publicly**
-5. Once the proposal passes, create a [Gnosis Safe](https://gnosis-safe.io/app/#/welcome) for the project with all team members as signers
-6. Invoice the client via [Gilded](https://app.gilded.finance/auth/login), making the invoice recurring unless not appropriate for this project’s cycle \([see login credentials here](https://docs.google.com/spreadsheets/d/18QXB9Ski8OxHRiELfxq8DcahYFhNnEKPEM20kRjeuYA/edit?usp=sharing)\)
+
+## 5. Invoicing 
+
+1. Once the proposal passes, create a [Gnosis Safe](https://gnosis-safe.io/app/#/welcome) on mainnet with yourself, the _Project Manager_, _Tech Lead_, and all other committed builders as signers. Examples of required signers: 2/3, 3/5, 4/7.
+2. Invoice the client via [Gilded](https://app.gilded.finance/auth/login), making the invoice recurring unless not appropriate for this project’s cycle \([see login credentials here](https://docs.google.com/spreadsheets/d/18QXB9Ski8OxHRiELfxq8DcahYFhNnEKPEM20kRjeuYA/edit?usp=sharing)\)
    * Login &gt; Contacts &gt; Add Contact &gt; 
    * Accounts &gt; Add Account &gt; Input address &gt; Account Name is the Project Name &gt; Wallet Address is the project's Gnosis Safe's address
    * Payments &gt; Invoices &gt; Recurring &gt; New Recurring Invoice &gt; Set the details \([view example here](https://app.gilded.finance/invoice/view/mDNglRQ0kMtaLDxwjvms)\), and check the box to automatically email invoice to customer.
-7. Continue to invoice on the agreed upon schedule and regularly check in with the project's `Project Manager` and `Tech Lead`, making sure to step in and help resolve any issues that arise.
+3. As soon as the client pays an invoice, issue 10% to the dOrg Safe so the DAO can issue dOrg tokens to the project Safe for the remaining 90%. Make sure that the _Project Manager_ then issues you your 10% with corresponding dOrg Tokens on the next builder payment.
+4. Continue to invoice on the agreed upon schedule and regularly check in with the project's _Project Manager_ and _Tech Lead_, making sure to step in and help resolve any issues that arise.
 

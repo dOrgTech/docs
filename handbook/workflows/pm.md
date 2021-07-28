@@ -2,7 +2,7 @@
 description: Project Management Guide
 ---
 
-# Being Project Manager
+# Project Manager guide
 
 Each project must have a builder with the `Project Manager` badge to:
 
@@ -17,11 +17,6 @@ The `Project Manager` badge is governed by the DAO and issued to builders who me
 * Has shadowed a `Project Manager` for at least one week on an ongoing client project
 
 ## Project Management Workflows
-
-
-
-1. Create a Gnosis Safe on mainnet with the builders on the project as signers. Examples of required signers: 2/3, 3/5, 4/7.
-2. As soon as the client pays an invoice, issue 10% to the dOrg Safe so the DAO can issue rep tokens to the project Safe for the remaining 90%.
 
 As PM, you are responsible for ensuring client and builder satisfaction through quality execution and orderly payments.
 

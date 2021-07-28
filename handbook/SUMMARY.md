@@ -18,8 +18,8 @@
 
 * [Building on client projects](workflows/finding-a-project.md)
 * [Sourcing new client projects](workflows/building.md)
-* [Being Project Manager](workflows/pm.md)
-* [Being Tech Lead](workflows/being-tech-lead.md)
+* [Project Manager guide](workflows/pm.md)
+* [Tech Lead guide](workflows/being-tech-lead.md)
 * [Getting Paid](workflows/getting-paid.md)
 
 ## Governance

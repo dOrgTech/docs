@@ -1,4 +1,4 @@
-# Being Tech Lead
+# Tech Lead guide
 
 Each project must have a builder with the `Tech Lead` badge to:
 
