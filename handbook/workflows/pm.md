@@ -2,7 +2,21 @@
 description: Project Management Guide
 ---
 
-# PM
+# Being Project Manager
+
+Each project must have a builder with the `Project Manager` badge to:
+
+* Manage communication with the client
+* Review builder logs and process payments
+* Monitor scope load and deadlines
+
+The `Project Manager` badge is governed by the DAO and issued to builders who meet the following qualifications:
+
+* Successful track record helping to coordinate on dOrg projects and/or highly visible open source projects
+* Confident communicator
+* Has shadowed a `Project Manager` for at least one week on an ongoing client project
+
+## Project Management Workflows
 
 As PM, you are responsible for ensuring client and builder satisfaction through quality execution and orderly payments.
 
@@ -28,9 +42,9 @@ Each payout period \(2-4 weeks\),
 2. Process bulk payout from the Gnosis Safe with the CSV app
 3. Receive sign-off from other builders
 
-## **Project Tracker**
+## **QA Worksheet Guide**
 
-Here is some guidance on how to use the Project Tracker in the QA template
+Here is some guidance on how to use the Project Tracker in the [QA Worksheet](https://docs.google.com/document/d/1NR6CZbwduSgsbRVDJFXcZBB1fXSprMeSHICob5Gfd8k/edit#heading=h.k20qb4mo4uip).
 
 * **Top Priorities:** What are the pieces of working software we’re going to create this week?
   * This is a way for us to ensure that we are working on the most critical things at the right time. 
@@ -48,9 +62,7 @@ Here is some guidance on how to use the Project Tracker in the QA template
     * Documentation for different parts of the stack 
 * **Code Review:** After large components are completed, we will find an external code reviewer to review the code
   * Note who completed the code review and include a link to the review
-  * Please see [dOrg Coding Guidelines](https://app.gitbook.com/@dorgtech/s/developer-guidelines/~/drafts/-Mds4-3sdk1IGOf6ycxI/quality-assurance/code-review-from-other-dorg-teams-members) for code review guidelines: process, timing, format, reference to original specs
-
-For standards and recommended tools, see [dOrg Coding Guidelines](https://app.gitbook.com/@dorgtech/s/developer-guidelines/~/drafts/-Mds4-3sdk1IGOf6ycxI/quality-assurance/code-review-from-other-dorg-teams-members)
+  * Please see the &lt;dOrg Development Best Practices&gt; for code review guidelines: process, timing, format, reference to original specs
 
 ## **Risk Factors**
 
