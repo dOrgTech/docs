@@ -16,11 +16,10 @@
 
 ## Workflows
 
-* [Building on client projects](workflows/finding-a-project.md)
-* [Sourcing new client projects](workflows/building.md)
-* [Project Manager guide](workflows/pm.md)
-* [Tech Lead guide](workflows/being-tech-lead.md)
-* [Getting Paid](workflows/getting-paid.md)
+* [Building on client projects](workflows/building-1.md)
+* [Sourcing new client projects](workflows/sourcing.md)
+* [Project Manager guide](workflows/project-manager.md)
+* [Tech Lead guide](workflows/tech-lead.md)
 
 ## Governance
 

@@ -12,7 +12,7 @@ New builders are continually [activated](../lifecycle/activation.md) and [onboar
 
 ### Core Workflows
 
-Builders collaboratively [find projects](../workflows/finding-a-project.md), [execute on deliverables](../workflows/building.md), and [get paid through the DAO](../workflows/getting-paid.md).
+Builders collaboratively [find projects](../workflows/building-1.md), [execute on deliverables](../workflows/sourcing.md), and [get paid through the DAO]().
 
 ### Governance
 

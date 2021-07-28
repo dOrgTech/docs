@@ -46,7 +46,7 @@ The next step is to gather interested builders and schedule a technical Q&A with
 2. Schedule a call with the client and all interested builders. Make sure that the builders review available materials so that they can be prepared to ask questions during the call.
 
 {% hint style="info" %}
-In addition to a well-balanced set of builders that match the project’s needs, each team must have a [_Project Manager_](pm.md) and [_Tech Lead_](being-tech-lead.md)\_\_
+In addition to a well-balanced set of builders that match the project’s needs, each team must have a [_Project Manager_](project-manager.md) and [_Tech Lead_](tech-lead.md)\_\_
 {% endhint %}
 
 ## 4. SoW
