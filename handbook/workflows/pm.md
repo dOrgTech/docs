@@ -12,35 +12,46 @@ Each project must have a builder with the `Project Manager` badge to:
 
 The `Project Manager` badge is governed by the DAO and issued to builders who meet the following qualifications:
 
-* Successful track record helping to coordinate on dOrg projects and/or highly visible open source projects
+* Successful track record helping to coordinate dOrg projects and/or highly visible open source projects
 * Confident communicator
 * Has shadowed a `Project Manager` for at least one week on an ongoing client project
 
 ## Project Management Workflows
 
+
+
+1. Create a Gnosis Safe on mainnet with the builders on the project as signers. Examples of required signers: 2/3, 3/5, 4/7.
+2. As soon as the client pays an invoice, issue 10% to the dOrg Safe so the DAO can issue rep tokens to the project Safe for the remaining 90%.
+
 As PM, you are responsible for ensuring client and builder satisfaction through quality execution and orderly payments.
 
-At the start of the project,
+### Project Setup
 
 1. Fork the [QA Worksheet](https://docs.google.com/document/d/1NR6CZbwduSgsbRVDJFXcZBB1fXSprMeSHICob5Gfd8k/edit#heading=h.k20qb4mo4uip) and fill out the Project Details and Personnel tables
-2. Schedule a recurring weekly builder check-in \(30 min\) followed by a client check-in with all builders \(30 min\)
+2. Schedule a recurring weekly builder check-in \(15-30 min\) followed by a client check-in with all builders \(30-45 min\)
 3. Ensure all builders are onboarded to the client’s project board and comms channels \(set up if needed\)
-4. Fork the [Budget template](http://todo) and set the payout periods
+4. Fork the [Budget template](http://todo) and make it visible to the DAO by adding active-builders@dorg.tech as editors.
 
-Each week,
+### Ongoing Quality Assurance
 
-1. Remind builders to fill out hour and work logs in the Budget and attend the weekly sync
-2. At the builder check-in, fill out the Progress Tracker table with:
+1. Remind builders to attend the weekly check-in
+2. At the builder portion of the check-in, fill out the Progress Tracker table with:
    1. Green rows: review actuals from the previous week
    2. White rows: plans for the coming week.
    3. Discuss any issues people are experiencing \(scope creep, communication issues, etc.\)
-3. At the client check-in, review and discuss each column
+3. At the client portion of the check-in, review and discuss each column
 
-Each payout period \(2-4 weeks\),
+### Payment Processing
 
-1. Review hour and work logs
-2. Process bulk payout from the Gnosis Safe with the CSV app
-3. Receive sign-off from other builders
+1. At the close of each pay period, make sure each builder's hours and worklogs is entered.
+2. The Payout tab automatically calculates the payout amount for each builder. Each builder will have a stablecoin payment \(we ask all clients to pay in DAI\), and a dOrg reputation token payout. Some projects also have bonuses in the client's native tokens — if you aren't clear on the setup, ask the Sourcing Lead
+3. Export the Payout tab to CSV and upload it to the Gnosis Safe's CSV Airdrop app. This will allow you to issue all payouts in one batched transaction. Once the transaction is created, ask the rest of the project's signers to review and sign  the transaction, and then it can be executed.
+
+{% hint style="warning" %}
+We're currently working on how to reimburse gas costs through a bulk proposal from the dOrg DAO.
+{% endhint %}
+
+
 
 ## **QA Worksheet Guide**
 
