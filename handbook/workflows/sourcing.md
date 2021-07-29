@@ -1,6 +1,6 @@
 # Sourcing new client projects
 
-Any active dOrg builder is qualified to source new projects. Sourcing leads receive 10% of project revenues \(see [Savings](../governance/savings.md)\). 
+Any active builder is qualified to source new projects. Sourcing leads receive 10% of project revenues \(see [Savings](../governance/savings.md)\). 
 
 {% hint style="success" %}
 Sourcing is a team sport! Remember that you can co-lead the sourcing process with others.
