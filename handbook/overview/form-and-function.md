@@ -1,6 +1,6 @@
 # Form & Function
 
-After gestating as a multisig, dOrg mutated into a reputation-weighted [DAO](../glossary/web3.md#dao) with legal personality.
+After gestating as a multisig, dOrg mutated into a reputation-weighted [DAO](../builder-resources/web3-glossary.md#dao) with legal personality.
 
 ![](../.gitbook/assets/artboard.png)
 

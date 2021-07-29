@@ -28,8 +28,8 @@
 * [Global Variables](governance/global-variables.md)
 * [Builder Covenant](governance/covenant.md)
 
-## Glossary
+## Resources for Builders <a id="builder-resources"></a>
 
-* [Web3](glossary/web3.md)
-* [dOrg](glossary/dorg.md)
+* [Web3 Glossary](builder-resources/web3-glossary.md)
+* [Upskilling](builder-resources/upskilling.md)
 

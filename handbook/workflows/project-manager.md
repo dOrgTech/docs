@@ -68,7 +68,7 @@ Here is some guidance on how to use the Project Tracker in the [QA Worksheet](ht
     * Documentation for different parts of the stack 
 * **Code Review:** After large components are completed, we will find an external code reviewer to review the code
   * Note who completed the code review and include a link to the review
-  * Please see the &lt;dOrg Development Best Practices&gt; for code review guidelines: process, timing, format, reference to original specs
+  * Please see our &lt;Development Best Practices&gt; for code review guidelines: process, timing, format, reference to original specs
 
 ## **Risk Factors**
 
