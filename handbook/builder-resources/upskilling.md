@@ -12,6 +12,8 @@
 
 * [CryptoZombies](https://cryptozombies.io)
 * [Ethernaut](https://ethernaut.openzeppelin.com/)
+* [ETH.Build](https://eth.build/)
+* [Scaffold-ETH](https://github.com/austintgriffith/scaffold-eth#-scaffold-eth)
 * [The Complete Guide to Full Stack Ethereum Development](https://dev.to/dabit3/the-complete-guide-to-full-stack-ethereum-development-3j13)
 * [Learning Solidity](https://github.com/willitscale/learning-solidity)
 * [Ethereum and Solidity: The Complete Developer's Guide \(Udemy\)](https://www.udemy.com/course/ethereum-and-solidity-the-complete-developers-guide/)
