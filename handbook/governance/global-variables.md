@@ -46,7 +46,7 @@ This file may only be altered through DAO proposals.
     "deactivation-thresh" : 90, // Days of inactivity to trigger deactivation
     "sourcing-rate" : 0.10, // % distributed to sourcing leads
     "savings-rate" : 0.10, // % retained by the DAO
-    "referral-rate" : 0.050 // Rewarded on first $100k earned by referred builder
+    "referral-rate" : 0.00 // Rewarded on first $100k earned by referred builder
   },
 }
 ```
