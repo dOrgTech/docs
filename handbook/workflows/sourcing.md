@@ -60,11 +60,11 @@ If the interested builders agree that the project looks promising, does not have
 
 ## 5. Invoicing 
 
-1. Once the proposal passes, create a [Gnosis Safe](https://gnosis-safe.io/app/#/welcome) on mainnet with yourself, the _Project Manager_, _Tech Lead_, and all other committed builders as signers. Examples of required signers: 2/3, 3/5, 4/7.
+1. Once the proposal passes, create a [Gnosis Safe](https://gnosis-safe.io/app/#/welcome) on mainnet with the _Sourcing Lead_, _Project Manager_, _Tech Lead_, and all other committed builders as signers. Examples of required signers: 2/3, 3/5, 4/7.
 2. Invoice the client via [Gilded](https://app.gilded.finance/auth/login), making the invoice recurring unless not appropriate for this project’s cycle \([see login credentials here](https://docs.google.com/spreadsheets/d/18QXB9Ski8OxHRiELfxq8DcahYFhNnEKPEM20kRjeuYA/edit?usp=sharing)\)
    * Login &gt; Contacts &gt; Add Contact &gt; 
-   * Accounts &gt; Add Account &gt; Input address &gt; Account Name is the Project Name &gt; Wallet Address is the project's Gnosis Safe's address
+   * Accounts &gt; Add Account &gt; Input address &gt; Wallet Address is the project's Gnosis Safe's address
    * Payments &gt; Invoices &gt; Recurring &gt; New Recurring Invoice &gt; Set the details \([view example here](https://app.gilded.finance/invoice/view/mDNglRQ0kMtaLDxwjvms)\), and check the box to automatically email invoice to customer.
 3. As soon as the client pays an invoice, issue 10% to the dOrg Safe so the DAO can issue dOrg tokens to the project Safe for the remaining 90%. Make sure that the _Project Manager_ then issues you your 10% with corresponding dOrg Tokens on the next builder payment.
-4. Continue to invoice on the agreed upon schedule and regularly check in with the project's _Project Manager_ and _Tech Lead_, making sure to step in and help resolve any issues that arise.
+4. Continue to invoice on the agreed upon schedule. Regularly monitor the project's health through the _Project Manager_ and _Tech Lead_, making sure to step in and help resolve any issues that arise.
 

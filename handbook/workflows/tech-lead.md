@@ -2,7 +2,7 @@
 
 Each project must have a builder with the `Tech Lead` badge to:
 
-* Own the code quality and is responsible for making sure there are no quality issues, that the coding standards are being followed. 
+* Own the code quality
 * Ensure that there’s a good fit between the builders and their technical responsibilities.
 
 The `Tech Lead` badge is governed by the DAO and issued to builders who meet the following qualifications:

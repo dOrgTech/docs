@@ -6,7 +6,7 @@ description: Project Management Guide
 
 Each project must have a builder with the `Project Manager` badge to:
 
-* Manage communication with the client
+* Own client communication
 * Review builder logs and process payments
 * Monitor scope load and deadlines
 
