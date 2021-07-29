@@ -18,7 +18,7 @@ In the meantime pop into our [Discord](https://discord.com/invite/6Kujmad) and s
 
 ## 2. Interview with an existing dOrg builder
 
-Interviews will be conducted by someone with a `Tech Lead` or `Project Manager` badge depending on whether the role is technical or not. Please be prepared to discuss details about your area of expertise and past professional experience. 
+Interviews will be conducted by someone with a [_Tech Lead_](../workflows/tech-lead.md) or [_Project Manager_](../workflows/project-manager.md) badge depending on whether the role is technical or not. Please be prepared to discuss details about your area of expertise and past professional experience. 
 
 ## 3. dOrg Vote
 
