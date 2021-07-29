@@ -12,7 +12,7 @@ New builders are continually [activated](../lifecycle/activation.md) and [onboar
 
 ### Core Workflows
 
-The core activity at dOrg is [building for our portfolio of Web3 clients](../workflows/building-1.md)! We also have builders that specialize in [sourcing](../workflows/sourcing.md), [managing](../workflows/project-manager.md), and [leading](../workflows/tech-lead.md) projects.
+The core activity at dOrg is [building for our portfolio of Web3 clients](../workflows/building-1.md). We also have builders that specialize in [sourcing](../workflows/sourcing.md), [managing](../workflows/project-manager.md), and [leading](../workflows/tech-lead.md) projects.
 
 ### Governance
 
