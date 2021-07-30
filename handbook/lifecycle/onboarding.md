@@ -8,7 +8,7 @@ In order to accept activation, you must complete the entire onboarding process.
 
 First you'll receive a form to:
 
-* Complete your builder profile \(brief bio, headshot, Ethereum address, etc.\)
+* Complete your builder profile \(brief bio, headshot, Ethereum address, socials, project preferences, learning/mentorship interests, availability\)
 * Sign legal docs and submit tax info
 * Consent to our values and ****[Builder Covenant](../governance/covenant.md)
 
