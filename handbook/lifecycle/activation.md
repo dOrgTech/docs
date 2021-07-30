@@ -18,9 +18,13 @@ In the meantime pop into our [Discord](https://discord.com/invite/6Kujmad) and s
 
 ## 2. Interview with an existing dOrg builder
 
-Interviews will be conducted by someone with a [_Tech Lead_](../workflows/tech-lead.md) or [_Project Manager_](../workflows/project-manager.md) badge depending on whether the role is technical or not. Please be prepared to discuss details about your area of expertise and past professional experience. 
+Interviews will be conducted by someone with a [_Tech Lead_](../workflows/tech-lead.md) or [_Project Manager_](../workflows/project-manager.md) badge depending on whether the role is technical or not. Please be prepared to discuss details about your area of expertise and past professional experience.
 
-## 3. dOrg Vote
+## 3. dOrg Votes
 
-The interviewer will make their recommendation to the collective on whether to proceed with a vote. If the collective votes to approve your activation, you will be notified and proceed with onboarding.
+The interviewer will make their recommendation to the collective on whether to proceed with a vote. If the collective votes to approve your activation, you will be invited to become an active dOrg member and move onto onboarding.
+
+{% hint style="warning" %}
+If you are a dOrg builder referring a friend, make sure to give our Experience Facilitator a heads up and have your friend follow all steps above.
+{% endhint %}
 
