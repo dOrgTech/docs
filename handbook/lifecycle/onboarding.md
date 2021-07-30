@@ -6,7 +6,7 @@ In order to accept activation, you must complete the entire onboarding process.
 
 ## Interactive Onboarding Form
 
-First, you'll receive a form to:
+First you'll receive a form to:
 
 * Complete your builder profile \(brief bio, headshot, Ethereum address, etc.\)
 * Sign legal docs and submit tax info
@@ -14,7 +14,7 @@ First, you'll receive a form to:
 
 ## Orientation Session
 
-At the end of the form, you will be able to schedule your orientation session where we will:
+The form will instruct you to schedule a session with our Experience Facilitator to:
 
 * Walk you through how dOrg works in more detail
 * Find out which projects are the best fit for you
