@@ -25,7 +25,7 @@ As PM, you are responsible for ensuring client and builder satisfaction through 
 1. Fork the [QA Worksheet](https://docs.google.com/document/d/1NR6CZbwduSgsbRVDJFXcZBB1fXSprMeSHICob5Gfd8k/edit#heading=h.k20qb4mo4uip) and fill out the Project Details and Personnel tables
 2. Schedule a recurring weekly builder check-in \(15-30 min\) followed by a client check-in with all builders \(30-45 min\)
 3. Ensure all builders are onboarded to the client’s project board and comms channels \(set up if needed\)
-4. Fork the [Budget template](http://todo) and make it visible to the DAO by adding active-builders@dorg.tech as editors.
+4. Fork the [Budget template](https://docs.google.com/spreadsheets/d/1T-tvQjN64HSipPBuR0SXS1ObdQmj-mElhVCUyeVhhek/edit#gid=0) and make it visible to the DAO by adding active-builders@dorg.tech as editors.
 
 ### Ongoing Quality Assurance
 
