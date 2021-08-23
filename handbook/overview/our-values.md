@@ -7,7 +7,7 @@
 We believe in:
 
 1. **Peer support and collaboration.**
-2. **Self-determination and individual autonomy/**
+2. **Self-determination and individual autonomy.**
 3. **Radical transparency.**
 4. **Kindness and respect.**
 5. **Decentralized ownership and decision-making.**
