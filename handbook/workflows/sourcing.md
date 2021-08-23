@@ -1,5 +1,10 @@
 # Sourcing new client projects
 
+Potential client projects are sourced in two ways.
+
+1. **Personal contact** If you have a personal relationship with a potential client, head to the Client Projects category on the forum and make a new post \(guidelines [here](https://forum.dorg.tech/t/about-the-client-projects-category/19)\). You can choose to seek a Sourcing Lead or act as the Sourcing Lead yourself. 
+2. **Via our Contact Form** Any potential client can complete our [Contact Form](https://www.dorg.tech/#/contact) on our website to notify us that 
+
 Any active builder is qualified to source new projects. Sourcing leads receive 10% of project revenues \(see [Savings](../governance/savings.md)\). 
 
 {% hint style="success" %}
