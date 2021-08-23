@@ -1,6 +1,8 @@
-# Principles
+# Guiding principles
 
-As dOrg continues to evolve, guiding principles are taking root.
+### As dOrg continues to evolve, our guiding principles are taking root.
+
+Initially an experiment in distributed organisation, we have pioneered governance, legal, and incentive structures that offer our builders \(our members\) the freedom of freelancing with the structural support that comes with being a part of a community of peers.
 
 ![](../.gitbook/assets/banyan.jpg)
 

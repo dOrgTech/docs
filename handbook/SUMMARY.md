@@ -4,9 +4,10 @@
 
 ## Overview
 
-* [Purpose](overview/purpose.md)
+* [Our purpose](overview/purpose.md)
 * [Form & Function](overview/form-and-function.md)
-* [Principles](overview/principles.md)
+* [Guiding principles](overview/principles.md)
+* [Our values](overview/our-values.md)
 
 ## Builder Lifecycle <a id="lifecycle"></a>
 
