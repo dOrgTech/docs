@@ -3,9 +3,17 @@
 Potential client projects are sourced in two ways.
 
 1. **Personal contact** If you have a personal relationship with a potential client, head to the Client Projects category on the forum and make a new post \(guidelines [here](https://forum.dorg.tech/t/about-the-client-projects-category/19)\). You can choose to seek a Sourcing Lead or act as the Sourcing Lead yourself. 
-2. **Via our Contact Form** Any potential client can complete our [Contact Form](https://www.dorg.tech/#/contact) on our website to notify us that 
+2. **Via our Contact Form** Any potential client can complete our [Contact Form](https://www.dorg.tech/#/contact) on our website to share details of their project. To ensure that we are a meritocratic community, all contact forms are automated into our \#contact-form channel in Discord. This means that no builders get to see potential projects before anyone else. 
 
-Any active builder is qualified to source new projects. Sourcing leads receive 10% of project revenues \(see [Savings](../governance/savings.md)\). 
+![](../.gitbook/assets/screen-shot-2021-08-23-at-14.27.00.png)
+
+If you see a potential client project that you would like to be the Sourcing Lead for, add a 👋 emoji. This is how we indicate our interest \(and stops clients from receiving contact from numerous builders\).
+
+Once you have added a 👋 to the contact form admission, click on the pinned message to find step-by-step guidelines for sourcing. You'll also find this information below.
+
+![](../.gitbook/assets/screen-shot-2021-08-23-at-14.33.49.png)
+
+**Any active builder is qualified to source new projects. Sourcing leads receive 10% of project revenues** \(see [Savings](../governance/savings.md)\). 
 
 {% hint style="success" %}
 Sourcing is a team sport! Remember that you can co-lead the sourcing process with others.
@@ -61,7 +69,7 @@ If the interested builders agree that the project looks promising, does not have
 1. Create SoW on [Pandadoc](https://app.pandadoc.com/a/#/templates-next?sortBy=name&direction=asc&displayMode=folders_first&mainFilter=all). Go to Templates, hover over ‘dOrg SoW Template’, and click ‘Create Document’ \([see login credentials here](https://docs.google.com/spreadsheets/d/18QXB9Ski8OxHRiELfxq8DcahYFhNnEKPEM20kRjeuYA/edit?usp=sharing)\)
 2. Update the forum post you made earlier with the draft SoW to get feedback from the interested builders on the timeframe, pricing, and scope
 3. Send the SoW to the client through PandaDoc. Revise if reasonable and necessary based on the client’s feedback.
-4. Once the client has signed, to submit a proposal to the DAO through [Snapshot](https://snapshot.org/#/dorg.eth) that links to the forum post **but does not name the client publicly**
+4. Once the client has signed, to submit a proposal to the DAO through [Snapshot](https://snapshot.org/#/dorg.eth) that links to the forum post **but does not name the client publicly.**
 
 ## 5. Invoicing 
 
