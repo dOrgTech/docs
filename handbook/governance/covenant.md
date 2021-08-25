@@ -25,6 +25,12 @@ Examples of unacceptable behavior include:
 * Silencing particular voices by deleting innocuous comments
 * Other conduct which could reasonably be considered inappropriate in a professional setting
 
+## Expectations of professionalism
+
+* Arrive to meetings at their start time.
+* Communicate in a timely manner to client and teammate requests.
+* Give 2 weeks notice prior to changing your availability on a project.
+
 ## Scope
 
 This Builder Covenant applies within all dOrg spaces, including our Discord, Alchemy, Github, Google Drive, and all other spaces associated with dOrg. This covenant also applies when an individual is representing dOrg in public spaces, such as using an official email address, social media account, or acting as a representative at an online or offline event.

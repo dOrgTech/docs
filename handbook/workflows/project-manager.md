@@ -10,6 +10,15 @@ Each project must have a builder with the `Project Manager` badge to:
 * Review builder logs and process payments.
 * Monitor scope load and deadlines.
 
+On our forum, you can see if someone is a Project Manager by clicking on their profile picture.
+
+![](../.gitbook/assets/screen-shot-2021-08-25-at-10.05.12.png)
+
+On Discord, you'll find it when you click on a user's image.
+
+![](../.gitbook/assets/screenshot-2021-08-25-at-14.56.58.png)
+
+  
 The `Project Manager` badge is governed by the DAO and issued to builders who meet the following qualifications:
 
 * Successful track record helping to coordinate dOrg projects and/or highly visible open source projects.
