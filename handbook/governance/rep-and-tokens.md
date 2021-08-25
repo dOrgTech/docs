@@ -2,7 +2,11 @@
 
 ## Voting
 
-We use Snapshot to create and vote on proposals.
+We use Snapshot to create and vote on proposals. Proposals are made for numerous DAO processes, including:
+
+1. Activating new dOrg builders.
+2. New internal roles.
+3. Governance decisions.
 
 {% hint style="info" %}
 Head to [Snapshot's Handbook](https://docs.snapshot.org/proposals) for instructions on how to create and vote on proposals.
