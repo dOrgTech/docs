@@ -1,4 +1,12 @@
-# Rep & Tokens
+# Voting, Rep & Tokens
+
+## Voting
+
+We use Snapshot to create and vote on proposals.
+
+{% hint style="info" %}
+Head to [Snapshot's Handbook](https://docs.snapshot.org/proposals) for instructions on how to create and vote on proposals.
+{% endhint %}
 
 ## Reputation \(Rep\)
 
