@@ -17,6 +17,7 @@
 
 ## Workflows
 
+* [Introduction](workflows/introduction.md)
 * [Building on client projects](workflows/building-1.md)
 * [Sourcing new client projects](workflows/sourcing.md)
 * [Project Manager guide](workflows/project-manager.md)
