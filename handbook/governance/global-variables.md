@@ -1,4 +1,4 @@
-# Spaces & Events
+# Community details
 
 ## Shared Spaces
 

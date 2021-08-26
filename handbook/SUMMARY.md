@@ -26,7 +26,7 @@
 
 * [Savings](governance/savings.md)
 * [Voting, Rep & Tokens](governance/rep-and-tokens.md)
-* [Spaces & Events](governance/global-variables.md)
+* [Community details](governance/global-variables.md)
 * [Builder Covenant](governance/covenant.md)
 
 ## Resources for Builders <a id="builder-resources"></a>
