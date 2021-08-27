@@ -22,7 +22,7 @@
 * [Sourcing new client projects](workflows/sourcing.md)
 * [Project Manager guide](workflows/project-manager.md)
 * [Tech Lead guide](workflows/tech-lead.md)
-* [Role Matching](workflows/role-matching.md)
+* [Role & Talent Matching](workflows/role-talent-matching.md)
 
 ## Governance
 
