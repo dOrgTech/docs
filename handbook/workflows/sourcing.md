@@ -1,7 +1,8 @@
 ---
 description: >-
   As soon as you're a dOrg builder, you're qualified to source new projects.
-  Sourcing leads receive 10% of the project revenues (see Savings).
+  Sourcing leads receive 10% of the project revenues (see the Savings & client
+  payments page).
 ---
 
 # Sourcing new client projects
