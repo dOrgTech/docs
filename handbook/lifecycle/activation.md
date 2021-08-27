@@ -22,7 +22,7 @@ In the meantime pop into our [Discord](https://discord.com/invite/6Kujmad) and s
 
 ## 2. Interview with an existing dOrg builder
 
-Interviews will be conducted by a builder with a [_Tech Lead_](../workflows/tech-lead.md) or [_Project Manager_](../workflows/project-manager.md) badge depending on whether the role is technical or not. Please be prepared to discuss details about your area of expertise and past professional experience, as well as your current Web3 experience and interests.
+Interviews will be conducted by a builder with a [_Tech Lead_](../workflows/tech-lead/) or [_Project Manager_](../workflows/project-manager.md) badge depending on whether the role is technical or not. Please be prepared to discuss details about your area of expertise and past professional experience, as well as your current Web3 experience and interests.
 
 ## 3. dOrg Votes
 
