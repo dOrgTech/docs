@@ -2,11 +2,13 @@
 
 ## Voting
 
-We use Snapshot to create and vote on proposals. Proposals are made for numerous DAO processes, including:
+We use [Snapshot](https://snapshot.org/#/dorg.eth) to create and vote on proposals. Proposals are made for numerous DAO processes, including:
 
 1. Activating new dOrg builders.
 2. New internal roles.
 3. Governance decisions.
+
+When you connect your wallet to dOrg's Snapshot page for the first time, make sure you use the same Eth address as you do in your profile on the forum so that with your rep is collected in the same wallet as your project payments.
 
 {% hint style="info" %}
 Head to [Snapshot's Handbook](https://docs.snapshot.org/proposals) for instructions on how to create and vote on proposals.
