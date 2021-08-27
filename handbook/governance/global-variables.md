@@ -20,8 +20,14 @@ You will automatically be invited to the following optional events.
 
 | Name | Frequency | Purpose |
 | :--- | :--- | :--- |
-| All Hands Chat | Biweekly | Discuss org-wide updates, ideas, or concerns |
+| All Hands Meetings | Biweekly | Discuss org-wide updates, ideas, or concerns |
 | Open House | Quarterly | Present updates to our broader community |
+
+At our All Hands Meetings we discuss proposals and recent DAO changes that need real-time dialogue, host tech talks and project deep-dives, and bring in interesting Web3 projects for 'show and tells'.
+
+{% hint style="info" %}
+Contact dOrg's Experience Facilitator for a calendar invite to our All Hands meetings.
+{% endhint %}
 
 ## Legal Details
 
