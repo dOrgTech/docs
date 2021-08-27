@@ -17,7 +17,7 @@ You can find a builder to match your talent need by:
 
 1. Searching in the [forum](https://forum.dorg.tech/) using the search bar. You can search by technologies a builder is proficient in, their skills, the name of a past dOrg project, experience levels: basically, any of the information in the forum profiles.
 
-![](../../.gitbook/assets/screen-shot-2021-08-27-at-14.17.23.png)
+![](../.gitbook/assets/screen-shot-2021-08-27-at-14.17.23.png)
 
 2. Posting details about the client project and your talent needs in the [job board](https://forum.dorg.tech/c/job-board/9).  
 3. Adding your need to your particular [client project](https://forum.dorg.tech/c/clientproject) thread.

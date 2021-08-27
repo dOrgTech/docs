@@ -21,8 +21,8 @@
 * [Building on client projects](workflows/building-1.md)
 * [Sourcing new client projects](workflows/sourcing.md)
 * [Project Manager guide](workflows/project-manager.md)
-* [Tech Lead guide](workflows/tech-lead/README.md)
-  * [Role Matching](workflows/tech-lead/role-matching.md)
+* [Tech Lead guide](workflows/tech-lead.md)
+* [Role Matching](workflows/role-matching.md)
 
 ## Governance
 
