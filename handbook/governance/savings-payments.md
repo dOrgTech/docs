@@ -1,4 +1,4 @@
-# Savings
+# Savings & client payments
 
 dOrg keeps 10% of every client payment to build a reserve that funds internal operations, builder benefits, and new ventures.
 

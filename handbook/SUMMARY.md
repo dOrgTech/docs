@@ -25,7 +25,7 @@
 
 ## Governance
 
-* [Savings](governance/savings.md)
+* [Savings & client payments](governance/savings-payments.md)
 * [Voting, Rep & Tokens](governance/rep-and-tokens.md)
 * [Community details](governance/global-variables.md)
 * [Builder Covenant](governance/covenant.md)

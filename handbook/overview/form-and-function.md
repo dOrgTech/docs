@@ -16,5 +16,5 @@ The core activity at dOrg is [building for our portfolio of Web3 clients](../wor
 
 ### Governance
 
-The margin on paid projects grows the DAO's [savings](../governance/savings.md), which builders control through [voting and redemption rights](../governance/rep-and-tokens.md) accumulated over time. Builders also govern all legal decisions and [organization-wide variables](../governance/global-variables.md).
+The margin on paid projects grows the DAO's [savings](../governance/savings-payments.md), which builders control through [voting and redemption rights](../governance/rep-and-tokens.md) accumulated over time. Builders also govern all legal decisions and [organization-wide variables](../governance/global-variables.md).
 
