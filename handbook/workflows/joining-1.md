@@ -2,7 +2,7 @@
 description: Getting started with your first project.
 ---
 
-# Building on client projects
+# Joining a client project
 
 Once onboarded, you can start contributing to our ongoing projects.
 
