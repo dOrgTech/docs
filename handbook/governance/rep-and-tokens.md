@@ -11,7 +11,7 @@ We use [Snapshot](https://snapshot.org/#/dorg.eth) to create and vote on proposa
 When you connect your wallet to dOrg's Snapshot page for the first time, make sure you use the same Eth address as you do in your profile on the forum so that with your rep is collected in the same wallet as your project payments.
 
 {% hint style="info" %}
-Head to [Snapshot's Handbook](https://docs.snapshot.org/proposals) for instructions on how to create and vote on proposals.
+Head to [Snapshot's Handbook](https://docs.snapshot.org/proposals) for extensive instructions on how to create and vote on proposals.
 {% endhint %}
 
 ## Reputation \(Rep\)
