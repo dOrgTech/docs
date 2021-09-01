@@ -25,7 +25,14 @@ The dOrg forum is also where builders set up their profiles. This includes:
 * Your availability \(including how many hrs a week you're available and if those hours are only at certain times of the day\).
 * Your Discord handle.
 * The Eth address you'd like used for payments. This should be a self-custodied wallet like Metamask or Ledger or similar.
-* \(If you choose to add it\) your Twitter link.
+* \(If you choose to add it\) your Twitter link.  
+  
+  **You view someone's profile by clicking on their profile image in Discourse.**
+
+  
+  Here's what our Experience Facilitator's profile looks like:
+
+![](../.gitbook/assets/screen-shot-2021-09-01-at-13.30.43.png)
 
 {% hint style="info" %}
 **Profiles are set up when joining the forum for the first time.** However, our project managers and tech leads will use the details in your profile to search for their talent needs, so please make sure you keep your profile updated.
