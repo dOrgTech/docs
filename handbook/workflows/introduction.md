@@ -42,6 +42,10 @@ The dOrg forum is also where builders set up their profiles. This includes:
 
 Once proposals have gone through a dialogue process in the forum, they are posted to Snapshot for a formal vote by the DAO. Your voting weight corresponds to your [rep score](https://docs.dorg.tech/governance/rep-and-tokens). 
 
+{% hint style="info" %}
+Head [here](https://app.gitbook.com/@dorg/s/-/governance/rep-and-tokens) to read about how to create a Snapshot proposal.
+{% endhint %}
+
 ## Discord
 
 Discord is where day-to-day chat on internal projects and client projects happens. It's also where [sourcing leads](https://docs.dorg.tech/workflows/sourcing) review incoming client project requests, where you will find a running list of snapshot proposals, and where you can ask for help from peer coders if you are stumped on an issue or would like feedback.
