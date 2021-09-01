@@ -4,7 +4,7 @@ In order to accept activation, you must complete the entire onboarding process.
 
 ![](../.gitbook/assets/imagen%20%282%29.png)
 
-## Interactive Onboarding Form
+## Interactive Onboarding Forms
 
 Welcome to dOrg!  
   
