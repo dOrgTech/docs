@@ -29,6 +29,6 @@ Interviews will be conducted by a builder with a [_Tech Lead_](../workflows/tech
 The interviewer will make their recommendation to the collective on whether to proceed with a vote. If the collective votes to approve your activation, you will be invited to become an active dOrg member and move onto onboarding.
 
 {% hint style="warning" %}
-If you are a dOrg builder referring a friend or you have a talent need for your project, create a post here describing the candidate [here](https://forum.dorg.tech/t/about-the-builder-activations-category).
+If you are a dOrg builder referring a friend or you have a talent need for your project, create a post describing the candidate [here](https://forum.dorg.tech/t/about-the-builder-activations-category).
 {% endhint %}
 
