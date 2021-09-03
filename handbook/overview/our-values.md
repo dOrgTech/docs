@@ -4,7 +4,7 @@
 
 ![](../.gitbook/assets/faye-cornish-ggv3i6oxpcg-unsplash.jpg)
 
-We believe in:
+We practice:
 
 1. **Peer support and collaboration.**
 2. **Self-determination and individual autonomy.**
