@@ -1,8 +1,8 @@
 # Form & Function
 
-After gestating as a multisig, dOrg mutated into a reputation-weighted [DAO](../builder-resources/web3-glossary.md#dao) with legal personality.
+After gestating as a multisig, dOrg mutated into a reputation-weighted DAO with legal personality.
 
-![](../.gitbook/assets/artboard.png)
+![](../.gitbook/assets/membrane.jpg)
 
 Since then some basic metabolic processes have emerged.
 
@@ -16,5 +16,5 @@ The core activity at dOrg is [building for our portfolio of Web3 clients](../wor
 
 ### Governance
 
-The margin on paid projects grows the DAO's [savings](../governance/savings-payments.md), which builders control through [voting and redemption rights](../governance/rep-and-tokens.md) accumulated over time. Builders also govern all legal decisions and [organization-wide variables](../governance/global-variables.md).
+The margin on paid projects grows the DAO's [savings](../governance/savings-payments.md), which builders control through [voting and redemption rights](../governance/rep-and-tokens.md) accumulated over time. Builders also govern all organization-wide decisions.
 
