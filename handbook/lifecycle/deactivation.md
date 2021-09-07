@@ -4,13 +4,12 @@ Builders can continuously flow in and out of dOrg.
 
 ![](../.gitbook/assets/image%20%2825%29.png)
 
-## Inactivity Threshold
+## Criteria for Remaining Active
 
-Any builder that becomes inactive \(does not pass a proposal for 90 days\) is deactivated.
+To remain an active dOrg builder, our builders are expected to have, once every quarter:
 
-* Removed from shared spaces
-* Retains all accumulated tokens
-* Can reactivate at any time by passing a proposal
+1. Received a payment; or
+2. Voted on one proposal, attended one biweekly sync, and posted once in the forum.
 
 ## Exceptional Circumstances
 
