@@ -12,6 +12,12 @@ The dOrg forum hosts our discussions and proposals about governance, internal pr
 
 There is a Docs & Key Info thread that you will likely find useful as you start building. If a proposal needs the dOrg community to vote on it, we'll create that proposal in [Snapshot](https://snapshot.org/#/dorg.eth) and add a link to the relevant forum post.
 
+Watch the below video to run through our main forum categories.
+
+{% embed url="https://www.youtube.com/watch?v=Lj6Qqfk7ZGM&ab\_channel=dOrg" %}
+
+
+
 {% hint style="info" %}
 During sign-up to the forum, you'll be asked to add a profile picture. Please upload a professional headshot. This profile picture will be added to our builder section on the dOrg website so please make this a high-resolution profile shot with an un-busy background and in square ratio. You're welcome to add a friendly and well-designed avatar if you'd prefer.
 {% endhint %}
