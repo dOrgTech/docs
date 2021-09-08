@@ -33,6 +33,11 @@
 
 ## Resources for Builders <a id="builder-resources"></a>
 
+* [Best practice overview](builder-resources/best-practice-overview.md)
+* [Doing a code review for another project's team](builder-resources/doing-a-code-review.md)
+* [Git](builder-resources/git.md)
+* [Creating a React dApp](builder-resources/creating-a-react-dapp.md)
+* [Choosing a hosting platform](builder-resources/choosing-a-hosting-platform.md)
+* [Upskilling Resources](builder-resources/upskilling.md)
 * [Web3 Glossary](builder-resources/web3-glossary.md)
-* [Upskilling](builder-resources/upskilling.md)
 

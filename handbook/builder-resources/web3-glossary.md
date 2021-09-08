@@ -8,10 +8,6 @@ description: >-
 
 ![](../.gitbook/assets/image%20%2815%29.png)
 
-{% hint style="danger" %}
-This glossary was made for informational purposes only, and _is not meant to be financial or legal advice_. Please do your own research before taking any decisions.
-{% endhint %}
-
 ## Open Source
 
 > Software for which the original source code is made **freely available** and **may be redistributed and modified.**
