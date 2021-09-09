@@ -2,7 +2,7 @@
 
 ## How to review
 
-The review should be done with the premise in mind that in pull requests reflects the way of thinking of someone captured in form of code. Each person is unique and in software there's no such thing as unique solution, therefore review should be performed not only **objectively** but also **kindly**.
+The review should be done with the premise in mind that pull requests reflect the way of thinking of someone captured in form of code. Each person is unique and in software there's no such thing as unique solution, therefore review should be performed not only **objectively** but also **kindly**.
 
 Most discussions in the PR happen in an async nature that might have delay between responses, therefore, avoiding ambiguity in messages is encouraged. Conciseness can save ton of time.
 
@@ -12,7 +12,7 @@ There's an [article](https://curtiseinsmann.medium.com/ive-code-reviewed-over-75
 
 ## When to review
 
-At any moment the developers working on a project can ask for help and/or reviews to another devs of the organization. This process must be less frequent than the daily/periodic code review done internally by the project team, as it requires significantly more time and effort.
+At any moment the developers working on a project can ask for help and/or reviews from other devs of the organization. This process must be less frequent than the daily/periodic code review done internally by the project team, as it requires significantly more time and effort.
 
 **While this process may be really useful in certain circumstances, it should not be used to replace the need for a strong technical lead or to compensate a lower expertise team level than the project requires**
 
@@ -28,8 +28,6 @@ A general code review entails a revision of the full/significant part of the pro
 
 When requesting this kind of review, it's worth noting that the external builder who will perform the review does not know the specifics, nor the implementation details of the project, so the recommended process is as follows:
 
-When requesting this kind of review, it's worth noting that the external builder who will perform the review does not know the specifics, nor the implementation details of the project, so the recommended process is as follows:
-
 1. Reach out to the builder/builders to request for review
 2. Schedule a time to have a call or chat to walk the reviewer through the codebase and the areas that need revision the most
 
@@ -40,7 +38,7 @@ When requesting this kind of review, it's worth noting that the external builder
 * Libraries being used in implementation
 * High level functionality desired
 
-As a reviewer:
+**As a reviewer:**
 
 After this, the reviewer should:
 
