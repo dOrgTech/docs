@@ -1,16 +1,10 @@
 # Our purpose
 
-### dOrg is a full stack Web3 developer collective that is also a DAO \(Decentralised Autonomous Organisation\).
-
-Since early 2019, we have been collaborating with Web3 projects to build infrastructure for the internet of value: DeFi protocols, NFT marketplaces, DAO Frameworks, Layer 2s, decentralized identity and reputation standards, data oracles, and developer tools.
+### dOrg is a decentralized autonomous builder collective.
 
 ![](../.gitbook/assets/imagen%20%288%29.png)
 
-[Web3](../builder-resources/web3-glossary.md#web3) is a foundational coordination technology that will empower humans to better their worlds. 
-
-But we’re not there yet. The web3 stack is immature and lacks robust tools and real-world experiments. dOrg spawned at the start of 2019 to change all that.
-
-Our genetic code is simple:
+Since early 2019, we have been collaborating with projects to advance the Web3 stack. Our genetic code is simple:
 
 1. **Run on web3.**
 
@@ -18,9 +12,9 @@ Our genetic code is simple:
 
 2. **Build on web3.**
 
-   Execute on projects that advance the stack: digital identity, accountable fundraising, decentralized liquidity, developer tools, friendly UIs.
+   Execute on projects that advance the stack: DeFi protocols, NFT marketplaces, DAO frameworks, Layer 2s, decentralized identity and reputation standards, data oracles, developer tools and more.
 
 3. **Iterate and propagate.**
 
-   As web3 matures and gains traction, widen the fold: teachers, journalists, filmmakers, plumbers, nurses, construction workers.
+   Continuously iterate our tools and processes to always be coordinating as effectively as possible. Share our methods with the world and help DAOs spread to communities and industries everywhere!
 
