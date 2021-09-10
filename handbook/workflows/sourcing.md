@@ -20,10 +20,10 @@ Once you have added a 👋 to the contact form admission, click on the pinned me
 
 ![](../.gitbook/assets/screen-shot-2021-08-23-at-14.33.49.png)
 
-**Any active builder is qualified to source new projects. Sourcing Leads can also act at the Project Manager**. 
+**Any active builder is qualified to source new projects. Sourcing Leads can also fill other roles on the project like Project Manager, Tech Lead or Builder.**
 
 {% hint style="success" %}
-Sourcing is a team sport! Remember that you can co-lead the sourcing process with others.
+Sourcing is a team sport! Remember that you can co-lead the sourcing process with others and share the rewards.
 {% endhint %}
 
 ## **1. Initial Contact**
@@ -50,11 +50,11 @@ The goal of the screening call is to assess the client’s fit for dOrg and help
 Here are some questions to guide your call:
 
 * _How did you hear about dOrg?_
-* _Tell me about the project_
-* _What does the team currently look like?_
-* _What is the current tech stack?_
-* _What are your top needs?_
-* _What is your ideal timeframe? How flexible is this?_
+* _Tell me about **the project** and your needs._
+* _What does **the team** currently look like?_
+* _What is the **tech stack**?_
+* _What **skill areas** are needed? \(smart contract, web3 integration, design, frontend, etc.\)_
+* _What is your ideal **timeframe**? How flexible is this?_
 * _Do you have a project requirements doc that you could send?_
 * _Do you have any other questions about what it’s like to work with dOrg?_
 
