@@ -58,7 +58,7 @@ Here are some questions to guide your call:
 * _Do you have a project requirements doc that you could send?_
 * _Do you have any other questions about what it’s like to work with dOrg?_
 
-## 3. Team Formation
+## 3. Team Formation & Builder Interest Call
 
 The next step is to gather interested builders and schedule a technical Q&A with the client.
 
@@ -73,7 +73,11 @@ In addition to a well-balanced set of builders that match the project’s needs,
 
 If the interested builders agree that the project looks promising, does not have major technical issues or execution risks, and that they have the availability and skills to take on the engagement, then proceed with the following.
 
-1. Create SoW on [Pandadoc](https://app.pandadoc.com/a/#/templates-next?sortBy=name&direction=asc&displayMode=folders_first&mainFilter=all). Go to Templates, hover over ‘dOrg SoW Template’, and click ‘Create Document’ \([see login credentials here](https://docs.google.com/spreadsheets/d/18QXB9Ski8OxHRiELfxq8DcahYFhNnEKPEM20kRjeuYA/edit?usp=sharing)\)
+1. Create SoW on [Pandadoc](https://app.pandadoc.com/a/#/templates-next?sortBy=name&direction=asc&displayMode=folders_first&mainFilter=all). Go to Templates, hover over ‘dOrg SoW Template’, and click ‘Create Document’ \([see login credentials here](https://docs.google.com/spreadsheets/d/18QXB9Ski8OxHRiELfxq8DcahYFhNnEKPEM20kRjeuYA/edit?usp=sharing)\). Fill out the contact details in the prompt and then fill in the different sections of the contract:
+   * Context & Objectives
+   * Focus Areas
+   * Token Allocation \(if applicable\)
+   * Billing Summary
 2. Update the forum post you made earlier with the draft SoW to get feedback from the interested builders on the timeframe, pricing, and scope
 3. Send the SoW to the client through PandaDoc. Revise if reasonable and necessary based on the client’s feedback.
 4. Once the client has signed, to submit a proposal to the DAO through [Snapshot](https://snapshot.org/#/dorg.eth) that links to the forum post **but does not name the client publicly.**
