@@ -1,6 +1,6 @@
-# Our values
+# Our Values
 
-### Our shared values lie at the heart of our community.
+### Shared values lie at the heart of our community.
 
 ![](../.gitbook/assets/faye-cornish-ggv3i6oxpcg-unsplash.jpg)
 
