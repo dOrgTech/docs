@@ -6,7 +6,7 @@ Each project must have a builder with the `Tech Lead` badge to:
 * Ensure that there’s a good fit between the builders and their technical responsibilities.
 
 {% hint style="info" %}
-See [Project Manager guide](https://docs.dorg.tech/workflows/project-manager) for where you'll find badges like this on Discord and our forum.
+dOrg members can view the [current list of Tech Leads here](https://forum.dorg.tech/g/Tech-Lead)
 {% endhint %}
 
 The `Tech Lead` badge is governed by the DAO and issued to builders who meet the following qualifications:

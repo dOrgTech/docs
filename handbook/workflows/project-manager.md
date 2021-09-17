@@ -10,6 +10,10 @@ Each project must have a builder with the `Project Manager` badge to:
 * Review builder logs and process payments.
 * Monitor scope load and deadlines.
 
+{% hint style="info" %}
+You can view the [current list of Project Managers here](https://forum.dorg.tech/g/Project-Manager)
+{% endhint %}
+
 On our forum, you can see if someone is a Project Manager by clicking on their profile picture, like with this one:
 
 ![](../.gitbook/assets/screen-shot-2021-08-25-at-10.05.12.png)
