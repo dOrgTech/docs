@@ -46,15 +46,11 @@ The dOrg forum is also where builders set up their profiles. This includes:
 
 ## Snapshot
 
-Once proposals have gone through a dialogue process in the forum, they are posted to Snapshot for a formal vote by the DAO. Your voting weight corresponds to your [rep score](https://docs.dorg.tech/governance/rep-and-tokens). 
-
-{% hint style="info" %}
-Head [here](https://app.gitbook.com/@dorg/s/-/governance/rep-and-tokens) to read about how to create a Snapshot proposal.
-{% endhint %}
+Once proposals have gone through a dialogue process in the forum, they are posted to Snapshot for a formal vote by the DAO. Your voting weight corresponds to your [rep score](../governance/rep-and-tokens.md#reputation). 
 
 ## Discord
 
-Discord is where day-to-day chat on internal projects and client projects happens. It's also where [sourcing leads](https://docs.dorg.tech/workflows/sourcing) review incoming client project requests, where you will find a running list of snapshot proposals, and where you can ask for help from peer coders if you are stumped on an issue or would like feedback.
+Discord is where day-to-day chat on internal projects and client projects happens. It's also where [sourcing leads](https://docs.dorg.tech/workflows/sourcing) review incoming client project requests, where you will find a running list of snapshot proposals, and where you can ask for help from peers if you are stumped on an issue or would like feedback.
 
 {% hint style="info" %}
 If you've never used Discord before, watch this beginner's guide to using Discord: [https://www.youtube.com/watch?v=rnYGrq95ezA&ab\_channel=Howfinity](https://www.youtube.com/watch?v=rnYGrq95ezA&ab_channel=Howfinity). When you join for the first time, you'll be asked to set up a Discord ID \(also called a handle or username\).
