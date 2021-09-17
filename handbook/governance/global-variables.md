@@ -1,4 +1,4 @@
-# Community details
+# Community Details
 
 ## Shared Spaces
 

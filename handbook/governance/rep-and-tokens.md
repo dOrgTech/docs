@@ -1,5 +1,17 @@
 # Voting, Rep & Tokens
 
+## Reputation
+
+![](../.gitbook/assets/image%20%2823%29.png)
+
+Reputation translates to voting power and economic stake in dOrg. Builders receive 1 reputation point for every dollar earned, which means your reputation is directly proportional to your lifetime earnings.
+
+Reputation points are **non**-**transferable**, and hence associated with a **specific wallet address.** Anyone with reputation can **vote** on **proposals** from their address.
+
+{% hint style="info" %}
+[View dOrg's Rep token here](https://etherscan.io/token/0x62300cec5240e5b273781ad67ce735107f3dacd4#balances)
+{% endhint %}
+
 ## Voting
 
 We use [Snapshot](https://snapshot.org/#/dorg.eth) to create and vote on proposals. Proposals are made for numerous DAO processes, including:
@@ -18,17 +30,9 @@ When you connect your wallet to dOrg's Snapshot page for the first time, make su
 Head to [Snapshot's Handbook](https://docs.snapshot.org/proposals) for extensive instructions on how to create and vote on proposals.
 {% endhint %}
 
-## Reputation
+## Airdrops
 
-![](../.gitbook/assets/image%20%2823%29.png)
-
-Reputation translates to voting power and a share economic stake in future airdrops. Builders currently receive 1 reputation point for every dollar earned.
-
-Reputation points are **non**-**transferable**, and will always be associated with a **specific wallet address.** Anyone with reputation can **vote** on **proposals** from their address.
-
-{% hint style="info" %}
-[View dOrg's Rep token here](https://etherscan.io/token/0x62300cec5240e5b273781ad67ce735107f3dacd4#balances)
-{% endhint %}
+TODO
 
 ## DXRG Tokens \(deprecated\)
 

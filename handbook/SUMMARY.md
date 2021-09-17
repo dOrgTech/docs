@@ -26,9 +26,9 @@
 
 ## Governance
 
-* [Savings & client payments](governance/savings-payments.md)
+* [Unit Economics](governance/savings-payments.md)
 * [Voting, Rep & Tokens](governance/rep-and-tokens.md)
-* [Community details](governance/global-variables.md)
+* [Community Details](governance/global-variables.md)
 * [Builder Covenant](governance/covenant.md)
 
 ## Resources for Builders <a id="builder-resources"></a>
