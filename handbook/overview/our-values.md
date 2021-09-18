@@ -1,4 +1,4 @@
-# Our Values
+# Values
 
 ### Shared values lie at the heart of our community.
 
