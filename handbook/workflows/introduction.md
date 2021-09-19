@@ -2,11 +2,9 @@
 description: How to find your way around dOrg channels
 ---
 
-# Introduction
+# Navigating our channels
 
-## Forum - Discourse
-
-The dOrg forum is hosted on Discourse.
+## Forum
 
 The dOrg forum hosts our discussions and proposals about governance, internal projects, activating new builders, and new ideas about systems and builder support. It is also where you look to find client projects to work on, and share your availability. 
 
@@ -15,8 +13,6 @@ There is a Docs & Key Info thread that you will likely find useful as you start 
 Watch the below video to run through our main forum categories.
 
 {% embed url="https://www.youtube.com/watch?v=Lj6Qqfk7ZGM&ab\_channel=dOrg" %}
-
-
 
 {% hint style="info" %}
 During sign-up to the forum, you'll be asked to add a profile picture. Please upload a professional headshot. This profile picture will be added to our builder section on the dOrg website so please make this a high-resolution profile shot with an un-busy background and in square ratio. You're welcome to add a friendly and well-designed avatar if you'd prefer.
@@ -53,11 +49,11 @@ Once proposals have gone through a dialogue process in the forum, they are poste
 Discord is where day-to-day chat on internal projects and client projects happens. It's also where [sourcing leads](https://docs.dorg.tech/workflows/sourcing) review incoming client project requests, where you will find a running list of snapshot proposals, and where you can ask for help from peers if you are stumped on an issue or would like feedback.
 
 {% hint style="info" %}
-If you've never used Discord before, watch this beginner's guide to using Discord: [https://www.youtube.com/watch?v=rnYGrq95ezA&ab\_channel=Howfinity](https://www.youtube.com/watch?v=rnYGrq95ezA&ab_channel=Howfinity). When you join for the first time, you'll be asked to set up a Discord ID \(also called a handle or username\).
+If you've never used Discord before, [watch this beginner's guide](https://www.youtube.com/watch?v=rnYGrq95ezA&ab_channel=Howfinity).
 
-Then use this link to join the dOrg server and access our public channels: [https://discord.gg/6X8bedvKkQ](https://discord.gg/6X8bedvKkQ)
+Then [use this link to join the dOrg server](https://discord.gg/6X8bedvKkQ) and access our public channels.
 
-Once you're in the dOrg server, you can click on the down arrow next to 'dorg' at the top of the screen and add a Discord nickname. If you choose to add a nickname, please choose something professional for the dOrg channels, ideally your first name.
+Click on the down arrow next to 'dorg' at the top of the screen and add a Discord nickname.
 {% endhint %}
 
  

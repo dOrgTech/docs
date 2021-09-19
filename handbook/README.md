@@ -1,22 +1,32 @@
-# About this Handbook
+---
+description: Join dOrg's journey to becoming the premiere dev collective of web3.
+---
 
-### Welcome. This is a guide to how dOrg operates.
+# Welcome to dOrg!
 
-![](.gitbook/assets/cell.jpeg)
+![](https://i.gifer.com/3t5T.gif)
 
-{% hint style="success" %}
-Get in touch on [Discord](https://discord.gg/6Kujmad) or`contact@dorg.tech`
-{% endhint %}
+### What is dOrg?
 
-{% hint style="info" %}
-Visit the[ Website](https://dorg.tech) to learn about our services
-{% endhint %}
+dOrg is a decentralized autonomous collective of web3 engineers, designers, and project managers.
+
+We collaborate with projects to advance the web3 stack \(DAOs, NFTs, DeFi, dev tools, L2s\).
+
+### What is our mission?
+
+dOrg aims to become the best service provider, workplace, and example of what is possible to achieve with web3 technology.
+
+We are working to realize the web3 vision of a decentralized internet that empowers individuals and communities everywhere.
+
+### What is our strategy?
+
+1. Carefully curate the builders we onboard and projects we work with
+2. Reevaluate and upgrade our tools and processes regularly
+3. Tell our story and share our methods widely
+
+![](https://miro.medium.com/max/1000/1*5WIVZ1eZQ8G2ITihkYI2SQ.gif)
 
 {% hint style="danger" %}
-dOrg is a living, breathing system that evolves faster than this handbook. Although we try to keep this up-to-date, some concepts may have changed.
+dOrg is a living, breathing system that evolves faster than this handbook. Proceed with caution. 
 {% endhint %}
-
-## License & Attribution
-
-This work is licensed under [Creative Commons Attribution-ShareAlike](https://creativecommons.org/licenses/by-sa/4.0/) and heavily inspired by [Greaterthan](https://handbook.greaterthan.works/) and [Crisp DNA](https://dna.crisp.se/docs/index.html)[.](https://creativecommons.org/licenses/by-sa/4.0/) Image credits: [1](https://oceanexplorer.noaa.gov/explorations/02arctic/logs/mis_sum_pelagic/media/bolinopsis.html), [2](https://unsplash.com/photos/VFqNlrhBns8), [3](https://www.nature.com/articles/nphys2448), [4](https://www.greenbiz.com/sites/default/files/styles/panopoly_image_full/public/images/articles/featured/banyantree_jeep2499_sstock.jpg?itok=qaMOVWA1), [5](https://unsplash.com/photos/PtVN9fACsWU), [6](https://unsplash.com/photos/qFAEHxevxVE), [7](https://unsplash.com/photos/6csuZQ9oZcI), [8](https://unsplash.com/photos/dQkXoqQLn40), [9](https://unsplash.com/photos/20l3mgTgTD4), [10](https://unsplash.com/photos/yez0hCVOy9Y), [11](https://unsplash.com/photos/PtHP1wFSSYI), [12](https://unsplash.com/photos/dhGFLj3rI0Q), [13](https://hackernoon.com/from-web-10-to-web3-how-the-internet-grew-over-the-years-zac032g1).
 

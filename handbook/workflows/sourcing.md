@@ -1,8 +1,7 @@
 ---
 description: >-
-  As soon as you're a dOrg builder, you're qualified to source new projects.
-  Sourcing leads receive 10% of the project revenues (see the Savings & client
-  payments page).
+  All dOrg builders are qualified to source new projects. Sourcing leads receive
+  10% of the project revenues.
 ---
 
 # Sourcing new client projects
@@ -69,11 +68,11 @@ The next step is to gather interested builders and schedule a technical Q&A with
 In addition to a well-balanced set of builders that match the project’s needs, each team must have a [_Project Manager_](project-manager.md) and [_Tech Lead_](tech-lead.md)\_\_
 {% endhint %}
 
-## 4. SoW
+## 4. Statement of Work \(SoW\)
 
 If the interested builders agree that the project looks promising, does not have major technical issues or execution risks, and that they have the availability and skills to take on the engagement, then proceed with the following.
 
-1. Create SoW on [Pandadoc](https://app.pandadoc.com/a/#/templates-next?sortBy=name&direction=asc&displayMode=folders_first&mainFilter=all). Go to Templates, hover over ‘dOrg SoW Template’, and click ‘Create Document’ \([see login credentials here](https://docs.google.com/spreadsheets/d/18QXB9Ski8OxHRiELfxq8DcahYFhNnEKPEM20kRjeuYA/edit?usp=sharing)\). Fill out the contact details in the prompt and then fill in the different sections of the contract:
+1. Create SoW on [Pandadoc](https://app.pandadoc.com/a/#/templates-next?sortBy=name&direction=asc&displayMode=folders_first&mainFilter=all). Go to Templates, hover over ‘dOrg SoW Template’, and click ‘Create Document’ \([see login credentials here](https://docs.google.com/spreadsheets/d/18QXB9Ski8OxHRiELfxq8DcahYFhNnEKPEM20kRjeuYA/edit?usp=sharing)\). Fill out the contact details in the prompt and then fill in the different sections of the contract \(no need to fill in address, as this is a client variable\)
    * Context & Objectives
    * Focus Areas
    * Token Allocation \(if applicable\)
