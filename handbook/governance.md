@@ -1,3 +1,7 @@
+---
+description: How does dOrg actually work?
+---
+
 # Governance
 
 ![](https://media2.giphy.com/media/4TkuXuIzlJ4qspTAgD/giphy.gif?cid=ecf05e472zbh4aqsvqp5aw4h07tzknirwkzpkebw4m6fs6r1&rid=giphy.gif&ct=g)
@@ -30,5 +34,5 @@ Reputation also grants builders a share of dOrg's token airdrops. More on this s
 
 ### DXRG Tokens \(deprecated\)
 
-[DXRG Tokens](https://blockscout.com/poa/xdai/tokens/0x76D37cbB1fD75912bfB0cE885c506C77955F5C05/token-transfers) were previously used track **unpaid obligations**. Holders may redeem their DXRG for $1 each.
+[DXRG Tokens](https://blockscout.com/poa/xdai/tokens/0x76D37cbB1fD75912bfB0cE885c506C77955F5C05/token-transfers) were previously used track unpaid obligations. Holders may redeem their DXRG for $1 each.
 
