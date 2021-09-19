@@ -1,5 +1,7 @@
 # Important Links
 
+![](https://i.gifer.com/6DY.gif)
+
 ### **Comms**
 
 * [Discord](https://discord.com/invite/6Kujmad) -  chat server and biweekly calls for presenting project demos, tech talks, and upcoming opportunities
