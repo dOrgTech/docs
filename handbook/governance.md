@@ -17,7 +17,7 @@ dOrg builders work in small teams to execute on client projects. Projects distri
 Builders use dOrg's treasury to fund shared expenses, ongoing roles, and internal initiatives. The current breakdown of these categories is reflected below:
 
 * _Shared Expenses_ **-** SaaS, legal, accounting, taxes
-* _Ongoing Roles_ - bookkeeping & QA, admin interface, markcomms, sales ops, facilitation
+* _Ongoing Roles_ - facilitation, bookkeeping & QA, admin interface, markcomms, sales ops
 * _Internal Initiatives_ - dev standards, landing page, mechanism design
 
 ### Reputation
@@ -26,7 +26,7 @@ Builders receive 1 [rep token](https://etherscan.io/token/0x62300cec5240e5b27378
 
 ### Voting
 
-Anyone with reputation can create and vote on proposals in [Snapshot](https://snapshot.org/#/dorg.eth). Proposals are used to govern the treasury, builder activation, client project approvals, and more.
+Anyone with reputation can create and vote on proposals in [Snapshot](https://snapshot.org/#/dorg.eth). Proposals are used to govern the treasury, builder activation, client project approval, and more.
 
 ### Airdrops \(coming soon\)
 
