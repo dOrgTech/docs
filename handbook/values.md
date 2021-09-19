@@ -8,7 +8,7 @@ description: Our values guide how we work to achieve our mission.
 
 ### Peer **s**upport & collaboration
 
-dOrg began when a group of freelancers joined forces to work together as equals. We've since developed a strong culture of helping one another to learn, grow and overcome challenges.
+dOrg began when a group of freelancers joined forces to accomplish more together. We've since developed a strong culture of helping one another to learn, grow and overcome challenges.
 
 ### **Individual autonomy**
 
