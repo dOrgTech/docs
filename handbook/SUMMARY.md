@@ -1,8 +1,9 @@
 # Table of contents
 
 * [Welcome to dOrg!](README.md)
-* [Core Values](principles.md)
-* [Important Links](global-variables.md)
+* [Core Values](values.md)
+* [Governance](governance.md)
+* [Important Links](links.md)
 
 ## Builder Lifecycle <a id="lifecycle"></a>
 
@@ -13,17 +14,12 @@
 
 ## Workflows
 
-* [Navigating our channels](workflows/introduction.md)
-* [Joining a client project](workflows/joining-1.md)
+* [Navigating our channels](workflows/navigating.md)
+* [Joining a client project](workflows/joining.md)
 * [Sourcing new client projects](workflows/sourcing.md)
 * [Project Manager guide](workflows/project-manager.md)
 * [Tech Lead guide](workflows/tech-lead.md)
-* [Talent matching](workflows/role-talent-matching.md)
-
-## Governance
-
-* [Unit Economics](governance/savings-payments.md)
-* [Voting, Rep & Tokens](governance/rep-and-tokens.md)
+* [Talent matching](workflows/matching.md)
 
 ## Resources
 

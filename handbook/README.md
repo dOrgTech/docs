@@ -1,5 +1,5 @@
 ---
-description: Join dOrg's journey to becoming the premiere dev collective of web3.
+description: Join dOrg's journey to becoming web3's premiere dev collective.
 ---
 
 # Welcome to dOrg!
