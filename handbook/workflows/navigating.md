@@ -14,7 +14,7 @@ Watch the below video to run through our main forum categories.
 
 The forum is the best place to find a project to work on. Go to the [client projects section](https://forum.dorg.tech/c/clientproject) and click through to see which ones have open roles.
 
-The forum is also a great place to find builders to join a project. Go to the [user list](https://forum.dorg.tech/u/) and click on anyone's profile image to view their profile details. You can also use the search icon at the top right to find builders by skill area \(frontend, smart contracts, design\), technology \(react, ethers.js, python\), projects worked on, experience levels, and more!
+The forum is also a great place to find builders to join a project. Go to the [user list](https://forum.dorg.tech/u/) and click on anyone's profile image to view their profile details. You can also use the search icon at the top right to find builders by skills, technologies, past projects, and experience level.
 
 {% hint style="info" %}
 **Profiles are set up when joining the forum for the first time.** However, your peers will use the details in your profile to search for their talent needs, so please make sure you keep your profile updated.
@@ -22,8 +22,12 @@ The forum is also a great place to find builders to join a project. Go to the [u
 
 ![Here&apos;s what our Experience Facilitator&apos;s profile looks like](../.gitbook/assets/screen-shot-2021-09-01-at-13.30.43.png)
 
-{% hint style="info" %}
+{% hint style="success" %}
 Don't forget to upload a professional headshot or well-designed avatar to your profile. This picture will be displayed on dOrg's website, so make sure it's a high-res square image with an un-busy background.
+{% endhint %}
+
+{% hint style="warning" %}
+Make sure to use the ETH address provided in your profile across all dOrg projects so that your reputation accumulates in one place.
 {% endhint %}
 
 ## Snapshot

@@ -20,13 +20,13 @@ We are working to realize the web3 vision of a decentralized internet that empow
 
 ### What is our strategy?
 
-1. Carefully curate the builders we onboard and projects we work with
-2. Regularly upgrade our tools and processes
-3. Share our methods widely and build bridges to other communities
+1. Carefully curate the builders we onboard and projects we work with.
+2. Regularly upgrade our tools and processes.
+3. Share our methods widely and build bridges to other communities.
 
 ![](https://miro.medium.com/max/1000/1*5WIVZ1eZQ8G2ITihkYI2SQ.gif)
 
 {% hint style="danger" %}
-dOrg is a living, breathing system that evolves faster than this handbook. Proceed with caution. 
+dOrg is a living, breathing system that evolves faster than this handbook. Proceed with caution.
 {% endhint %}
 
