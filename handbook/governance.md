@@ -20,14 +20,6 @@ Reputation points are non-transferable, and hence associated with a specific wal
 
 Anyone with reputation can create and vote on proposals in [Snapshot](https://snapshot.org/#/dorg.eth). Proposals are used to approve new builders, client projects, budgeting decisions and more.
 
-**Watch the below video to see how to use Snapshot.**
-
-{% embed url="https://www.youtube.com/watch?v=obSyq6yhO-k&ab\_channel=dOrg" %}
-
-{% hint style="info" %}
-Head to [Snapshot's Handbook](https://docs.snapshot.org/proposals) for extensive instructions.
-{% endhint %}
-
 ## Airdrops \(coming soon\)
 
 Reputation also grants builders a share of dOrg's token airdrops. More on this soon!

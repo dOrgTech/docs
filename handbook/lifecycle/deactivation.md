@@ -17,7 +17,7 @@ Deactivated builders retain all accumulated reputation and are eligible to react
 
 ## Exceptional Circumstances
 
-In certain cases, the DAO may pass a proposal to deactivate a builder if they...
+In certain cases, a proposal may pass to deactivate a builder if they...
 
 * Request to be removed
 * Violate any legal agreements or the [Builder Covenant](covenant.md)
