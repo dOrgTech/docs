@@ -1,5 +1,5 @@
 ---
-description: Project Management Guide
+description: Project managers keep client projects on track.
 ---
 
 # Project Manager guide

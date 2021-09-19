@@ -19,7 +19,6 @@
 * [Sourcing new client projects](workflows/sourcing.md)
 * [Project Manager guide](workflows/project-manager.md)
 * [Tech Lead guide](workflows/tech-lead.md)
-* [Talent matching](workflows/matching.md)
 
 ## Resources
 

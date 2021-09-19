@@ -1,3 +1,7 @@
+---
+description: Tech leads are the quality backstop on client projects.
+---
+
 # Tech Lead guide
 
 Each project must have a builder with the `Tech Lead` badge to:

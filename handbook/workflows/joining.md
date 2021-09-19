@@ -1,5 +1,5 @@
 ---
-description: 'Once onboarded, you can start contributing to our ongoing projects.'
+description: 'Once onboarded, you can start contributing to ongoing projects.'
 ---
 
 # Joining a client project
