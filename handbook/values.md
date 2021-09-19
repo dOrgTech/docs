@@ -12,15 +12,15 @@ dOrg began when a group of freelancers joined forces to work together as equals.
 
 ### **Individual autonomy**
 
-We empower everyone to be a leader and start new initiatives. We also respect each other's freedom to choose what to work on, when, and where to work from.
+We empower everyone to be a leader and start new initiatives. We respect each other's freedom to choose what to work on, when, and where to work from.
 
 ### Radical transparency
 
-We strive to make all info accessible to every builder. Thorough documentation, on-chain fund management, and forum-based deliberation are just a few ways that we maintain transparency.
+We strive to make all info accessible to every builder. On-chain fund management, well-documented processes, and forum-based deliberation are just a few ways that we maintain transparency.
 
 ### **Decentralized ownership and decision-making**
 
-We fluidly distribute control and rewards to one another based on value contributed, not titles or hierarchy.
+We fluidly distribute control and rewards to each builder based on value contributed, not titles or hierarchy.
 
 ### **Kindness and respect**
 

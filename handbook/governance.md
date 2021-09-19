@@ -10,9 +10,9 @@ Each project team receives payments directly from the client to a Gnosis Safe th
 
 ### Reputation
 
-Builders receive 1 dOrg [rep token](https://etherscan.io/token/0x62300cec5240e5b273781ad67ce735107f3dacd4#balances) for every dollar earned from dOrg projects. Rep tokens represent a share of _voting power_ and _future airdrops_.
+Builders receive 1 [rep token](https://etherscan.io/token/0x62300cec5240e5b273781ad67ce735107f3dacd4#balances) for every dollar earned from dOrg projects. Rep tokens represent a share of _voting power_ and _future airdrops_.
 
-Rep is non-transferable, and hence associated with a specific wallet address. Make sure to consistently use the same wallet address across all dOrg projects so that your reputation accumulates in the same wallet.
+Rep is non-transferable, and hence associated with a specific wallet address. Make sure to consistently use the same wallet address across all dOrg projects so that your reputation accumulates in one place.
 
 ### Voting
 
@@ -24,5 +24,5 @@ Reputation also grants builders a share of dOrg's token airdrops. More on this s
 
 ### DXRG Tokens \(deprecated\)
 
-[DXRG Tokens](https://blockscout.com/poa/xdai/tokens/0x76D37cbB1fD75912bfB0cE885c506C77955F5C05/token-transfers) were previously used track **unpaid obligations**. Holders may burn their DXRG \(send to 0 address\) for $1 each.
+[DXRG Tokens](https://blockscout.com/poa/xdai/tokens/0x76D37cbB1fD75912bfB0cE885c506C77955F5C05/token-transfers) were previously used track **unpaid obligations**. Holders may redeem their DXRG for $1 each.
 
