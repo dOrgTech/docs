@@ -6,11 +6,11 @@ description: Follow the steps below in order to complete your activation.
 
 ![](https://media4.giphy.com/media/3oEduUtBxr9wzS0DZu/giphy.gif?cid=ecf05e47oo0m24vbyfz5wb19bu7zdoer71xe9ptup4oerddh&rid=giphy.gif&ct=g)
 
-## Interactive Onboarding Forms
+## Onboarding Form
 
-Once your activation proposal passes, our Experience Facilitator will send you the onboarding form via email.  
+Once your activation proposal passes, our Experience Facilitator will send you an interactive onboarding form via email.  
   
-Because there’s a fair amount of information we need to give you, we’ve split the onboarding process into two interactive onboarding forms, so that you can work through them in your own time. By the end of this process, you should have a clear understanding of what matters to us, what we expect from our builders, the different internal roles, the client journey from start to finish, the main tools we use, and where to find useful information as you settle into dOrg.
+Because there’s a fair amount of information we need to give you, we’ve split the onboarding process into two parts. After completing both, you should have a clear understanding of what matters to us, what we expect from our builders, the different internal roles, the client journey from start to finish, the main tools we use, and where to find useful information as you settle into dOrg.
 
 ## Orientation Session \(optional\)
 
