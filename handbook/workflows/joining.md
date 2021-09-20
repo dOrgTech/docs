@@ -28,7 +28,7 @@ You can also DM our Experience Facilitator, Anna-Marie, on Discord for help with
 
 * Follow [dOrg's Development Best Practices](../resources/best-practice-overview/).
 * Share updates and questions with the rest of the team as you build.
-* If you run into any issues, technical or otherwise, ask the builders on your team for help or post in the \#help channel on Discord to tap into the dOrg hive mind.
+* If you run into any issues, technical or otherwise, ask your team for help or post in the \#help channel on Discord to tap into the dOrg hive mind.
 * If you feel that a project is going over scope or needs more time, discuss this with the _Project Manager_ or _Tech Lead_ as soon as possible so that adjustments can be made.
 {% endhint %}
 

@@ -1,5 +1,5 @@
 ---
-description: Follow the steps below in order to complete your activation.
+description: Follow the steps below in order to accept activation.
 ---
 
 # Onboarding
@@ -10,15 +10,15 @@ description: Follow the steps below in order to complete your activation.
 
 Once your activation proposal passes, our Experience Facilitator will send you an interactive onboarding form via email.  
   
-Because there’s a fair amount of information we need to give you, we’ve split the onboarding process into two parts. After completing both, you should have a clear understanding of what matters to us, what we expect from our builders, the different internal roles, the client journey from start to finish, the main tools we use, and where to find useful information as you settle into dOrg.
+This form \(split into two parts\) will walk you through the handbook to ensure that you have a clear understanding of our what matters to us, what we expect of builders, how we work, the tools we use, and where to find useful information as you settle into dOrg.
 
 ## Orientation Session \(optional\)
 
-Once you've completed the onboarding form, you are welcome to schedule a session with our Experience Facilitator to:
+Once you've completed the onboarding form, you will have the option to schedule a session with our Experience Facilitator to:
 
-* Walk you through how dOrg works in more detail
-* Explore which projects could be a good fit for you
-* Get to know your career goals and what kind of work you're looking for
+* Walk you through how dOrg works in more detail.
+* Explore which projects could be a good fit for you.
+* Get to know your career goals and what kind of work you're looking for.
 * Have some face-to-face time with a dOrg builder before joining our community calls.
 
 {% hint style="success" %}

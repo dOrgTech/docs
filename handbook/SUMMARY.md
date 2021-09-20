@@ -3,7 +3,6 @@
 * [Welcome to dOrg!](README.md)
 * [Core Values](values.md)
 * [Governance](governance.md)
-* [Important Links](links.md)
 
 ## Builder Lifecycle <a id="lifecycle"></a>
 
@@ -22,12 +21,13 @@
 
 ## Resources
 
+* [Important Links](resources/links.md)
 * [Development Best Practices](resources/best-practice-overview/README.md)
   * [Git](resources/best-practice-overview/git.md)
   * [Code Reviews](resources/best-practice-overview/doing-a-code-review.md)
   * [Creating a React dApp](resources/best-practice-overview/react-dapp.md)
   * [Choosing a hosting platform](resources/best-practice-overview/choosing-a-hosting-platform.md)
 * [Upskilling](resources/upskilling.md)
-* [Glossary](resources/glossary.md)
+* [Web3 Glossary](resources/glossary.md)
 * [Press Kit](resources/press-kit.md)
 

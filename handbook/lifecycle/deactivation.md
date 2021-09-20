@@ -1,5 +1,5 @@
 ---
-description: Builders can continuously flow in and out of dOrg.
+description: Builders continuously flow in and out of dOrg.
 ---
 
 # Deactivation
@@ -13,5 +13,5 @@ At the end of each quarter, builders who haven't met the following criteria will
 
 Deactivated builders retain all accumulated reputation and are eligible to reactivate at any time by submitting a proposal.
 
-Builders can be deactivated and slashed of all reputation for violating the [Builder Covenant](covenant.md), subject to the Escalation Protocol therein. Anyone can also choose to deactivate themselves and dispose of all reputation for any reason.
+Builders can be deactivated and lose reputation if they are found to have violated the [Builder Covenant](covenant.md).
 

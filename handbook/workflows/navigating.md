@@ -6,7 +6,7 @@ description: How to find your way around dOrg channels
 
 ## Forum
 
-The dOrg forum hosts discussions about talent needs, new builders, client projects, internal initiatives, and diff governance topics. When a decision needs to be made, anyone can post a proposal to Snapshot \(see below\) that links to the relevant forum post.
+The dOrg forum hosts discussions about talent needs, new builders, client projects, internal initiatives, and other governance topics. When a decision needs to be made, anyone can post a proposal to Snapshot \(see below\) that links to the relevant forum post.
 
 Watch the below video to run through our main forum categories.
 
@@ -14,10 +14,10 @@ Watch the below video to run through our main forum categories.
 
 The forum is the best place to find a project to work on. Go to the [client projects section](https://forum.dorg.tech/c/clientproject) and click through to see which ones have open roles.
 
-The forum is also a great place to find builders to join a project. Go to the [user list](https://forum.dorg.tech/u/) and click on anyone's profile image to view their profile details. You can also use the search icon at the top right to find builders by skills, technologies, past projects, and experience level.
+The forum is also a great place to find builders to join a project. Go to the [builder list](https://forum.dorg.tech/u/) and click on anyone's profile image to view their profile details. You can also use the search icon at the top right to find builders by skills, technologies, past projects, and experience level.
 
 {% hint style="info" %}
-**Profiles are set up when joining the forum for the first time.** However, your peers will use the details in your profile to search for their talent needs, so please make sure you keep your profile updated.
+**Profiles are set up when joining the forum for the first time.** Keep your profile up-to-date so that others can easily search you for their project needs. 
 {% endhint %}
 
 ![Here&apos;s what our Experience Facilitator&apos;s profile looks like](../.gitbook/assets/screen-shot-2021-09-01-at-13.30.43.png)
@@ -42,7 +42,9 @@ Head to [Snapshot's Handbook](https://docs.snapshot.org/proposals) if you need f
 
 ## Discord
 
-[Discord](https://discord.com/invite/6Kujmad) is where day-to-day chat on internal projects and client projects happens. It's also where you can find incoming client project requests, new snapshot proposals, and ask for help or feedback from peers.
+[Discord](https://discord.com/invite/6Kujmad) is where all of our day-to-day chat happens. Each client project or internal initiative has its own channel, and we also have dedicated channels for social topics, governance functions, and finding help.
+
+The voice channel in Discord hosts our biweekly All-Hands call, where we present project demos, tech talks, and upcoming opportunities.
 
 {% hint style="info" %}
 If you've never used Discord before, [watch this beginner's guide](https://www.youtube.com/watch?v=rnYGrq95ezA&ab_channel=Howfinity).

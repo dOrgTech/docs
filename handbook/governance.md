@@ -14,7 +14,7 @@ dOrg builders work in small teams to execute on client projects. Projects distri
 
 ### Treasury
 
-Builders use dOrg's treasury to fund shared expenses, ongoing roles, and internal initiatives. The current breakdown of these categories is reflected below:
+Builders use dOrg's [treasury](https://gnosis-safe.io/app/#/safes/0xdb22d2d37db92EA7fa6993C9f6Ead55FBb1eF4EA) to fund shared expenses, ongoing roles, and internal initiatives. The current breakdown of these categories is reflected below:
 
 * _Shared Expenses_ **-** SaaS, legal, accounting, taxes
 * _Ongoing Roles_ - facilitation, bookkeeping & QA, admin interface, markcomms, sales ops
@@ -26,7 +26,7 @@ Builders receive 1 [rep token](https://etherscan.io/token/0x62300cec5240e5b27378
 
 ### Voting
 
-Anyone with reputation can create and vote on proposals in [Snapshot](https://snapshot.org/#/dorg.eth). Proposals are used to govern the treasury, builder activation, client project approval, and more.
+Builders create and vote on proposals in [Snapshot](https://snapshot.org/#/dorg.eth) to govern the treasury, builder activations, client projects approvals, rep issuance and more.
 
 ### Airdrops \(coming soon\)
 

@@ -8,7 +8,7 @@ description: Our values guide how we work to achieve our mission.
 
 ### Peer **s**upport & collaboration
 
-dOrg began as a group of engineers interested in building web3 software together. We've since developed a strong culture of helping one another to learn, grow and overcome challenges.
+dOrg began as a group of engineers interested in building web3 software together. We've since developed a strong culture of helping one another to learn, overcome challenges, and grow.
 
 ### **Individual autonomy**
 
@@ -16,7 +16,7 @@ We empower everyone to be a leader and start new initiatives. We respect each ot
 
 ### Radical transparency
 
-We strive to make all info accessible to every builder. On-chain fund management, well-documented processes, and forum-based deliberation are just a few ways that we maintain transparency.
+We strive to make all info accessible to every builder. On-chain fund management, well-documented processes, and forum-based deliberation are just a few ways we achieve this.
 
 ### **Decentralized ownership and decision-making**
 

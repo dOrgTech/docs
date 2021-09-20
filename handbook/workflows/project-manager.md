@@ -7,11 +7,11 @@ description: Project managers keep client projects on track.
 Each project must have a builder with the `Project Manager` badge to:
 
 * Own client communication.
-* Review builder logs and process payments.
+* Review work logs and process payments.
 * Monitor scope load and deadlines.
 
 {% hint style="info" %}
-You can view the [current list of Project Managers here](https://forum.dorg.tech/g/Project-Manager)
+View the [current list of Project Managers here](https://forum.dorg.tech/g/Project-Manager)
 {% endhint %}
 
 On our forum, you can see if someone is a Project Manager by clicking on their profile picture, like with this one:
@@ -23,10 +23,10 @@ On Discord, you'll find the Project Manager tag when you click on a user's image
 ![](../.gitbook/assets/screenshot-2021-08-25-at-14.56.58.png)
 
   
-The `Project Manager` badge is governed by the DAO and issued to builders who meet the following qualifications:
+Builders can propose to issue the `Project Manager` badge to any builder who:
 
-* Successful track record helping to coordinate dOrg projects and/or highly visible open source projects.
-* Confident communicator.
+* Has a successful track record helping to coordinate dOrg projects and/or highly visible open source projects.
+* Is a confident communicator.
 * Has shadowed a `Project Manager` for at least one week on an ongoing client project.
 
 ## Project Management Workflows
@@ -51,12 +51,12 @@ As PM, you are responsible for ensuring client and builder satisfaction through 
 
 ### Payment Processing
 
-1. At the close of each pay period, make sure each builder's hours and worklogs is entered.
-2. The Payout tab automatically calculates the payout amount for each builder. Each builder will have a stablecoin payment \(we ask all clients to pay in DAI\), and a dOrg reputation token payout. Some projects also have bonuses in the client's native tokens — if you aren't clear on the setup, ask the Sourcing Lead.
+1. At the close of each pay period, make sure each builder's hours and work logs is entered.
+2. The Payout tab automatically calculates the payout amount for each builder. Some projects also have bonuses in the client's native tokens — if you aren't clear on the setup, ask the Sourcing Lead.
 3. Export the Payout tab to CSV and upload it to the Gnosis Safe's CSV Airdrop app. This will allow you to issue all payouts in one batched transaction. Once the transaction is created, ask the rest of the project's signers to review and sign  the transaction, and then it can be executed.
 
 {% hint style="warning" %}
-We're currently working on how to reimburse gas costs through a bulk proposal from the dOrg DAO.
+We're currently working on how to reimburse gas costs through a bulk proposal from dOrg's treasury.
 {% endhint %}
 
 
