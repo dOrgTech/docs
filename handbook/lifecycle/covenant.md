@@ -33,7 +33,7 @@ Examples of unacceptable behavior include:
 
 ## Scope
 
-This Builder Covenant applies within all dOrg spaces, including our Discord, Alchemy, Github, Google Drive, and all other spaces associated with dOrg. This covenant also applies when an individual is representing dOrg in public spaces, such as using an official email address, social media account, or acting as a representative at an online or offline event.
+This Builder Covenant applies within all dOrg spaces, including our Discord, Snapshot, Github, and all other spaces associated with dOrg. This covenant also applies when an individual is representing dOrg in public spaces, such as using an official email address, social media account, interacting with a client, or acting as a representative at an online or offline event.
 
 Anyone who infringes on this Builder Covenant may be subject to our Escalation Protocol.
 
