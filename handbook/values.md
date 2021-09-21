@@ -12,7 +12,7 @@ dOrg began as a group of engineers interested in building web3 software together
 
 ### **Individual autonomy**
 
-We empower everyone to be a leader and start new initiatives. We respect each other's freedom to choose what to work on, when, and where to work from.
+We empower everyone to be a leader and start new initiatives. We respect each other's freedom to choose what to work on, when, and from where to work.
 
 ### Radical transparency
 
