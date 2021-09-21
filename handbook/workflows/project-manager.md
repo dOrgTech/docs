@@ -10,24 +10,15 @@ Each project must have a builder with the `Project Manager` badge to:
 * Review work logs and process payments.
 * Monitor scope load and deadlines.
 
-{% hint style="info" %}
-View the [current list of Project Managers here](https://forum.dorg.tech/g/Project-Manager)
-{% endhint %}
-
-On our forum, you can see if someone is a Project Manager by clicking on their profile picture, like with this one:
-
-![](../.gitbook/assets/screen-shot-2021-08-25-at-10.05.12.png)
-
-On Discord, you'll find the Project Manager tag when you click on a user's image:
-
-![](../.gitbook/assets/screenshot-2021-08-25-at-14.56.58.png)
-
-  
 Builders can propose to issue the `Project Manager` badge to any builder who:
 
 * Has a successful track record helping to coordinate dOrg projects and/or highly visible open source projects.
 * Is a confident communicator.
 * Has shadowed a `Project Manager` for at least one week on an ongoing client project.
+
+{% hint style="info" %}
+View the [current list of Project Managers here](https://forum.dorg.tech/g/Project-Manager)
+{% endhint %}
 
 ## Project Management Workflows
 
