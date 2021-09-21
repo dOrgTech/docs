@@ -11,7 +11,7 @@ At the end of each quarter, builders who haven't met the following criteria will
 * Received a payment, or
 * Voted on one proposal, attended one biweekly sync, and posted once in the forum
 
-Deactivated builders retain all accumulated reputation and are eligible to reactivate at any time by submitting a proposal.
+Deactivated builders retain all accumulated Rep and are eligible to reactivate at any time through a proposal.
 
-Builders can be deactivated and lose reputation if they are found to have violated the [Builder Covenant](covenant.md).
+Builders can be deactivated and lose all Rep if they are found to have violated the [Builder Covenant](covenant.md).
 

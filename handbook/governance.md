@@ -14,7 +14,7 @@ dOrg builders work in small teams to execute on client projects. Projects distri
 
 ### Treasury
 
-Builders use dOrg's [treasury](https://gnosis-safe.io/app/#/safes/0xdb22d2d37db92EA7fa6993C9f6Ead55FBb1eF4EA) to fund shared expenses, ongoing roles, and internal initiatives. The current breakdown of these categories is reflected below:
+The [treasury](https://gnosis-safe.io/app/#/safes/0xdb22d2d37db92EA7fa6993C9f6Ead55FBb1eF4EA) funds shared expenses, ongoing roles, and internal initiatives \(examples below\)
 
 * _Shared Expenses_ **-** SaaS, legal, accounting, taxes
 * _Ongoing Roles_ - facilitation, bookkeeping & QA, admin interface, markcomms, sales ops
@@ -22,17 +22,17 @@ Builders use dOrg's [treasury](https://gnosis-safe.io/app/#/safes/0xdb22d2d37db9
 
 ### Reputation
 
-Builders receive 1 [rep token](https://etherscan.io/token/0x62300cec5240e5b273781ad67ce735107f3dacd4#balances) for every dollar earned from dOrg projects. Rep tokens are non-transferable and represent a share of _voting power_ and _future airdrops_. 
+Builders receive 1 [Rep token](https://etherscan.io/token/0x62300cec5240e5b273781ad67ce735107f3dacd4#balances) for every dollar earned from dOrg projects. Rep tokens are non-transferable and represent a share of _voting power_ and _future airdrops_. 
 
 ### Voting
 
-Builders create and vote on proposals in [Snapshot](https://snapshot.org/#/dorg.eth) to govern the treasury, builder activations, client projects approvals, rep issuance and more.
+Builders create and vote on proposals in [Snapshot](https://snapshot.org/#/dorg.eth) to govern the treasury, builder activations, client projects approvals, Rep issuance and more.
 
 ### Airdrops \(coming soon\)
 
-Reputation also grants builders a share of dOrg's token airdrops. More on this soon!
+Rep also grants builders a share of dOrg's token airdrops. More on this soon!
 
 ### DXRG Tokens \(deprecated\)
 
-[DXRG Tokens](https://blockscout.com/poa/xdai/tokens/0x76D37cbB1fD75912bfB0cE885c506C77955F5C05/token-transfers) were previously used track unpaid obligations. Holders may redeem their DXRG for $1 each.
+[DXRG Tokens](https://blockscout.com/poa/xdai/tokens/0x76D37cbB1fD75912bfB0cE885c506C77955F5C05/token-transfers) were previously used track unpaid obligations. Each DXRG can be redeemed for one dollar.
 

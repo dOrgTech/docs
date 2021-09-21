@@ -4,6 +4,20 @@ description: How to find your way around dOrg channels
 
 # Navigating our channels
 
+## Discord
+
+[Discord](https://discord.com/invite/6Kujmad) is where all of our day-to-day chat happens. Each client project or internal initiative has its own channel, and we also have dedicated channels for social topics, governance functions, and finding help.
+
+The voice channel in Discord hosts our biweekly All-Hands call, where we present project demos, tech talks, and upcoming opportunities.
+
+{% hint style="info" %}
+If you've never used Discord before, [watch this beginner's guide](https://www.youtube.com/watch?v=rnYGrq95ezA&ab_channel=Howfinity).
+{% endhint %}
+
+{% hint style="success" %}
+Select a nickname that is consistent with your first name or handle in the dOrg forum to make yourself easier to find. You can set a nickname by selecting the down arrow next to 'dOrg' at the top left, and then 'Change Nickname'.
+{% endhint %}
+
 ## Forum
 
 The dOrg forum hosts discussions about talent needs, new builders, client projects, internal initiatives, and other governance topics. When a decision needs to be made, anyone can post a proposal to Snapshot \(see below\) that links to the relevant forum post.
@@ -38,19 +52,5 @@ Once proposals have gone through a dialogue process in the forum, they are poste
 
 {% hint style="info" %}
 Head to [Snapshot's Handbook](https://docs.snapshot.org/proposals) if you need further assistance.
-{% endhint %}
-
-## Discord
-
-[Discord](https://discord.com/invite/6Kujmad) is where all of our day-to-day chat happens. Each client project or internal initiative has its own channel, and we also have dedicated channels for social topics, governance functions, and finding help.
-
-The voice channel in Discord hosts our biweekly All-Hands call, where we present project demos, tech talks, and upcoming opportunities.
-
-{% hint style="info" %}
-If you've never used Discord before, [watch this beginner's guide](https://www.youtube.com/watch?v=rnYGrq95ezA&ab_channel=Howfinity).
-{% endhint %}
-
-{% hint style="success" %}
-Select a nickname that is consistent with your first name or handle in the dOrg forum to make yourself easier to find. You can set a nickname by selecting the down arrow next to 'dOrg' at the top left, and then 'Change Nickname'.
 {% endhint %}
 
