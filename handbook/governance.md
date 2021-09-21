@@ -14,15 +14,11 @@ dOrg builders work in small teams to execute on client projects. Projects distri
 
 ### Treasury
 
-The [treasury](https://gnosis-safe.io/app/#/safes/0xdb22d2d37db92EA7fa6993C9f6Ead55FBb1eF4EA) funds shared expenses, ongoing roles, and internal initiatives \(examples below\)
-
-* _Shared Expenses_ **-** SaaS, legal, accounting, taxes
-* _Ongoing Roles_ - facilitation, bookkeeping & QA, admin interface, markcomms, sales ops
-* _Internal Initiatives_ - dev standards, landing page, mechanism design
+The [treasury](https://gnosis-safe.io/app/#/safes/0xdb22d2d37db92EA7fa6993C9f6Ead55FBb1eF4EA) funds _ongoing roles_ \(e.g. facilitator, marketing lead, sales ops lead\), _internal initiatives_ \(working groups, website maintenance, new ventures\), and _shared expenses_ \(SaaS, legal, accounting\).
 
 ### Reputation
 
-Builders receive 1 [Rep token](https://etherscan.io/token/0x62300cec5240e5b273781ad67ce735107f3dacd4#balances) for every dollar earned from dOrg projects. Rep tokens are non-transferable and represent a share of _voting power_ and _future airdrops_. 
+Builders receive 1 [Rep token](https://etherscan.io/token/0x62300cec5240e5b273781ad67ce735107f3dacd4#balances) for every dollar earned from dOrg projects. Rep tokens are non-transferable and represent a share of _voting power_ and _airdrops_. 
 
 ### Voting
 
@@ -30,7 +26,7 @@ Builders create and vote on proposals in [Snapshot](https://snapshot.org/#/dorg.
 
 ### Airdrops \(coming soon\)
 
-Rep also grants builders a share of dOrg's token airdrops. More on this soon!
+Rep also grants builders a share of token airdrops from client projects. More on this soon!
 
 ### DXRG Tokens \(deprecated\)
 
