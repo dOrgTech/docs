@@ -24,9 +24,9 @@ Builders receive 1 [Rep token](https://etherscan.io/token/0x62300cec5240e5b27378
 
 Builders create and vote on proposals in [Snapshot](https://snapshot.org/#/dorg.eth) to govern the treasury, builder activations, client projects approvals, Rep issuance and more.
 
-### Airdrops \(coming soon\)
+### Airdrops
 
-Rep also grants builders a share of token airdrops from client projects. More on this soon!
+Rep also grants builders a proportional share of token airdrops from client projects. More on this soon!
 
 ### DXRG Tokens \(deprecated\)
 
