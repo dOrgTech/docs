@@ -20,5 +20,11 @@
 * [Ethereum and Solidity: The Complete Developer's Guide \(Udemy\)](https://www.udemy.com/course/ethereum-and-solidity-the-complete-developers-guide/)
 * [Discover Ethereum & Solidity \(Ludu\)](https://www.ludu.co/course/ethereum/what-is-ethereum)
 
+### Other Content
+
+* [Bankless](https://newsletter.banklesshq.com/) - newsletter & podcast
+* [ETH Hub](https://ethhub.io/) - newsletter
+* [Week in Ethereum](https://weekinethereumnews.com/) - newsletter
+
 
 
