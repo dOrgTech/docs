@@ -70,7 +70,7 @@ Sourcing Leads may also work on the project's execution team.
 
 If the interested builders agree that the project looks promising, does not have major technical issues or execution risks, and that they have the availability and skills to take on the engagement, then proceed with the following.
 
-1. Create SoW on [Pandadoc](https://app.pandadoc.com/a/#/templates-next?sortBy=name&direction=asc&displayMode=folders_first&mainFilter=all). Go to Templates, hover over ‘dOrg SoW Template’, and click ‘Create Document’ \([see login credentials here](https://docs.google.com/spreadsheets/d/18QXB9Ski8OxHRiELfxq8DcahYFhNnEKPEM20kRjeuYA/edit?usp=sharing)\). Fill out the contact details in the prompt and then fill in the different sections of the contract \(no need to fill in address, as this is a client variable\)
+1. Create SoW on [Pandadoc](https://app.pandadoc.com/a/#/templates-next?sortBy=name&direction=asc&displayMode=folders_first&mainFilter=all) \([see login credentials here](https://docs.google.com/spreadsheets/d/18QXB9Ski8OxHRiELfxq8DcahYFhNnEKPEM20kRjeuYA/edit?usp=sharing)\). Go to Templates, hover over ‘dOrg SoW Template’, and click ‘Create Document’. Fill out the contact details in the prompt and then fill in the different sections of the contract \(no need to fill in address, as this is a client variable\)
    * Context & Objectives
    * Focus Areas
    * Token Allocation \(if applicable\)
