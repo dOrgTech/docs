@@ -74,7 +74,7 @@ If the interested builders agree that the project looks promising, does not have
    * Context & Objectives
    * Focus Areas
    * Token Allocation \(if applicable\)
-   * Billing Summar
+   * Billing Summary
 2. Update the forum post you made earlier with the draft SoW to get feedback from the interested builders on the timeframe, pricing, and scope.
 3. Send the SoW to the client through PandaDoc. Revise if reasonable and necessary based on the client’s feedback.
 4. Once the client has signed, to submit a proposal to the DAO through [Snapshot](https://snapshot.org/#/dorg.eth) that links to the forum post.
