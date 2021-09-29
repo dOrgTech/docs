@@ -30,5 +30,5 @@ Rep also grants builders a proportional share of token airdrops from client proj
 
 ### DXRG \(deprecated\)
 
-[DXRG Tokens](https://blockscout.com/poa/xdai/tokens/0x76D37cbB1fD75912bfB0cE885c506C77955F5C05/token-transfers) were previously used track unpaid obligations. Each DXRG can be redeemed for one dollar.
+[DXRG Tokens](https://blockscout.com/poa/xdai/tokens/0x76D37cbB1fD75912bfB0cE885c506C77955F5C05/token-transfers) were previously used track unpaid obligations. Redeem DXRG for stablecoin by sending to 0x0000000000000000000000000000000000000000 on xDAI by Dec 1.
 
