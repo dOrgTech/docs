@@ -15,3 +15,11 @@ Deactivated builders retain all accumulated Rep and are eligible to reactivate a
 
 Builders can be deactivated and lose all Rep if they are found to have violated the [Builder Covenant](covenant.md).
 
+## Deactivation Process
+
+When deactivating a builder, ensure that:  
+  
+1. Their 'active builder' tag on Discord is removed.  
+2. Their email is removed from the Google Groups.  
+3. Their access to the forum is removed.
+

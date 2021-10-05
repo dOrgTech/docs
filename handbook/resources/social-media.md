@@ -31,7 +31,7 @@ dOrg are both builders \(of tech\) and partners \(in the Web3 space and with our
 * Questions to engage conversation and debates.
 * Bring in new collaborators and new builders.
 
-**Tools:**
-
-[https://tweetdeck.twitter.com/](https://tweetdeck.twitter.com/) has feeds for mentions of dOrg and tweets by our builders and clients.
+{% hint style="info" %}
+**Tools:**  [https://tweetdeck.twitter.com/](https://tweetdeck.twitter.com/) has feeds for mentions of dOrg and tweets by our builders and clients.
+{% endhint %}
 
