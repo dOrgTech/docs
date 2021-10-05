@@ -30,4 +30,5 @@
 * [Upskilling](resources/upskilling.md)
 * [Web3 Glossary](resources/glossary.md)
 * [Press Kit](resources/press-kit.md)
+* [Social Media Guidelines](resources/social-media.md)
 
