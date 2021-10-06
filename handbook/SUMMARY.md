@@ -7,7 +7,7 @@
 ## Builder Lifecycle <a id="lifecycle"></a>
 
 * [Activation](lifecycle/activation.md)
-* [The dOrg Onboarding Process](lifecycle/onboarding.md)
+* [Onboarding](lifecycle/onboarding.md)
 * [Deactivation](lifecycle/deactivation.md)
 * [Builder Covenant](lifecycle/covenant.md)
 

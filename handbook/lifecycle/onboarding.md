@@ -4,7 +4,7 @@ description: >-
   builder.
 ---
 
-# The dOrg Onboarding Process
+# Onboarding
 
 ### Being Onboarded as an a New Builder
 
@@ -20,13 +20,11 @@ You'll also have the option to schedule an orientation-focused call to walk thro
 Once you've filled in the onboarding form, you'll be ready to start building!
 {% endhint %}
 
-## Steps to onboard a new builder.
+{% hint style="info" %}
+If you are a dOrg builder helping to onboard a new builder, follow the steps below once the relevant snapshot proposal passes:
 
-1. **Activation:** Keep an eye on the relevant proposal. Once it's passed, you can start onboarding them. 
-2. **dOrg Email and Discord:** Create a @dorg.tech email address for the new builder using his first name or first name and first initial of his surname if there's already an active email with a matching first name. Then find the new builder on Discord \(their Discord handle is requested in the Builder Interest Form, so you should be able to find it on Airtable\), and add the 'active builder' tag, along with relevant skills such as 'front end' or 'design'. 
-3. **Welcome Email:** Send the new builder a welcome email \([find the template here](https://forum.dorg.tech/t/onboarding-welcome-email-template/224)\). The welcome email includes all information on accessing Discord for the first time if they haven't shared a Discord handle, their new dOrg email, and a link to the interactive onboarding form. At the end of this form they have the opportunity to book an onboarding-specific call with our Experience Facilitator. If the Experience Facilitator isn't available, there's a section in the template to offer a call with yourself instead.
-
-{% hint style="success" %}
-Congrats! You've just onboarded a new dOrg builder!
+1. Give them the 'active builder' tag on **Discord** \(you should be able to find their handle in the corresponding forum post\), along with relevant skills such as 'front end' or 'design'
+2. Create a @dorg.tech **email** address using their first name \(or first plus last if its already taken\).
+3. Send them a welcome email \([find the template here](https://forum.dorg.tech/t/onboarding-welcome-email-template/224)\), which includes a link to the interactive onboarding form. At the end of this form they have the opportunity to book an onboarding-specific call with our Experience Facilitator. If the Experience Facilitator isn't available, there's a section in the template to offer a call with yourself instead.
 {% endhint %}
 
