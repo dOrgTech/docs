@@ -1,12 +1,12 @@
 ---
-description: dOrg's guide to representing dOrg on social media.
+description: A guide to representing dOrg on social media.
 ---
 
 # Social Media Guidelines
 
 ![](https://media.giphy.com/media/Wsva5clCvbxcbFURFm/giphy.gif)
 
-dOrg are both builders \(of tech\) and partners \(in the Web3 space and with our clients\). We work with many clients and other web3 projects and we want people to follow us to check out new ideas and tools. 
+We leverage social media platforms like Twitter to engage about tools and ideas that are relevant to our community of builders and web3 projects.
 
 {% hint style="success" %}
 **Goal:** build an engaging brand that attracts the best builders, clients, and positive attention in the web3 ecosystem.
@@ -14,11 +14,11 @@ dOrg are both builders \(of tech\) and partners \(in the Web3 space and with our
 
 **KPIs:**
 
-* 2 - 3 tweets per day
+* Tweets per week
 * Follower Growth Rate \(MoM\)
 * Engagements / Engagement Rate
 * Earned Impressions
-* Traffic to site \(?\)
+* Traffic to site
 * Mentions
 
 **Types of posts**
