@@ -11,15 +11,13 @@ At the end of each quarter, builders who haven't met the following criteria will
 * Received a payment, or
 * Voted on one proposal, attended one biweekly sync, and posted once in the forum
 
-Deactivated builders retain all accumulated Rep and are eligible to reactivate at any time through a proposal.
+Deactivated builders retain all accumulated Rep and are eligible to reactivate at any time through a proposal. Builders can be deactivated and lose all Rep if they are found to have violated the [Builder Covenant](covenant.md).
 
-Builders can be deactivated and lose all Rep if they are found to have violated the [Builder Covenant](covenant.md).
+{% hint style="info" %}
+Here is what happens when someone is deactivated:
 
-## Deactivation Process
-
-When deactivating a builder, ensure that:  
-  
-1. Their 'active builder' tag on Discord is removed.  
-2. Their email is deactivated and removed from the Google Groups.  
-3. Their access to the forum is removed by changing their trust level to 0.
+1. 'Active Builder' tag on Discord is removed
+2. Google email account is deleted
+3. Forum access is changed to trust level to 0
+{% endhint %}
 

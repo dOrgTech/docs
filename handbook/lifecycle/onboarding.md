@@ -6,8 +6,6 @@ description: >-
 
 # Onboarding
 
-### Being Onboarded as an a New Builder
-
 ![](https://media4.giphy.com/media/3oEduUtBxr9wzS0DZu/giphy.gif?cid=ecf05e47oo0m24vbyfz5wb19bu7zdoer71xe9ptup4oerddh&rid=giphy.gif&ct=g)
 
 Shortly after your activation proposal passes, you'll get a dOrg email account and Discord access.
