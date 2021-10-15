@@ -15,7 +15,7 @@ We leverage social media platforms like Twitter to engage about tools and ideas 
 **KPIs:**
 
 * Tweets per week
-* Follower Growth Rate \(MoM\)
+* Follower Growth Rate (MoM)
 * Engagements / Engagement Rate
 * Earned Impressions
 * Traffic to site
@@ -23,7 +23,7 @@ We leverage social media platforms like Twitter to engage about tools and ideas 
 
 **Types of posts**
 
-* Original content \(talks, podcasts, articles\)
+* Original content (talks, podcasts, articles)
 * Client signal boost
 * Builder signal boost
 * Provoking conversations about web3 tools
@@ -32,6 +32,5 @@ We leverage social media platforms like Twitter to engage about tools and ideas 
 * Bring in new collaborators and new builders.
 
 {% hint style="info" %}
-**Tools:**  [https://tweetdeck.twitter.com/](https://tweetdeck.twitter.com/) has feeds for mentions of dOrg and tweets by our builders and clients.
+**Tools:  **[https://tweetdeck.twitter.com/](https://tweetdeck.twitter.com) has feeds for mentions of dOrg and tweets by our builders and clients.
 {% endhint %}
-

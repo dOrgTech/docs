@@ -4,17 +4,17 @@ description: How does dOrg actually work?
 
 # Governance
 
-![](https://media2.giphy.com/media/4TkuXuIzlJ4qspTAgD/giphy.gif?cid=ecf05e472zbh4aqsvqp5aw4h07tzknirwkzpkebw4m6fs6r1&rid=giphy.gif&ct=g)
+![](https://media2.giphy.com/media/4TkuXuIzlJ4qspTAgD/giphy.gif?cid=ecf05e472zbh4aqsvqp5aw4h07tzknirwkzpkebw4m6fs6r1\&rid=giphy.gif\&ct=g)
 
 ### Flow of Funds
 
 dOrg builders work in small teams to execute on client projects. Projects distribute their income amongst the execution team, sourcing lead, and dOrg's treasury.
 
-![](.gitbook/assets/unit-economics.png)
+![](<.gitbook/assets/unit economics.png>)
 
 ### Treasury
 
-The [treasury](https://gnosis-safe.io/app/#/safes/0xdb22d2d37db92EA7fa6993C9f6Ead55FBb1eF4EA) funds _ongoing roles_ \(e.g. facilitator, marketing lead, sales ops lead\), _internal initiatives_ \(working groups, website maintenance, new ventures\), and _shared expenses_ \(SaaS, legal, accounting\).
+The [treasury](https://gnosis-safe.io/app/#/safes/0xdb22d2d37db92EA7fa6993C9f6Ead55FBb1eF4EA) funds _ongoing roles_ (e.g. facilitator, marketing lead, sales ops lead), _internal initiatives_ (working groups, website maintenance, new ventures), and _shared expenses_ (SaaS, legal, accounting).
 
 ### Reputation
 
@@ -28,7 +28,6 @@ Rep enables builders to govern the treasury, builder activations, client project
 
 Rep also grants builders a proportional share of token airdrops from client projects. More on this soon!
 
-### DXRG \(deprecated\)
+### DXRG (deprecated)
 
 [DXRG Tokens](https://blockscout.com/poa/xdai/tokens/0x76D37cbB1fD75912bfB0cE885c506C77955F5C05/token-transfers) were previously used track unpaid obligations. Redeem DXRG for stablecoin by sending to 0x0000000000000000000000000000000000000000 on xDAI by Dec 1.
-

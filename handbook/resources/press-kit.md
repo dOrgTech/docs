@@ -4,13 +4,13 @@ Please use the below branding assets for any graphics requirements.
 
 ## Logos
 
-![](../.gitbook/assets/logo_black%20%281%29.png)
+![](<../.gitbook/assets/logo_black (1).png>)
 
 ![](../.gitbook/assets/logo_white.png)
 
 ![](../.gitbook/assets/logo_background_white.png)
 
-![](../.gitbook/assets/logo_background_black.png)
+![](<../.gitbook/assets/logo_background_black (1).png>)
 
 ![](../.gitbook/assets/rainbow_logo.jpg)
 
@@ -30,5 +30,4 @@ Please use the below branding assets for any graphics requirements.
 
 ## Complete Press Kit
 
-{% file src="../.gitbook/assets/dorg-press-kit.zip" %}
-
+{% file src="../.gitbook/assets/dOrg Press Kit.zip" %}
