@@ -13,6 +13,7 @@ Examples of behavior that contributes to a positive environment for our communit
 * Accepting responsibility and apologizing to those affected by our mistakes, and learning from the experience
 * Encouraging transparency and collaboration while preserving privacy where reasonably expected
 * Focusing on what is best not just for us as individuals, but for the overall community
+* Meeting our Expectation of Professionalism, noted below
 
 Examples of unacceptable behavior include:
 
@@ -25,7 +26,7 @@ Examples of unacceptable behavior include:
 * Silencing others (e.g. deleting innocuous comments)
 * Other conduct which could reasonably be considered inappropriate in a professional setting
 
-## Expectations of professionalism
+## Expectations of Professionalism
 
 * Being on time for meetings and communicating with your Project Manager, colleague, or client when you will be late or unable to attend.
 * Responding to client and teammate requests in a timely manner
