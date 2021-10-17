@@ -16,7 +16,7 @@ Contact with a potential client projects is generally initiated in one of two wa
 2. **Via our Contact Form**\
    Any potential client can complete our [Contact Form](https://www.dorg.tech/#/contact) on our website to share details of their project. Responses are automatically forwarded to the #contact-form channel in Discord. 
 
-![](<../.gitbook/assets/Screen Shot 2021-08-23 at 14.27.00.png>)
+![](../../.gitbook/assets/screen-shot-2021-08-23-at-14.27.00.png)
 
 If you see a potential client project that you would like source, react with a 👋 emoji. This is how we indicate our interest (and stops clients from receiving contact from numerous builders).
 

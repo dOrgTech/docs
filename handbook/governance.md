@@ -10,7 +10,7 @@ description: How does dOrg actually work?
 
 dOrg builders work in small teams to execute on client projects. Projects distribute their income amongst the execution team, sourcing lead, and dOrg's treasury.
 
-![](<.gitbook/assets/unit economics.png>)
+![](../.gitbook/assets/unit-economics.png)
 
 ### Treasury
 
