@@ -5,10 +5,6 @@
 * [Chainshot](https://www.chainshot.com) - bootcamp
 * [Consensys Academy](https://consensys.net/academy) - bootcamp
 * [ETHGlobal](https://ethglobal.co) - hackathons
-* [Enter Ethereum](https://discord.gg/cr7YGADDH3) - discord community
-* [EthernautDAO](upskilling.md#learn-with-others) - discord community
-* [Learn Web3](upskilling.md#learn-with-others) - discord community
-* [BanklessDAO](https://discord.gg/bankless) - (check out the solidity learning group!)
 * [Token Engineering Academy](https://tokenengineeringcommunity.github.io/website/docs/academy-welcome) - seminars
 
 ### Teach Yourself
