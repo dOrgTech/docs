@@ -24,7 +24,7 @@ If you are a dOrg builder helping to onboard a new builder, follow the steps bel
 1. **Give them the 'active builder' tag on** **Discord** (you should be able to find their handle in the corresponding forum post), along with relevant skills such as 'front end' or 'design'
 2. **Create a @dorg.tech email address **using their first name (or first plus last if its already taken).
 3. **Add their dOrg email address to the Active Builders Google Group**. (This triggers a Google invite to the All-Hands meetings and gives access to all shared documents.)
-4.  **Send them a welcome email** ([find the template here](https://forum.dorg.tech/t/onboarding-welcome-email-template/224)), which includes a link to the interactive onboarding form and a link to the W-9 tax form that must be signed by each new builder.
+4.  **Send them a welcome email** ([find the template here](https://forum.dorg.tech/t/new-builder-onboarding-email-template/242)), which includes a link to the interactive onboarding form and a link to the W-9 tax form that must be signed by each new builder.
 
     At the end of the onboarding form they have the opportunity to book an onboarding-specific call with our Experience Facilitator. If the Experience Facilitator isn't available, there's a section in the template to offer a call with yourself instead.
 5. **Check the **[**Onboarding & Experience Facilitator**](https://docs.google.com/spreadsheets/d/1dJEASJk7orOm50cb8Nnye-X3DsVUHVdt2xJ0T45R0nw/edit?resourcekey#gid=669100684)** records sheet** for form responses.
