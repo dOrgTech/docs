@@ -5,7 +5,7 @@
 ### **Comms**
 
 * [Discord](https://discord.com/invite/6Kujmad) - chat channels and the biweekly All-Hands call
-* [Forum](https://forum.dorg.tech) - discussion threads and builder profiles
+* [Forum (internal)](https://forum.dorg.tech) - discussion threads and builder profiles
 
 ### **Governance**
 
@@ -32,8 +32,11 @@
 * [Participant Terms & Conditions](https://github.com/dOrgTech/Ops/blob/master/legal/Participation\_Terms\_And\_Conditions.pdf)
 * [Client Terms & Conditions](https://github.com/dOrgTech/Ops/blob/master/legal/Client\_Terms\_And\_Conditions.pdf)
 * [Operating Agreement](https://github.com/dOrgTech/Ops/blob/master/legal/Operating\_Agreement.pdf)
+* [Legal & Accounting Files (internal)](https://drive.google.com/drive/folders/1j6i0YZ\_sCy5g2zzCLJD3YfOscCpczWB3)
+* Business Details:
   * dOrg, LLC
   * 2021 Fillmore St #2220
   * San Francisco CA 94115
   * Business ID: 0357139
-  * Tax ID: 84-2930500
+  * Tax ID: 84-2930500&#x20;
+
