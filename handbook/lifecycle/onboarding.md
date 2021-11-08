@@ -31,3 +31,9 @@ If you are a dOrg builder helping to onboard a new builder, follow the steps bel
 6. **Check the **[**Onboarding & Experience Facilitator records sheet**](https://docs.google.com/spreadsheets/d/1dJEASJk7orOm50cb8Nnye-X3DsVUHVdt2xJ0T45R0nw/edit?usp=sharing) for form responses.
 7. **Introduce new builder in Discord**.
 {% endhint %}
+
+### **Integrating your calendar:** <a href="gcal" id="gcal"></a>
+
+It's important for working on teams to have your dOrg email address calendar connected with your primary calendar.
+
+If you use a different email address as your primary calendar that you check, please wire your dOrg calendar to display there, via the following steps: 1) Log in to your dOrg gmail and go to your calendar. 2) Go to calendar settings 3) Under "Share With Specific People", add your main email address. Set the permissions to "Make changes and manage sharing". 4) Go to your main email address inbox and click the emailed link to add the calendar to your list. You should now see your dOrg email calendar events showing in your main calendar.
