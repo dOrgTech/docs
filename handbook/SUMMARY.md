@@ -18,6 +18,7 @@
 * [Sourcing new client projects](workflows/sourcing.md)
 * [Project Manager guide](workflows/project-manager.md)
 * [Tech Lead guide](workflows/tech-lead.md)
+* [Expense Reimbursement Policy](workflows/expense-reimbursement-policy.md)
 
 ## Resources
 
