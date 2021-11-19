@@ -18,16 +18,16 @@ The [treasury](https://gnosis-safe.io/app/#/safes/0xdb22d2d37db92EA7fa6993C9f6Ea
 
 ### Reputation
 
-Builders receive one [Rep token](https://etherscan.io/token/0x62300cec5240e5b273781ad67ce735107f3dacd4#balances) for every dollar earned from dOrg projects. Rep tokens are non-transferable and represent a share of _voting power_ and _airdrops_. 
+Builders receive one [Rep token](https://etherscan.io/token/0x62300cec5240e5b273781ad67ce735107f3dacd4#balances) for every dollar earned from dOrg projects. Rep tokens are non-transferable and represent a share of _voting power_ and _airdrops_.&#x20;
 
 ### Voting
 
 Rep enables builders to govern the treasury, builder activations, client projects approvals, Rep issuance and more through [Snapshot](https://snapshot.org/#/dorg.eth) proposals.
 
-### Airdrops
+### Bonuses
 
-Rep also grants builders a proportional share of token airdrops from client projects. More on this soon!
+Rep also grants builders a proportional share of token bonuses from client projects. More on this soon!
 
 ### DXRG (deprecated)
 
-[DXRG Tokens](https://blockscout.com/poa/xdai/tokens/0x76D37cbB1fD75912bfB0cE885c506C77955F5C05/token-transfers) were previously used track unpaid obligations. Redeem DXRG for stablecoin by sending to 0x0000000000000000000000000000000000000000 on xDAI by Dec 1.
+[DXRG Tokens](https://blockscout.com/poa/xdai/tokens/0x76D37cbB1fD75912bfB0cE885c506C77955F5C05/token-transfers) were previously used track unpaid obligations ([see redemption instructions here](https://forum.dorg.tech/t/deprecating-dxrg-debt-tokens/209)).
