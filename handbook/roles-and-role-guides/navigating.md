@@ -27,7 +27,7 @@ The forum is the best place to find a project to work on. Go to the [client proj
 The forum is also a great place to find builders to join a project. Go to the [builder list](https://forum.dorg.tech/u/) and click on anyone's profile image to view their profile details. You can also [use the search feature to find builders](https://forum.dorg.tech/search?search\_type=users) by skills, technologies, past projects, and experience level.
 
 {% hint style="info" %}
-**Profiles are set up when joining the forum for the first time. **Keep your profile up-to-date so that others can easily search you for their project needs.&#x20;
+**Profiles are set up when joining the forum for the first time.** Keep your profile up-to-date so that others can easily search you for their project needs.&#x20;
 {% endhint %}
 
 ![Here's what our Experience Facilitator's profile looks like](../../.gitbook/assets/screen-shot-2021-09-01-at-13.30.43.png)

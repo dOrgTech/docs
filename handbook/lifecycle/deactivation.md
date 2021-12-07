@@ -23,9 +23,9 @@ Deactivated builders retain all accumulated Rep and are eligible to reactivate a
 To deactivate a builder:
 
 1. **Remove 'Active Builder' tag on Discord** (along with any skills tags).
-2. **Delete Google email account. **As part of the deactivation process, give builder 7 days notice of deletion so that they can move any important emails or saved documents.
-3. **Change Forum access to trust level to 0. **This means that they will no longer have access to private threads.
-4. **Remove builder's email address from the Active Builders Google Group. **This will remove their calendar invite for the All-Hands meetings and remove access to shared documents.
+2. **Delete Google email account.** As part of the deactivation process, give builder 7 days notice of deletion so that they can move any important emails or saved documents.
+3. **Change Forum access to trust level to 0.** This means that they will no longer have access to private threads.
+4. **Remove builder's email address from the Active Builders Google Group.** This will remove their calendar invite for the All-Hands meetings and remove access to shared documents.
 {% endhint %}
 
 ## Reactivation Process
