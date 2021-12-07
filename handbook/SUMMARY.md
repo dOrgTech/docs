@@ -11,18 +11,18 @@
 * [Deactivation & Reactivation](lifecycle/deactivation.md)
 * [Builder Covenant](lifecycle/covenant.md)
 
-## Roles & Role Guides
+## Workflows
 
-* [Navigating our channels](roles-and-role-guides/navigating.md)
-* [The Swarm & Internal Roles](roles-and-role-guides/the-swarm-and-internal-roles.md)
-* [Joining a client project](roles-and-role-guides/joining.md)
-* [Sourcing new client projects](roles-and-role-guides/sourcing.md)
-* [Project Manager guide](roles-and-role-guides/project-manager.md)
-* [Tech Lead guide](roles-and-role-guides/tech-lead.md)
+* [Navigating our Channels](workflows/navigating.md)
+* [Doing Internal Work](workflows/doing-internal-work.md)
+* [Joining a Client Project](workflows/joining.md)
+* [Sourcing a New Client Projects](workflows/sourcing.md)
+* [Being a Project Manager](workflows/project-manager.md)
+* [Being a Tech Lead](workflows/tech-lead.md)
+* [Reimbursing expenses](workflows/expense-reimbursement-policy.md)
 
 ## Resources
 
-* [Expense Reimbursement Policy](resources/expense-reimbursement-policy.md)
 * [Important Links](resources/links.md)
 * [Development Best Practices](resources/best-practice-overview/README.md)
   * [Git](resources/best-practice-overview/git.md)

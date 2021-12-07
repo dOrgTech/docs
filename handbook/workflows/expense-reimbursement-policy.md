@@ -4,7 +4,7 @@ description: >-
   expenses incurred.
 ---
 
-# Expense Reimbursement Policy
+# Reimbursing expenses
 
 **Eligibility**
 
@@ -30,11 +30,13 @@ Necessary DAO-related expenses may include, but are not limited to:
 
 Members who incur DAO-related expenses are required to submit those expenses for reimbursement as follows:&#x20;
 
-* Login to Utopia Labs through the custom link posted in dOrg Discord&#x20;
-* Fill out payment request details&#x20;
-  * Select YES for “Is this a reimbursement for the purchase you made?”&#x20;
-  * Enter date of purchase&#x20;
-  * Upload applicable receipt(s)&#x20;
-* dOrg Treasury signers and accounting will review and approve payment requests within one week
+1. Login to Utopia Labs through the custom link posted in dOrg Discord&#x20;
+2. Fill out payment request details&#x20;
+   * Select YES for “Is this a reimbursement for the purchase you made?”&#x20;
+   * Enter date of purchase&#x20;
+   * Upload applicable receipt(s)&#x20;
+3. dOrg Treasury signers and accounting will review and approve payment requests within one week
 
+{% hint style="info" %}
 [Utopia Labs payment request demo](https://www.loom.com/share/183702bebd6c4c818969e532b315886a)
+{% endhint %}

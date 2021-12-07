@@ -16,7 +16,7 @@ In the meantime pop into our [Discord](https://discord.com/invite/6Kujmad) and s
 
 ## 2. Interview with an existing dOrg builder
 
-Interviews are conducted by a builder with a [_Tech Lead_](../roles-and-role-guides/tech-lead.md) or [_Project Manager_](../roles-and-role-guides/project-manager.md) badge depending on whether the role is technical or not. Please be prepared to discuss details about your area of expertise and past professional experience, as well as your current web3 involvement and interests.
+Interviews are conducted by a builder with a [_Tech Lead_](../workflows/tech-lead.md) or [_Project Manager_](../workflows/project-manager.md) badge depending on whether the role is technical or not. Please be prepared to discuss details about your area of expertise and past professional experience, as well as your current web3 involvement and interests.
 
 ## 3. Wait for a proposal
 
