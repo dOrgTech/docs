@@ -9,7 +9,7 @@
 
 ### **Governance**
 
-* [Treasury](https://gnosis-safe.io/app/#/safes/0xdb22d2d37db92EA7fa6993C9f6Ead55FBb1eF4EA/balances) - shared wallet that receives funds from each client project wallet
+* Treasury ([mainnet](https://gnosis-safe.io/app/eth:0xdb22d2d37db92EA7fa6993C9f6Ead55FBb1eF4EA/balances), [polygon](https://gnosis-safe.io/app/matic:0xB910593f350D0b0E32B6BB251B962cf7dc2cea3f/balances)) - shared wallet that receives funds from each client project wallet
 * [Rep Token](https://etherscan.io/token/0x62300cec5240e5b273781ad67ce735107f3dacd4) - non-transferable erc20 token that tracks reputation in dOrg
 * [Snapshot](https://snapshot.org/#/dorg.eth) -  create and vote on governance proposals
 

@@ -14,7 +14,7 @@ dOrg builders work in small teams to execute on client projects. Projects distri
 
 ### Treasury
 
-The [treasury](https://gnosis-safe.io/app/#/safes/0xdb22d2d37db92EA7fa6993C9f6Ead55FBb1eF4EA) funds _ongoing roles_ (e.g. facilitator, marketing lead, sales ops lead), _internal initiatives_ (working groups, website maintenance, new ventures), and _shared expenses_ (SaaS, legal, accounting).
+The treasury funds _ongoing roles_ (e.g. facilitator, marketing lead, sales ops lead), _internal initiatives_ (working groups, website maintenance, new ventures), and _shared expenses_ (SaaS, legal, accounting).
 
 ### Reputation
 
