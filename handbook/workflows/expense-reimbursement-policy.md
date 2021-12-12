@@ -4,7 +4,7 @@ description: >-
   expenses incurred.
 ---
 
-# Reimbursing expenses
+# Reimbursing Expenses
 
 **Eligibility**
 
@@ -30,13 +30,7 @@ Necessary DAO-related expenses may include, but are not limited to:
 
 Members who incur DAO-related expenses are required to submit those expenses for reimbursement as follows:&#x20;
 
-1. Login to Utopia Labs through the custom link posted in dOrg Discord&#x20;
-2. Fill out payment request details&#x20;
-   * Select YES for “Is this a reimbursement for the purchase you made?”&#x20;
-   * Enter date of purchase&#x20;
-   * Upload applicable receipt(s)&#x20;
-3. dOrg Treasury signers and accounting will review and approve payment requests within one week
+1. Head to the [Reimbursements thread](https://forum.dorg.tech/t/reimbursements/164) in the dOrg Forum
+2. Create a new post detailing your reimbursement request and uploading any supporting documentation (i.e. receipts, screenshots, invoices, etc). Please include your ethereum address in the post as well.
 
-{% hint style="info" %}
-[Utopia Labs payment request demo](https://www.loom.com/share/183702bebd6c4c818969e532b315886a)
-{% endhint %}
+The accountant will check this thread at month-end and update the payouts accordingly.&#x20;
