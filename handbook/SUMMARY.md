@@ -34,3 +34,4 @@
 * [Web3 Glossary](resources/glossary.md)
 * [Press Kit](resources/press-kit.md)
 * [Social Media Guidelines](resources/social-media.md)
+* [Quarterly dOrg Tax Payments](resources/quarterly-dorg-tax-payments.md)
