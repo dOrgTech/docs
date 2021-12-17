@@ -1,10 +1,10 @@
-# The Swarm & Internal Roles
+# Doing Internal Work
 
 ## The Swarm
 
 ![](https://i.gifer.com/4dau.gif)
 
-One of the best ways to settle into dOrg is to join The Swarm. The Swarm is an umbrella term for small teams of builders that come together to work on initiatives that improve dOrg, such as building a new dashboard or improving an internal process, and then disburse when the initiative is completed.
+One of the best ways to settle into dOrg is to join [The Swarm](https://forum.dorg.tech/t/swarm-bucket/237). The Swarm is an umbrella term for small teams of builders that come together to work on initiatives that improve dOrg, such as building a new dashboard or improving an internal process, and then disburse when the initiative is completed.
 
 {% hint style="success" %}
 The Swarm is an excellent way to gain insight into and practice being part of a DAO, meeting dOrg builders, and understanding current dOrg focuses and needs. We suggest that all new builders consider joining The Swarm to smoothly onboard as a new community member.
