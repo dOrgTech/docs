@@ -21,15 +21,15 @@ Once you've filled in the onboarding form, you'll be ready to start building!
 {% hint style="info" %}
 If you are a dOrg builder helping to onboard a new builder, follow the steps below once the relevant snapshot proposal passes:
 
-1. **Give them the 'active builder' tag on** **Discord** (you should be able to find their handle in the corresponding forum post), along with relevant skills such as 'front end' or 'design'
-2. **Create a @dorg.tech email address at** [**https://admin.google.com/**](https://admin.google.com) **** using their first name (or first plus last if its already taken). Click Add New User, enter info, click preview and send.
+1. **Give them the 'active builder' tag on** **Discord** (you should be able to find their handle in the corresponding forum post), along with relevant skills such as 'front end' or 'design'.&#x20;
+2. **Create a @dorg.tech email address at** [**https://admin.google.com/**](https://admin.google.com) **** using their first name (or first plus last if its already taken). Click Add New User, enter info (include their personal email address as the secondary email), click preview and send.
 3. **Add their dOrg email address to the Active Builders Google Group**. (This triggers a Google invite to the All-Hands meetings and gives access to all shared documents.)
 4. **Send out a W-9 form (if they're US-based) or a W-8BEN tax form (if they're not US-based) to their personal email address.** (See one of the internal role holders for the login details to send forms).
-5.  **Send them a welcome email** ([find the template here](https://forum.dorg.tech/t/new-builder-onboarding-email-template/242)), which includes a link to the interactive onboarding form and a mention of the W-9 and W-8BEN tax forms that must be signed by each new builder.
+5.  **Send them a welcome email** ([find the template here](https://forum.dorg.tech/t/new-builder-onboarding-email-template/242)), which includes a link to the interactive onboarding form.
 
     At the end of the onboarding form they have the opportunity to book an onboarding-specific call with our Experience Facilitator. If the Experience Facilitator isn't available, there's a section in the template to offer a call with yourself instead.
 6. **Check the** [**Onboarding & Experience Facilitator records sheet**](https://docs.google.com/spreadsheets/d/1dJEASJk7orOm50cb8Nnye-X3DsVUHVdt2xJ0T45R0nw/edit?usp=sharing) for form responses.
-7. **Introduce new builder in Discord**.
+7. **Introduce new builder in Discord in** `general-internal`
 {% endhint %}
 
 ### **Integrating your calendar:** <a href="#gcal" id="gcal"></a>
