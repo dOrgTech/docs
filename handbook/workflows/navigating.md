@@ -2,7 +2,7 @@
 description: How to find your way around dOrg channels
 ---
 
-# Navigating our channels
+# Navigating our Channels
 
 ## Discord
 
@@ -30,7 +30,7 @@ The forum is also a great place to find builders to join a project. Go to the [b
 **Profiles are set up when joining the forum for the first time.** Keep your profile up-to-date so that others can easily search you for their project needs.&#x20;
 {% endhint %}
 
-![Here's what our Experience Facilitator's profile looks like](../../.gitbook/assets/screen-shot-2021-09-01-at-13.30.43.png)
+![](<../.gitbook/assets/Screenshot 2022-01-03 at 17.55.47.png>)
 
 {% hint style="success" %}
 Don't forget to upload a professional headshot or well-designed avatar to your profile. This picture will be displayed on dOrg's website, so make sure it's a high-res square image with an un-busy background.
