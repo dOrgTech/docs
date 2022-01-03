@@ -8,7 +8,7 @@ description: Ready to get started?
 
 ## 1. Join our [database](https://airtable.com/shr0eQZfACL3Yarac) of highly skilled builders
 
-When the need arises for your skills and experience, we'll reach out to schedule an interview. Due to the amount of interest, we can only reach out in response to corresponding demand.
+When the need arises for your skills and experience, we'll reach out to schedule an interview. Due to the amount of interest, we can only reach out in response to corresponding demand. Please note that we are prioritising referrals from other Active Builders at dOrg.&#x20;
 
 {% hint style="info" %}
 In the meantime pop into our [Discord](https://discord.com/invite/6Kujmad) and say hello 👋.
