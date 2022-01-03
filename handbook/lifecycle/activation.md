@@ -25,3 +25,16 @@ The interviewer will make their recommendation to the collective on whether to p
 {% hint style="warning" %}
 If you are a dOrg builder referring a friend or you have a talent need for your project, create a post describing the candidate [here](https://forum.dorg.tech/t/about-the-builder-activations-category).
 {% endhint %}
+
+## 4. Onboarding check list&#x20;
+
+Once your activation has been approved, you are going to receive and e-mail with information on how to proceed. Here the check list to make sure you have everything to need to be part of the collective:&#x20;
+
+✔️ dOrg email activated \
+✔️ dOrg forum access (access using dOrg email credentials) \
+✔️ Private dOrg Discord channels access \
+✔️ dOrg calendar integrated to your primary calendar \
+✔️ W-9 (US) or W-8BEN (other countries) form filled \
+✔️ Forum profile set up\
+✔️ Onboarding form sent \
+✔️ Onboarding call scheduled (if you wish) \
