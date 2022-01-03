@@ -2,7 +2,7 @@
 description: Once onboarded, you can start contributing to ongoing projects.
 ---
 
-# Joining a client project
+# Joining a Client Project
 
 ## Finding a project to join
 
@@ -11,7 +11,7 @@ description: Once onboarded, you can start contributing to ongoing projects.
 3. If it's a match, the _Project Manager_ will update the project's post with your start date, time commitment, and role.
 
 {% hint style="info" %}
-You can also DM our Experience Facilitator, Anna-Marie, on Discord for help with finding opportunities!
+You can also DM our Experience Facilitator, Clara, on Discord for help with finding opportunities!
 {% endhint %}
 
 ## Contributing to a project
