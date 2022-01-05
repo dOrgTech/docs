@@ -37,4 +37,4 @@ Once your activation has been approved, you are going to receive and e-mail with
 ✔️ W-9 (US) or W-8BEN (other countries) form filled \
 ✔️ Forum profile set up\
 ✔️ Onboarding form sent \
-✔️ Onboarding call scheduled (if you wish) \
+✔️ Onboarding call scheduled\
