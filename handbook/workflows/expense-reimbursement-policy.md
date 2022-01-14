@@ -30,7 +30,15 @@ Necessary DAO-related expenses may include, but are not limited to:
 
 Members who incur DAO-related expenses are required to submit those expenses for reimbursement as follows:&#x20;
 
-1. Head to the [Reimbursements thread](https://forum.dorg.tech/t/reimbursements/164) in the dOrg Forum
-2. Create a new post detailing your reimbursement request and uploading any supporting documentation (i.e. receipts, screenshots, invoices, etc). Please include your ethereum address in the post as well.
+1. Login to Utopia Labs through the custom link [https://app.utopialabs.com/request/payment?daoId=618a831e9fd5391eafd6c060](https://app.utopialabs.com/request/payment?daoId=618a831e9fd5391eafd6c060)&#x20;
+2. Verify your wallet
+   * Enter your name, wallet address and role&#x20;
+   * Once submitted, accounting will verify the account by checking the address against our [dOrg address list](https://docs.google.com/spreadsheets/d/1wxRpk0e4TQN5YJJwjrzMY5U4Txns9OgDinzkWlr5E5g/edit?usp=sharing)
+     * If you recently changed your address, reach out to Mackenzie (Mackenzie#0246) on Discord&#x20;
+3. Once verified, head to the dOrg Utopia link and fill out payment request details&#x20;
+   * Select YES for “Is this a reimbursement for the purchase you made?”&#x20;
+   * Enter date of purchase&#x20;
+   * Upload applicable receipt(s)&#x20;
+4. dOrg Treasury signers and accounting will review and approve payment requests within one week
 
-The accountant will check this thread at month-end and update the payouts accordingly.&#x20;
+Utopia Labs payment [request demo](https://www.loom.com/share/183702bebd6c4c818969e532b315886a)
