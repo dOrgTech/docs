@@ -22,7 +22,7 @@ Builders receive one [Rep token](https://etherscan.io/token/0x62300cec5240e5b273
 
 ### Voting
 
-Rep enables builders to govern the treasury, builder activations, client projects approvals, Rep issuance and more through [Snapshot](https://snapshot.org/#/dorg.eth) proposals.
+Rep enables builders to govern the treasury, builder activations, client projects approvals, Rep issuance and more through [Snapshot](https://snapshot.org/#/dorg.eth) proposals ([see more details here](workflows/navigating.md#snapshot)).
 
 ### Bonuses
 
