@@ -18,6 +18,7 @@
 * [Learning Solidity](https://github.com/willitscale/learning-solidity)
 * [Ethereum and Solidity: The Complete Developer's Guide (Udemy)](https://www.udemy.com/course/ethereum-and-solidity-the-complete-developers-guide/)
 * [Discover Ethereum & Solidity (Ludu)](https://www.ludu.co/course/ethereum/what-is-ethereum)
+* [Buildspace](https://buildspace.so/)
 
 ### Communities & Content
 
