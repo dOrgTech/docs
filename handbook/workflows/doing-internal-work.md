@@ -16,11 +16,11 @@ At any given time, we have several part-time roles that lead key operational are
 
 See here for the current  breakdown of roles:
 
-| Builder                                                                 | Role                           | Description                                                                                                                                          |
-| ----------------------------------------------------------------------- | ------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [Clara](https://forum.dorg.tech/t/experience-facilitator-clara/301)     | Builder Experience Facilitator | Please DM me if you need any support navigating dOrg or its systems, or you have feedback on how I can improve your experience here :slight\_smile:. |
-| [Ernesto](https://forum.dorg.tech/t/marcomms-ernesto/90)                | Marketing & Comms              | Social media management, content creation, communication materials such as decks or slides, and search engine optimization                           |
-| [Mackenzie](https://forum.dorg.tech/t/accounting-finance-mackenzie/230) | Accounting                     | Bookkeeping and monthly reporting for dOrg; streamlining accounting processes and FP\&A                                                              |
+| Builder                                                                 | Role                           | Description                                                                                                                           |
+| ----------------------------------------------------------------------- | ------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------- |
+| [Mackenzie](https://forum.dorg.tech/t/accounting-finance-mackenzie/230) | Accounting                     | Bookkeeping and monthly reporting for dOrg; streamlining accounting processes and FP\&A.                                              |
+| [Ernesto](https://forum.dorg.tech/t/marcomms-ernesto/90)                | Marketing & Comms              | Social media management, content creation, communication materials such as decks or slides, and search engine optimization            |
+| [Clara](https://forum.dorg.tech/t/experience-facilitator-clara/301)     | Builder Experience Facilitator | Please DM me if you need any support navigating dOrg or its systems, or you have feedback on how I can improve your experience here.  |
 
 
 
@@ -29,5 +29,5 @@ To facilitate smooth onboarding into dOrg, we bring all builders intending to ho
 {% endhint %}
 
 {% hint style="info" %}
-The Swarm and all Internal Roles sync every Tuesday at 5pm CET in the Discord Member Hall.
+The Swarm and all Internal Roles sync every Tuesday at 5pm CET in the Discord Member Hall. Ask Experience Facilitator to send an Calendar Invite.&#x20;
 {% endhint %}

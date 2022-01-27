@@ -1,7 +1,7 @@
 ---
 description: >-
-  Any dOrg builder can source new projects to earn 10% of the corresponding
-  income.
+  Anyone at Client Sourcing team can source new projects to earn 10% of the
+  corresponding income.
 ---
 
 # Sourcing a New Client Projects

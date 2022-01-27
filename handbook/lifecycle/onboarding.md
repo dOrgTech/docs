@@ -12,10 +12,20 @@ Shortly after your activation proposal passes, you'll get a dOrg email account a
 
 Our Experience Facilitator will then send you details of your new email account and a link to an onboarding form that lets you consent to our builder agreements and walks you through the key information and points of reference so that you can confidently join the community from the start.
 
-You'll also have the option to schedule an orientation-focused call to walk through any areas of dOrg you'd like more information on and explore which projects might be the best fit to start.
+You'll also would be able to schedule an orientation-focused call to walk through any areas of dOrg you'd like more information on and explore which projects might be the best fit to start.
 
 {% hint style="success" %}
-Once you've filled in the onboarding form, you'll be ready to start building!
+Make sure you have everything you need to be part of dOrg&#x20;
+
+✔️ dOrg email activated\
+✔️ dOrg calendar integrated to your primary calendar \
+✔️ dOrg forum access (access using dOrg email credentials)\
+✔️ dOrg Forum profile updated \
+✔️ dOrg private Discord channels access \
+✔️ W-9 (US) or W-8BEN (other countries) form filled\
+✔️ dOrg Github member\
+✔️ Onboarding form sent \
+✔️ Onboarding call scheduled
 {% endhint %}
 
 ### Integrating your Calendar
@@ -25,6 +35,12 @@ It's important for working on teams to have your dOrg email address calendar con
 1. Log in to your dOrg gmail and go to your calendar
 2. Go to calendar settings and under "Share With Specific People" add your main email address. Set the permissions to "Make changes and manage sharing"
 3. Go to your main email address inbox and click the emailed link to add the calendar to your list. You should now see your dOrg email calendar events showing in your main calendar
+
+### Filling you W-8BEN form
+
+For non US Tax Residents W-8BEN is the way to go. Here's some help&#x20;
+
+![](../.gitbook/assets/unnamed.jpg)
 
 {% hint style="warning" %}
 ### Admin Steps for Onboarding a new Builder
@@ -38,5 +54,6 @@ Here are the instructions for the Experience Facilitator and others to help onbo
 5. **Send them a welcome email** ([find the template here](https://forum.dorg.tech/t/new-builder-onboarding-email-template/242)), which includes a link to the interactive onboarding form. At the end of the onboarding form they have the opportunity to book an onboarding-specific call with our Experience Facilitator.
 6. **Check the** [**Onboarding & Experience Facilitator records sheet**](https://docs.google.com/spreadsheets/d/1dJEASJk7orOm50cb8Nnye-X3DsVUHVdt2xJ0T45R0nw/edit?usp=sharing) for form responses.
 7. **Introduce new builder in Discord in** `general-internal`
+8. **Add them as dOrg Github members**&#x20;
 {% endhint %}
 

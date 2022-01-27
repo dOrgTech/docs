@@ -8,7 +8,7 @@ description: Ready to get started?
 
 ## 1. Join our [database](https://airtable.com/shr0eQZfACL3Yarac) of highly skilled builders
 
-When the need arises for your skills and experience, we'll reach out to schedule an interview. Due to the amount of interest, we can only reach out in response to corresponding demand. Please note that we are prioritising referrals from other Active Builders at dOrg.&#x20;
+When the need arises for your skills and experience, we'll reach out to schedule an interview. Due to the amount of interest, we can only reach out in response to corresponding demand. Please note that we are prioritising referrals from other Builders at dOrg.&#x20;
 
 {% hint style="info" %}
 In the meantime pop into our [Discord](https://discord.com/invite/6Kujmad) and say hello 👋.
@@ -20,21 +20,22 @@ Interviews are conducted by a builder with a [_Tech Lead_](../workflows/tech-lea
 
 ## 3. Wait for a proposal
 
-The interviewer will make their recommendation to the collective on whether to proceed with a vote. If the collective votes to approve your activation, you will be invited to onboard.
+The interviewer will make their recommendation to the collective on whether to proceed with a vote. If the collective votes to approve your activation, you will be invited to onboard.&#x20;
 
 {% hint style="warning" %}
-If you are a dOrg builder referring a friend or you have a talent need for your project, create a post describing the candidate [here](https://forum.dorg.tech/t/about-the-builder-activations-category).
+If you are a dOrg Builder referring a friend or you have a talent need for your project, create a post describing the candidate [here](https://forum.dorg.tech/t/about-the-builder-activations-category).
 {% endhint %}
 
 ## 4. Onboarding check list&#x20;
 
-Once your activation has been approved, you are going to receive and e-mail with information on how to proceed. Here the check list to make sure you have everything to need to be part of the collective:&#x20;
+Once your activation has been approved, you are going to receive and e-mail with information on how to proceed + a Discord DM. Here's the check list to make sure you have everything you need to be part of dOrg:&#x20;
 
 ✔️ dOrg email activated \
-✔️ dOrg forum access (access using dOrg email credentials) \
-✔️ Private dOrg Discord channels access \
-✔️ dOrg calendar integrated to your primary calendar \
-✔️ W-9 (US) or W-8BEN (other countries) form filled \
-✔️ Forum profile set up\
+✔️ dOrg forum access (access using dOrg email credentials)\
+✔️ dOrg Forum profile updated \
+✔️ dOrg private Discord channels access \
+✔️ dOrg calendar integrated to your primary calendar  \
+✔️ W-9 (US) or W-8BEN (other countries) form filled\
+✔️ dOrg Github member\
 ✔️ Onboarding form sent \
 ✔️ Onboarding call scheduled\
