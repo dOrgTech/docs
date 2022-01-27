@@ -6,7 +6,7 @@ description: Once onboarded, you can start contributing to ongoing projects.
 
 ## Finding a project to join
 
-1. Express interest in any [Client Projects](https://forum.dorg.tech/c/clientproject/8) by commenting on the forum thread (you can also check for opportunities in our job-board channel in Discord).
+1. Express interest in any [Client Projects](https://forum.dorg.tech/c/clientproject/8) by commenting on the forum thread. You can also check for opportunities in our `job-board` channel in Discord. Lastly, you could also check our WIP [dOrg data app](https://share.streamlit.io/dorgtech/dorg\_data/app.py) - make sure to not use Brave navigator, have access to dOrg Github (if not ask Experience Facilitator), plus request access to WHYTEWYLL#7455.&#x20;
 2. If the _Project Manager_ and _Tech Lead_ of that project determine that your skills and availability match the project's needs, they will reach out to schedule a walkthrough.
 3. If it's a match, the _Project Manager_ will update the project's post with your start date, time commitment, and role.
 
