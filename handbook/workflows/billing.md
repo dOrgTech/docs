@@ -30,7 +30,8 @@ Please, if you need to create an invoice for tax purposes, here's the [template]
 
 ## Internal Roles &#x20;
 
-By the end of the month Internal Roles need to log their hours and + work done on their Outflow Funded Role Forum post. [Take this one as a reference](https://forum.dorg.tech/t/experience-facilitator-anna-marie-ended-dec-10/104/5)! \
+By the end of the month Internal Roles need to log their hours and + work done on their Outflow Funded Role Forum post. [Take this one as a reference](https://forum.dorg.tech/t/experience-facilitator-anna-marie-ended-dec-10/104/5)! Afterwards dOrg Treasury signers and accounting will review and approve payment requests within one week. Your compensation will appear on your wallet. \
+\
 Ask Internal roles to send you a recurrent monthly calendar alert to update your Forum Role work log!&#x20;
 
 Please, if you need to create an invoice for tax purposes, here's the [template](https://docs.google.com/spreadsheets/d/1-Ky77y9YqhWVERc-rTVQPy3v9NZ\_ZLM4hGKU6AI1Z3M/edit#gid=790763898). Once created email it to accounting@dorg.tech ;)
