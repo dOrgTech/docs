@@ -25,7 +25,7 @@ We have two types of dOrg members:&#x20;
 \
 At the end of each quarter, Builders who haven't gained any Rep during that period will be classified as _Chilling._&#x20;
 
-__
+In case a client makes a direct-hire of a dOrg member, the person will automatically gain Builder status for 1 year from that transaction.
 
 ## Deactivation Process&#x20;
 
