@@ -22,7 +22,7 @@ Please, if you need to create an invoice for tax purposes, here's the [template]
 
 ## Client work
 
-Every client project has its internal flow of billing. Some of them are bill every 15 days and others once a month. Make sure to contact your PM for Billing details!&#x20;
+Every client project has its internal flow of billing. Some of them bill their Builders every 15 days and others once a month. Make sure to contact your PM to get more information on your billing details!&#x20;
 
 Afterwards dOrg Treasury signers and accounting will review and approve payment requests within one week. Your compensation will appear on your wallet.&#x20;
 
@@ -35,6 +35,8 @@ By the end of the month Internal Roles need to log their hours and + work done o
 Ask Internal roles to send you a recurrent monthly calendar alert to update your Forum Role work log!&#x20;
 
 Please, if you need to create an invoice for tax purposes, here's the [template](https://docs.google.com/spreadsheets/d/1-Ky77y9YqhWVERc-rTVQPy3v9NZ\_ZLM4hGKU6AI1Z3M/edit#gid=790763898). Once created email it to accounting@dorg.tech ;)
+
+
 
 {% hint style="warning" %}
 **What to do if you don't see your stable coins on your wallet**&#x20;
