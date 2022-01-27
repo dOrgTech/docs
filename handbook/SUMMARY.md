@@ -8,7 +8,7 @@
 
 * [Activation](lifecycle/activation.md)
 * [Onboarding](lifecycle/onboarding.md)
-* [Deactivation & Reactivation](lifecycle/deactivation.md)
+* [Membership & Deactivation](lifecycle/deactivation.md)
 * [Builder Covenant](lifecycle/covenant.md)
 
 ## Workflows

@@ -1,23 +1,42 @@
 ---
-description: Builders continuously flow in and out of dOrg.
+description: Builders continuously flow in and out
 ---
 
-# Deactivation & Reactivation
+# Membership & Deactivation
 
 ![](https://media2.giphy.com/media/TrOMR6REnWN1u/giphy.gif?cid=ecf05e475olmysndp9wciiouoodkrlec1hne62jdz46l16yp\&rid=giphy.gif\&ct=g)
 
-At the end of each quarter, builders who haven't met the following criteria will be deactivated:
+We have two types of dOrg members:&#x20;
 
-* Received a payment or been involved in an internal project; or
-* Voted on one proposal, attended one biweekly sync, and posted once in the forum.
+### **dOrg Builder** 🤓 🛠️
 
-Deactivated builders retain all accumulated Rep and are eligible to reactivate at any time through a proposal. Builders can be deactivated and lose all Rep if they are found to have violated the [Builder Covenant](covenant.md).
+* Currently working on a project at dOrg (either internal project or client work).
+* Have full access to Discord and Forum.
+* Eligible for bonuses.
 
-## Deactivation Process
+### **dOrg Chillers** 😎 🏖️
+
+* Not working but still willing to support our community and/or dOrg as a business.
+* Don’t have access to `client-work` Discord category (access to `job-board` granted).
+* Access to all forum channels except for the clients thread.
+* Not eligible for bonuses (if you are inactive for a period of >3 months).
+* Preserve their email.
+
+\
+At the end of each quarter, Builders who haven't gained any Rep during that period will be classified as _Chilling._&#x20;
+
+__
+
+## Deactivation Process&#x20;
+
+{% hint style="danger" %}
+Builders can be deactivated and lose all Rep if they are found to have violated the [Builder Covenant](covenant.md).
+{% endhint %}
 
 1. Reach out to have a conversation with anyone that doesn’t appear to be meeting the Criteria.&#x20;
-2. If they’re non-responsive, or the fit with the dOrg community doesn’t seem to be working, create a post on the forum sharing which builders are being considered for deactivation and why.&#x20;
-3. Create a proposal for deactivation.
+2. If they’re non-responsive, or the fit with the dOrg community doesn’t seem to be working, create a post on the forum sharing which builders are being considered for deactivation and why.
+3. Create a Snapshot proposal for deactivation.
+4. Deactivate user from dOrg.&#x20;
 
 {% hint style="info" %}
 To deactivate a builder:
@@ -28,8 +47,3 @@ To deactivate a builder:
 4. **Remove builder's email address from the Active Builders Google Group.** This will remove their calendar invite for the All-Hands meetings and remove access to shared documents.
 {% endhint %}
 
-## Reactivation Process
-
-1. Create a Snapshot outlining why you would like to be considered for reactivation.
-2. Share this with the community by either DMing an active builder or posting in the public discord channels and tagging @activebuilder.
-3. The community will vote on whether to reactivate you.
