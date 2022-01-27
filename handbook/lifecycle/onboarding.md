@@ -36,7 +36,7 @@ It's important for working on teams to have your dOrg email address calendar con
 2. Go to calendar settings and under "Share With Specific People" add your main email address. Set the permissions to "Make changes and manage sharing"
 3. Go to your main email address inbox and click the emailed link to add the calendar to your list. You should now see your dOrg email calendar events showing in your main calendar
 
-### Filling you W-8BEN form
+### Filling your W-8BEN form
 
 For non US Tax Residents W-8BEN is the way to go. Here's some help&#x20;
 
