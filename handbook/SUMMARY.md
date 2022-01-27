@@ -19,6 +19,7 @@
 * [Sourcing a New Client Projects](workflows/sourcing.md)
 * [Being a Project Manager](workflows/project-manager.md)
 * [Being a Tech Lead](workflows/tech-lead.md)
+* [Billing](workflows/billing.md)
 * [Reimbursing Expenses](workflows/expense-reimbursement-policy.md)
 
 ## Resources

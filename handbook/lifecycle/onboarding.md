@@ -42,7 +42,7 @@ For non US Tax Residents W-8BEN is the way to go. Here's some help&#x20;
 
 ![](../.gitbook/assets/unnamed.jpg)
 
-{% hint style="warning" %}
+{% hint style="info" %}
 ### Admin Steps for Onboarding a new Builder
 
 Here are the instructions for the Experience Facilitator and others to help onboard new builders once their activation proposal has passed on Snapshot:
