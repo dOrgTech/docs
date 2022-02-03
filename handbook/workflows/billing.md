@@ -49,7 +49,7 @@ Please, if you need to create an invoice for tax purposes, here's the [template]
 {% endhint %}
 
 {% hint style="warning" %}
-**What to do if you don't dOrg token (rep) on your wallet**&#x20;
+**What to do if you don't see dOrg token (rep) on your wallet**
 
 1\. Go to _Import token_ section > Custom Token > Paste 0x62300ceC5240e5B273781aD67Ce735107f3DaCD4 on Token Contract Adress and done! Your dOrg tokens should appear on your wallet! \
 
