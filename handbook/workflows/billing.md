@@ -43,7 +43,9 @@ Please, if you need to create an invoice for tax purposes, here's the [template]
 
 1\. Check the wallet address you introduced on the spreadsheet is correct. If it's all good let's check on your wallet.&#x20;
 
-2\. Go to _Refresh list_ or _Import token_ section (at the very bottom on Metamask) and select USDC stable coin _et voilà!_&#x20;
+2\. Make sure you select Ethereum Main net.&#x20;
+
+3\. Go to _Refresh list_ or _Import token_ section (at the very bottom on Metamask) and select USDC stable coin _et voilà!_&#x20;
 {% endhint %}
 
 {% hint style="warning" %}
