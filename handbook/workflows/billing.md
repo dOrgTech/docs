@@ -12,8 +12,8 @@ By the end of the month Builders participating at the Swarm, have to log their w
 Swarms contributors can choose how they want to receive their compensation per hour:&#x20;
 
 A) 50$ in stable coin + 50 rep (dOrg token)\
-B) 25$ in stable coin + 150 rep\
-C) 200 rep
+B) 25$ in stable coin + 100 rep\
+C) 150 rep
 {% endhint %}
 
 Afterwards dOrg Treasury signers and accounting will review and approve payment requests within one week. Your compensation will appear on your wallet.&#x20;
