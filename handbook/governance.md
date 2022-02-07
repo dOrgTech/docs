@@ -4,8 +4,6 @@ description: How does dOrg actually work?
 
 # Governance
 
-![](https://media2.giphy.com/media/4TkuXuIzlJ4qspTAgD/giphy.gif?cid=ecf05e472zbh4aqsvqp5aw4h07tzknirwkzpkebw4m6fs6r1\&rid=giphy.gif\&ct=g)
-
 ### Flow of Funds 💸
 
 dOrg builders work in small teams to execute on client projects. Projects distribute their income amongst the execution team, sourcing lead, and dOrg's treasury.
@@ -31,3 +29,7 @@ Rep also grants builders a proportional share of token bonuses from client proje
 ### DXRG (deprecated)
 
 [DXRG Tokens](https://blockscout.com/poa/xdai/tokens/0x76D37cbB1fD75912bfB0cE885c506C77955F5C05/token-transfers) were previously used track unpaid obligations ([see redemption instructions here](https://forum.dorg.tech/t/deprecating-dxrg-debt-tokens/209)).
+
+### Governance model&#x20;
+
+![](<.gitbook/assets/2022.02.04 dOrg Governance model.jpg>)
