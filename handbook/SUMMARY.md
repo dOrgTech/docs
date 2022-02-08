@@ -32,7 +32,6 @@
   * [Choosing a hosting platform](resources/best-practice-overview/choosing-a-hosting-platform.md)
   * [Tests](resources/best-practice-overview/tests.md)
 * [Upskilling](resources/upskilling.md)
-* [Web3 Glossary](resources/glossary.md)
 * [Press Kit](resources/press-kit.md)
 * [Social Media Guidelines](resources/social-media.md)
 * [Quarterly dOrg Tax Payments](resources/quarterly-dorg-tax-payments.md)
