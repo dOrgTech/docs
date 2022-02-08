@@ -4,30 +4,24 @@ Please use the below branding assets for any graphics requirements.
 
 ## Logos
 
-![](<../../.gitbook/assets/logo_black (1).png>)
+![dOrg Colored Logo on Black Background (PNG)](../.gitbook/assets/dOrg-colored-black-bg.png)
 
-![](../../.gitbook/assets/logo_white.png)
+![dOrg Colored Logo on White Background (PNG)](../.gitbook/assets/dOrg-colored-white-bg.png)
 
-![](../../.gitbook/assets/logo_background_white.png)
+![dOrg White Logo Transparent (PNG)](../.gitbook/assets/dOrg-white-transparent.png)
 
-![](../../.gitbook/assets/logo_background_black.png)
+![dOrg Black Logo Transparent (PNG)](../.gitbook/assets/dOrg-black-transparent.png)
 
-![](../../.gitbook/assets/rainbow_logo.jpg)
+![dOrg Colored Logo (SVG)](../.gitbook/assets/dOrg-colored-svg.svg)
 
-{% file src="../../.gitbook/assets/logo.svg" %}
+![dOrg White Logo (SVG)](../.gitbook/assets/dOrg-white-svg.svg)
 
-## Icons
-
-![](../../.gitbook/assets/icon_white.png)
-
-![](../../.gitbook/assets/icon_black.png)
-
-{% file src="../../.gitbook/assets/icon.svg" %}
+![](../.gitbook/assets/dOrg-black-svg.svg)
 
 ## Banners
 
-![](../../.gitbook/assets/rainbow_banner.jpg)
+![dOrg Color Banner on Black (PNG)](../.gitbook/assets/dOrg-color-banner.png)
 
 ## Complete Press Kit
 
-{% file src="../../.gitbook/assets/dorg-press-kit.zip" %}
+{% embed url="https://www.dropbox.com/s/ovnvldhq50hyg50/dOrg-Press-Kit-2022.zip?dl=0" %}
