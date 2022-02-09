@@ -31,6 +31,7 @@
   * [Creating a React dApp](resources/best-practice-overview/react-dapp.md)
   * [Choosing a hosting platform](resources/best-practice-overview/choosing-a-hosting-platform.md)
   * [Tests](resources/best-practice-overview/tests.md)
+* [Getting Stuff Done in a DAO](resources/getting-stuff-done-in-a-dao.md)
 * [Upskilling](resources/upskilling.md)
 * [Press Kit](resources/press-kit.md)
 * [Social Media Guidelines](resources/social-media.md)

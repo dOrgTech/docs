@@ -10,6 +10,10 @@ One of the best ways to settle into dOrg is to join [The Swarm](https://forum.do
 The Swarm is an excellent way to gain insight into and practice being part of a DAO, meeting dOrg builders, and understanding current dOrg focuses and needs. We suggest that all new builders consider joining The Swarm to smoothly onboard as a new community member.
 {% endhint %}
 
+{% hint style="info" %}
+See our guide on [getting stuff done in a DAO](../resources/getting-stuff-done-in-a-dao.md) for more guidance
+{% endhint %}
+
 ## Internal Roles
 
 At any given time, we have several part-time roles that lead key operational areas.  Anyone may propose to dissipate or create a new role based on dOrg's needs.
