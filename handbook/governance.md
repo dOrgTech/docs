@@ -24,7 +24,7 @@ Rep enables builders to govern the treasury, builder activations, client project
 
 ### Bonuses 🤑
 
-Rep also grants builders a proportional share of token bonuses from client projects. Currently we flush on tokens (other than ETH and stablecoins) from the treasury to eligible builders in proportion to the square root of their rep-holdings at the end of each quarter.
+Rep also grants builders a proportional share of token bonuses from client projects. Currently we flush all tokens (other than ETH and stablecoins) from the treasury to eligible builders in proportion to the square root of their rep-holdings at the end of each quarter.
 
 ### Detailed View
 
