@@ -25,7 +25,7 @@ See here for the current breakdown of roles:
 | [Mackenzie](https://forum.dorg.tech/t/accounting-finance-mackenzie/230) | Accounting          | Bookkeeping and monthly reporting for dOrg; streamlining accounting processes and FP\&A.                                              |
 | [Ernesto](https://forum.dorg.tech/t/marcomms-ernesto/90)                | Marketing & Comms   | Social media management, content creation, communication materials such as decks or slides, and search engine optimization            |
 | [OPEN POSITION](https://airtable.com/shr0eQZfACL3Yarac)                 | Client Experience   |                                                                                                                                       |
-| [OPEN POSITION](https://airtable.com/shr0eQZfACL3Yarac)                 | Talent Acquisition  |                                                                                                                                       |
+| Miriam                                                                  | Talent Acquisition  |                                                                                                                                       |
 | [Clara](https://forum.dorg.tech/t/experience-facilitator-clara/301)     | People Ops          | Please DM me if you need any support navigating dOrg or its systems, or you have feedback on how I can improve your experience here.  |
 
 
