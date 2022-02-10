@@ -28,4 +28,4 @@ Rep also grants builders a proportional share of token bonuses from client proje
 
 ### Detailed View
 
-![Shoutout to the researchers who put this together!](<.gitbook/assets/2022.02.04 dOrg Governance model.jpg>)
+![Credit to Jozef Siu of the SecureSECO initiative for putting this together!](<.gitbook/assets/2022.02.04 dOrg Governance model.jpg>)
