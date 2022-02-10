@@ -26,10 +26,6 @@ Rep enables builders to govern the treasury, builder activations, client project
 
 Rep also grants builders a proportional share of token bonuses from client projects. Currently we flush on tokens (other than ETH and stablecoins) from the treasury to eligible builders in proportion to the square root of their rep-holdings at the end of each quarter.
 
-### DXRG (deprecated)
-
-[DXRG Tokens](https://blockscout.com/poa/xdai/tokens/0x76D37cbB1fD75912bfB0cE885c506C77955F5C05/token-transfers) were previously used track unpaid obligations ([see redemption instructions here](https://forum.dorg.tech/t/deprecating-dxrg-debt-tokens/209)).
-
-### Governance model&#x20;
+### Detailed View
 
 ![](<.gitbook/assets/2022.02.04 dOrg Governance model.jpg>)

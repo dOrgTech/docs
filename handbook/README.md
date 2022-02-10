@@ -8,25 +8,31 @@ description: Join dOrg's journey to becoming web3's premiere dev collective.
 
 ### What is dOrg?
 
-dOrg is a decentralized autonomous collective of web3 engineers, designers, and project managers.
+dOrg is an autonomous collective of engineers, designers, and other web3 specialists. We build tools that empower people to self-organize.
 
-We collaborate with projects to advance the web3 stack \(DAOs, NFTs, DeFi, dev tools, L2s\).
+We envision a future where power is radically decentralized – people can easily coordinate and transact without intermediaries; institutions are transparent and responsive to the needs of their constituents; voluntary collectives outcompete coercive monopolies; wealth is shared by those who create it; and machines handle the boring work while humans focus on meaningful pursuits.
 
-### What is our mission?
+We believe that web3 will be a key part of this future and we’re here to build it.
 
-dOrg aims to become the best service provider, workplace, and example of what is possible to achieve with web3 technology.
+### Strategy
 
-We are working to realize the web3 vision of a decentralized internet that empowers individuals and communities everywhere.
+To achieve our mission we will become:
 
-### What is our strategy?
+* **The best place to up-skill on web3 development** by helping proven builders to hone their craft, find community, earn a living, and cultivate autonomy while working on bleeding edge technology.
+* **The premier provider of web3 development services** by serving as a one-stop-shop for promising projects to accelerate development and adoption with minimal friction.
+* **The best example of a web3 organization** by iterating on our methods and sharing them widely to help millions of autonomous collectives bloom.
 
-1. Carefully curate the builders we onboard and projects we work with.
-2. Upgrade our tools and processes regularly.
-3. Share our methods widely and build bridges to other communities.
+### Values
 
-![](https://miro.medium.com/max/1000/1*5WIVZ1eZQ8G2ITihkYI2SQ.gif)
+In this pursuit, we’re guided by a pragmatic set of shared values:
+
+* **Autonomous Action** - We encourage each member to pursue initiatives in good faith without seeking approval or waiting for others to act.
+* **Transparency** - We guarantee all members equal access to organizational information, including financial data, legal documents, and internal processes.
+* **Participatory Meritocracy** - We distribute rewards and governance rights to members based on value contributed, not titles or hierarchy.
+* **Inclusion & Respect** - We foster a diverse membership and support one another in maintaining a healthy digital workplace.
+
+![](https://miro.medium.com/max/1000/1\*5WIVZ1eZQ8G2ITihkYI2SQ.gif)
 
 {% hint style="danger" %}
 dOrg is a living, breathing system that evolves faster than this handbook. Proceed with caution.
 {% endhint %}
-

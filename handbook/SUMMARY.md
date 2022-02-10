@@ -1,7 +1,6 @@
 # Table of contents
 
 * [Welcome to dOrg!](README.md)
-* [Core Values](values.md)
 * [Governance](governance.md)
 
 ## Builder Lifecycle <a href="#lifecycle" id="lifecycle"></a>
