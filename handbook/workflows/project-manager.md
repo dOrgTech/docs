@@ -29,7 +29,7 @@ As PM, you are responsible for ensuring client and member satisfaction through q
 1. Fork the [QA Worksheet](https://docs.google.com/document/d/1NR6CZbwduSgsbRVDJFXcZBB1fXSprMeSHICob5Gfd8k/edit#heading=h.k20qb4mo4uip) and fill out the Project Details and Personnel tables.
 2. Schedule a recurring weekly internal check-in (15-30 min) followed by a client check-in with all team members (30-45 min).
 3. Ensure all team members are onboarded to the client’s project board and comms channels (set up if needed).
-4. Fork the [Budget template](https://docs.google.com/spreadsheets/d/1T-tvQjN64HSipPBuR0SXS1ObdQmj-mElhVCUyeVhhek/edit#gid=0) and make it visible to the DAO by copying the template and adding active-builders@dorg.tech as editors.
+4. Fork the [Budget template](https://docs.google.com/spreadsheets/d/1T-tvQjN64HSipPBuR0SXS1ObdQmj-mElhVCUyeVhhek/edit#gid=0) and make sure it's visible to all DAO members by adding all-members@dorg.tech.
 
 ### Ongoing Quality Assurance
 
