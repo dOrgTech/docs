@@ -2,13 +2,13 @@
 
 * [Welcome to dOrg!](README.md)
 * [Governance](governance.md)
+* [Member Covenant](covenant.md)
 
-## Builder Lifecycle <a href="#lifecycle" id="lifecycle"></a>
+## Member Lifecycle <a href="#lifecycle" id="lifecycle"></a>
 
-* [Activation](lifecycle/activation.md)
+* [Applying](lifecycle/activation.md)
 * [Onboarding](lifecycle/onboarding.md)
-* [Membership & Deactivation](lifecycle/deactivation.md)
-* [Builder Covenant](lifecycle/covenant.md)
+* [Membership & Removal](lifecycle/deactivation.md)
 
 ## Workflows
 

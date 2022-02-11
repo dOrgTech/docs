@@ -18,7 +18,7 @@ Contact with a potential client projects is generally initiated in one of two wa
 
 ![](<../.gitbook/assets/Screenshot 2022-01-03 at 18.01.07.png>)
 
-If you see a potential client project that you would like source, react with a 👋 emoji. This is how we indicate our interest (and stops clients from receiving contact from numerous builders).
+If you see a potential client project that you would like source, react with a 👋 emoji. This is how we indicate our interest (and stops clients from receiving contact from numerous members).
 
 {% hint style="success" %}
 Sourcing is a team sport! Remember that you can co-lead the sourcing process with others and share the rewards.
@@ -54,16 +54,16 @@ Here are some questions to guide your call:
 * _Do you have a project requirements doc that you could send?_
 * _Do you have any other questions about what it’s like to work with dOrg?_
 
-## 3. Team Formation & Builder Interest Call
+## 3. Team Formation & Member Interest Call
 
-The next step is to gather interested builders and schedule a technical Q\&A with the client.
+The next step is to gather interested members and schedule a technical Q\&A with the client.
 
 1. Post in [Client Projects](https://forum.dorg.tech/t/about-the-client-projects-category/19) in the dOrg forum, following the instructions on the pinned post.
-2. You're also encouraged to reach out to particular builders who may be a good fit. [Use the search feature to find builders](https://forum.dorg.tech/search?search\_type=users) by skills, technologies, past projects, and experience level[.](https://forum.dorg.tech/search?search\_type=users)
-3. Schedule a call with the client and all interested builders. Make sure that the builders review available materials so that they can be prepared to ask questions during the call.
+2. You're also encouraged to reach out to particular members who may be a good fit. [Use the search feature to find members](https://forum.dorg.tech/search?search\_type=users) by skills, technologies, past projects, and experience level[.](https://forum.dorg.tech/search?search\_type=users)
+3. Schedule a call with the client and all interested members. Make sure that the members review available materials so that they can be prepared to ask questions during the call.
 
 {% hint style="info" %}
-In addition to a well-balanced set of builders that match the project’s needs, each execution team must have a [_Project Manager_](project-manager.md) and [_Tech Lead_](tech-lead.md)__
+In addition to a well-balanced set of members that match the project’s needs, each execution team must have a [_Project Manager_](project-manager.md) and [_Tech Lead_](tech-lead.md)__
 {% endhint %}
 
 {% hint style="info" %}
@@ -72,20 +72,20 @@ Sourcing Leads may also work on the project's execution team.
 
 ## 4. Statement of Work (SoW)
 
-If the interested builders agree that the project looks promising, does not have major technical issues or execution risks, and that they have the availability and skills to take on the engagement, then proceed with the following.
+If the interested members agree that the project looks promising, does not have major technical issues or execution risks, and that they have the availability and skills to take on the engagement, then proceed with the following.
 
 1. Create SoW on [Pandadoc](https://app.pandadoc.com/a/#/templates-next?sortBy=name\&direction=asc\&displayMode=folders\_first\&mainFilter=all) ([see login credentials here](https://docs.google.com/spreadsheets/d/18QXB9Ski8OxHRiELfxq8DcahYFhNnEKPEM20kRjeuYA/edit?usp=sharing)). Go to Templates, hover over ‘dOrg SoW Template’, and click ‘Create Document’. Fill out the contact details in the prompt and then fill in the different sections of the contract (no need to fill in address, as this is a client variable):
    * Context & Objectives
    * Focus Areas
    * Token Allocation (if applicable)
    * Billing Summary
-2. Update the forum post you made earlier with the draft SoW to get feedback from the interested builders on the timeframe, pricing, and scope.
+2. Update the forum post you made earlier with the draft SoW to get feedback from the interested members on the timeframe, pricing, and scope.
 3. Send the SoW to the client through PandaDoc. Revise if reasonable and necessary based on the client’s feedback.
 4. Once the client has signed, to submit a proposal to the DAO through [Snapshot](https://snapshot.org/#/dorg.eth) that links to the forum post.
 
 ## 5. Invoicing&#x20;
 
-1. Once the proposal passes, create a [Gnosis Safe](https://gnosis-safe.io/app/#/welcome) on mainnet with the _Sourcing Lead_, _Project Manager_, _Tech Lead_, and all other committed builders as signers. Examples of required signers: 2/3, 3/5, 4/7.
+1. Once the proposal passes, create a [Gnosis Safe](https://gnosis-safe.io/app/#/welcome) on mainnet with the _Sourcing Lead_, _Project Manager_, _Tech Lead_, and all other committed members as signers. Examples of required signers: 2/3, 3/5, 4/7.
 2. Invoice the client via [Gilded](https://app.gilded.finance/auth/login) ([see login credentials here](https://docs.google.com/spreadsheets/d/18QXB9Ski8OxHRiELfxq8DcahYFhNnEKPEM20kRjeuYA/edit?usp=sharing))
    * First add the new Gnosis Safe to our accounts: Accounts > Add Account > Input address > Wallet Address
    * Next, create the first invoice:

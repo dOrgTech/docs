@@ -8,7 +8,7 @@ description: >-
 
 **Eligibility**
 
-This policy applies to all active dOrg members at time of reimbursement request.
+This policy applies to all dOrg members at time of reimbursement request.
 
 **Covered Expenses**
 

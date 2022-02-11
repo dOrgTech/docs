@@ -5,7 +5,7 @@
 ### **Comms**
 
 * [Discord](https://discord.com/invite/6Kujmad) - chat channels and the biweekly All-Hands call
-* [Forum (internal)](https://forum.dorg.tech) - discussion threads and builder profiles
+* [Forum (internal)](https://forum.dorg.tech) - discussion threads and member profiles
 
 ### **Governance**
 

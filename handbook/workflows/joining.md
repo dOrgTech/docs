@@ -18,7 +18,7 @@ You can also DM our Experience Facilitator, Clara, on Discord for help with find
 
 1. Familiarize yourself with the project details noted in its forum post (code repos, project boards, SoW, QA Worksheet, etc.).
 2. Attend weekly syncs. Make sure you are prepared and join a few minutes early with a stable internet connection and good audio.
-3. Self-assign issues in the project board while communicating with other builders to avoid overlap and ensuring you are working on the highest priority tasks.
+3. Self-assign issues in the project board while communicating with other members to avoid overlap and ensuring you are working on the highest priority tasks.
 4. Log your work and time in the project's budget spreadsheet before each payment checkpoint.
 5. At each payment checkpoint, review your teammates' logs and sign-off on the transaction initiated by the _Project Manager_.
 6. Participate in periodic feedback surveys and retro sessions initiated by the _Project Manager_.

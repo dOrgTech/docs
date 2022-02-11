@@ -6,7 +6,7 @@ description: Let's talk about money!
 
 ## Swarm&#x20;
 
-By the end of the month Builders participating at the Swarm, have to log their work hours + work done on the [dOrg Internal Improvements Budget (Swarm!) Spreadsheet](https://docs.google.com/spreadsheets/d/1j-DsSaP0riIcS-vXUm-A-roIl4CowRloUEjAZXYeNb8/edit#gid=0).&#x20;
+By the end of the month, members participating at the Swarm have to log their work hours + work done on the [dOrg Internal Improvements Budget (Swarm!) Spreadsheet](https://docs.google.com/spreadsheets/d/1j-DsSaP0riIcS-vXUm-A-roIl4CowRloUEjAZXYeNb8/edit#gid=0).&#x20;
 
 {% hint style="info" %}
 Swarms contributors can choose how they want to receive their compensation per hour:&#x20;
@@ -20,9 +20,9 @@ Afterwards dOrg Treasury signers and accounting will review and approve payment 
 
 Please, if you need to create an invoice for tax purposes, here's the [template](https://docs.google.com/spreadsheets/d/1-Ky77y9YqhWVERc-rTVQPy3v9NZ\_ZLM4hGKU6AI1Z3M/edit#gid=790763898). Once created email it to accounting@dorg.tech ;)
 
-## Client work
+## Client Work
 
-Every client project has its internal flow of billing. Some of them bill their Builders every 15 days and others once a month. Make sure to contact your PM to get more information on your billing details!&#x20;
+Every client project has its internal flow of billing. Some of them payout members every 2 weeks and others once a month. Make sure to contact your PM to get more information on your billing details!&#x20;
 
 Afterwards dOrg Treasury signers and accounting will review and approve payment requests within one week. Your compensation will appear on your wallet.&#x20;
 

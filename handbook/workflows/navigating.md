@@ -20,11 +20,11 @@ Select a nickname that is consistent with your first name or handle in the dOrg 
 
 ## Forum
 
-The dOrg forum hosts discussions about talent needs, new builders, client projects, internal initiatives, and other governance topics. When a decision needs to be made, anyone can post a proposal to Snapshot (see below) that links to the relevant forum post.
+The dOrg forum hosts discussions about talent needs, new members, client projects, internal initiatives, and other governance topics. When a decision needs to be made, anyone can post a proposal to Snapshot (see below) that links to the relevant forum post.
 
 The forum is the best place to find a project to work on. Go to the [client projects section](https://forum.dorg.tech/c/clientproject) and click through to see which ones have open roles.
 
-The forum is also a great place to find builders to join a project. Go to the [builder list](https://forum.dorg.tech/u/) and click on anyone's profile image to view their profile details. You can also [use the search feature to find builders](https://forum.dorg.tech/search?search\_type=users) by skills, technologies, past projects, and experience level.
+The forum is also a great place to find members to join a project. Go to the [member list](https://forum.dorg.tech/u/) and click on anyone's profile image to view their profile details. You can also [use the search feature to find members](https://forum.dorg.tech/search?search\_type=users) by skills, technologies, past projects, and experience level.
 
 {% hint style="info" %}
 **Profiles are set up when joining the forum for the first time.** Keep your profile up-to-date so that others can easily search you for their project needs.&#x20;

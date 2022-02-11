@@ -4,10 +4,10 @@
 
 ## The Swarm
 
-One of the best ways to settle into dOrg is to join [The Swarm](https://forum.dorg.tech/t/swarm-bucket/237). The Swarm is an umbrella term for small teams of builders that come together to work on initiatives that improve dOrg, such as building a new dashboard or improving an internal process, and then disburse when the initiative is completed.
+One of the best ways to settle into dOrg is to join [The Swarm](https://forum.dorg.tech/t/swarm-bucket/237). The Swarm is an umbrella term for small teams that come together to work on initiatives that improve dOrg, such as building a new dashboard or improving an internal process, and then disburse when the initiative is completed.
 
 {% hint style="success" %}
-The Swarm is an excellent way to gain insight into and practice being part of a DAO, meeting dOrg builders, and understanding current dOrg focuses and needs. We suggest that all new builders consider joining The Swarm to smoothly onboard as a new community member.
+The Swarm is an excellent way to gain insight into and practice being part of a DAO, meeting dOrg members, and understanding current dOrg focuses and needs. We suggest that newcomers stop by the weekly Swarm sync to learn how they can contribute.
 {% endhint %}
 
 {% hint style="info" %}
@@ -20,18 +20,19 @@ At any given time, we have several part-time roles that lead key operational are
 
 See here for the current breakdown of roles:
 
-| Builder                                                                 | Role                | Description                                                                                                                           |
+| Name                                                                    | Role                | Description                                                                                                                           |
 | ----------------------------------------------------------------------- | ------------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
-| [Mackenzie](https://forum.dorg.tech/t/accounting-finance-mackenzie/230) | Accounting          | Bookkeeping and monthly reporting for dOrg; streamlining accounting processes and FP\&A.                                              |
 | [Ernesto](https://forum.dorg.tech/t/marcomms-ernesto/90)                | Marketing & Comms   | Social media management, content creation, communication materials such as decks or slides, and search engine optimization            |
-| [OPEN POSITION](https://airtable.com/shr0eQZfACL3Yarac)                 | Client Experience   |                                                                                                                                       |
-| Miriam                                                                  | Talent Acquisition  |                                                                                                                                       |
 | [Clara](https://forum.dorg.tech/t/experience-facilitator-clara/301)     | People Ops          | Please DM me if you need any support navigating dOrg or its systems, or you have feedback on how I can improve your experience here.  |
+| Miriam                                                                  | Talent Acquisition  |                                                                                                                                       |
+| [Mackenzie](https://forum.dorg.tech/t/accounting-finance-mackenzie/230) | Accounting          | Bookkeeping and monthly reporting for dOrg; streamlining accounting processes and FP\&A.                                              |
+| Alex                                                                    | Legal               |                                                                                                                                       |
+| [OPEN POSITION](https://airtable.com/shr0eQZfACL3Yarac)                 | Client Experience   |                                                                                                                                       |
 
 
 
 {% hint style="success" %}
-To facilitate smooth onboarding into dOrg, we bring all builders intending to hold an internal role into The Swarm first. Once experience in being an active community member has been gained, the builder can move into holding the intended internal role.
+New members who intend to hold an internal role should start off by contributing through the Swarm. Once you have gained experience with the responsibilities and what it's like to work in the DAO, you can post a proposal for the role in the forum.
 {% endhint %}
 
 {% hint style="info" %}

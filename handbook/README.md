@@ -18,7 +18,7 @@ We believe that web3 will be a key part of this future and we’re here to build
 
 To achieve our mission we will become:
 
-* **The best place to up-skill on web3 development** by helping proven builders to hone their craft, find community, earn a living, and cultivate autonomy while working on bleeding edge technology.
+* **The best place for web3 builders to upskill** by honing their craft, finding community, earning a living, and cultivating autonomy while working on bleeding edge technology.
 * **The premier provider of web3 development services** by serving as a one-stop-shop for promising projects to accelerate development and adoption with minimal friction.
 * **The best example of a web3 organization** by iterating on our methods and sharing them widely to help millions of autonomous collectives bloom.
 
