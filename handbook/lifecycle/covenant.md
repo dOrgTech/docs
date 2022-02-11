@@ -58,3 +58,11 @@ Members are encouraged to follow these steps if an infringement of our Standards
 {% hint style="info" %}
 This Code of Conduct is adapted from the [Contributor Covenant v2.0](http://contributor-covenant.org/version/2/0/code\_of\_conduct).
 {% endhint %}
+
+{% hint style="success" %}
+Instructions for removing a member:
+
+* **Remove all Discord tags**.
+* **Delete Google email account.** As part of the removal process, give the member 7 days notice of deletion so that they can move any important emails or saved documents.
+* **Change Forum access to trust level to 0.** This means that they will no longer have access to private threads.
+{% endhint %}
