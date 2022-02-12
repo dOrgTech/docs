@@ -15,14 +15,13 @@ You'll also would be able to schedule an orientation-focused call to walk throug
 {% hint style="success" %}
 Make sure you have everything you need to be part of dOrg&#x20;
 
-✔️ dOrg email activated\
-✔️ dOrg calendar integrated to your primary calendar \
-✔️ dOrg forum access (access using dOrg email credentials)\
-✔️ dOrg Forum profile updated \
-✔️ dOrg private Discord channels access \
-✔️ W-9 (US) or W-8BEN (other countries) form filled\
-✔️ dOrg Github member\
-✔️ Onboarding form sent \
+✔️ dOrg **email** activated\
+✔️ dOrg **calendar** integrated to your primary calendar \
+✔️ dOrg **forum** profile created (using your dOrg email)\
+✔️ dOrg **Discord** private channels access \
+✔️ dOrg **Github** member\
+✔️ Tax forms submitted (W-9 for US or W-8BEN for non-US)\
+✔️ Onboarding form submitted (including consent to member agreements) \
 ✔️ Onboarding call scheduled
 {% endhint %}
 
@@ -43,15 +42,15 @@ For non US Tax Residents W-8BEN is the way to go. Here's some help&#x20;
 {% hint style="info" %}
 ### Admin Steps for Onboarding a new Member
 
-Here are the instructions for the Experience Facilitator and others to help onboard new members once their activation proposal has passed on Snapshot:
+Here are the instructions for the Experience Facilitator and others to help onboard new members once their membership proposal has passed on Snapshot:
 
-1. **Give them the 'active builder' tag on** **Discord** (you should be able to find their handle in the corresponding forum post), along with relevant skills such as 'frontend' or 'product'.&#x20;
-2. **Create a @dorg.tech email address at** [**https://admin.google.com/**](https://admin.google.com) **** using their first name (or first plus last if its already taken). Click Add New User, enter info (include their personal email address as the secondary email), click preview and send.
-3. **Add their dOrg email address to the Active Builders Google Group**. (This triggers a Google invite to the All-Hands meetings and gives access to all shared documents.)
+1. **Give them the 'dOrg Member' tag on** **Discord** (you should be able to find their handle in the corresponding forum post), along with relevant skills such as 'frontend' or 'product'.&#x20;
+2. **Create a @dorg.tech email address in** [**google admin**](https://admin.google.com) **** using their first name (or first plus last if its already taken). Click Add New User, enter info (include their personal email address as the secondary email), click preview and send.
+3. **Add their dOrg email address to the 'All Members' Google Group**. (This triggers a Google invite to the All-Hands meetings and gives access to all shared documents.)
 4. **Send out a W-9 form (if they're US-based) or a W-8BEN tax form (if they're not US-based) to their personal email address.** (contact dOrg's accountant for details on how to do this).
-5. **Send them a welcome email** ([find the template here](https://forum.dorg.tech/t/new-builder-onboarding-email-template/242)), which includes a link to the interactive onboarding form. At the end of the onboarding form they have the opportunity to book an onboarding-specific call with our Experience Facilitator.
+5. **Send the welcome email** ([find the template here](https://forum.dorg.tech/t/new-builder-onboarding-email-template/242)), which includes a link to the interactive onboarding form. At the end of the onboarding form they have the opportunity to book an onboarding-specific call with our Experience Facilitator.
 6. **Check the** [**Onboarding & Experience Facilitator records sheet**](https://docs.google.com/spreadsheets/d/1dJEASJk7orOm50cb8Nnye-X3DsVUHVdt2xJ0T45R0nw/edit?usp=sharing) for form responses.
 7. **Introduce new member in Discord in** `general-internal`
-8. **Add them as dOrg Github members**&#x20;
+8. **Add as member on** [**dOrg's Github**](https://github.com/dOrgTech) ****&#x20;
 {% endhint %}
 

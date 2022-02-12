@@ -26,16 +26,6 @@ The interviewer will make their recommendation to the collective on whether to p
 If you are a dOrg member referring a friend or you have a talent need for your project, create a post describing the candidate [here](https://forum.dorg.tech/t/about-the-builder-activations-category).
 {% endhint %}
 
-## 4. Onboarding check list&#x20;
+## 4. Proceed to onboarding&#x20;
 
-Once your application has been approved, you are going to receive and e-mail with information on how to proceed + a Discord DM. Here's the check list to make sure you have everything you need to be part of dOrg:&#x20;
-
-✔️ dOrg email created\
-✔️ dOrg forum access (access using dOrg email credentials)\
-✔️ dOrg Forum profile updated \
-✔️ dOrg private Discord channels access \
-✔️ dOrg calendar integrated to your primary calendar  \
-✔️ W-9 (US) or W-8BEN (other countries) form filled\
-✔️ dOrg Github member\
-✔️ Onboarding form sent \
-✔️ Onboarding call scheduled\
+Once your application has been approved, you'll receive an e-mail outlining next steps.
