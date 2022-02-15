@@ -59,6 +59,6 @@ Head to [Snapshot's Handbook](https://docs.snapshot.org/proposals) if you need f
 ## Google Workspace
 
 We use Google Workspace for our internal documents, spreadsheets, forms, etc. \
-To agile work flows when creating new document please make sure to set up permissions to dOrg members.&#x20;
+To agile work flows when creating general interest new documents, please make sure to set up permissions to dOrg members.
 
 ![](../.gitbook/assets/Screen\_Shot\_2022-02-14\_at\_1.52.50\_PM.png)
