@@ -2,29 +2,26 @@
 description: Builders continuously flow in and out
 ---
 
-# Membership Status
+# Building & Chilling
 
-![](https://media2.giphy.com/media/TrOMR6REnWN1u/giphy.gif?cid=ecf05e475olmysndp9wciiouoodkrlec1hne62jdz46l16yp\&rid=giphy.gif\&ct=g)
+{% embed url="https://media.giphy.com/media/6GoN2XydMRV65YBdp2/giphy.gif" %}
 
-Members can be in one of two statuses:
+Membership status is updated at the end of each quarter. You can either be building or chilling:
 
 ### **Building** 🤓 🛠️
 
-* Currently working on a project at dOrg (either internal project or client work)
-* Full access to Discord and Forum
-* Eligible for bonuses
+Members who have earned Rep in the past quarter (through internal or client-facing work):
+
+* Have access to all dOrg spaces and events
+* Are eligible for bonuses
 
 ### **Chilling** 😎 🏖️
 
-* Hasn't earned Rep during the past quarter
-* Access to all Discord channels and forum categories other the `Client Projects` sections
-* Not eligible for bonuses
-* Preserve their email __&#x20;
+Members who have nor earned Rep in the past quarter:
 
-{% hint style="info" %}
-Members who are hired by a dOrg client (with referral fee paid in full by the client to dOrg) automatically gain _Building_ status for 1 year from that transaction.
-{% endhint %}
+* Retain access to all dOrg spaces and events
+* Are not eligible for bonuses
 
-{% hint style="danger" %}
-Member can be removed and lose all Rep if they are found to have violated the [Member Covenant](covenant.md).
+{% hint style="success" %}
+Members who are hired by a dOrg client (with referral fee paid in full by the client to dOrg) automatically have 1 year of _Building_ status.
 {% endhint %}
