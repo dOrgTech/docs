@@ -20,14 +20,14 @@ At any given time, we have several part-time roles that lead key operational are
 
 See here for the current breakdown of roles:
 
-| Name                                                                    | Role                   | Description                                                                                                                           |
-| ----------------------------------------------------------------------- | ---------------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
-| [Ernesto](https://forum.dorg.tech/t/marcomms-ernesto/90)                | Marketing & Comms      | Social media management, content creation, communication materials such as decks or slides, and search engine optimization            |
-| [Clara](https://forum.dorg.tech/t/experience-facilitator-clara/301)     | Experience Facilitator | Please DM me if you need any support navigating dOrg or its systems, or you have feedback on how I can improve your experience here.  |
-| Miriam                                                                  | Talent Acquisition     |                                                                                                                                       |
-| [Mackenzie](https://forum.dorg.tech/t/accounting-finance-mackenzie/230) | Accounting             | Bookkeeping and monthly reporting for dOrg; streamlining accounting processes and FP\&A.                                              |
-| Alex                                                                    | Legal                  |                                                                                                                                       |
-| [OPEN POSITION](https://airtable.com/shr0eQZfACL3Yarac)                 | Client Experience      |                                                                                                                                       |
+| Name                                                                    | Role                | Description                                                                                                                           |
+| ----------------------------------------------------------------------- | ------------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
+| [Ernesto](https://forum.dorg.tech/t/marcomms-ernesto/90)                | Marketing & Comms   | Social media management, content creation, communication materials such as decks or slides, and search engine optimization            |
+| [Clara](https://forum.dorg.tech/t/experience-facilitator-clara/301)     | Member Experience   | Please DM me if you need any support navigating dOrg or its systems, or you have feedback on how I can improve your experience here.  |
+| [OPEN POSITION](https://airtable.com/shr0eQZfACL3Yarac)                 | Client Experience   |                                                                                                                                       |
+| Miriam                                                                  | Talent Acquisition  |                                                                                                                                       |
+| [Mackenzie](https://forum.dorg.tech/t/accounting-finance-mackenzie/230) | Accounting          | Bookkeeping and monthly reporting for dOrg; streamlining accounting processes and FP\&A.                                              |
+| Alex                                                                    | Legal               |                                                                                                                                       |
 
 
 
