@@ -26,9 +26,9 @@ To achieve our mission we will become:
 
 In this pursuit, we’re guided by a pragmatic set of shared values:
 
-* **Autonomous Action** - We encourage each member to pursue initiatives in good faith rather than waiting for others to act or seeking approval.
+* **Autonomous Action** - We encourage each other to pursue initiatives in good faith rather than waiting for others to act or seeking approval.
 * **Transparency** - We guarantee all members equal access to organizational information, including financial data, legal documents, and internal processes.
-* **Participatory Meritocracy** - We distribute governance rights and rewards to members based on value contributed, not titles or hierarchy.
+* **Participatory Meritocracy** - We distribute governance rights and rewards based on value contributed, not titles or hierarchy.
 * **Inclusion & Respect** - We foster a diverse membership and support one another in maintaining a healthy digital workplace.
 
 ![](https://miro.medium.com/max/1000/1\*5WIVZ1eZQ8G2ITihkYI2SQ.gif)
