@@ -14,7 +14,7 @@ We envision a future where power is radically decentralized – people can easil
 
 We believe that web3 will be a key part of this future and we’re here to build it.
 
-### Strategy
+### Our Strategy
 
 To achieve our mission we will become:
 
@@ -22,9 +22,7 @@ To achieve our mission we will become:
 * **The premier provider of web3 development services** by serving as a one-stop-shop for promising projects to accelerate development and adoption with minimal friction.
 * **The best example of a web3 organization** by iterating on our methods and sharing them widely to help millions of autonomous collectives bloom.
 
-### Values
-
-In this pursuit, we’re guided by a pragmatic set of shared values:
+### Our Values
 
 * **Autonomous Action** - We encourage each other to pursue initiatives in good faith rather than waiting for others to act or seeking approval.
 * **Transparency** - We guarantee all members equal access to organizational information, including financial data, legal documents, and internal processes.
