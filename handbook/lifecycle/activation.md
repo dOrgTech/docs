@@ -23,7 +23,7 @@ Interviews are conducted by a member with a [_Tech Lead_](../workflows/tech-lead
 The interviewer will make their recommendation to the collective on whether to proceed with a vote. If the collective votes to approve your application, you will be invited to onboard.&#x20;
 
 {% hint style="warning" %}
-If you are a dOrg member referring a friend or you have a talent need for your project, create a post describing the candidate [here](https://forum.dorg.tech/t/about-the-builder-activations-category).
+If you are a dOrg member referring a friend or you have a talent need for your project, create a post describing the candidate [here](https://forum.dorg.tech/c/new-members/6).
 {% endhint %}
 
 ## 4. Proceed to onboarding&#x20;

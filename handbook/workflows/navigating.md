@@ -6,7 +6,7 @@ description: How to find your way around dOrg channels
 
 ## Discord
 
-[Discord](https://discord.com/invite/6Kujmad) is where all of our day-to-day chat happens. Each client project or internal initiative has its own channel, and we also have dedicated channels for social topics, governance functions, and finding help.
+[Discord](https://discord.com/invite/bA9ZM7WXZU) is where all of our day-to-day chat happens. Each client project or internal initiative has its own channel, and we also have dedicated channels for social topics, governance functions, and finding help.
 
 The voice channel in Discord hosts our biweekly All-Hands call, where we present project demos, tech talks, and upcoming opportunities.
 

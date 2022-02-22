@@ -44,6 +44,7 @@ As PM, you are responsible for ensuring client and member satisfaction through q
 
 1. At the close of each pay period, make sure each team member's hours and work logs is entered.
 2. The Payout tab automatically calculates the payout amount for each team member. Some projects also have bonuses in the client's native tokens — if you aren't clear on the setup, ask the Sourcing Lead.
+   * Each payment must include a 10% payment to the Sourcing Lead(s) and 10% to the dOrg Treasury (make sure you are paying to the address on the right chain!).
 3. Export the Payout tab to CSV and upload it to the Gnosis Safe's CSV Airdrop app. This will allow you to issue all payouts in one batched transaction. Once the transaction is created, ask the rest of the project's signers to review and sign  the transaction, and then it can be executed.
 
 {% hint style="warning" %}

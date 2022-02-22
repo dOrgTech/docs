@@ -14,7 +14,7 @@ Contact with a potential client projects is generally initiated in one of two wa
    If you have a personal relationship with a potential client, you can proceed as the Sourcing Lead or seek someone else to help or take over.\
 
 2. **Via our Contact Form**\
-   Any potential client can complete our [Contact Form](https://www.dorg.tech/#/contact) on our website to share details of their project. Responses are automatically forwarded to the #contact-form channel in Discord.&#x20;
+   Any potential client can complete our [Client Intake Form](https://airtable.com/shrDwCltoS7MHDfsT) on our website to share details of their project. Responses are automatically forwarded to the #contact-form channel in Discord.&#x20;
 
 ![](<../.gitbook/assets/Screenshot 2022-01-03 at 18.01.07.png>)
 
@@ -85,7 +85,7 @@ If the interested members agree that the project looks promising, does not have 
 
 ## 5. Invoicing&#x20;
 
-1. Once the proposal passes, create a [Gnosis Safe](https://gnosis-safe.io/app/#/welcome) on mainnet with the _Sourcing Lead_, _Project Manager_, _Tech Lead_, and all other committed members as signers. Examples of required signers: 2/3, 3/5, 4/7.
+1. Once the proposal passes, create a [Gnosis Safe](https://gnosis-safe.io/app/#/welcome) on mainnet or Polygon with the _Sourcing Lead_, _Project Manager_, _Tech Lead_, and all other committed members as signers. Examples of required signers: 2/3, 3/5, 4/7.
 2. Invoice the client via [Gilded](https://app.gilded.finance/auth/login) ([see login credentials here](https://docs.google.com/spreadsheets/d/18QXB9Ski8OxHRiELfxq8DcahYFhNnEKPEM20kRjeuYA/edit?usp=sharing))
    * First add the new Gnosis Safe to our accounts: Accounts > Add Account > Input address > Wallet Address
    * Next, create the first invoice:
