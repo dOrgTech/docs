@@ -14,13 +14,17 @@ We envision a future where power is radically decentralized – people can easil
 
 We believe that web3 will be a key part of this future and we’re here to build it.
 
-### Our Strategy
+### How?
 
-To achieve our mission we will become:
+dOrg simultaneously serves as a:
 
-* **The best place for web3 builders to upskill** by honing their craft, finding community, earning a living, and cultivating autonomy while working on bleeding edge technology.
-* **The premier provider of web3 development services** by serving as a one-stop-shop for promising projects to accelerate development and adoption with minimal friction.
-* **The best example of a web3 organization** by iterating on our methods and sharing them widely to help millions of autonomous collectives bloom.
+* **Community for talented builders** to earn, learn, and cultivate autonomy while working on bleeding edge tech;
+* **Service provider for high-potential projects** to accelerate development and adoption with minimal friction; and
+* **Open-source template** for any aspiring collective to fork and iterate upon.
+
+Several mutually-reinforcing feedback loops propel our momentum:
+
+![Feed any part to accelerate the whole](<.gitbook/assets/Screen Shot 2022-02-22 at 10.40.24 AM.png>)
 
 ### Our Values
 
