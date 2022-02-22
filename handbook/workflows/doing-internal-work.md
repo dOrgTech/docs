@@ -36,6 +36,6 @@ New members who intend to hold an internal role should start off by contributing
 {% endhint %}
 
 {% hint style="info" %}
-The Swarm and all Internal Roles sync every Tuesday at 5pm CET in the Discord Member Hall. Ask Experience Facilitator to send an Calendar Invite.&#x20;
+The Swarm and all Internal Roles sync every Tuesday at 5pm CET/ 11am EST in the Discord Member Hall. Find your calendar invitation on your Google Cal.&#x20;
 {% endhint %}
 
