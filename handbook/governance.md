@@ -4,7 +4,7 @@ description: How does dOrg actually work?
 
 # Governance
 
-![](<.gitbook/assets/flow of funds - feb 22 (1).png>)
+![](<.gitbook/assets/flow of funds - feb 22 (2).png>)
 
 ### Project Multisigs 🔐
 
