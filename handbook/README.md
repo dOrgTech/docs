@@ -19,8 +19,8 @@ We believe that web3 will be a key part of this future and we’re here to build
 dOrg simultaneously serves as a:
 
 * **Community for talented builders** to earn, learn, and cultivate autonomy while working on bleeding edge tech;
-* **Service provider for high-potential projects** to accelerate development and adoption with minimal friction; and
-* **Open-source template** for any aspiring collective to fork and iterate upon.
+* **Service provider for high-potential projects** to accelerate development with minimal friction; and
+* **Open-source template** for aspiring collectives to fork and iterate upon.
 
 Several mutually-reinforcing feedback loops propel our progress:
 
