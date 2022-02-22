@@ -22,7 +22,7 @@ dOrg simultaneously serves as a:
 * **Service provider for high-potential projects** to accelerate development and adoption with minimal friction; and
 * **Open-source template** for any aspiring collective to fork and iterate upon.
 
-Several mutually-reinforcing feedback loops propel our momentum:
+Several mutually-reinforcing feedback loops propel our progress:
 
 ![Feed any part to accelerate the whole](<.gitbook/assets/Screen Shot 2022-02-22 at 10.40.24 AM.png>)
 
