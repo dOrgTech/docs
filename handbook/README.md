@@ -16,7 +16,7 @@ We believe that web3 will be a key part of this future and we’re here to build
 
 ### How?
 
-dOrg simultaneously serves as a:
+dOrg simultaneously serves as a...
 
 * **Community for talented builders** to earn, learn, and cultivate autonomy while working on bleeding edge tech;
 * **Service provider for high-potential projects** to accelerate development with minimal friction; and
@@ -24,7 +24,7 @@ dOrg simultaneously serves as a:
 
 Several mutually-reinforcing feedback loops propel our progress:
 
-![Feed any part to accelerate the whole](<.gitbook/assets/Screen Shot 2022-02-22 at 10.40.24 AM.png>)
+![Feed any part to accelerate the whole](<.gitbook/assets/flywheel - Feb 22.png>)
 
 ### Our Values
 
