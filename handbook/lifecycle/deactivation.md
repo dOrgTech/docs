@@ -4,7 +4,7 @@ description: Builders continuously flow in and out
 
 # Building & Chilling
 
-{% embed url="https://media1.giphy.com/media/GT8AuOqN4ebXZMzLHZ/giphy.gif?cid=ecf05e473j8d3usf7912cmacfdabquz03sqb06bgnaf9yt2s&ct=g&rid=giphy.gif" %}
+![](https://media.giphy.com/media/UdGyr0ruhC9RC/giphy.gif)
 
 Membership status is updated at the end of each quarter. You can either be building or chilling:
 
