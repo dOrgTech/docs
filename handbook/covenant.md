@@ -30,7 +30,7 @@ Examples of unacceptable behavior include:
 
 ## Scope
 
-This Member Covenant applies within all dOrg spaces, including our Discord, Snapshot, Github, Google Workspace, and all other spaces associated with dOrg. This covenant also applies when an individual is representing dOrg in public spaces, such as using an official email address, social media account, interacting with a client, or acting as a representative at an online or offline event.
+This Member Covenant applies within all dOrg spaces, including our forum, Discord, Snapshot, Github, and all other spaces associated with dOrg. This covenant also applies when an individual is representing dOrg in public spaces, such as using an official email address, social media account, interacting with a client, or acting as a representative at an online or offline event.
 
 Anyone who infringes on this Member Covenant may be subject to our [member removal protocol](lifecycle/removal.md#proposing-removal).
 
