@@ -16,7 +16,7 @@ The treasury is used to fund internal [roles](workflows/doing-internal-work.md#i
 
 ### Reputation 🏅
 
-Members receive one unit of [Rep](https://etherscan.io/token/0x62300cec5240e5b273781ad67ce735107f3dacd4#balances) for every dollar earned from dOrg (whether for internal or client-facing work). Rep units are non-transferable and represent a share of _voting power_ and _token bonuses_.&#x20;
+Members receive one unit of [Rep](https://etherscan.io/token/tokenholderchart/0x62300cec5240e5b273781ad67ce735107f3dacd4) for every dollar earned from dOrg (whether for internal or client-facing work). Rep units are non-transferable and represent a share of _voting power_ and _token bonuses_.&#x20;
 
 ### Voting 🗳
 
