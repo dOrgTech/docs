@@ -4,6 +4,10 @@
 
 ## The Swarm
 
+{% hint style="warning" %}
+All Forum links go to our private sections. So, only dOrg members have access.&#x20;
+{% endhint %}
+
 One of the best ways to settle into dOrg is to join [The Swarm](https://forum.dorg.tech/t/swarm-bucket/237). The Swarm is an umbrella term for small teams that come together to work on initiatives that improve dOrg, such as building a new dashboard or improving an internal process, and then disburse when the initiative is completed.
 
 {% hint style="success" %}
