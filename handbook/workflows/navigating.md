@@ -20,6 +20,10 @@ Select a nickname that is consistent with your first name or handle in the dOrg 
 
 ## Forum
 
+{% hint style="warning" %}
+All Forum links go to our private sections. So, only dOrg members have access.&#x20;
+{% endhint %}
+
 The dOrg forum hosts discussions about talent needs, new members, client projects, internal initiatives, and other governance topics. When a decision needs to be made, anyone can post a proposal to Snapshot (see below) that links to the relevant forum post.
 
 The forum is the best place to find a project to work on. Go to the [client projects section](https://forum.dorg.tech/c/clientproject) and click through to see which ones have open roles.
