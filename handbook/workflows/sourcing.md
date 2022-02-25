@@ -85,11 +85,12 @@ If the interested members agree that the project looks promising, does not have 
 
 ## 5. Invoicing&#x20;
 
-1. Once the proposal passes, create a [Gnosis Safe](https://gnosis-safe.io/app/#/welcome) on mainnet or Polygon with the _Sourcing Lead_, _Project Manager_, _Tech Lead_, and all other committed members as signers. Examples of required signers: 2/3, 3/5, 4/7.
-2. Invoice the client via [Gilded](https://app.gilded.finance/auth/login) ([see login credentials here](https://docs.google.com/spreadsheets/d/18QXB9Ski8OxHRiELfxq8DcahYFhNnEKPEM20kRjeuYA/edit?usp=sharing))
+1. Once the proposal passes, create a [Gnosis Safe](https://gnosis-safe.io/app/#/welcome) on mainnet or Polygon with the _Sourcing Lead_, _Project Manager_, _Tech Lead_, and all other committed members as signers. Examples of required signers: 2/3, 3/5, 4/6, 4/7.
+2. Add the [Safe address & network here](https://docs.google.com/spreadsheets/d/1YsjXSFajJD2O1ZS8wyqcbkxAM0yjoeyhtt-jp\_7oZsQ/edit#gid=0).
+3. Invoice the client via [Gilded](https://app.gilded.finance/auth/login) ([see login credentials here](https://docs.google.com/spreadsheets/d/18QXB9Ski8OxHRiELfxq8DcahYFhNnEKPEM20kRjeuYA/edit?usp=sharing))
    * First add the new Gnosis Safe to our accounts: Accounts > Add Account > Input address > Wallet Address
    * Next, create the first invoice:
      * Payments > Invoices > New Invoice >&#x20;
      * Add Contact (enter client details, leave eth address blank)  >
      * Go to payment method > Set the details (select the Account you created above as the payment destination; for tokens select USDC and DAI) > Send
-3. Continue to invoice on the agreed upon schedule. Regularly monitor the project's health through the _Project Manager_ and _Tech Lead_, making sure to step in and help resolve any issues that arise.
+4. Continue to invoice on the agreed upon schedule. Regularly monitor the project's health through the _Project Manager_ and _Tech Lead_, making sure to step in and help resolve any issues that arise.
