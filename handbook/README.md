@@ -10,7 +10,7 @@ description: Join dOrg's journey to becoming web3's premiere dev collective.
 
 dOrg is an autonomous collective of engineers, designers, and other web3 specialists. We build tools that empower people to self-organize.
 
-We envision a future where power is radically decentralized – people can easily coordinate and transact without intermediaries; institutions are transparent and responsive to the needs of their constituents; self-governing collectives outcompete coercive monopolies; wealth is fairly distributed; and machines handle the boring work while humans focus on meaningful pursuits.
+We envision a future where power is radically decentralized – people can easily coordinate and transact without intermediaries; institutions are transparent and responsive to their constituents; self-governing collectives outcompete coercive monopolies; ownership is widely distributed; and machines handle the boring work while humans focus on meaningful pursuits.
 
 We believe that web3 will be a key part of this future and we’re here to build it.
 
