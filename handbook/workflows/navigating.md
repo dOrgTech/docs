@@ -71,8 +71,8 @@ To agile work flows when creating general interest new documents, please make su
 
 Here's a list of other tools we use and how to access them.&#x20;
 
-| Tool               | Access         | Where to find credentials                                                                                                                                                                        |
-| ------------------ | -------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Gitbook (Handbook) | Shared Account | [https://docs.google.com/spreadsheets/d/18QXB9Ski8OxHRiELfxq8DcahYFhNnEKPEM20kRjeuYA/edit#gid=0](https://docs.google.com/spreadsheets/d/18QXB9Ski8OxHRiELfxq8DcahYFhNnEKPEM20kRjeuYA/edit#gid=0) |
-|                    |                |                                                                                                                                                                                                  |
-|                    |                |                                                                                                                                                                                                  |
+| Tool               | Access        | Where to find credentials                                                                                                                                                                        |
+| ------------------ | ------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Gitbook (Handbook) | Shared Log-In | [https://docs.google.com/spreadsheets/d/18QXB9Ski8OxHRiELfxq8DcahYFhNnEKPEM20kRjeuYA/edit#gid=0](https://docs.google.com/spreadsheets/d/18QXB9Ski8OxHRiELfxq8DcahYFhNnEKPEM20kRjeuYA/edit#gid=0) |
+|                    |               |                                                                                                                                                                                                  |
+|                    |               |                                                                                                                                                                                                  |
