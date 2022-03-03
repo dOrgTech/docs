@@ -66,3 +66,13 @@ We use Google Workspace for our internal documents, spreadsheets, forms, etc. \
 To agile work flows when creating general interest new documents, please make sure to set up permissions to dOrg members.
 
 ![](../.gitbook/assets/Screen\_Shot\_2022-02-14\_at\_1.52.50\_PM.png)
+
+## Other channels&#x20;
+
+Here's a list of other tools we use and how to access them.&#x20;
+
+| Tool               | Access         | Where to find credentials                                                                                                                                                                        |
+| ------------------ | -------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Gitbook (Handbook) | Shared Account | [https://docs.google.com/spreadsheets/d/18QXB9Ski8OxHRiELfxq8DcahYFhNnEKPEM20kRjeuYA/edit#gid=0](https://docs.google.com/spreadsheets/d/18QXB9Ski8OxHRiELfxq8DcahYFhNnEKPEM20kRjeuYA/edit#gid=0) |
+|                    |                |                                                                                                                                                                                                  |
+|                    |                |                                                                                                                                                                                                  |
