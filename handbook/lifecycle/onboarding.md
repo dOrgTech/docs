@@ -20,7 +20,7 @@ Make sure you have everything you need to be part of dOrg&#x20;
 ✔️ dOrg **forum** profile created (using your dOrg email)\
 ✔️ dOrg **Discord** private channels access \
 ✔️ dOrg **Github** member\
-✔️ Tax forms submitted (W-9 for US or W-8BEN for non-US)\
+✔️ Tax form submitted (W-9 for US or W-8BEN for non-US)\
 ✔️ Onboarding form submitted (including consent to member agreements) \
 ✔️ Onboarding call scheduled
 {% endhint %}
@@ -35,9 +35,15 @@ It's important for working on teams to have your dOrg email address calendar con
 
 ### Filling your W-8BEN form
 
-For non US Tax Residents W-8BEN is the way to go. Here's some help&#x20;
+For non US Tax Residents W-8BEN is the way to go. Here's some help:&#x20;
 
-![](../.gitbook/assets/unnamed.jpg)
+![Instructions for filling your W-8BEN tax form](../.gitbook/assets/unnamed.jpg)
+
+### Filling your W-9 form
+
+US Tax Residents W-9, here's some help to fill the form:&#x20;
+
+![Instructions for filling your W-9 Tax Form](<../.gitbook/assets/2203\_W9 Form.jpg>)
 
 {% hint style="info" %}
 ### Admin Steps for Onboarding a new Member
