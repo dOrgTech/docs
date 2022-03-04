@@ -6,6 +6,10 @@ description: >-
 
 # Reimbursing Expenses
 
+{% hint style="danger" %}
+This **process is currently iterating** and we are no longer using Utopia in order to avoid extra gas fees. Reach out to Mackenzie directly for instructions! &#x20;
+{% endhint %}
+
 **Eligibility**
 
 This policy applies to all dOrg members at time of reimbursement request.
@@ -26,9 +30,9 @@ Necessary DAO-related expenses may include, but are not limited to:
 * Gas fees for transactions associated with dOrg Safes (automatically reimbursed by dOrg)
 * Any other expenses deemed necessary for dOrg to continue operations. Examples include: Tax payments to the IRS Annual LLC fees
 
-**Submitting a Reimbursement Request**
-
-Members who incur DAO-related expenses are required to submit those expenses for reimbursement as follows:&#x20;
+**Submitting a Reimbursement Request**\
+****\
+****Members who incur DAO-related expenses are required to submit those expenses for reimbursement as follows:&#x20;
 
 1. Login to Utopia Labs through the custom link [https://app.utopialabs.com/request/payment?daoId=618a831e9fd5391eafd6c060](https://app.utopialabs.com/request/payment?daoId=618a831e9fd5391eafd6c060)&#x20;
 2. Verify your wallet
@@ -42,3 +46,7 @@ Members who incur DAO-related expenses are required to submit those expenses for
 4. dOrg Treasury signers and accounting will review and approve payment requests within one week
 
 Utopia Labs payment [request demo](https://www.loom.com/share/183702bebd6c4c818969e532b315886a)
+
+{% hint style="danger" %}
+
+{% endhint %}
