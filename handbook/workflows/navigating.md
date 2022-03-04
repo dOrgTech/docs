@@ -12,22 +12,15 @@ The voice channel in Discord hosts our biweekly All-Hands call, where we present
 
 **Recording Audio on Discord**&#x20;
 
-We are using a bot called Craig to help us with that. Steps to record: \
+We are using a bot called Craig to help us with that. Please test Craig before to make sure you have the permissions! [Steps to record](https://forum.dorg.tech/t/recording-all-hands/241): \
 \
-1/ Start recording -> type on any discord client:\
-:craig:, join member hall \
-2/ Finish recording -> type on discord client: \
-:craig:, leave member hall\
-3/ Download recording -> Single + wav\
-\
-[Here's more info about it ](https://forum.dorg.tech/t/recording-all-hands/241)\
-\
-Please test Craig before to make sure you have the permissions! \
-
+1/ Start recording -> type `:craig:, join member hall` on any discord channel\
+2/ Finish recording -> type `:craig:, leave member hall`afterwards\
+3/ Download recording -> Single + wav&#x20;
 
 **Recording Audio/Image on Discord**&#x20;
 
-We are using Loom or any other recording screen app that you like.&#x20;
+We use Loom or any other recording screen app that you are familiar.&#x20;
 
 {% hint style="info" %}
 If you've never used Discord before, [watch this beginner's guide](https://www.youtube.com/watch?v=rnYGrq95ezA\&ab\_channel=Howfinity).
