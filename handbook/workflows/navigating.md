@@ -10,6 +10,7 @@ description: How to find your way around dOrg channels
 
 The voice channel in Discord hosts our biweekly All-Hands call, where we present project demos, tech talks, and upcoming opportunities.
 
+{% hint style="info" %}
 **Recording Audio on Discord**&#x20;
 
 We are using a bot called Craig to help us with that. Please test Craig before to make sure you have the permissions! [Steps to record](https://forum.dorg.tech/t/recording-all-hands/241): \
@@ -21,8 +22,9 @@ We are using a bot called Craig to help us with that. Please test Craig before t
 **Recording Audio/Image on Discord**&#x20;
 
 We use Loom or any other recording screen app that you are familiar.&#x20;
+{% endhint %}
 
-{% hint style="info" %}
+{% hint style="warning" %}
 If you've never used Discord before, [watch this beginner's guide](https://www.youtube.com/watch?v=rnYGrq95ezA\&ab\_channel=Howfinity).
 {% endhint %}
 
