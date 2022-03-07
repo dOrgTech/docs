@@ -16,7 +16,7 @@ In the meantime pop into our [Discord](https://discord.com/invite/6Kujmad) and s
 
 ## 2. Interviews rounds&#x20;
 
-The first interview round is conducted by our Talent Acquisitor.&#x20;
+The first interview round is conducted by our Talent Coordinator.&#x20;
 
 Once you achieve first level, you'll have an interview conducted by a dOrg member with a [_Tech Lead_](../workflows/tech-lead.md) or [_Project Manager_](../workflows/project-manager.md) badge depending on whether the role is technical or not. Please be prepared to discuss details about your area of expertise and past professional experience, as well as your current web3 involvement and interests.
 
