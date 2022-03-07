@@ -96,7 +96,7 @@ Here's a list of other tools we use and how to access them.&#x20;
 | Youtube                          | Ernesto, Ori, Jordan                                                                                 |
 | Angelist                         | Ernesto, Diego, Roberto, Ori                                                                         |
 | Netlify                          | Kris, Nestor, Ori, Clara                                                                             |
-| Airtable                         | Clara, Ernesto, Ori, Miriam                                                                          |
+| Airtable                         | Anne-Marie, Clara, Ernesto, Ori, Miriam                                                              |
 | Google Admin                     | Clara, Ernesto, Ori                                                                                  |
 | Discourse                        | Anna-Marie, Kris, Colin, Ori, Clara                                                                  |
 | Github                           | Roberto, Ernesto, Cesar, Kris, Hector, Nestor, Ori, Jordan, Clara                                    |
