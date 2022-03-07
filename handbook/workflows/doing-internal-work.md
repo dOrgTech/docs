@@ -2,10 +2,6 @@
 
 ![](https://i.gifer.com/4dau.gif)
 
-{% hint style="info" %}
-It is the builder's responsibility to make sure to understand the compensation model for each client and internal project. Ask Experience Facilitator for help if you don't find the information.&#x20;
-{% endhint %}
-
 ## The Swarm
 
 {% hint style="warning" %}

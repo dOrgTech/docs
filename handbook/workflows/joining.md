@@ -4,6 +4,10 @@ description: Once onboarded, you can start contributing to ongoing projects.
 
 # Joining a Client Project
 
+{% hint style="info" %}
+It is the builder's responsibility to make sure to understand the compensation model for each client. Ask project Sourcing Lead for help if you don't find the information.&#x20;
+{% endhint %}
+
 ## Finding a project to join
 
 1. Express interest in any [Client Projects](https://forum.dorg.tech/c/clientproject/8) by commenting on the forum thread. You can also check for opportunities in our `job-board` channel in Discord. Lastly, you could also check our WIP [dOrg data app](https://share.streamlit.io/dorgtech/dorg\_data/app.py) - make sure to not use Brave navigator, have access to dOrg Github (if not ask Experience Facilitator), plus request access to WHYTEWYLL#7455.&#x20;
