@@ -20,7 +20,7 @@ Members receive one unit of [Rep](https://etherscan.io/token/tokenholderchart/0x
 
 ### Voting 🗳
 
-Rep enables members to govern the treasury, membership, client project approvals, and more through Snapshot proposals ([see more details here](workflows/navigating.md#snapshot)).
+Rep enables members to govern the treasury, membership, client project approvals, and more through [Snapshot](workflows/navigating.md#snapshot).&#x20;
 
 ### Bonuses 🤑
 
