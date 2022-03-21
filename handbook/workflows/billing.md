@@ -4,6 +4,8 @@ description: Let's talk about money!
 
 # Billing
 
+For bookkeeping purposes, we prefer you use the same address for rep & payments ;)
+
 ## Swarm&#x20;
 
 By the end of the month, members participating at the Swarm have to log their work hours + work done on the [dOrg Internal Improvements Budget (Swarm!) Spreadsheet](https://docs.google.com/spreadsheets/d/1j-DsSaP0riIcS-vXUm-A-roIl4CowRloUEjAZXYeNb8/edit#gid=0).&#x20;
