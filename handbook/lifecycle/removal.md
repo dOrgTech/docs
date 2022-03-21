@@ -33,6 +33,7 @@ When a member requests to be removed or is removed by DAO vote:
 
 * **Remove all Discord tags**.
 * **Delete Google email account.** As part of the removal process, give the member 7 days notice of deletion so that they can move any important emails or saved documents.
+* **Remove Forum Groups access.** Profile> Admin Settings.&#x20;
 * **Change Forum access to trust level to 0.** This means that they will no longer have access to private threads.
 * **Create burn transaction** to their address from the dOrg Safe based on their exact Reputation balance.
 {% endhint %}
