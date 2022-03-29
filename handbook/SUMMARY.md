@@ -15,7 +15,8 @@
 ## Workflows
 
 * [Navigating our Channels](workflows/navigating.md)
-* [Doing Internal Work](workflows/doing-internal-work.md)
+* [Doing Internal Work](workflows/doing-internal-work/README.md)
+  * [Funded initiatives](workflows/doing-internal-work/funded-initiatives.md)
 * [Joining a Client Project](workflows/joining.md)
 * [Sourcing a New Client Projects](workflows/sourcing.md)
 * [Being a Project Manager](workflows/project-manager.md)

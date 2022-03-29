@@ -1,7 +1,3 @@
----
-description: Join dOrg's journey to becoming web3's premiere dev collective.
----
-
 # Welcome to dOrg!
 
 ![](https://i.gifer.com/3t5T.gif)

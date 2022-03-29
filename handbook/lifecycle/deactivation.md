@@ -1,7 +1,3 @@
----
-description: Builders continuously flow in and out
----
-
 # Building & Chilling
 
 ![](https://media.giphy.com/media/UdGyr0ruhC9RC/giphy.gif)

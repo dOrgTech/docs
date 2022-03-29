@@ -1,6 +1,6 @@
 # Getting Stuff Done in a DAO
 
-Working in an organization without a chain-of-command can be confusing. Here is a process that can help you translate ideas into reality– whether working through the [Swarm](../workflows/doing-internal-work.md#the-swarm), a DAO-approved grant, or an [internal role](../workflows/doing-internal-work.md#internal-roles):
+Working in an organization without a chain-of-command can be confusing. Here is a process that can help you translate ideas into reality– whether working through the [Swarm](../workflows/doing-internal-work/#the-swarm), a DAO-approved grant, or an [internal role](../workflows/doing-internal-work/#internal-roles):
 
 1. **IDENTIFY a problem**. Research how things currently work, find out why they work this way, and discuss with others.
 2. **FORMULATE a solution**. Write out a brief description of how you intend to solve the problem and share in a forum post or Github issue for feedback and assistance (unless it’s a small improvement, in which case just go and build). Remember to include:

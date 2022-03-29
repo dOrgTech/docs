@@ -1,7 +1,3 @@
----
-description: How does dOrg actually work?
----
-
 # Governance
 
 ![](<.gitbook/assets/flow of funds - feb 22 (2).png>)
@@ -12,7 +8,7 @@ dOrg members work in small teams to execute on client projects. Each team has it
 
 ### Treasury 🏦
 
-The treasury is used to fund internal [roles](workflows/doing-internal-work.md#internal-roles), [initiatives](workflows/doing-internal-work.md#the-swarm), and [organizational expenses](workflows/expense-reimbursement-policy.md).
+The treasury is used to fund internal [roles](workflows/doing-internal-work/#internal-roles), [initiatives](workflows/doing-internal-work/#the-swarm), and [organizational expenses](workflows/expense-reimbursement-policy.md).
 
 ### Reputation 🏅
 
