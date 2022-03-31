@@ -18,9 +18,13 @@ B) 25$ in stable coin + 100 rep\
 C) 150 rep
 {% endhint %}
 
-Afterwards dOrg Treasury signers and accounting will review and approve payment requests within one week. Your compensation will appear on your wallet.&#x20;
+{% hint style="danger" %}
+Remember: every builder can bill up to 22 hours of work each month without going through a vote (equivalent to a maximum of $1,100/m for compensation option A, or $550 for option B). If you need to go beyond this limit, take a look at [how to propose a Funded Initiative](doing-internal-work/funded-initiatives.md).
+{% endhint %}
 
-Please, if you need to create an invoice for tax purposes, here's the [template](https://docs.google.com/spreadsheets/d/1-Ky77y9YqhWVERc-rTVQPy3v9NZ\_ZLM4hGKU6AI1Z3M/edit#gid=790763898). Once created email it to accounting@dorg.tech ;)
+Afterwards dOrg Treasury signers and accounting will review and approve payment requests within one week. Your compensation will appear on your wallet.
+
+Please, if you need to create an invoice for tax purposes, here's the [template](https://docs.google.com/spreadsheets/d/1-Ky77y9YqhWVERc-rTVQPy3v9NZ\_ZLM4hGKU6AI1Z3M/edit#gid=790763898). Once created email it to [accounting@dorg.tech](mailto:accounting@dorg.tech) ;)
 
 ## Client Work
 
@@ -28,7 +32,7 @@ Every client project has its internal flow of billing. Some of them payout membe
 
 Afterwards dOrg Treasury signers and accounting will review and approve payment requests within one week. Your compensation will appear on your wallet.&#x20;
 
-Please, if you need to create an invoice for tax purposes, here's the [template](https://docs.google.com/spreadsheets/d/1-Ky77y9YqhWVERc-rTVQPy3v9NZ\_ZLM4hGKU6AI1Z3M/edit#gid=790763898). Once created email it to accounting@dorg.tech ;)
+Please, if you need to create an invoice for tax purposes, here's the [template](https://docs.google.com/spreadsheets/d/1-Ky77y9YqhWVERc-rTVQPy3v9NZ\_ZLM4hGKU6AI1Z3M/edit#gid=790763898). Once created email it to [accounting@dorg.tech](mailto:accounting@dorg.tech) ;)
 
 ## Internal Roles &#x20;
 
@@ -36,7 +40,7 @@ By the end of the month Internal Roles need to log their hours and + work done o
 \
 Ask Internal roles to send you a recurrent monthly calendar alert to update your Forum Role work log!&#x20;
 
-Please, if you need to create an invoice for tax purposes, here's the [template](https://docs.google.com/spreadsheets/d/1-Ky77y9YqhWVERc-rTVQPy3v9NZ\_ZLM4hGKU6AI1Z3M/edit#gid=790763898). Once created email it to accounting@dorg.tech ;)
+Please, if you need to create an invoice for tax purposes, here's the [template](https://docs.google.com/spreadsheets/d/1-Ky77y9YqhWVERc-rTVQPy3v9NZ\_ZLM4hGKU6AI1Z3M/edit#gid=790763898). Once created email it to[ accounting@dorg.tech](mailto:accounting@dorg.tech) ;)
 
 
 
