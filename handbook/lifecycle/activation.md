@@ -8,7 +8,7 @@ description: Ready to join us?
 
 ## 1. Join our [database](https://airtable.com/shr0eQZfACL3Yarac)
 
-When the need arises for your skills and experience, we'll reach out to schedule an interview. Due to the amount of interest, we can only reach out in response to corresponding demand. Please note that we prioritize referrals from other dOrg members.&#x20;
+When the need arises for your skills and experience, we'll reach out to schedule an interview. Due to the amount of interest, we can only reach out in response to corresponding demand. If someone referred you, make sure they fill out [this form](https://airtable.com/shrY4dGORKhV8Rplp)!
 
 {% hint style="info" %}
 In the meantime pop into our [Discord](https://discord.com/invite/6Kujmad) and say hello 👋.
