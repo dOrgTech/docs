@@ -4,6 +4,15 @@ description: How to find your way around dOrg channels
 
 # Navigating our Channels
 
+### Overview of our most used stack
+
+Discord -> Coordination & Daily communications \
+Forum -> Discussions & Source of Truth\
+Snapshot -> Votations\
+Google Workspace -> Documents \
+Handbook -> Github\
+Gnosis Safe -> Transactions & payments
+
 ## Discord
 
 [Discord](https://discord.com/invite/bA9ZM7WXZU) is where all of our day-to-day chat happens. Each client project or internal initiative has its own channel, and we also have dedicated channels for social topics, governance functions, and finding help.
@@ -38,7 +47,7 @@ Select a nickname that is consistent with your first name or handle in the dOrg 
 All Forum links go to our private sections. So, only dOrg members have access.&#x20;
 {% endhint %}
 
-The dOrg forum hosts discussions about talent needs, new members, client projects, internal initiatives, and other governance topics. When a decision needs to be made, anyone can post a proposal to Snapshot (see below) that links to the relevant forum post.
+The [dOrg forum](https://forum.dorg.tech) hosts discussions about talent needs, new members, client projects, internal initiatives, and other governance topics. When a decision needs to be made, anyone can post a proposal to Snapshot (see below) that links to the relevant forum post.
 
 The forum is the best place to find a project to work on. Go to the [client projects section](https://forum.dorg.tech/c/clientproject) and click through to see which ones have open roles.
 
