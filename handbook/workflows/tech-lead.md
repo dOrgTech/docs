@@ -4,7 +4,7 @@ description: Tech leads are the quality backstop on client projects.
 
 # Being a Tech Lead
 
-Each project must have a member with the `Tech Lead` badge to:
+Each project must have a member with the `Tech Lead` badge that has been designated to:
 
 * Own the code quality, making sure that our work product aligns with dOrg's [Development Best Practices](../resources/best-practice-overview/).
 * Ensure fit between the execution team and project requirements.
