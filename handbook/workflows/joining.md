@@ -11,7 +11,7 @@ It is the builder's responsibility to make sure to understand the compensation m
 ## Finding a project to join
 
 1. Express interest in any [Client Projects](https://forum.dorg.tech/c/clientproject/8) by commenting on the forum thread. You can also check for opportunities in our `job-board` channel in Discord. Lastly, you could also check our WIP [dOrg data app](https://share.streamlit.io/dorgtech/dorg\_data/app.py) - make sure to not use Brave navigator, have access to dOrg Github (if not ask Experience Facilitator), plus request access to WHYTEWYLL#7455.&#x20;
-2. If the _Project Manager_ and _Tech Lead_ of that project determine that your skills and availability match the project's needs, they will reach out to schedule a walkthrough.
+2. If the _Project Manager_ and _QA Lead_ of that project determine that your skills and availability match the project's needs, they will reach out to schedule a walkthrough.
 3. If it's a match, the _Project Manager_ will update the project's post with your start date, time commitment, and role.
 
 {% hint style="info" %}
@@ -33,6 +33,6 @@ You can also DM our Experience Facilitator, Clara, on Discord for help with find
 * Follow [dOrg's Development Best Practices](../resources/best-practice-overview/).
 * Share updates and questions with the rest of the team as you build.
 * If you run into any issues, technical or otherwise, ask your team for help or post in the #help channel on Discord to tap into the dOrg hive mind.
-* If you feel that a project is going over scope or needs more time, discuss this with the _Project Manager_ or _Tech Lead_ as soon as possible so that adjustments can be made.
+* If you feel that a project is going over scope or needs more time, discuss this with the _Project Manager_ or _QA Lead_ as soon as possible so that adjustments can be made.
 {% endhint %}
 

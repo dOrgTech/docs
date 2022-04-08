@@ -20,7 +20,7 @@
 * [Joining a Client Project](workflows/joining.md)
 * [Sourcing a New Client Projects](workflows/sourcing.md)
 * [Being a Project Manager](workflows/project-manager.md)
-* [Being a Tech Lead](workflows/tech-lead.md)
+* [Being a QA Lead](workflows/qa-lead.md)
 * [Billing](workflows/billing.md)
 * [Reimbursing Expenses](workflows/expense-reimbursement-policy.md)
 
