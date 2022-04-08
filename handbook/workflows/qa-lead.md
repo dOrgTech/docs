@@ -14,7 +14,7 @@ The precise responsibilities of the QA Lead will vary from project to project, b
 
 * Make sure you understand all technical requirements, and ask if you don't.
 * Evaluate the experience level of each team member and offer mentorship if you see a need.
-* Evaluate risk and raise potential issues with other team members, the PM, Sourcing Lead, or client as needed.
+* Evaluate risk and raise potential issues with other team members, the Comms Lead, Sourcing Lead, or client as needed.
 * Review pull requests and assist in debugging.
 * Check for testing at different levels of the codebase.
 * Structure the continuous integration/deployment pipeline and application alerts.

@@ -28,9 +28,9 @@ This part of the process is divided into two different branches depending if the
 
 👉 Additional steps may be added if TL consider that a Code Challenge will give a better overview of the candidate. If so, TL needs to provide the Code Challenge to the Talent Acquisition to ensure that all stakeholders are aligned and to avoid miscommunication.
 
-* Non-Technical interview: 45 minutes with PM to ensure that the profile has the minimum skills that we are looking for based on seniority.
+* Non-Technical interview: 45 minutes with Comms Lead to ensure that the profile has the minimum skills that we are looking for based on seniority.
 
-👉Additional steps may be add if PM considerate that a Business Case will give a better overview of the candidate. If so, the PM needs to provide the Business Case to the Talent Acquisition to ensure that all stakeholders are aligned and to avoid miscommunication.
+👉Additional steps may be add if Comms Lead considerate that a Business Case will give a better overview of the candidate. If so, the Comms Lead needs to provide the Business Case to the Talent Acquisition to ensure that all stakeholders are aligned and to avoid miscommunication.
 
 **Making a decision**
 
