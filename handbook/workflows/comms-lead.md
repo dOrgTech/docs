@@ -4,7 +4,7 @@ description: Comms Leads keep client projects on track.
 
 # Being a Comms Lead
 
-Each project must have a member with the `Comms Lead` (formerly `Project Manager`) badge to:
+Each project must have a member with the `Comms Lead` (formerly `Project Manager`) badge (the Sourcing Lead can assume this role, even without this badge) to:
 
 * Own client communication.
 * Review work logs and process payments.
