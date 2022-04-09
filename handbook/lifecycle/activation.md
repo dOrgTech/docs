@@ -4,7 +4,7 @@ description: Ready to join us?
 
 # Applying
 
-![](<../.gitbook/assets/Screenshot 2022-03-07 at 16.12.16.png>)
+![](<../.gitbook/assets/Screenshot 2022-04-08 at 17.36.23.png>)
 
 ## 1. Join our [database](https://airtable.com/shr0eQZfACL3Yarac)
 

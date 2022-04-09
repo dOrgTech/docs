@@ -1,16 +1,11 @@
----
-description: Invite new Building Members.
----
-
 # Referral Program
 
-One of the best ways to attract Members to the Community is through our own members.&#x20;
+In order to refer someone to dOrg, members should:
 
-The recommendations or referrals from our Member are highly valuable and we would like to encourage to use the following process:
+1. Have your referral fill out the regular [interest form](https://airtable.com/shr0eQZfACL3Yarac)
+2. Fill out [this form](https://airtable.com/shrY4dGORKhV8Rplp) about the referral
 
-1. Ask your referral to fill the[ interest form](https://airtable.com/shr0eQZfACL3Yarac).&#x20;
-2. As the referrer, fill quickly [this form](https://airtable.com/shrY4dGORKhV8Rplp).
-3. The recruitment process is:
+The recruitment process is:
 
 **First Round** \
 Interview with the Talent Coordinator to ensure that the candidate is aligned with [our vision, culture](https://docs.dorg.tech), and [the Covenant](https://docs.dorg.tech/covenant).

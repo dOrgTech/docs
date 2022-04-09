@@ -6,7 +6,6 @@
 
 ## Member Lifecycle <a href="#lifecycle" id="lifecycle"></a>
 
-* [Referral Program](lifecycle/referral-program.md)
 * [Applying](lifecycle/activation.md)
 * [Onboarding](lifecycle/onboarding.md)
 * [Building & Chilling](lifecycle/deactivation.md)
@@ -23,6 +22,7 @@
 * [Being a QA Lead](workflows/qa-lead.md)
 * [Billing](workflows/billing.md)
 * [Reimbursing Expenses](workflows/expense-reimbursement-policy.md)
+* [Referral Program](workflows/referral-program.md)
 
 ## Resources
 

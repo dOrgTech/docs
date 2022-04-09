@@ -4,14 +4,18 @@ description: How to find your way around dOrg channels
 
 # Navigating our Channels
 
-### Overview of our most used stack
+## The DAO stack
 
-Discord -> Coordination & Daily communications \
-Forum -> Discussions & Source of Truth\
-Snapshot -> Votations\
-Google Workspace -> Documents \
-Handbook -> Github\
-Gnosis Safe -> Transactions & payments
+[@discord](https://twitter.com/discord) -> Coordination & Daily communications \
+[@discourse](https://twitter.com/discourse) -> Discussions \
+[@SnapshotLabs](https://twitter.com/SnapshotLabs) -> Votations\
+[@GoogleWorkspace](https://twitter.com/GoogleWorkspace) -> Documents \
+[@deworkxyz](https://twitter.com/deworkxyz) -> Task management \
+[@gnosisSafe](https://twitter.com/gnosisSafe) -> Treasury \
+[@utopialabs\_](https://twitter.com/utopialabs\_) -> Payroll \
+[@pandadoc](https://twitter.com/pandadoc) -> Clients SoW\
+[@GildedFinance](https://twitter.com/GildedFinance) -> Invoices\
+[@GitbookIO](https://twitter.com/GitBookIO) -> Handbook
 
 ## Discord
 
