@@ -63,7 +63,7 @@ The next step is to gather interested members and schedule a technical Q\&A with
 3. Schedule a call with the client and all interested members. Make sure that the members review available materials so that they can be prepared to ask questions during the call.
 
 {% hint style="info" %}
-In addition to a well-balanced set of members that match the project’s needs, each execution team must have a [_Communications Lead_](comms-lead.md) and [_QA Lead_](qa-lead.md)__
+In addition to a well-balanced set of members that match the project’s needs, each execution team must have a [_Coordination Lead_](coordination-lead.md) and [_QA Lead_](qa-lead.md)__
 {% endhint %}
 
 {% hint style="info" %}
@@ -85,7 +85,7 @@ If the interested members agree that the project looks promising, does not have 
 
 ## 5. Invoicing&#x20;
 
-1. Once the proposal passes, create a [Gnosis Safe](https://gnosis-safe.io/app/#/welcome) on mainnet or Polygon with the _Sourcing Lead_, _Communications Lead_, _QA Lead_, and all other committed members as signers. Examples of required signers: 2/3, 3/5, 4/6, 4/7.
+1. Once the proposal passes, create a [Gnosis Safe](https://gnosis-safe.io/app/#/welcome) on mainnet or Polygon with the _Sourcing Lead_, _Coordination Lead_, _QA Lead_, and all other committed members as signers. Examples of required signers: 2/3, 3/5, 4/6, 4/7.
 2. Add the [Safe address & network here](https://docs.google.com/spreadsheets/d/1YsjXSFajJD2O1ZS8wyqcbkxAM0yjoeyhtt-jp\_7oZsQ/edit#gid=0).
 3. Invoice the client via [Gilded](https://app.gilded.finance/auth/login) ([see login credentials here](https://docs.google.com/spreadsheets/d/18QXB9Ski8OxHRiELfxq8DcahYFhNnEKPEM20kRjeuYA/edit?usp=sharing))
    * First add the new Gnosis Safe to our accounts: Accounts > Add Account > Input address > Wallet Address
@@ -93,4 +93,4 @@ If the interested members agree that the project looks promising, does not have 
      * Payments > Invoices > New Invoice >&#x20;
      * Add Contact (enter client details, leave eth address blank)  >
      * Go to payment method > Set the details (select the Account you created above as the payment destination; for tokens select USDC and DAI) > Send
-4. Continue to invoice on the agreed upon schedule. Regularly monitor the project's health through the _Communications Lead_ and _QA Lead_, making sure to step in and help resolve any issues that arise.
+4. Continue to invoice on the agreed upon schedule. Regularly monitor the project's health through the _Coordination Lead_ and _QA Lead_, making sure to step in and help resolve any issues that arise.
