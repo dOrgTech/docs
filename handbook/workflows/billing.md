@@ -28,7 +28,7 @@ Please, if you need to create an invoice for tax purposes, here's the [template]
 
 ## Client Work
 
-Every client project has its internal flow of billing. Some of them payout members every 2 weeks and others once a month. Make sure to contact your PM to get more information on your billing details!&#x20;
+Every client project has its internal flow of billing. Some of them payout members every 2 weeks and others once a month. Make sure to contact your Coordination Lead to get more information on your billing details!&#x20;
 
 Afterwards dOrg Treasury signers and accounting will review and approve payment requests within one week. Your compensation will appear on your wallet.&#x20;
 

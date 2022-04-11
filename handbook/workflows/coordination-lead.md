@@ -1,28 +1,28 @@
 ---
-description: Project managers keep client projects on track.
+description: Comms Leads keep client projects on track.
 ---
 
-# Being a Project Manager
+# Being a Coordination Lead
 
-Each project must have a member with the `Project Manager` badge to:
+Each project must have a member with the `Coordination Lead` (formerly `Project Manager`) badge (the Sourcing Lead can assume this role, even without this badge) to:
 
 * Own client communication.
 * Review work logs and process payments.
 * Monitor scope load and deadlines.
 
-Members can propose to issue the `Project Manager` badge to any member who:
+Members can propose to issue the `Coordination Lead` badge to any member who:
 
 * Has a successful track record helping to coordinate dOrg projects and/or highly visible open source projects.
 * Is a confident communicator.
-* Has shadowed a `Project Manager` for at least one week on an ongoing client project.
+* Has shadowed a `Coordination Lead` for at least one week on an ongoing client project.
 
 {% hint style="info" %}
-View the [current list of Project Managers here](https://forum.dorg.tech/g/Project-Manager)
+View the [current list of Coordination Leads here](https://forum.dorg.tech/g/Project-Manager)
 {% endhint %}
 
 ## Project Management Workflows
 
-As PM, you are responsible for ensuring client and member satisfaction through quality execution and orderly payments.
+As Coordination Lead, you are responsible for ensuring client and member satisfaction through quality execution and orderly payments.
 
 ### Project Setup
 
