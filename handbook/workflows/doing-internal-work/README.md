@@ -20,7 +20,7 @@ Internal work in The Swarm is divided in three categories:
 
 * **capped, permission-less work**: every builder can work **up to 22 hours each month** on whatever they think needs to be done, without asking for permission; it's still highly recommended to follow the principles outlined in the [getting stuff done in a DAO](../../resources/getting-stuff-done-in-a-dao.md) to be sure to not waste time
 * **internal roles**: in some specific instances, dOrg can vote to create part-time roles that lead key operational areas, like Talent, or Marcom; these roles are not subjected to the 22h/m cap
-* **funded initiatives**: every builder who needs to go over the 22h/m cap can propose a funded initiative to the DAO; such initiatives need to be properly aligned to dOrg strategic objectives, and their progress needs to be measured and reviewed during the initiative lifecycle. A thorough description of **how to request** dOrg to **fund** an internal project can be found [**here**](funded-initiatives.md)****
+* **funded initiatives (grants)**: every builder who needs to go over the 22h/m cap can propose a funded initiative to the DAO; such initiatives need to be properly aligned to dOrg strategic objectives, and their progress needs to be measured and reviewed during the initiative lifecycle. A thorough description of **how to request** dOrg to **fund** an internal project can be found [**here**](funded-initiatives.md)****
 
 {% hint style="success" %}
 The Swarm is an excellent way to gain insight into and practice being part of a DAO, meeting dOrg members, and understanding current dOrg focuses and needs. We suggest that newcomers stop by the weekly Swarm sync to learn how they can contribute.
