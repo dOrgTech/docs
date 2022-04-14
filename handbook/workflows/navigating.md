@@ -23,6 +23,14 @@ description: How to find your way around dOrg channels
 
 The voice channel in Discord hosts our biweekly All-Hands call, where we present project demos, tech talks, and upcoming opportunities.
 
+{% hint style="success" %}
+Select a nickname that is consistent with your first name or handle in the dOrg forum to make yourself easier to find. You can set a nickname by selecting the down arrow next to 'dOrg' at the top left, and then 'Change Nickname'.
+{% endhint %}
+
+{% hint style="warning" %}
+If you've never used Discord before, [watch this beginner's guide](https://www.youtube.com/watch?v=rnYGrq95ezA\&ab\_channel=Howfinity).
+{% endhint %}
+
 {% hint style="info" %}
 **Recording Audio on Discord**&#x20;
 
@@ -35,14 +43,6 @@ We are using a bot called Craig to help us with that. Please test Craig before t
 **Recording Audio/Image on Discord**&#x20;
 
 We use Loom or any other recording screen app that you are familiar.&#x20;
-{% endhint %}
-
-{% hint style="warning" %}
-If you've never used Discord before, [watch this beginner's guide](https://www.youtube.com/watch?v=rnYGrq95ezA\&ab\_channel=Howfinity).
-{% endhint %}
-
-{% hint style="success" %}
-Select a nickname that is consistent with your first name or handle in the dOrg forum to make yourself easier to find. You can set a nickname by selecting the down arrow next to 'dOrg' at the top left, and then 'Change Nickname'.
 {% endhint %}
 
 ## Forum
