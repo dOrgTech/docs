@@ -34,6 +34,10 @@ See our guide on [getting stuff done in a DAO](../../resources/getting-stuff-don
 
 At any given time, we have several part-time roles that lead key operational areas. Anyone may propose to dissipate or create a new role based on dOrg's needs.
 
+{% hint style="success" %}
+New members who intend to hold an internal role should start off by contributing through the Swarm. Once you have gained experience with the responsibilities and what it's like to work in the DAO, you can post a proposal for the role in the forum.
+{% endhint %}
+
 See here for the current breakdown of roles:
 
 | Name                                                                            | Role               | Description                                                                                                                       |
@@ -44,10 +48,6 @@ See here for the current breakdown of roles:
 | [Miriam](https://forum.dorg.tech/t/talent-coordinator-internal-role-miriam/381) | Talent Coordinator | Recruitment efforts,  improving candidate experience, detecting hiring necessities to support Client projects.                    |
 | [Mackenzie](https://forum.dorg.tech/t/accounting-finance-mackenzie/230)         | Accounting         | Bookkeeping and monthly reporting for dOrg; streamlining accounting processes and FP\&A.                                          |
 | [Alex](https://forum.dorg.tech/t/general-counsel-for-dorg/366)                  | Legal              | Legal counseling for all dOrg matters, including contract review, drafting agreements, demand letters, and any other legal needs. |
-
-{% hint style="success" %}
-New members who intend to hold an internal role should start off by contributing through the Swarm. Once you have gained experience with the responsibilities and what it's like to work in the DAO, you can post a proposal for the role in the forum.
-{% endhint %}
 
 {% hint style="info" %}
 The Swarm and all Internal Roles sync every Tuesday at 5pm CET/ 11am EST in the Discord Member Hall. Find your calendar invitation on your Google Cal.&#x20;
