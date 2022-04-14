@@ -27,5 +27,5 @@ Members can propose to issue the `QA Lead` badge to any member who:
 * Knows the limits of their skills and how to identify expertise in others.
 
 {% hint style="info" %}
-View the [current list of QA Leads here](https://forum.dorg.tech/g/Tech-Lead)
+View the [current list of QA Leads here](https://forum.dorg.tech/g/QA-Lead)
 {% endhint %}
