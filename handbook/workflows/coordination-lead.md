@@ -17,7 +17,7 @@ Members can propose to issue the `Coordination Lead` badge to any member who:
 * Has shadowed a `Coordination Lead` for at least one week on an ongoing client project.
 
 {% hint style="info" %}
-View the [current list of Coordination Leads here](https://forum.dorg.tech/g/Project-Manager)
+View the [current list of Coordination Leads here](https://forum.dorg.tech/g/Coord-Lead)
 {% endhint %}
 
 ## Project Management Workflows
