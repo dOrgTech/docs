@@ -94,3 +94,13 @@ Finally, your proposal should recap the conditions of funding:&#x20;
 The end of funding should mirror the “by WHEN” in the sections on metrics.
 
 It’s ok if you believe that an initiative should be endless. By default, when the funding period ends, funding stops. However, with an explicit new vote, it can resume — provided that the reviews were positive, and success metrics were achieved.
+
+### Assessing Treasury Cash Flows Before Requesting Funding
+
+Before proposing a funded initiative or an internal role, taking into account the historical cash flows of dOrg’s treasury should help inform the scope and cost of your proposal. Members often aren’t sure how much the treasury can spend to remain healthy and sustainable for the long term. For more context on our internal cash flows, refer to this [google sheet of cash flows](https://docs.google.com/spreadsheets/d/1hPY7Fb1jkuoi\_PY5pe2rFrUhrDC4Px5NfdizfdRSC\_4/edit?usp=sharing) that is maintained on an ongoing basis by accounting.
+
+![Cash flows at a glance (screenshot taken on 4/18/2022)](<../../.gitbook/assets/Treasury Screenshot.png>)
+
+The dashboard tab shows our average cash flows over three, six and nine month periods. It also displays actual cash flows for the prior three months and the net income (loss) retained by the treasury. The goal is to breakeven or have slightly more inflows than outflows each month. dOrg wants to reinvest into our members and operations while also lessening our tax burden at year end.
+
+To get a sense for how your proposed initiative will affect the treasury’s flows, you can view the historical net income to see how much margin is available to be spent. If our net flows have been negative, then it’s better to wait until our margins flip to positive before proposing a grant. If our treasury has had multiple months of net profit, then our treasury can absorb the cost of a reasonable proposal. The “detailed token flows” tab also has the real-time cash flows for the current month, so you can see our live net profit (loss) right before proposing a new grant. If you have any questions about the treasury and what’s considered a reasonable funding cost, reach out to dOrg’s accountant (mackenzie@dorg.tech).
