@@ -113,7 +113,7 @@ Here's a list of other tools we use and how to access them.&#x20;
 | Google Admin                     | Clara, Ernesto, Ori                                                                                  |
 | Discourse                        | Anna-Marie, Kris, Colin, Ori, Clara                                                                  |
 | Github                           | Roberto, Ernesto, Cesar, Kris, Hector, Nestor, Ori, Jordan, Clara                                    |
-| Snapshot                         | Cesar, Colin, Ori                                                                                    |
+| Snapshot                         | Cesar, Colin, Ori, Clara                                                                             |
 | Gnosis Safe                      | Jordan, Nestor, Cesar, Chris, Nate, Louis, Ori                                                       |
 | Digital Ocean                    | Cesar, Colin, Ori, Clara                                                                             |
 | iPostal                          | Mackenzie                                                                                            |
