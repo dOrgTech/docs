@@ -4,8 +4,6 @@ description: Join us!
 
 # Events
 
-dOrg hosts both public and private community events.&#x20;
-
 {% hint style="info" %}
 **Add dOrg public events into your calendar**
 
@@ -13,19 +11,19 @@ dOrg hosts both public and private community events.&#x20;
 [iCal version ](https://calendar.google.com/calendar/ical/c\_7hnd7cvh1sv301kr37pngcn0hg%40group.calendar.google.com/public/basic.ics)
 {% endhint %}
 
+## DAO.fm on Twitter Spaces
+
+WIP
+
+## Conferences
+
+WIP
+
 ## All Hands Meetings
 
 WIP&#x20;
 
-## Upskilling Workshops
-
-WIP
-
-## DAO.fm (Twitter Spaces)&#x20;
-
-WIP&#x20;
-
-## Conferences
+## Upskilling Workshops&#x20;
 
 WIP&#x20;
 
