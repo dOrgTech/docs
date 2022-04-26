@@ -55,10 +55,16 @@ Guest speaker talk (15+10 min Q\&A)
 
 ## Upskilling Workshops&#x20;
 
+Monthly upskilling workshops are hold for dOrg builders by dOrg builders. We combine tech/ non tech upskilling workshops. \
+\
+Attending Upskilling Workshops are not required but we highly recommend you to attend!\
+\
+Workshops happen monthly on Thursdays @ 12pm ET ️/ 6pm CET in the Discord voice channel 'All Members' and are recorded. Check out upcoming workshops on your calendar or [spreadsheet](https://docs.google.com/spreadsheets/d/1HsfV5q1X5QAfB6lUJiK0mYZrpEJ89X7mEzGwAe6ItyE/edit#gid=975034267).&#x20;
 
+Please, if you want to host a tech/non tech workshop, contact Experience Facilitator. Hours to prepare, plus facilitating the workshop are retributed as Swarms hours.&#x20;
 
 ## Retreat&#x20;
 
-Since all dOrg members work remotely once per year we gather in real life for at least for a week. Please notice that dOrg retreat it's proactively managed by members who want to attend. dOrg covers the housing expenses as approved by the DAO and flying & maintenance costs are covered by each dOrg member. \
+Since all dOrg members work remotely once per year we gather in real life for at least for a week. Please notice that dOrg retreat it's proactively managed by members who want to attend. dOrg covers the housing expenses as approved by the DAO and flying & maintenance costs are covered by each dOrg member (unless treasury gives us new updates). \
 \
-First retreat was on 2021 and we've already booked our place for the second dOrg retreat. Check out our [#official-links channel](https://discord.com/channels/544647726982365194/937739458760015947) for details on 2022 Retreat.&#x20;
+First dOrg retreat was on 2021 and we've already booked our place for the second dOrg retreat! Check out our [#official-links channel](https://discord.com/channels/544647726982365194/937739458760015947) for details on our 2022 Retreat & how to book your spot!&#x20;
