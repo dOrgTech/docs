@@ -59,3 +59,6 @@ Guest speaker talk (15+10 min Q\&A)
 
 ## Retreat&#x20;
 
+Since all dOrg members work remotely once per year we gather in real life for at least for a week. Please notice that dOrg retreat it's proactively managed by members who want to attend. dOrg covers the housing expenses as approved by the DAO and flying & maintenance costs are covered by each dOrg member. \
+\
+First retreat was on 2021 and we've already booked our place for the second dOrg retreat. Check out our [#official-links channel](https://discord.com/channels/544647726982365194/937739458760015947) for details on 2022 Retreat.&#x20;
