@@ -15,9 +15,11 @@ For everyone interested on attending to our dOrg public events, add our public e
 
 Note the time is in UTC, regardless of where you're located. To see the calendar in your local time, open it your personal Google calendar by clicking "+ Google Calendar" in the bottom right corner.
 
-&#x20;
+{% embed url="https://calendar.google.com/calendar/u/0/embed?ctz=Europe%2FMadrid&src=c_7hnd7cvh1sv301kr37pngcn0hg%40group.calendar.google.com" %}
 
-{% embed url="https://calendar.google.com/calendar/ical/c_avb5coa3u03lgu84ndirgrl0jc%40group.calendar.google.com/public/basic.ics" %}
+{% embed url="https://calendar.google.com/calendar/embed?ctz=Europe%2FMadrid&src=c_7hnd7cvh1sv301kr37pngcn0hg%40group.calendar.google.com" %}
+
+
 
 dOrg members, please, make sure to integrate your dOrg email address calendar to your primary calendar to receive the biweekly All-Hands meetings calendar invite. [Here](https://docs.dorg.tech/lifecycle/onboarding) you can find the instructions to do so.&#x20;
 
