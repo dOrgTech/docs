@@ -4,7 +4,7 @@ description: Join us!
 
 # Events
 
-dOrg members, please, make sure to integrate your dOrg email address calendar to your primary calendar to receive the biweekly All-Hands meetings calendar invite. [Here](https://docs.dorg.tech/lifecycle/onboarding) you can find the instructions to do so.&#x20;
+Anyone is welcome to join our public spaces! Please check out our events calendar.&#x20;
 
 {% hint style="info" %}
 For everyone interested on attending to our dOrg public events, add our public events to your favourite calendar: &#x20;
@@ -12,6 +12,14 @@ For everyone interested on attending to our dOrg public events, add our public e
 [G Calendar](https://calendar.google.com/calendar/u/1?cid=Y183aG5kN2N2aDFzdjMwMWtyMzdwbmdjbjBoZ0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t) \
 [iCal version ](https://calendar.google.com/calendar/ical/c\_7hnd7cvh1sv301kr37pngcn0hg%40group.calendar.google.com/public/basic.ics)
 {% endhint %}
+
+Note the time is in UTC, regardless of where you're located. To see the calendar in your local time, open it your personal Google calendar by clicking "+ Google Calendar" in the bottom right corner.
+
+&#x20;
+
+{% embed url="https://calendar.google.com/calendar/ical/c_avb5coa3u03lgu84ndirgrl0jc%40group.calendar.google.com/public/basic.ics" %}
+
+dOrg members, please, make sure to integrate your dOrg email address calendar to your primary calendar to receive the biweekly All-Hands meetings calendar invite. [Here](https://docs.dorg.tech/lifecycle/onboarding) you can find the instructions to do so.&#x20;
 
 ## DAO.fm on Twitter Spaces
 
