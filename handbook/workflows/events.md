@@ -13,7 +13,7 @@ For everyone interested on attending to our dOrg public events, add our public e
 [iCal version ](https://calendar.google.com/calendar/ical/c\_7hnd7cvh1sv301kr37pngcn0hg%40group.calendar.google.com/public/basic.ics)
 {% endhint %}
 
-Note the time is in UTC, regardless of where you're located. To see the calendar in your local time, open it your personal Google calendar by clicking "+ Google Calendar" in the bottom right corner.
+Note the time is in CET, regardless of where you're located. To see the calendar in your local time, open it your personal Google calendar by clicking "+ Google Calendario" in the bottom right corner.
 
 {% embed url="https://calendar.google.com/calendar/embed?ctz=Europe%2FMadrid&src=c_7hnd7cvh1sv301kr37pngcn0hg%40group.calendar.google.com" %}
 
