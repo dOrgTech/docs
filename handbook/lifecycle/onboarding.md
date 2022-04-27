@@ -20,9 +20,10 @@ Make sure you have everything you need to be part of dOrg&#x20;
 ✔️ dOrg **forum** profile created (using your dOrg email)\
 ✔️ dOrg **Discord** private channels access \
 ✔️ dOrg **Github** member\
-✔️ Tax form submitted (W-9 for US or W-8BEN for non-US)\
-✔️ Onboarding form submitted (including consent to member agreements) \
-✔️ Onboarding call scheduled
+✔️ **Tax form** submitted (W-9 for US or W-8BEN for non-US)\
+✔️ Sign **Contractor Agreement** + Upload it on GDrive folder 'All Members'\
+✔️ **Onboarding form** submitted (including consent to member agreements) \
+✔️ **Onboarding call** scheduled
 {% endhint %}
 
 ### Integrating your Calendar
