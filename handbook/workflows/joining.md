@@ -13,7 +13,6 @@ It is the builder's responsibility to make sure to understand the compensation m
 1. Express interest in any [Client Projects](https://forum.dorg.tech/c/clientproject/8) by commenting on the forum thread. You can also check for opportunities in our `job-board` channel in Discord. Lastly, you could also check our WIP [dOrg data app](https://share.streamlit.io/dorgtech/dorg\_data/app.py) - make sure to not use Brave navigator, have access to dOrg Github (if not ask Experience Facilitator), plus request access to WHYTEWYLL#7455.
 2. If the _Coordination Lead_ and _QA Lead_ of that project determine that your skills and availability match the project's needs, they will reach out to schedule a walkthrough.
 3. If it's a match, the _Coordination Lead_ will update the project's post with your start date, time commitment, and role.
-4. Sign Statement of Work document for each new Client Project that you start. Find the document on your GDrive 'dOrg Personnel Folders'&#x20;
 
 {% hint style="info" %}
 You can also DM our Experience Facilitator, Clara, on Discord for help with finding opportunities!

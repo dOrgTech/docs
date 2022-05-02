@@ -11,10 +11,9 @@ description: >-
 Contact with a potential client projects is generally initiated in one of two ways:
 
 1. **Personal contact**\
-   If you have a personal relationship with a potential client, you can proceed as the Sourcing Lead or seek someone else to help or take over.\
-
+   If you have a personal relationship with a potential client, you can proceed as the Sourcing Lead or seek someone else to help or take over.\\
 2. **Via our Contact Form**\
-   Any potential client can complete our [Client Intake Form](https://airtable.com/shrDwCltoS7MHDfsT) on our website to share details of their project. Responses are automatically forwarded to the #contact-form channel in Discord.&#x20;
+   Any potential client can complete our [Client Intake Form](https://airtable.com/shrDwCltoS7MHDfsT) on our website to share details of their project. Responses are automatically forwarded to the #contact-form channel in Discord.
 
 ![](<../.gitbook/assets/Screenshot 2022-01-03 at 18.01.07.png>)
 
@@ -41,7 +40,7 @@ Here is an email template for responding to Contact Form inquiries:
 
 ## 2. Screening Call
 
-The goal of the screening call is to assess the client’s fit for dOrg and help them understand what it’s like to work with dOrg.&#x20;
+The goal of the screening call is to assess the client’s fit for dOrg and help them understand what it’s like to work with dOrg.
 
 Here are some questions to guide your call:
 
@@ -61,9 +60,10 @@ The next step is to gather interested members and schedule a technical Q\&A with
 1. Post in [Client Projects](https://forum.dorg.tech/t/about-the-client-projects-category/19) in the dOrg forum, following the instructions on the pinned post.
 2. You're also encouraged to reach out to particular members who may be a good fit. [Use the search feature to find members](https://forum.dorg.tech/search?search\_type=users) by skills, technologies, past projects, and experience level[.](https://forum.dorg.tech/search?search\_type=users)
 3. Schedule a call with the client and all interested members. Make sure that the members review available materials so that they can be prepared to ask questions during the call.
+4. Make sure all members sign 'Statement of Work' for the project. Find the template docs on GDrive 'dOrg Personnel' Folders
 
 {% hint style="info" %}
-In addition to a well-balanced set of members that match the project’s needs, each execution team must have a [_Coordination Lead_](coordination-lead.md) and [_QA Lead_](qa-lead.md)__
+In addition to a well-balanced set of members that match the project’s needs, each execution team must have a [_Coordination Lead_](coordination-lead.md) and [_QA Lead_](qa-lead.md)\_\_
 {% endhint %}
 
 {% hint style="info" %}
@@ -81,16 +81,16 @@ If the interested members agree that the project looks promising, does not have 
    * Billing Summary
 2. Update the forum post you made earlier with the draft SoW to get feedback from the interested members on the timeframe, pricing, and scope.
 3. Send the SoW to the client through PandaDoc. Revise if reasonable and necessary based on the client’s feedback.
-4. Once the client has signed, to submit a proposal to the DAO through [Snapshot](https://snapshot.org/#/dorg.eth) that links to the forum post. Please, visit Navigating our Channels and check our [Snapshot parameters](navigating.md) to set up the votation.&#x20;
+4. Once the client has signed, to submit a proposal to the DAO through [Snapshot](https://snapshot.org/#/dorg.eth) that links to the forum post. Please, visit Navigating our Channels and check our [Snapshot parameters](navigating.md) to set up the votation.
 
-## 5. Invoicing&#x20;
+## 5. Invoicing
 
 1. Once the proposal passes, create a [Gnosis Safe](https://gnosis-safe.io/app/#/welcome) on mainnet or Polygon with the _Sourcing Lead_, _Coordination Lead_, _QA Lead_, and all other committed members as signers. Examples of required signers: 2/3, 3/5, 4/6, 4/7.
 2. Add the [Safe address & network here](https://docs.google.com/spreadsheets/d/1YsjXSFajJD2O1ZS8wyqcbkxAM0yjoeyhtt-jp\_7oZsQ/edit#gid=0).
 3. Invoice the client via [Gilded](https://app.gilded.finance/auth/login) ([see login credentials here](https://docs.google.com/spreadsheets/d/18QXB9Ski8OxHRiELfxq8DcahYFhNnEKPEM20kRjeuYA/edit?usp=sharing))
    * First add the new Gnosis Safe to our accounts: Accounts > Add Account > Input address > Wallet Address
    * Next, create the first invoice:
-     * Payments > Invoices > New Invoice >&#x20;
-     * Add Contact (enter client details, leave eth address blank)  >
+     * Payments > Invoices > New Invoice >
+     * Add Contact (enter client details, leave eth address blank) >
      * Go to payment method > Set the details (select the Account you created above as the payment destination; for tokens select USDC and DAI) > Send
 4. Continue to invoice on the agreed upon schedule. Regularly monitor the project's health through the _Coordination Lead_ and _QA Lead_, making sure to step in and help resolve any issues that arise.
