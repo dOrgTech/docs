@@ -20,8 +20,8 @@ Make sure you have everything you need to be part of dOrg&#x20;
 ✔️ dOrg **forum** profile created (using your dOrg email)\
 ✔️ dOrg **Discord** private channels access \
 ✔️ dOrg **Github** member\
-✔️ **Tax form** submitted (W-9 for US or W-8BEN for non-US)\
-✔️ Sign **Contractor Agreement** + Upload it on GDrive folder 'All Members'\
+✔️ **Tax form** submitted (W-9 for US or W-8BEN for non-US) + Upload it on GDrive folder 'dOrg\_Personnel Folders'\
+✔️ Sign **Contractor Agreement** + Upload it on GDrive folder 'dOrg\_Personnel Folders'\
 ✔️ **Onboarding form** submitted (including consent to member agreements) \
 ✔️ **Onboarding call** scheduled
 {% endhint %}
@@ -55,9 +55,10 @@ Here are the instructions for the Experience Facilitator and others to help onbo
 2. **Create a @dorg.tech email address in** [**google admin**](https://admin.google.com) **** using their first name (or first plus last if its already taken). Click Add New User, enter info (include their personal email address as the secondary email), click preview and send.
 3. **Add their dOrg email address to the 'All Members' Google Group**. (This triggers a Google invite to the All-Hands meetings and gives access to all shared documents.)
 4. **Send out a W-9 form (if they're US-based) or a W-8BEN tax form (if they're not US-based) to their personal email address.** (contact dOrg's accountant for details on how to do this).
-5. **Send the welcome email** ([find the template here](https://forum.dorg.tech/t/new-builder-onboarding-email-template/242)), which includes a link to the interactive onboarding form. At the end of the onboarding form they have the opportunity to book an onboarding-specific call with our Experience Facilitator.
-6. **Check the** [**Onboarding & Experience Facilitator records sheet**](https://docs.google.com/spreadsheets/d/1dJEASJk7orOm50cb8Nnye-X3DsVUHVdt2xJ0T45R0nw/edit?usp=sharing) for form responses.
-7. **Introduce new member in Discord in** `general-internal`
-8. **Add as member on** [**dOrg's Github**](https://github.com/dOrgTech) ****&#x20;
+5. **Create & Share Personnel Folder 'dOrg\_Personnel Folders**' with Contractor Agreement + Statement of work to be signed&#x20;
+6. **Send the welcome email** ([find the template here](https://forum.dorg.tech/t/new-builder-onboarding-email-template/242)), which includes a link to the interactive onboarding form. At the end of the onboarding form they have the opportunity to book an onboarding-specific call with our Experience Facilitator.
+7. **Check the** [**Onboarding & Experience Facilitator records sheet**](https://docs.google.com/spreadsheets/d/1dJEASJk7orOm50cb8Nnye-X3DsVUHVdt2xJ0T45R0nw/edit?usp=sharing) for form responses.
+8. **Introduce new member in Discord in** `general-internal`
+9. **Add as member on** [**dOrg's Github**](https://github.com/dOrgTech) ****&#x20;
 {% endhint %}
 
