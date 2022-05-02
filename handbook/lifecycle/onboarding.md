@@ -21,7 +21,7 @@ Make sure you have everything you need to be part of dOrg&#x20;
 ✔️ dOrg **Discord** private channels access \
 ✔️ dOrg **Github** member\
 ✔️ **Tax form** submitted (W-9 for US or W-8BEN for non-US) + Upload it on GDrive folder 'dOrg\_Personnel Folders'\
-✔️ Sign **Contractor Agreement** + Upload it on GDrive folder 'dOrg\_Personnel Folders'\
+✔️ Sign **Contractor Agreement** + **Statement of Work** (when needed)\
 ✔️ **Onboarding form** submitted (including consent to member agreements) \
 ✔️ **Onboarding call** scheduled
 {% endhint %}
