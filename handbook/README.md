@@ -20,7 +20,7 @@ dOrg simultaneously serves as a...
 
 Several mutually-reinforcing feedback loops propel our progress:
 
-![Feed any part to accelerate the whole](<.gitbook/assets/flywheel - Feb 22.png>)
+![Feed any part to accelerate the whole](<.gitbook/assets/dOrg Flywheel (1).png>)
 
 ### Our Values
 
