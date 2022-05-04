@@ -4,7 +4,7 @@
 
 ### What is dOrg?
 
-dOrg is an autonomous collective of engineers, designers, and other web3 specialists. We build tools that empower people to self-organize.
+dOrg is an autonomous collective of web3 engineers, creatives, and operators. We build tools that empower people to self-organize.
 
 We envision a future where power is radically decentralized – people can easily coordinate and transact without intermediaries; institutions are transparent and responsive to their constituents; self-governing collectives outcompete coercive monopolies; ownership is widely distributed; and machines handle the boring work while humans focus on meaningful pursuits.
 
