@@ -7,7 +7,6 @@
 ## Member Lifecycle <a href="#lifecycle" id="lifecycle"></a>
 
 * [Applying](lifecycle/activation.md)
-* [Referral Program](lifecycle/referral-program.md)
 * [Onboarding](lifecycle/onboarding.md)
 * [Building & Chilling](lifecycle/deactivation.md)
 * [Removal](lifecycle/removal.md)
@@ -38,4 +37,5 @@
 * [Upskilling](resources/upskilling.md)
 * [Press Kit](resources/press-kit.md)
 * [Social Media Guidelines](resources/social-media.md)
+* [Referral Program](resources/referral-program.md)
 * [Quarterly dOrg Tax Payments](resources/quarterly-dorg-tax-payments.md)
