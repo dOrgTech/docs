@@ -7,7 +7,6 @@
 ## Member Lifecycle <a href="#lifecycle" id="lifecycle"></a>
 
 * [Applying](lifecycle/activation.md)
-* [Referral Program](lifecycle/referral-program.md)
 * [Onboarding](lifecycle/onboarding.md)
 * [Building & Chilling](lifecycle/deactivation.md)
 * [Removal](lifecycle/removal.md)
