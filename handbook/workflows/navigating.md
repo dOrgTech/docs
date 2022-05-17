@@ -51,7 +51,7 @@ We use Loom or any other recording screen app that you are familiar.&#x20;
 All Forum links go to our private sections. So, only dOrg members have access.&#x20;
 {% endhint %}
 
-The [dOrg forum](https://forum.dorg.tech) hosts discussions about talent needs, new members, client projects, internal initiatives, and other governance topics. When a decision needs to be made, anyone can post a proposal to Snapshot (see below) that links to the relevant forum post.
+The [dOrg forum](https://forum.dorg.tech/) hosts discussions about talent needs, new members, client projects, internal initiatives, and other governance topics. When a decision needs to be made, anyone can post a proposal to Snapshot (see below) that links to the relevant forum post.
 
 The forum is the best place to find a project to work on. Go to the [client projects section](https://forum.dorg.tech/c/clientproject) and click through to see which ones have open roles.
 
@@ -68,7 +68,7 @@ Don't forget to upload a professional headshot or well-designed avatar to your p
 {% endhint %}
 
 {% hint style="warning" %}
-Make sure to use the ETH address provided in your profile across all dOrg projects so that your reputation accumulates in one place.
+Make sure to use the ETH address provided in your profile across all dOrg projects so that your reputation accumulates in one place. dOrg's policy is that the address you receive payments to is the same as the rep issuance address.&#x20;
 {% endhint %}
 
 ## Snapshot
@@ -77,7 +77,7 @@ Once proposals have gone through a dialogue process in the forum, they are poste
 
 The following conditions must be met for a Snapshot proposals to be legitimate:
 
-* link to a post on [forum.dOrg.tech](https://forum.dorg.tech) (and backlink the forum post to the snapshot proposal)
+* link to a post on [forum.dOrg.tech](https://forum.dorg.tech/) (and backlink the forum post to the snapshot proposal)
 * at least 5 day voting window
 * at least 5 participating votes
 
@@ -103,7 +103,7 @@ Here's a list of other tools we use and how to access them.&#x20;
 | Gitbook (Handbook)               | [Shared Log-In](https://docs.google.com/spreadsheets/d/18QXB9Ski8OxHRiELfxq8DcahYFhNnEKPEM20kRjeuYA) |
 | <p>PandaDoc<br>(Clients SoW)</p> | [Shared Log-In](https://docs.google.com/spreadsheets/d/18QXB9Ski8OxHRiELfxq8DcahYFhNnEKPEM20kRjeuYA) |
 | <p>Gilded<br>(Invoices)</p>      | [Shared Log-In](https://docs.google.com/spreadsheets/d/18QXB9Ski8OxHRiELfxq8DcahYFhNnEKPEM20kRjeuYA) |
-| Twitter                          | Anna-Marie, Ernesto, Roberto, Ori, Jordan                                                            |
+| Twitter                          | Anna-Marie, Ernesto, Roberto, Ori, Jordan, Diego                                                     |
 | LinkedIn                         | Anna-Marie, Ernesto, Ori                                                                             |
 | Medium                           | Ernesto, Ori                                                                                         |
 | Youtube                          | Ernesto, Ori, Jordan                                                                                 |
