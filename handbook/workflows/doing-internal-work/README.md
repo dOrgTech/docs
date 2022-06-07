@@ -27,7 +27,7 @@ The Swarm is an excellent way to gain insight into and practice being part of a 
 {% endhint %}
 
 {% hint style="info" %}
-See our guide on [getting stuff done in a DAO](../../resources/getting-stuff-done-in-a-dao.md) for general guidance  guidance
+See our guide on [getting stuff done in a DAO](../../resources/getting-stuff-done-in-a-dao.md) for general guidance.
 {% endhint %}
 
 ## Internal Roles
