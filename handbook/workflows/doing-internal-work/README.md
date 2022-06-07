@@ -49,5 +49,5 @@ See here for the current breakdown of roles:
 | [Alex](https://forum.dorg.tech/t/general-counsel-for-dorg/366)                  | Legal              | Legal counseling for all dOrg matters, including contract review, drafting agreements, demand letters, and any other legal needs. |
 
 {% hint style="info" %}
-The Swarm and all Internal Roles sync every Tuesday at 5pm CET/ 11am EST in the Discord Member Hall. Find your calendar invitation on your Google Cal.&#x20;
+The funded initiatives and Internal Roles sync every Tuesday at 5pm CET/ 11am EST in the Discord Member Hall. Find your calendar invitation on your Google Cal.&#x20;
 {% endhint %}
