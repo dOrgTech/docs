@@ -7,11 +7,11 @@ In order to refer someone to dOrg, members should:
 
 The recruitment process is:
 
-**First Round** \
+**First Round**\
 Interview with the Talent Coordinator to ensure that the candidate is aligned with [our vision, culture](https://docs.dorg.tech), and [the Covenant](https://docs.dorg.tech/covenant).
 
-* If the feedback is positive the Talent Coordinator creates the post in the forum with all the information (email, discord, referrer, interest form, background, work sample, skills and skill level).&#x20;
-* If the feedback is negative, the candidate will receive an email.&#x20;
+* If the feedback is positive the Talent Coordinator creates the post in the forum with all the information (email, discord, referrer, interest form, background, work sample, skills and skill level).
+* If the feedback is negative, the candidate will receive an email.
 
 **Second Round**
 
@@ -43,6 +43,9 @@ _Rules:_
 
 * It only takes one VETO to reject the candidate. Argument for this vote will be also beneficial so all the people involved can better understand this vote.
 * In case of a draw: after a brief discussion those who vote “maybe”, they will need to change their vote in a second poll for VETO or FAN.
-* If in the second poll there isn’t a clear outcome, the candidate will be rejected.&#x20;
+* If in the second poll there isn’t a clear outcome, the candidate will be rejected.
 
-4\. Activation/Rejection: if the outcome of the poll is positive, the Talent Coordinator will do the post in the Forum and the Snapshot proposal for the final approval of the DAO.
+**Activation/Rejection**\
+If the outcome of the poll is positive, the Talent Coordinator will do the post in the Forum and the Snapshot proposal for the final approval of the DAO.\
+\
+Get some rep! If your referral passed the recruitment process and is activated then the process has been finalized and you receive 2000rep at the end of the quarter!
