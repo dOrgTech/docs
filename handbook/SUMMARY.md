@@ -1,14 +1,14 @@
 # Table of contents
 
 * [Welcome to dOrg!](README.md)
-* [Structure](governance.md)
+* [Structure](structure.md)
 * [Member Covenant](covenant.md)
 
 ## Member Lifecycle <a href="#lifecycle" id="lifecycle"></a>
 
-* [Applying](lifecycle/activation.md)
+* [Applying](lifecycle/applying.md)
 * [Onboarding](lifecycle/onboarding.md)
-* [Building & Chilling](lifecycle/deactivation.md)
+* [Building & Chilling](lifecycle/member-status.md)
 * [Removal](lifecycle/removal.md)
 
 ## Workflows

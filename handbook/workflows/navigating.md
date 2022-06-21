@@ -73,7 +73,7 @@ Make sure to use the ETH address provided in your profile across all dOrg projec
 
 ## Snapshot
 
-Once proposals have gone through a dialogue process in the forum, they are posted to [Snapshot](https://snapshot.org/#/dorg.eth) for a [reputation-weighted](../governance.md#reputation) vote.
+Once proposals have gone through a dialogue process in the forum, they are posted to [Snapshot](https://snapshot.org/#/dorg.eth) for a [reputation-weighted](../structure.md#reputation) vote.
 
 The following conditions must be met for a Snapshot proposals to be legitimate:
 
