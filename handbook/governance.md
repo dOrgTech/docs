@@ -1,10 +1,10 @@
-# Governance
+# Structure
 
-![](<.gitbook/assets/flow of funds - feb 22 (2).png>)
+![](<.gitbook/assets/dOrg Structure.png>)
 
 ### Project Multisigs 🔐
 
-dOrg members work in small teams to execute on client projects. Each team has its own wallet for collecting and distributing revenue amongst the sourcing lead(s), execution team, and dOrg's treasury.
+dOrg members work in small teams to execute on client projects. Each project has its own wallet for collecting and distributing revenue amongst the sourcing lead(s), execution team, and dOrg's treasury.
 
 ### Treasury 🏦
 

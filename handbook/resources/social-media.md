@@ -32,5 +32,5 @@ We leverage social media platforms like Twitter to engage about tools and ideas 
 * Bring in new collaborators and new members.
 
 {% hint style="info" %}
-**Tools:**  [https://tweetdeck.twitter.com/](https://tweetdeck.twitter.com) has feeds for mentions of dOrg and tweets by our members and clients.
+**Tools:**  [https://tweetdeck.twitter.com/](https://tweetdeck.twitter.com/) has feeds for mentions of dOrg and tweets by our members and clients.
 {% endhint %}

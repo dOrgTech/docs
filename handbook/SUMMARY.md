@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Welcome to dOrg!](README.md)
-* [Governance](governance.md)
+* [Structure](governance.md)
 * [Member Covenant](covenant.md)
 
 ## Member Lifecycle <a href="#lifecycle" id="lifecycle"></a>
