@@ -12,6 +12,7 @@
 * [CryptoZombies](https://cryptozombies.io)
 * [Ethernaut](https://ethernaut.openzeppelin.com)
 * [Figment Learn](https://learn.figment.io)
+* [Questbook Learn](https://learn.questbook.xyz/)
 * [ETH.Build](https://eth.build)
 * [Ethereum Dev Speed Run](https://medium.com/@austin\_48503/%EF%B8%8Fethereum-dev-speed-run-bd72bcba6a4c)
 * [The Complete Guide to Full Stack Ethereum Development](https://dev.to/dabit3/the-complete-guide-to-full-stack-ethereum-development-3j13)
@@ -26,7 +27,5 @@
 * [Week in Ethereum](https://weekinethereumnews.com) - newsletter
 * [Bankless](https://newsletter.banklesshq.com) - newsletter & podcast
 * [BanklessDAO](upskilling.md#learn-with-others) - discord (check out their solidity learning group)
-* [Enter Ethereum](https://discord.gg/cr7YGADDH3) - discord
 * [EthernautDAO](https://discord.gg/VZMmBMUx) - discord
 * [Learn Web3](upskilling.md#learn-with-others) - discord
-
