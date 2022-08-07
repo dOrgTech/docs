@@ -35,8 +35,9 @@
 * [Legal & Accounting Files (internal)](https://drive.google.com/drive/folders/1j6i0YZ\_sCy5g2zzCLJD3YfOscCpczWB3)
 * Business Details:
   * dOrg, LLC
-  * 2021 Fillmore St #2220
-  * San Francisco CA 94115
+  * 9200 NW 39th Ave
+  * Ste 130 - 3382
+  * Gainesville FL 32606
   * Business ID: 0357139
   * Tax ID: 84-2930500&#x20;
 
