@@ -41,5 +41,5 @@
   * Business ID: 0357139
   * Tax ID: 84-2930500&#x20;
 
-_Note: dOrg's business address was recently updated to be in a right-to-work state (more information on that_ [_here_](https://www.shrm.org/resourcesandtools/tools-and-samples/hr-qa/pages/whatisa%E2%80%9Cright-to-work%E2%80%9Dstate.aspx)_). Our previous address was 2021 Fillmore St, #2220 San Francisco, CA, 94115._
+_Note: dOrg's previous business address was 2021 Fillmore St, #2220 San Francisco, CA, 94115 \[deprecated on 8/7/2022). We moved to a Florida address to be in a right-to-work state (more information on that_ [_here_](https://www.shrm.org/resourcesandtools/tools-and-samples/hr-qa/pages/whatisa%E2%80%9Cright-to-work%E2%80%9Dstate.aspx)_)._&#x20;
 
